@@ -1,0 +1,7 @@
+# Large binary files from the pipeline
+downloads/
+frames/
+frame-grids/
+*.mp4
+*.webm
+*.mkv
