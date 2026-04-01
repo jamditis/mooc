@@ -1,0 +1,82 @@
+{
+  "video_id": "2002370607917199361",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-36s",
+      "on_screen_text": [
+        "Doraine Pumpkin Rubin cookbook by Mandy Patinkin",
+        "After Dad, someone's knocking at the door.",
+        "Who could this be? Hello!",
+        "It's the Mayor.",
+        "This is my mother's potato...",
+        "Grandma Doraine's...",
+        "reading a Jewish cookbook."
+      ],
+      "setting": "Warm, cozy home interior - entryway, kitchen, and dining area with warm lighting suggesting a family home. Cookbooks visible.",
+      "visual_elements": [
+        "cookbook cover reading 'Doraine Pumpkin Rubin' with author credit to Mandy Patinkin",
+        "potatoes on kitchen counter",
+        "older adults and a younger man in the kitchen",
+        "warm incandescent home lighting",
+        "family dining table setting",
+        "white subtitle captions throughout"
+      ],
+      "presentation_style": "intimate home visit documentary with warm color grading, capturing a Hanukkah visit with a Jewish family"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "36s-63s",
+      "on_screen_text": [
+        "Shehecheyanu",
+        "v'kiyimanu",
+        "la-z'man ha-zeh",
+        "Amen",
+        "however it's called.",
+        "I have been blessed."
+      ],
+      "setting": "Dining room table set for a Jewish holiday meal with Hanukkah decorations and candles/menorah visible",
+      "visual_elements": [
+        "group of people gathered around dining table",
+        "man and older man with white beard sharing a warm embrace and conversation",
+        "older woman with white hair visible",
+        "Hebrew prayer text as subtitle captions",
+        "warm home interior with paintings on walls",
+        "menorah candles visible"
+      ],
+      "presentation_style": "intimate documentary capturing Hanukkah prayer and celebration in a family home, Hebrew text transcribed in subtitles"
+    },
+    {
+      "grid": "grid_0063.jpg",
+      "timestamp_range": "63s-end",
+      "on_screen_text": [
+        "A NEW ERA",
+        "for NEW YORK CITY",
+        "HAPPY HANUKKAH!"
+      ],
+      "setting": "Home dining area with menorah, then campaign brand end card on blue background",
+      "visual_elements": [
+        "man laughing joyfully, menorah visible behind him",
+        "campaign logo 'A NEW ERA for NEW YORK CITY' in red and blue text on blue background",
+        "bold white text 'HAPPY HANUKKAH!' below campaign logo",
+        "end card shown twice side by side"
+      ],
+      "presentation_style": "warm holiday visit documentary concluding with holiday greeting on branded campaign end card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Jewish family home interior, warm and intimate, Hanukkah holiday setting",
+    "text_overlay_types": [
+      "dialogue subtitle captions",
+      "Hebrew prayer text transcription",
+      "campaign holiday end card"
+    ],
+    "visual_themes": [
+      "Hanukkah celebration and Jewish community outreach",
+      "home visit and family connection",
+      "religious and cultural authenticity",
+      "Mandy Patinkin connection referenced via cookbook"
+    ]
+  }
+}

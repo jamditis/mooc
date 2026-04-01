@@ -1,0 +1,66 @@
+{
+  "video_id": "2004324954913808384",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-9s",
+      "on_screen_text": [
+        "direct descendant",
+        "wanted to purchase this restaurant as community property",
+        "THIS IS 50",
+        "they come and take over in 1965",
+        "I purchased the restaurant",
+        "in the Harlem black community",
+        "I opened this restaurant with loans from... $27,000.",
+        "pretty much gone."
+      ],
+      "setting": "Interior of a Harlem restaurant or diner with vintage decor, photos and memorabilia on walls, counter seating visible. Appears to be an older establishment with community history.",
+      "visual_elements": [
+        "woman in colorful African-print dress with dramatic updo hairstyle speaking passionately",
+        "man in suit (Mamdani) listening at her side",
+        "framed poster or sign reading 'THIS IS 50' on the wall",
+        "vintage photos and memorabilia covering walls",
+        "counter and kitchen visible in background",
+        "warm tungsten interior lighting",
+        "white subtitle captions at bottom"
+      ],
+      "presentation_style": "documentary conversation/interview filmed inside a historic community restaurant, woman sharing her story with candidate present"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "9s-end",
+      "on_screen_text": [
+        "resources, capital, and direction.",
+        "Barnya at many means...",
+        "everything ground up, grassroots.",
+        "And my children.",
+        "And that's how this kitchen came about.",
+        "Thank you."
+      ],
+      "setting": "Restaurant kitchen and back-of-house area; also a press scrum moment outside with microphones",
+      "visual_elements": [
+        "woman writing on the side of a refrigerator or kitchen surface - handwritten text reads 'Barnya at many means...'",
+        "handwritten inscription visible on kitchen wall",
+        "man in suit at a press scrum with microphones",
+        "yellow hazard sign visible in background",
+        "subtitle captions throughout",
+        "close-up of writing on kitchen surface"
+      ],
+      "presentation_style": "intimate documentary showing restaurant owner's story, ending with candidate speaking at press availability"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Historic Harlem restaurant interior, kitchen and dining area",
+    "text_overlay_types": [
+      "dialogue subtitle captions",
+      "handwritten text on kitchen surface"
+    ],
+    "visual_themes": [
+      "Black community business ownership in Harlem",
+      "restaurant history and legacy",
+      "community economics",
+      "grassroots economic language"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "video_id": "7587850681113971999",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-only",
+      "on_screen_text": [
+        "Merry",
+        "Christmas"
+      ],
+      "setting": "NYC skyline aerial or photo showing snow-covered Central Park area with tall buildings; then two animated Christmas card graphics",
+      "visual_elements": [
+        "Snowy NYC skyline with high-rises and bare trees",
+        "Animated greeting card with red cardinal bird in wreath on red/green background",
+        "Stylized cursive 'Merry Christmas' text",
+        "Festive holiday card aesthetic, AI-generated or illustrated style",
+        "Two near-identical versions of the Christmas card displayed side by side"
+      ],
+      "presentation_style": "Holiday greeting card video; minimal runtime; graphic/illustrated aesthetic with cursive holiday text"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Animated holiday card graphic; NYC skyline backdrop",
+    "text_overlay_types": ["holiday greeting text ('Merry Christmas')"],
+    "visual_themes": ["Christmas greeting", "holiday message", "NYC winter", "cardinal bird imagery"]
+  }
+}

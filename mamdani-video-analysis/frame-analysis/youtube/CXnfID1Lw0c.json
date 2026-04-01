@@ -1,0 +1,82 @@
+{
+  "video_id": "CXnfID1Lw0c",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "A NEW ERA for NEW YORK CITY",
+        "STARBUCKS (storefront signage)",
+        "ULP STRIK... (partial sign)"
+      ],
+      "setting": "Outdoor NYC street in front of Starbucks; Starbucks Workers United strike picket line in winter; candidate and Bernie Sanders prominent among strikers; final outro card visible",
+      "visual_elements": [
+        "Campaign outro card: 'A NEW ERA for NEW YORK CITY'",
+        "Starbucks Workers United green signs and hats",
+        "Candidate and Bernie Sanders with workers",
+        "Starbucks storefront",
+        "Strike signs with anti-Starbucks messaging",
+        "Single active panel (top-left) then black"
+      ],
+      "presentation_style": "This grid appears to be the tail end/outro of a related video (possibly the same event as fXRso8vCfcA); shows a group solidarity photo at the Starbucks picket with campaign branding card"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "RED CUP REBELLION (on sign/hat)",
+        "STARBUCKS (storefront)",
+        "COFFEE! (partial sign)",
+        "STARBUCK... (protest sign)"
+      ],
+      "setting": "Outdoor NYC commercial street in front of Starbucks; close-up coverage of striking workers wearing bright green Starbucks Workers United beanies; urban street with yellow taxis and pedestrians",
+      "visual_elements": [
+        "Workers in neon green 'Starbucks Workers United' beanies",
+        "Close-up interviews with individual striking workers",
+        "Red Cup Rebellion branding on signs and hats",
+        "Starbucks storefront visible",
+        "Busy NYC commercial street",
+        "Handheld documentary camera style",
+        "Various ages and backgrounds of strikers"
+      ],
+      "presentation_style": "Worker-focused documentary coverage; close-up interviews and expressions of striking Starbucks workers; brand identity of the 'Red Cup Rebellion' strike campaign visible"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-end",
+      "on_screen_text": [
+        "LOCAL 600 SUPPORTS (union banner)",
+        "RIGHTS",
+        "NO CONTRACT! NO COFFEE! (protest sign)",
+        "RED CUP REBELLION (protest sign)",
+        "NO CONTRACT NO STARBUCKS (protest sign)"
+      ],
+      "setting": "Same outdoor Starbucks strike location; wider shots showing union banners and protest signs; group photo with elected officials, older white man (possibly Bernie Sanders or another politician), and strikers",
+      "visual_elements": [
+        "Union banner: 'LOCAL 600 SUPPORTS'",
+        "Various strike signs: 'NO CONTRACT! NO COFFEE!', 'RED CUP REBELLION', 'NO CONTRACT NO STARBUCKS'",
+        "Group photo with elected officials and workers",
+        "Neon green union hats and scarves",
+        "Urban NYC commercial street backdrop",
+        "Media presence and bystanders"
+      ],
+      "presentation_style": "Labor solidarity rally documentation; emphasizes union coalition support (Local 600); signs provide key messaging without additional text overlays"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor NYC commercial street in front of Starbucks during a Workers United strike (Red Cup Rebellion)",
+    "text_overlay_types": [
+      "Campaign slogan outro card ('A NEW ERA for NEW YORK CITY')",
+      "Strike campaign branding captured in-frame ('RED CUP REBELLION', 'NO CONTRACT NO COFFEE')",
+      "Union banner ('LOCAL 600 SUPPORTS')"
+    ],
+    "visual_themes": [
+      "Starbucks Workers United 'Red Cup Rebellion' strike",
+      "Labor union solidarity",
+      "Neon green workers union visual identity",
+      "Street-level protest documentation",
+      "Worker close-ups and individual voices"
+    ]
+  }
+}

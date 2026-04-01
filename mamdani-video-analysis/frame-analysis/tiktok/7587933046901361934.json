@@ -1,0 +1,53 @@
+{
+  "video_id": "7587933046901361934",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "direct descendant",
+        "purchased the piece of land in the Bronx each month",
+        "in the Bronx in each month",
+        "I purchased this restaurant with $27,000",
+        "THIS IS 50",
+        "I know, really gotta get",
+        "that's her support"
+      ],
+      "setting": "Small restaurant or diner interior; walls covered with framed photos, memorabilia, and signs including 'THIS IS 50'",
+      "visual_elements": [
+        "Shaw-nae (Black woman in vibrant green/yellow patterned dress with natural updo) speaking with Mamdani",
+        "Dense wall of photos and restaurant decor",
+        "Wu-Tang Clan logo visible on wall",
+        "Warm interior lighting",
+        "100 visible in signage on wall"
+      ],
+      "presentation_style": "Informal interview/visit format; subtitle captions; intimate setting; community connection focus"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "resources, capital, and direction.",
+        "Borrega et moy mcwins.",
+        "everything ground up, grassroots,",
+        "and my children.",
+        "And that's how this kitchen came about.",
+        "Thank you."
+      ],
+      "setting": "Back kitchen area of the same restaurant; handwritten inscription on a surface; then exterior/press moment",
+      "visual_elements": [
+        "Shaw-nae writing on a surface with a marker",
+        "Handwritten inscription visible: 'Borrega et moy mcwins' with a signature",
+        "Mamdani at what appears to be a press event with a microphone",
+        "Close-up of the written dedication/inscription"
+      ],
+      "presentation_style": "Testimonial and community business story; subtitle captions; intimate behind-the-scenes feel"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Small community restaurant/diner interior in the Bronx, with kitchen area",
+    "text_overlay_types": ["dialogue subtitles", "handwritten on-screen inscription"],
+    "visual_themes": ["Black-owned small business", "community entrepreneurship", "grassroots economic empowerment", "personal story and struggle", "restaurant as community anchor"]
+  }
+}

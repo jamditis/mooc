@@ -1,0 +1,64 @@
+{
+  "video_id": "1515680729887629",
+  "platform": "facebook",
+  "title": "Eid Mubarak, New York",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "There was something",
+        "that we just hosted at City Hall",
+        "now Ramadan is also",
+        "shallowness of instant gratification",
+        "of how you spend all day craving food",
+        "and craving water",
+        "and anything you could fill yourself with,",
+        "just a few minutes into eating,",
+        "you already feel full."
+      ],
+      "setting": "Multiple settings: outdoor shots of City Hall area in winter; iftar dinner table with food (fried chicken, rice, other dishes); indoor close-up of Mayor at dining table speaking to camera; warm intimate interior",
+      "visual_elements": ["iftar meal spread (fried chicken, rice, beverages)", "dark outdoor winter setting", "warm indoor dining setting", "dark suit with red tie", "yellow subtitle captions", "vertical video format"],
+      "presentation_style": "Cinematic personal narrative; yellow subtitle captions (distinct from white used in other videos); intimate dining and outdoor footage"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "approximately 0:09-0:18",
+      "on_screen_text": [
+        "RAMADAN through the eyes of New Yorkers (title card, stylized)",
+        "EL-MAQDIS ISLAMIC C... (building signage)",
+        "6224 (street address)",
+        "when when Ramadan comes,",
+        "there is the assumption that I am",
+        "And it was if you didn't spend that whole day",
+        "But the atmosphere of New York City",
+        "to be the first Muslim mayor of our city,",
+        "We call it the city that never sleeps.",
+        "all I think about is peace and quietness.",
+        "introducing our faith to the city as a whole"
+      ],
+      "setting": "Various NYC street locations; exterior of El-Maqdis Islamic Center; subway interior; documentary-style interview subjects including a woman in hijab and a man reading; also title card 'RAMADAN through the eyes of New Yorkers'",
+      "visual_elements": ["RAMADAN title card (stylized, dark background, gold/orange serif font)", "El-Maqdis Islamic Center exterior", "NYC subway interior", "interview subjects (woman in hijab, man reading)", "yellow subtitle captions", "vertical video format"],
+      "presentation_style": "Documentary title card intro; street-level documentary interviews; yellow captions identify this as a distinct branded series"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "approximately 0:18-0:27",
+      "on_screen_text": [
+        "When in reality,",
+        "has been a part of this city",
+        "The question of whether it's been seen",
+        "But Muslims and New York City,",
+        "they are intertwined."
+      ],
+      "setting": "Documentary-style footage of diverse NYC Muslim community members; crowd at a religious gathering; a restaurant worker; street scenes; ends with closing NYC seal cards (blue rectangle and orange rectangle placeholders visible)",
+      "visual_elements": ["NYC Muslim community members at gathering", "restaurant worker in UPS-style uniform", "man in kufi", "street scenes", "blue and orange colored closing card placeholders", "NYC official seal", "yellow subtitle captions"],
+      "presentation_style": "Community documentary closing segment; ends with NYC official seal on blue and orange background cards"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Mix of City Hall iftar event, NYC street scenes, El-Maqdis Islamic Center, and community spaces",
+    "text_overlay_types": ["yellow subtitle captions (distinctive from other videos)", "RAMADAN series title card (gold serif on dark background)", "NYC seal closing cards (blue and orange versions)"],
+    "visual_themes": ["Eid / Ramadan celebration", "Muslim community in NYC", "iftar meal", "first Muslim mayor framing", "community documentary series", "faith and city identity"]
+  }
+}

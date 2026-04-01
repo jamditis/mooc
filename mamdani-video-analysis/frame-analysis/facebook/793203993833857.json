@@ -1,0 +1,68 @@
+{
+  "video_id": "793203993833857",
+  "platform": "facebook",
+  "title": "New Yorkers, join us in the Mayor's March",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "fix (stylized text over jacket logo)",
+        "The first ever competition",
+        "thousands of tiny little problems",
+        "like a broken basketball rim",
+        "like these are",
+        "Normally, our incredible city workers",
+        "but over the next two weeks,"
+      ],
+      "setting": "Outdoor basketball courts in a NYC neighborhood; bare winter trees; residential buildings in background; speaker wearing a dark jacket with a logo",
+      "visual_elements": ["outdoor basketball court", "broken basketball rim", "NYC residential buildings", "dark jacket with 'fix' branding", "natural winter light", "second person also present (wearing NY Yankees jacket)", "white subtitle captions"],
+      "presentation_style": "Casual outdoor shoot; vertical video format; speaker walking and talking to camera at basketball court; subtitle captions throughout"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "approximately 0:09-0:18",
+      "on_screen_text": [
+        "you want to see me fix.",
+        "tennis courts on Staten Island.",
+        "Or missing trail markers in Queens.",
+        "We'll be fixing",
+        "gets the most votes",
+        "I'll complete the winning fix on",
+        "You're already at day 100!",
+        "And we're just getting started.",
+        "So go to NYC.GOV/MADNESS"
+      ],
+      "setting": "Same outdoor basketball court setting; two people present at the court; close-up shots of the rim being repaired; action shots",
+      "visual_elements": ["basketball court", "basketball hoop/rim close-up", "NYC neighborhoods in background", "ladder being used to fix the rim", "NYC.GOV/MADNESS call-to-action box (blue background, yellow text)", "subtitle captions"],
+      "presentation_style": "Continuation of outdoor casual shoot; NYC.GOV/MADNESS branded CTA card appears"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "approximately 0:18-0:27",
+      "on_screen_text": [
+        "So go to NYC.GOV/MADNESS (top banner, repeated)",
+        "VOTING WILL GO FROM MARCH 27 - APRIL 2",
+        "Last one, last ooone.",
+        "voting will happen today",
+        "no task too big",
+        "Make sure you vote",
+        "first ever bracket of all time.",
+        "All time.",
+        "ROUNDS OF VOTING",
+        "ROUND 1: FRIDAY, 2/27 - SATURDAY, 2/28",
+        "ROUND 2: SUNDAY, 2/29 - MONDAY, 3/20",
+        "SEMI FINALS: TUESDAY, 2/31 - WEDNESDAY, 4/1",
+        "CHAMPIONSHIP: THURSDAY, 4/2 - FRIDAY, 4/2"
+      ],
+      "setting": "Same outdoor basketball court; closing segment with voting information graphic (dark background with yellow and red text)",
+      "visual_elements": ["basketball court", "NYC.GOV/MADNESS banner", "voting schedule graphic card (dark background)", "orange/yellow stylized voting bracket graphic", "two people at court", "subtitle captions"],
+      "presentation_style": "Closing segment with branded voting schedule graphic; tournament bracket format presented on-screen"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor NYC basketball courts and neighborhood parks in winter",
+    "text_overlay_types": ["white subtitle captions", "NYC.GOV/MADNESS call-to-action banner", "VOTING WILL GO FROM... date card", "ROUNDS OF VOTING schedule graphic"],
+    "visual_themes": ["participatory city fix-it campaign", "basketball bracket voting mechanic", "Mayor's March / madness tournament concept", "casual outdoor format", "community infrastructure repair"]
+  }
+}

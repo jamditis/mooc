@@ -1,0 +1,53 @@
+{
+  "video_id": "1250618806654589",
+  "platform": "facebook",
+  "title": "Harlem night with Mo Diawara",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "Mohamed Diawara's New York Knicks (lower third)",
+        "I don't know how I've been able to",
+        "Every day, I'm waking up,",
+        "I'm just happy about it, you know.",
+        "I just love it, it's just a blessing and",
+        "I keep looking forward to doing it."
+      ],
+      "setting": "Night-time outdoor basketball court in NYC; Mayor shooting hoops alone; intercut with indoor restaurant/dining scene where Mayor and a basketball player (Mo Diawara, identified as New York Knicks) share a meal",
+      "visual_elements": ["outdoor basketball court at night", "basketball being shot/dribbled", "indoor casual restaurant setting with food on table", "Mayor in casual dark clothing (not a suit)", "basketball player in casual attire", "MOHAMED DIAWARA'S NEW YORK KNICKS lower third", "white subtitle captions", "vertical video format"],
+      "presentation_style": "Casual, cinematic vlog-style; night exterior basketball court footage intercut with intimate iftar/meal conversation; personal and informal tone"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "approximately 0:18-0:27",
+      "on_screen_text": [
+        "And there are so many Muslims in the city",
+        "they don't get to have iftar sitting down.",
+        "Right? They're having it while they're working.",
+        "When athletes speak the truth...",
+        "It carries a different kind of resonance.",
+        "And growing up, I know it means so much",
+        "to so many young Muslim kids in the city",
+        "to know that the very basketball team",
+        "that there's someone on that team"
+      ],
+      "setting": "Same restaurant/dining setting; also low-lit exhibition space with artwork on walls; dark outdoor basketball court; basketball hoop close-up in dim light",
+      "visual_elements": ["restaurant iftar meal setting", "basketball hoop close-up at night", "low-lit exhibition or gallery space with framed artwork", "people eating and talking", "white subtitle captions"],
+      "presentation_style": "Intimate documentary conversation; themes of faith, sport, and representation; cinematic low-light aesthetic"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "approximately 0:27-0:36",
+      "on_screen_text": [],
+      "setting": "Night outdoor basketball court; final shot of someone holding hands up near a lit basketball hoop; then NYC seal on blue and orange closing cards",
+      "visual_elements": ["night basketball court", "lit basketball hoop from below", "NYC official seal", "blue closing card placeholder", "orange closing card placeholder", "vertical format"],
+      "presentation_style": "Cinematic closing shot of basketball hoop at night; NYC seal closing cards (blue and orange)"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Night-time outdoor basketball courts in Harlem and indoor casual restaurant / iftar meal setting",
+    "text_overlay_types": ["white subtitle captions", "MOHAMED DIAWARA'S NEW YORK KNICKS lower third", "NYC seal closing cards (blue and orange)"],
+    "visual_themes": ["Harlem community engagement", "NBA / basketball connection", "Ramadan / iftar theme", "Muslim representation", "casual vlog-style format", "Mayor in non-formal setting"]
+  }
+}

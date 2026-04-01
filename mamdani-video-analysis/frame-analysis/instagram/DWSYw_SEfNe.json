@@ -1,0 +1,99 @@
+{
+  "video_id": "DWSYw_SEfNe",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "و برای ایرانیان جهان / and for Iranians the world over,",
+        "با یک سنت تاریخی: نوروز / with a great tradition of Nowruz:",
+        "هفت چیز جالب که شروع می‌شود / seven core items that start",
+        "نوروز (large yellow Arabic/Persian title text)",
+        "Norooz",
+        "the Persian New Year.",
+        "می شود ترجمه کرد به / literally translates to",
+        "and we want to take you through some of that",
+        "LEILA BOZORG (lower-third name tag)",
+        "We organize the table around",
+        "سبزه / Sabzeh (large yellow text with image)",
+        "سبزه، گندم، جو یا عدس / So, Sabzeh, the wheat of barley or lentil,"
+      ],
+      "setting": "Formal City Hall interior. Mamdani and a woman (Leila Bozorg) stand before a beautifully arranged Nowruz/haft-sin table with tulips, sprouted wheat, decorative items. Ornate room with floral wallpaper.",
+      "visual_elements": [
+        "Nowruz haft-sin table with tulips, sabzeh (sprouted greens), candles, decorative items",
+        "ornate City Hall reception room with floral wallpaper",
+        "large yellow Persian/Arabic script title overlay ('Norooz')",
+        "bilingual Persian and English subtitle captions",
+        "yellow on-screen item labels (Sabzeh with food image)",
+        "LEILA BOZORG lower-third name tag",
+        "formal attire on both presenters"
+      ],
+      "presentation_style": "Bilingual cultural education video. Persian text overlays accompany English translations. Uses labeled close-up graphics for each haft-sin item. Warm and celebratory in tone."
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-0:36",
+      "on_screen_text": [
+        "ماهی / Mahi (large yellow Persian text)",
+        "Mahi",
+        "Fish, Mahi,",
+        "برای خانوم خاله من کاهی / So my aunt would sometimes",
+        "هجده روز گذشته / it's been 18 days now",
+        "Every year, Persians struggle with",
+        "whether to go to Petco or other stores",
+        "این معمولاً وقت شادی است / This is, normally, a very joyous moment.",
+        "JASMINA (lower-third name tag)",
+        "به خانواده‌ام در ایران / with my relatives in Iran."
+      ],
+      "setting": "Nowruz table continues. Interview with a woman named Jasmina, who is an Iranian New Yorker sharing her personal experience. Mamdani present in some frames.",
+      "visual_elements": [
+        "ماهی / Mahi fish illustration with yellow label",
+        "Nowruz table items",
+        "JASMINA lower-third name tag",
+        "bilingual Persian/English subtitle captions",
+        "interview-style shot of community member",
+        "formal reception room"
+      ],
+      "presentation_style": "Continues bilingual explainer format. Brings in a community member interview (Jasmina) for personal testimony about Nowruz. Tone shifts to emotional/personal around separation from family in Iran."
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "0:54-1:03",
+      "on_screen_text": [
+        "پیروزی نور بر تاریکی / The triumph of light over darkness.",
+        "Bea Omideh Yazdi (lower-third name tag)",
+        "به امید آزادی",
+        "Well, we are a better city",
+        "NYC mayoral seal (watermark/endcard)"
+      ],
+      "setting": "Final segment. Group shot of Nowruz celebration with multiple attendees in the ornate City Hall room. Mamdani with guests around the haft-sin table. NYC mayoral seal appears as watermark/endcard.",
+      "visual_elements": [
+        "group gathering around Nowruz table",
+        "Bea Omideh Yazdi lower-third name tag",
+        "bilingual Persian/English captions",
+        "Nowruz table with candles and decorative items",
+        "NYC mayoral seal watermark",
+        "soft warm candlelight effect"
+      ],
+      "presentation_style": "Closing segment with group celebration. Final frame is NYC mayoral seal watermark. Uplifting conclusion with community gathering."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Ornate City Hall reception room with Nowruz/haft-sin table arrangement",
+    "text_overlay_types": [
+      "bilingual Persian (Farsi) and English subtitle captions in yellow",
+      "large yellow Persian script item labels with food imagery",
+      "lower-third name tags for speakers",
+      "NYC mayoral seal endcard"
+    ],
+    "visual_themes": [
+      "Nowruz / Persian New Year cultural celebration",
+      "bilingual content (Persian and English)",
+      "haft-sin table item education",
+      "City Hall hosting of cultural events",
+      "community member testimonials",
+      "cultural inclusion messaging"
+    ]
+  }
+}

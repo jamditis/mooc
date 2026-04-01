@@ -1,0 +1,46 @@
+{
+  "video_id": "DVwFzoPkYOT",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "GOOD MORNING STATEN ISLAND! (stylized yellow/orange retro text over sky photo)",
+        "Staten Island (location label on video frame)",
+        "3-k!! (text over classroom scene)",
+        "MORE 3-K for ALL IS COMING!!! (bold blue background card with red/white/blue lettering)",
+        "(yay for 3-k!) (parenthetical on blue card)"
+      ],
+      "setting": "Three distinct settings in a single grid: (1) outdoor Staten Island waterfront selfie scene with Mamdani and crowd, (2) elementary school classroom with children in red uniforms dancing/moving with officials, (3) a bold graphic card announcing 'More 3-K for ALL IS COMING!!!'",
+      "visual_elements": [
+        "Staten Island skyline/waterfront backdrop",
+        "crowd selfie with Mamdani",
+        "elementary school classroom interior",
+        "children in red uniforms",
+        "school officials in background",
+        "'GOOD MORNING STATEN ISLAND!' yellow retro-styled text overlay",
+        "bold blue CTA/announcement card with colorful 'MORE 3-K for ALL' text",
+        "CAMP/school signage visible in background ('FRST ST...', 'CAM...')"
+      ],
+      "presentation_style": "High-energy promotional vlog. Multiple locations in a single short video. Playful retro typography for location greeting. Bold graphic announcement card for 3-K expansion policy. Enthusiastic selfie crowd opener."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Staten Island waterfront (selfie scene) and elementary school classroom",
+    "text_overlay_types": [
+      "stylized yellow/orange retro 'GOOD MORNING STATEN ISLAND!' location greeting",
+      "location label ('Staten Island')",
+      "classroom activity label ('3-k!!')",
+      "bold blue announcement card: 'MORE 3-K for ALL IS COMING!!!' with colorful lettering"
+    ],
+    "visual_themes": [
+      "Pre-K / 3-K education policy announcement",
+      "Staten Island borough visit",
+      "school visit with children",
+      "enthusiastic graphic announcement card",
+      "borough-specific outreach",
+      "retro greeting typography"
+    ]
+  }
+}

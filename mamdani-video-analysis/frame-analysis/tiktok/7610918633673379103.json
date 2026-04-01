@@ -1,0 +1,52 @@
+{
+  "video_id": "7610918633673379103",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "Brad Lander",
+        "Mayor Mamdani",
+        "Some bonds are unbreakable.",
+        "I'm Brad Lander.",
+        "And I'm running for Congress.",
+        "By AIPAC",
+        "And I'm not about to change."
+      ],
+      "setting": "NYC subway station platforms and tunnels; outdoor urban street",
+      "visual_elements": [
+        "Two men in suits walking through subway",
+        "Man holding a Brad Lander for Congress sign",
+        "Name supers identifying subjects",
+        "Warm informal tone between two men"
+      ],
+      "presentation_style": "Endorsement/campaign video with name supers, subtitle captions, cinematic walking shots"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "mid-late",
+      "on_screen_text": [
+        "BradLanderForCongress.com",
+        "Please go to BradLanderForCongress.com",
+        "Because it's not enough to elect Democrats.",
+        "And some things are better together.",
+        "BRAD LANDER for Congress",
+        "BradLanderForCongress.com"
+      ],
+      "setting": "NYC subway station; animated campaign graphic (dark blue grid background)",
+      "visual_elements": [
+        "Repeated URL watermark stacked vertically",
+        "Bold retro-style campaign logo for Brad Lander for Congress on dark grid background",
+        "Two men shaking hands in subway",
+        "Handshake/solidarity imagery"
+      ],
+      "presentation_style": "Paid campaign ad aesthetic with repeated URL call-to-action, animated logo card, captions"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "NYC subway stations",
+    "text_overlay_types": ["name supers", "subtitle captions", "campaign URL", "campaign logo card"],
+    "visual_themes": ["political endorsement", "friendship/solidarity", "grassroots campaign", "subway transit"]
+  }
+}

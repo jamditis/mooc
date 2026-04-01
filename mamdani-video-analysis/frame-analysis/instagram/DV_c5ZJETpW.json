@@ -1,0 +1,86 @@
+{
+  "video_id": "DV_c5ZJETpW",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "Today, as New Yorkers celebrate St. Patrick's Day,",
+        "I think of the words of St. Patrick himself,",
+        "In the fifth century, in what is now Northern Ireland,",
+        "Patrick was made a Confessor or part of the",
+        "St. Patrick inspired the Irishmen",
+        "the expression of justice",
+        "Overcome by grief, he wrote,",
+        "All I can do is what is written: 'weep and weep and weep.'",
+        "But he also knew it was better",
+        "I had those from many families"
+      ],
+      "setting": "Mamdani in a formal dark interior office (dark leather chair, dark walls, bookshelves behind). Seated at a dark desk. This appears to be a different presenter — no beard, slightly different facial features (possibly a different person from other videos, or same person clean-shaven). St. Patrick's Day themed.",
+      "visual_elements": [
+        "formal dark office interior",
+        "dark leather chair",
+        "bookshelves in background",
+        "presenter in dark suit with tie",
+        "white subtitle captions",
+        "no flags or props"
+      ],
+      "presentation_style": "Direct-to-camera reflective historical monologue for St. Patrick's Day. Formal and measured tone. No visual graphics other than captions."
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-0:36",
+      "on_screen_text": [
+        "to protest the British Government and refuse to be quiet from political prisoners.",
+        "And I think of the many whose names have been told to time.",
+        "I think of the many whole names have been told to time.",
+        "who perished from famine",
+        "And I think of the discrimination from New Yorkers faced",
+        "They were barred from employment and housing.",
+        "St. Patricks spread across the bread",
+        "Help wanted. No Irish need apply.",
+        "They organized, mobilized and labor movements that ensure to schools"
+      ],
+      "setting": "Same formal dark office interior. Presenter continues directly to camera with minimal movement. Historical narrative continues.",
+      "visual_elements": [
+        "formal dark office",
+        "dark leather chair",
+        "presenter in dark suit",
+        "white subtitle captions",
+        "no props or visual changes"
+      ],
+      "presentation_style": "Continuation of historical reflective monologue. References Irish immigrant discrimination parallels to other communities. Dense text captions."
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "0:54-1:03",
+      "on_screen_text": [
+        "Happy St. Patrick's Day.",
+        "NYC mayoral seal on dark green background (endcard)"
+      ],
+      "setting": "Final frames: presenter smiling in close-up. NYC mayoral seal on dark green background as St. Patrick's Day-themed endcard.",
+      "visual_elements": [
+        "close-up smiling portrait",
+        "dark suit with patterned tie",
+        "NYC mayoral seal on dark green background (holiday-themed endcard)",
+        "white subtitle caption ('Happy St. Patrick's Day.')"
+      ],
+      "presentation_style": "Holiday-themed closing. Endcard uses dark green (St. Patrick's Day color) instead of the standard navy blue. Personalized holiday seal endcard."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Formal dark office with leather chair and bookshelves — consistent throughout",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "holiday-themed NYC mayoral seal endcard (dark green for St. Patrick's Day)"
+    ],
+    "visual_themes": [
+      "St. Patrick's Day historical reflection",
+      "Irish immigrant history and discrimination parallels",
+      "solidarity with persecuted communities",
+      "formal solo monologue format",
+      "holiday-specific branded endcard"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "video_id": "1238505278271315",
+  "platform": "facebook",
+  "title": "Mayor Mamdani Holds Press Conference - Child Care",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": ["NYC Child Care Atlas (visible on projected map screen)"],
+      "setting": "Large indoor event space or auditorium with a large projected map of NYC on a screen behind a speaker at a podium; audience standing around the perimeter",
+      "visual_elements": ["large projected NYC map (green data overlay)", "podium with NYC seal", "crowd of attendees", "news cameras", "high-contrast lighting"],
+      "presentation_style": "Wide-angle press event; speaker at podium with large data visualization backdrop"
+    },
+    {
+      "grid": "grid_0279.jpg",
+      "timestamp_range": "approximately 1:33-1:42",
+      "on_screen_text": ["CHILD CARE", "for ALL", "#NYCCHILDCARE (lower-left banner)"],
+      "setting": "Close-up at podium with NYC child care map graphic background; mayor speaking directly to camera",
+      "visual_elements": ["blue podium sign reading 'CHILD CARE for ALL'", "map of NYC with location pins as backdrop", "app icons visible on background", "suit and tie attire"],
+      "presentation_style": "Medium close-up; speaker at branded podium with policy messaging background"
+    },
+    {
+      "grid": "grid_0558.jpg",
+      "timestamp_range": "approximately 3:06-3:15",
+      "on_screen_text": ["NYC Child Care Atlas (on projected screen)", "RTV (podium logo)"],
+      "setting": "Dimly lit event hall; speaker at podium with large projected NYC map on multiple screens; seated audience in foreground",
+      "visual_elements": ["large projected NYC Child Care Atlas map", "podium with RTV branding", "seated press/audience", "overhead venue lighting"],
+      "presentation_style": "Wide shot from behind audience; low-light event hall atmosphere"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Indoor press conference / event hall with projected child care data map",
+    "text_overlay_types": ["podium branding", "policy hashtag", "projected data visualization labels"],
+    "visual_themes": ["child care policy announcement", "data-driven presentation", "NYC government branding", "formal press event"]
+  }
+}

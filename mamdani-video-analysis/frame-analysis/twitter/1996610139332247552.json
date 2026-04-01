@@ -1,0 +1,90 @@
+{
+  "video_id": "1996610139332247552",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-18s",
+      "on_screen_text": [
+        "NO COFFEE!",
+        "We're out here at Park Slope.",
+        "Claire Valdez",
+        "Starbucks Worker, Barista, November 0:37",
+        "I wanted to give a sense of Starbucks,",
+        "Jesse 0:78",
+        "$36.2 Billion",
+        "But I want to share a few numbers with you."
+      ],
+      "setting": "Outdoor sidewalk in Park Slope, Brooklyn in winter - a Starbucks strike picket line",
+      "visual_elements": [
+        "Starbucks strike picket line with signs reading 'NO CONTRACT NO STARBUCKS'",
+        "Bernie Sanders visible among the crowd",
+        "candidate (Mamdani) visible",
+        "lower-third identifying 'Claire Valdez - Starbucks Worker, Barista'",
+        "lower-third identifying 'Jesse'",
+        "dollar figure '$36.2 Billion' as a data overlay",
+        "picket signs and strikers in winter clothing",
+        "Starbucks storefront in background"
+      ],
+      "presentation_style": "documentary strike footage with lower-third name identifiers for workers, dollar figure data overlay, Bernie Sanders present"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-36s",
+      "on_screen_text": [
+        "remarkable solidarity from service workers who",
+        "I have seen workers",
+        "and experience.",
+        "And what is happening here",
+        "is happening all over this country.",
+        "We are living",
+        "where the people who have more",
+        "never less than this country.",
+        "And when Zohran is",
+        "where the people who have",
+        "more than this organization."
+      ],
+      "setting": "Outdoor picket line continuing, Bernie Sanders speaking to crowd and media",
+      "visual_elements": [
+        "Bernie Sanders speaking forcefully with fist raised",
+        "press cameras and microphones surrounding him",
+        "candidate (Mamdani) visible nearby",
+        "subtitle captions throughout",
+        "crowded sidewalk scene with protesters"
+      ],
+      "presentation_style": "documentary rally footage with Bernie Sanders speaking, subtitle captions capturing his remarks"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "36s-end",
+      "on_screen_text": [
+        "A NEW ERA",
+        "for NEW YORK CITY"
+      ],
+      "setting": "Group photo at picket line, then campaign brand end card",
+      "visual_elements": [
+        "group photo with Bernie Sanders, Mamdani, and Starbucks workers at picket line",
+        "Starbucks Workers Union signs visible",
+        "'NO CONTRACT NO STARBUCKS' signs",
+        "campaign logo 'A NEW ERA for NEW YORK CITY' overlaid on group photo",
+        "festive hats on some protesters"
+      ],
+      "presentation_style": "campaign strike solidarity video closing with campaign brand end card over group photo"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor Starbucks strike picket line in Park Slope, Brooklyn, winter",
+    "text_overlay_types": [
+      "lower-third worker name identifiers",
+      "data overlay with dollar figure ($36.2 Billion)",
+      "dialogue subtitle captions",
+      "campaign end card logo"
+    ],
+    "visual_themes": [
+      "Starbucks worker strike solidarity",
+      "labor movement and worker rights",
+      "Bernie Sanders appearance and endorsement context",
+      "economic inequality data"
+    ]
+  }
+}

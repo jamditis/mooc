@@ -1,0 +1,58 @@
+{
+  "video_id": "1614085309624677",
+  "platform": "facebook",
+  "title": "Happy St. Patrick's Day, New York",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "Today, as New Yorkers celebrate St. Patrick's Day,",
+        "I think of the words of St. Patrick himself,",
+        "In the fifth century, in what is now Northern Ireland,",
+        "St. Patrick inspired the locals imprisoned justice",
+        "Overtime by grief, the quote,",
+        "\"All I can do is what is written: 'weep' and 'weep'\"",
+        "St. Patrick's actions turned a crime",
+        "into a protest for justice.",
+        "I had hope that so many other names have been told to time."
+      ],
+      "setting": "Indoor office setting; speaker seated in a dark leather chair; similar to the budget video setting; bookshelf and neutral wall in background",
+      "visual_elements": ["dark leather chair", "bookshelf background", "dark suit with dark tie", "watch on wrist", "white subtitle captions", "vertical video format"],
+      "presentation_style": "Direct-to-camera talking head; same office chair setting used in other explainer videos; personal reflection style"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "approximately 0:27-0:36",
+      "on_screen_text": [
+        "to protest the British Government's refusal to release political prisoners.",
+        "And I think of the discrimination new New Yorkers faced:",
+        "\"Help wanted. No Irish need apply.\"",
+        "I think of the many whose names have been told to time.",
+        "They were barred from employment and housing.",
+        "They organized, motivated and led labor movements",
+        "So pasteurized across an Ireland,",
+        "that relate to human bread.",
+        "They organized, motivated and led labor movements that picture to us."
+      ],
+      "setting": "Same indoor office/leather chair setting throughout; speaker remains seated and speaking directly to camera",
+      "visual_elements": ["dark leather chair", "bookshelf background", "dark suit and tie", "white subtitle captions"],
+      "presentation_style": "Continuation of direct-to-camera reflective address; historical narrative about Irish immigrant experience"
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "approximately 0:54-1:03",
+      "on_screen_text": [
+        "Happy St. Patrick's Day."
+      ],
+      "setting": "Final frame: speaker smiling at camera in same chair setting, then cut to NYC official seal on green background (St. Patrick's Day themed closing card)",
+      "visual_elements": ["dark leather chair", "speaker smiling", "NYC official seal on green background (closing card, thematically green for St. Patrick's Day)", "white subtitle caption"],
+      "presentation_style": "Warm closing with themed NYC seal card in green for St. Patrick's Day"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Indoor office with dark leather chair and bookshelf background",
+    "text_overlay_types": ["white subtitle captions throughout", "NYC seal closing card (green-themed for St. Patrick's Day)"],
+    "visual_themes": ["St. Patrick's Day reflection", "Irish immigrant history in NYC", "civil rights and labor movement parallels", "direct-to-camera personal address", "themed closing card (green NYC seal)"]
+  }
+}

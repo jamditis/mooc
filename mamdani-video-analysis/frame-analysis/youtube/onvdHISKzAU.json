@@ -1,0 +1,69 @@
+{
+  "video_id": "onvdHISKzAU",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "RICHMOND HILL, QUEENS",
+        "JUNE 2025"
+      ],
+      "setting": "Outdoor residential neighborhood streets in Richmond Hill, Queens; attached row houses with front stoops, iron gates, and parked cars; lush summer foliage; daytime",
+      "visual_elements": [
+        "Location title card overlay: 'RICHMOND HILL, QUEENS / JUNE 2025'",
+        "Candidate with clipboard at a doorstep",
+        "Older South Asian woman with grey hair and a bindi in a colorful sari-style top",
+        "Group of canvassers on the sidewalk near an SUV",
+        "Residential brick row houses with decorative iron fencing",
+        "Handheld/documentary camera movement"
+      ],
+      "presentation_style": "Vlog-style campaign documentary with location title cards; handheld, naturalistic footage; focuses on grassroots canvassing activity"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:36",
+      "on_screen_text": [],
+      "setting": "Continuation of Richmond Hill streetscape; canvassers walking door-to-door; wide sidewalks, parked vehicles, street-level urban neighborhood; one frame shows the older woman watching a TV screen showing the candidate",
+      "visual_elements": [
+        "Same older South Asian woman canvassing with leaflets",
+        "Groups of canvassers working together",
+        "TV screen in background showing candidate speaking",
+        "Bright natural summer daylight",
+        "Documentary-style wide shots and close-ups of faces",
+        "Campaign materials (leaflets/flyers)"
+      ],
+      "presentation_style": "Observational documentary following a canvasser (the candidate's mother) on the campaign trail; intimate and ground-level perspective"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "0:36-end",
+      "on_screen_text": [
+        "A NEW ERA",
+        "NEW YORK CITY"
+      ],
+      "setting": "Outdoor park bench / neighborhood setting; woman seated on bench talking; final frames show campaign outro card",
+      "visual_elements": [
+        "Older woman seated outdoors, gesturing while speaking to camera",
+        "Green urban park foliage in background",
+        "Campaign brand card: 'A NEW ERA / NEW YORK CITY' in red and white on a red background",
+        "Warm afternoon light"
+      ],
+      "presentation_style": "Personal campaign story told through the mother's perspective; ends with campaign slogan card matching brand identity"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Residential neighborhood streets of Richmond Hill, Queens",
+    "text_overlay_types": [
+      "Location and date title card ('RICHMOND HILL, QUEENS / JUNE 2025')",
+      "Campaign slogan outro card ('A NEW ERA for NEW YORK CITY')"
+    ],
+    "visual_themes": [
+      "Grassroots canvassing",
+      "South Asian community outreach",
+      "Mother-as-canvasser personal narrative",
+      "Warm summer daylight",
+      "Handheld documentary aesthetic"
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "video_id": "7600042219541761311",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "Friends, I'm once again asking for your donation",
+        "For Claire Valdez!",
+        "CLAIRE VALDEZ",
+        "Claire is an assemblymember.",
+        "running for Congress in NY-7",
+        "That's Greenpoint, Williamsburg, Bushwick...",
+        "Ridgewood, Maspeth, Cypress Hills, East New York",
+        "Ridgewood-- Whoa whoa, you just said Ridgewood twice.",
+        "So I have a 'Q' for you",
+        "Unions for all, housing for all, Medicare for all."
+      ],
+      "setting": "NYC subway station platform (City Hall stop visible in background)",
+      "visual_elements": [
+        "Mamdani and Claire Valdez walking together in subway",
+        "Name super for Claire Valdez with title",
+        "Animated yellow name card overlay",
+        "Q train logo reference",
+        "Casual conversational dynamic"
+      ],
+      "presentation_style": "Comedic endorsement video mixing casual dialogue with political messaging; subtitle captions throughout"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "I thought DC was doing for some 'Y' right now?",
+        "ClaireValdezForCongress.com",
+        "That's right.",
+        "ClaireValdezForCongress.com",
+        "Where can they do that again?",
+        "Please donate to her.",
+        "Please.",
+        "Thank you, Mr. Mayor."
+      ],
+      "setting": "NYC subway station (City Hall station signage visible)",
+      "visual_elements": [
+        "Mamdani and Valdez talking and laughing in subway corridor",
+        "Campaign website displayed prominently twice",
+        "Comedic back-and-forth between two politicians"
+      ],
+      "presentation_style": "Comedic endorsement with call-to-action URL overlay, subtitle captions"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "CLAIRE VALDEZ FOR CONGRESS",
+        "DEM. PRIMARY June 23",
+        "CLAIREVALDEZFORCONGRESS.COM",
+        "PAID FOR BY CLAIRE VALDEZ FOR CONGRESS"
+      ],
+      "setting": "Animated campaign graphic (solid blue background); QR code card",
+      "visual_elements": [
+        "Bold white campaign logo on blue background",
+        "QR code linking to campaign site",
+        "Primary election date card",
+        "Official paid-for disclaimer"
+      ],
+      "presentation_style": "Formal campaign ad end card with logo, QR code, election date, and legal disclaimer"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "NYC subway stations",
+    "text_overlay_types": ["name supers", "subtitle captions", "campaign URL", "election date card", "legal disclaimer", "QR code"],
+    "visual_themes": ["political endorsement", "humor and banter", "subway transit", "progressive policy platform"]
+  }
+}

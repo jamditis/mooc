@@ -1,0 +1,88 @@
+{
+  "video_id": "DVrokd0EaPs",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "and something beautiful is ready to bloom",
+        "3-K program in his offices for com",
+        "This will help families that want to enroll their kids in 3-K",
+        "find a seat that actually works for them.",
+        "In the past, families applying for 3-K",
+        "largely away from their communities"
+      ],
+      "setting": "Outdoor park setting — early spring. Mamdani in a dark suit walking through a park with bare trees, sitting on a red park bench. Outdoor greenery beginning to emerge.",
+      "visual_elements": [
+        "outdoor park with bare early-spring trees",
+        "red park bench",
+        "Mamdani seated on bench and walking in park",
+        "bright daylight, clear sky",
+        "white subtitle captions",
+        "suit and tie (dark suit, neutral tie)"
+      ],
+      "presentation_style": "On-location park monologue. Unusual outdoor setting for policy announcement. Natural and approachable framing. Spring/renewal metaphor with 'something beautiful is ready to bloom' language."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [
+        "of work that I've been doing",
+        "the mayor said it'd add all public New York City",
+        "That's why our administration is working incredibly",
+        "the more than $20,000 in savings it'll find",
+        "the money from many more 3-K",
+        "That's why our administration is working incredibly",
+        "has greater access to services and program options"
+      ],
+      "setting": "Outdoor location near a building with steps and a greenhouse/garden structure. Mamdani seated on steps, then crouching near a garden bed with a watering can. Soft outdoor daylight.",
+      "visual_elements": [
+        "building steps / exterior staircase",
+        "greenhouse or garden structure",
+        "Mamdani crouching near garden with watering can",
+        "garden bed with small plants/flowers",
+        "white subtitle captions",
+        "suit and tie maintained in outdoor garden setting"
+      ],
+      "presentation_style": "Continues park/garden outdoor monologue. Unusual props (watering can) used metaphorically for growing policy. Physical activity (crouching, gardening gesture) makes formal policy content more visually engaging."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "that match your community's local needs.",
+        "You can also update your application up until April 24th.",
+        "Our applications is beautiful fruit",
+        "And what you grow.",
+        "NYC mayoral seal (small, watermark-style on lower frame)"
+      ],
+      "setting": "Outdoor park/garden. Mamdani continues gesturing in the garden. One panel shows a close-up of a small flower (crocus or similar) blooming in garden bed with the NYC mayoral seal as a small overlay. Other panels show Mamdani with a watering can.",
+      "visual_elements": [
+        "close-up of blooming flower (crocus/spring flower) with mayoral seal overlay",
+        "Mamdani with watering can in garden",
+        "outdoor garden/park setting",
+        "NYC mayoral seal as small watermark on nature shot",
+        "white subtitle captions",
+        "April 24th deadline text"
+      ],
+      "presentation_style": "Closing with visual metaphor: a blooming flower with the NYC mayoral seal. Spring renewal metaphor fully realized. Includes specific application deadline. Creative and nature-driven policy communication."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor park and garden setting in early spring — park bench, steps, garden beds, greenhouse",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "NYC mayoral seal as small watermark on nature close-up"
+    ],
+    "visual_themes": [
+      "3-K (pre-kindergarten) education expansion",
+      "spring/renewal visual metaphor",
+      "outdoor park and garden setting",
+      "watering can as policy metaphor",
+      "blooming flower as endcard image",
+      "family-focused education accessibility messaging",
+      "April 24th application deadline"
+    ]
+  }
+}

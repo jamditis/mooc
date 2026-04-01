@@ -1,0 +1,81 @@
+{
+  "video_id": "7588235919799422239",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "RICHMOND HILL, QUEENS JUNE 2025",
+        "You know, yesterday I was in two battles.",
+        "And I said, 'Who you voting for?'",
+        "I got in and the guy said...",
+        "And without turning back and looking at my button,",
+        "So then I said, anybody who's voting for Zohran, I owe them a secret.",
+        "So I'm voting for him, too, people.",
+        "What are you looking for him down, this guy?"
+      ],
+      "setting": "Residential street in Richmond Hill, Queens; house with decorative iron fence; local storefronts (WeBuyGoods.com visible)",
+      "visual_elements": [
+        "Location title card: 'RICHMOND HILL, QUEENS JUNE 2025' in orange bold text",
+        "Mamdani canvassing door-to-door with campaign button",
+        "South Asian woman speaking directly to camera on her stoop",
+        "Handheld street-level footage",
+        "Older South Asian neighborhood aesthetic"
+      ],
+      "presentation_style": "Vox-pop campaign canvassing footage; location title card; subtitle captions; candid voter reactions"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "So you go and vote for him, you're here forever launching a campaign.",
+        "they have never seen asked at their opinions.",
+        "Oh, that's a pen, that's a you, baby.",
+        "They have never even looked at these neighborhoods.",
+        "Okay, after this, we'll have to have a cup of tea.",
+        "you get out there votes, guys.",
+        "Everyone is important.",
+        "never to talk to, you know?",
+        "NEW ERA for NYC",
+        "I'm seeing some voters, though."
+      ],
+      "setting": "Richmond Hill, Queens residential streets; local convenience store interior (TV with Mamdani speech visible)",
+      "visual_elements": [
+        "Campaign slogan overlay: 'NEW ERA for NYC'",
+        "Woman voter speaking passionately on stoop",
+        "Canvassing volunteers walking down the street",
+        "Mamdani on TV screen inside a bodega/store",
+        "South Asian neighborhood street life"
+      ],
+      "presentation_style": "Voter testimonial with campaign branding overlay; documentary canvassing footage; subtitle captions"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "is extraordinary, because we owe the people,",
+        "to give them the dignity they deserve, and we all deserve.",
+        "NEW ERA for NYC",
+        "I'm seeing some voters, though.",
+        "a NEW ERA for NYC",
+        "Are you ready to vote?",
+        "a NEW ERA for NYC",
+        "Are you voting in the Mayoral elections?"
+      ],
+      "setting": "Richmond Hill, Queens street and in a car; voter on stoop; canvassing continuation",
+      "visual_elements": [
+        "Campaign branding 'A NEW ERA for NYC' displayed multiple times as persistent lower-third or full overlay",
+        "Woman voter in car giving interview",
+        "Mamdani walking neighborhood streets",
+        "Bold red/white campaign typography"
+      ],
+      "presentation_style": "Campaign canvassing video with strong branding; call-to-action questions; subtitle captions"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Richmond Hill, Queens residential and commercial streets, June 2025",
+    "text_overlay_types": ["location title card", "dialogue subtitles", "campaign slogan overlay ('A NEW ERA for NYC')", "voter engagement questions"],
+    "visual_themes": ["door-to-door canvassing", "South Asian voter community", "grassroots outreach", "voter testimonials", "neighborhood-level campaigning"]
+  }
+}

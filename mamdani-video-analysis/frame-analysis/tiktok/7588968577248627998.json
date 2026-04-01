@@ -1,0 +1,60 @@
+{
+  "video_id": "7588968577248627998",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "um, I have a question",
+        "I want something...",
+        "I want to do something about the homeless people because...",
+        "Hey, at least that's me.",
+        "And I got to say, some cities have made a real difference...",
+        "And I want to do something for all, so they can have a home and eat well.",
+        "and they can get some... women and then..."
+      ],
+      "setting": "Minimalist white studio space with wooden mid-century chairs and a small table",
+      "visual_elements": [
+        "Mamdani in a suit standing and speaking with a child seated in a chair",
+        "Child appears to be about 10 years old",
+        "Very clean, white studio aesthetic",
+        "Intimate one-on-one format"
+      ],
+      "presentation_style": "Scripted or semi-scripted child interview format; subtitle captions; minimalist production design"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "Hey, welcome back.",
+        "Mayor Zohran [partially visible]"
+      ],
+      "setting": "Same minimalist white studio; parents/guardians now present at the table; child with blue hoodie shaking hands with Mamdani",
+      "visual_elements": [
+        "Child in 'HAPPY' graphic shirt shaking hands with Mamdani",
+        "Parent or guardian at the table",
+        "Mamdani crouching or leaning in to engage with child at eye level",
+        "Bright and clean studio environment"
+      ],
+      "presentation_style": "Warm interview/meeting segment; caption overlay with partial name super"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "late/end",
+      "on_screen_text": [],
+      "setting": "Same minimalist white studio; single frame of Mamdani alone at the table, bowing head",
+      "visual_elements": [
+        "Mamdani standing alone at table, bowing or looking down",
+        "Empty chairs",
+        "Contemplative closing image"
+      ],
+      "presentation_style": "Single end frame, no text, quiet and minimal"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Minimalist white photography/film studio with mid-century furniture",
+    "text_overlay_types": ["dialogue subtitles", "partial name super"],
+    "visual_themes": ["child engagement", "housing and homelessness policy", "listening to constituents", "clean minimalist aesthetic", "empathy and connection"]
+  }
+}

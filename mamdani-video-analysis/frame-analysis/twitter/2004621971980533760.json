@@ -1,0 +1,75 @@
+{
+  "video_id": "2004621971980533760",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-18s",
+      "on_screen_text": [
+        "PAIRDMOUNT HILL, QUEENS JUNE 2025",
+        "RICHMOND HILL, QUEENS JUNE 2025",
+        "Good morning. I am going door-to-door to get your vote for mayor.",
+        "What's going on?",
+        "Hi, what can I do for you?",
+        "Nobody wants to be the next mayor."
+      ],
+      "setting": "Residential streets of Queens, NYC - suburban-style neighborhood with attached homes, front yards, gates, and stoops, exterior daytime",
+      "visual_elements": [
+        "neighborhood location title cards with blue background and white text",
+        "man in suit canvassing door-to-door",
+        "South Asian woman speaking at doorstep",
+        "residential Queens streetscape",
+        "dialogue subtitle captions"
+      ],
+      "presentation_style": "documentary footage of campaign canvassing in Queens neighborhoods, location title cards identify the area and date"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-36s",
+      "on_screen_text": [
+        "So if you give me some time, let me explain.",
+        "They have never even looked at these neighborhoods for help, you know?",
+        "Okay, why this bus? Can't I walk?",
+        "Tell me more, what are you dreaming of?"
+      ],
+      "setting": "Queens residential streets and stoops, conversations at doorways and on sidewalks",
+      "visual_elements": [
+        "South Asian woman in colorful sari speaking to candidate",
+        "busy street corner with pedestrians and storefronts in background",
+        "dialogue subtitle captions throughout",
+        "outdoor natural light"
+      ],
+      "presentation_style": "verite canvassing documentary with genuine resident interactions, subtitled dialogue"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "36s-end",
+      "on_screen_text": [
+        "A NEW ERA",
+        "NEW YORK CITY",
+        "Are you bring home fully free metro?"
+      ],
+      "setting": "Queens streets and parks, transitioning to campaign brand end card",
+      "visual_elements": [
+        "woman seated outdoors gesturing while speaking",
+        "bold red and blue campaign logo 'A NEW ERA for NEW YORK CITY' on white background",
+        "split-screen showing footage alongside campaign branding"
+      ],
+      "presentation_style": "documentary canvassing footage concluding with campaign brand identity end card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Residential streets of Richmond Hill and Fairmount Hill, Queens, NYC - door-to-door canvassing",
+    "text_overlay_types": [
+      "neighborhood location title cards",
+      "dialogue subtitle captions",
+      "campaign end card logo"
+    ],
+    "visual_themes": [
+      "grassroots door-to-door canvassing",
+      "South Asian community engagement in Queens",
+      "constituent voices and concerns",
+      "campaign brand identity"
+    ]
+  }
+}

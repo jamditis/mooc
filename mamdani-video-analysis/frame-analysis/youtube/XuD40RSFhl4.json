@@ -1,0 +1,44 @@
+{
+  "video_id": "XuD40RSFhl4",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-end",
+      "on_screen_text": [
+        "it's our great honor to welcome",
+        "Zohran Mamdani",
+        "and the success of the city of New York.",
+        "and especially the success",
+        "Jewish community of New York City",
+        "We welcome Mayor-elect Mamdani!",
+        "a NEW ERA for NYC"
+      ],
+      "setting": "Large indoor gathering of Orthodox Jewish community; packed crowd of men in black hats and suits; candidate on stage or at podium being welcomed; event appears to be a major religious or communal celebration with a large audience",
+      "visual_elements": [
+        "Massive crowd of Orthodox Jewish men in traditional black attire",
+        "Candidate being embraced and celebrated on stage",
+        "Candidate in a black top hat among community leaders",
+        "Campaign brand card: 'a NEW ERA for NYC' in stylized font on blue background",
+        "Close-up of smiling faces and handshakes",
+        "Warm indoor lighting in large hall",
+        "White subtitle captions transcribing speech"
+      ],
+      "presentation_style": "Community welcome/recognition event footage; candidate shown being embraced by Orthodox Jewish community leadership; ends with campaign branding; subtitle captions transcribe the welcome speech"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Large indoor Orthodox Jewish communal gathering (Kuf Alef Kislev celebration)",
+    "text_overlay_types": [
+      "White subtitle captions",
+      "Campaign slogan outro card ('a NEW ERA for NYC')"
+    ],
+    "visual_themes": [
+      "Orthodox Jewish community welcome and recognition",
+      "Candidate receiving communal embrace",
+      "Large-scale religious/cultural event",
+      "Traditional attire and ceremonial context",
+      "Candidate wearing a black top hat"
+    ]
+  }
+}

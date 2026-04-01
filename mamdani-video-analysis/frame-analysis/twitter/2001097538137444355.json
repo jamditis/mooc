@@ -1,0 +1,71 @@
+{
+  "video_id": "2001097538137444355",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-9s",
+      "on_screen_text": [
+        "New York City Hall"
+      ],
+      "setting": "Bright white multi-purpose space or gallery, minimal decor, white folding chairs arranged in clusters or rows",
+      "visual_elements": [
+        "various New Yorkers seated in small groups, conversing",
+        "name badges visible on participants",
+        "man in purple t-shirt seated and speaking",
+        "woman presenting or standing near draped backdrop",
+        "small child present in one scene",
+        "woman seated at desk or table",
+        "vertical text banner on left edge reading 'New York City Hall' (partially visible)"
+      ],
+      "presentation_style": "documentary footage of a large community townhall or listening event, multiple simultaneous conversations captured"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "9s-18s",
+      "on_screen_text": [],
+      "setting": "Same bright white community event space, plus a more formal interview-style black-and-white segment showing candidate at a table",
+      "visual_elements": [
+        "diverse participants in small group conversations",
+        "woman in New York hoodie speaking",
+        "man in patterned keffiyeh-style scarf",
+        "participants seated on floor in casual clusters",
+        "black-and-white footage showing candidate (Mamdani) seated at interview table with staff member"
+      ],
+      "presentation_style": "verite multi-camera documentary of community engagement event, intercutting between participant conversations and candidate at table"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-end",
+      "on_screen_text": [
+        "Is it like a blur?",
+        "they just take me back to people.",
+        "Type 'em up.",
+        "a NEW ERA for NYC"
+      ],
+      "setting": "White event space, then direct-to-camera with candidate reviewing papers, then campaign logo end card",
+      "visual_elements": [
+        "two women in conversation, one seated",
+        "candidate walking through the white space with dark curtains in background",
+        "candidate in dark suit reviewing documents or note cards",
+        "red rose on table beside him",
+        "'a NEW ERA for NYC' campaign logo in red, white and blue on black background"
+      ],
+      "presentation_style": "reflective documentary closing with candidate reviewing constituent notes, ending with campaign logo"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Bright white community event or gallery space configured for a large-scale listening session / townhall",
+    "text_overlay_types": [
+      "location identifier",
+      "dialogue subtitle captions",
+      "campaign end card logo"
+    ],
+    "visual_themes": [
+      "large community listening event with 142 New Yorkers",
+      "diverse constituent engagement",
+      "candidate reviewing and internalizing constituent input",
+      "participatory democracy format"
+    ]
+  }
+}

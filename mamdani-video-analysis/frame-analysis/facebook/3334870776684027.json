@@ -1,0 +1,79 @@
+{
+  "video_id": "3334870776684027",
+  "platform": "facebook",
+  "title": "Happy Nowruz, New York City",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "Nowruz (in Persian script: \u0646\u0648\u0631\u0648\u0632)",
+        "Norooz",
+        "the Persian New Year.",
+        "\u0648 \u0628\u0631\u0627\u06cc \u0627\u06cc\u0631\u0627\u0646\u06cc\u0627\u0646 \u062c\u0647\u0627\u0646 (Persian text)",
+        "and for Iranians the world over,",
+        "\u0628\u0627 \u06cc\u06a9 \u0633\u0646\u062a \u062a\u0627\u0631\u06cc\u062e\u06cc \u0646\u0648\u0631\u0648\u0632: (Persian text)",
+        "with a great tradition of Nowruz:",
+        "\u0647\u0641\u062a \u0627\u0634\u06cc\u0627\u06cc\u06cc \u06a9\u0647 \u0628\u0627 (Persian text)",
+        "seven core items that start,",
+        "literally translates to",
+        "\u0645\u06cc \u0634\u0648\u062f \u062a\u0631\u062c\u0645\u0647 \u06a9\u0631\u062f (Persian text)",
+        "\u0633\u0628\u0632\u0647 (Persian script: Sabzeh)",
+        "Sabzeh",
+        "So, Sabzeh, the wheat of barley or lentil,",
+        "and mark the holiday here at City Hall",
+        "LEILA BOZORG (lower third name)",
+        "We organize a table around"
+      ],
+      "setting": "Multiple settings: speaker at City Hall in formal attire; an elaborate Nowruz Haft-Seen table with flowers, sprouted greens, and traditional items; informal gathering with Mayor and others around the table",
+      "visual_elements": ["Nowruz / Haft-Seen table with yellow tulips, sprouted wheat (sabzeh), traditional items", "Persian and English bilingual text overlays", "yellow stylized title text for Nowruz/Norooz", "City Hall interior", "LEILA BOZORG name lower third", "white subtitle captions for English", "white subtitle captions for Persian", "vertical video format"],
+      "presentation_style": "Cultural celebration documentary; bilingual Persian/English text overlays; educational framing explaining Nowruz traditions; warm intimate setting with festive table"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "approximately 0:27-0:36",
+      "on_screen_text": [
+        "\u0645\u0627\u0647\u06cc (Persian: Mahi)",
+        "Mahi",
+        "Fish, Mahi,",
+        "Every year, Persians struggle with",
+        "whether to go to Petco or other stores",
+        "\u0628\u0631\u0627\u06cc \u0639\u0645\u0648\u06cc\u0645\u0627\u064b \u062e\u0627\u0644\u0647\u200c\u0627\u0645 \u06af\u0627\u0647\u06cc (Persian text)",
+        "So my aunt would sometimes",
+        "JASMINA (lower third name, partial)",
+        "\u0647\u062c\u062f\u0647 \u0631\u0648\u0632 \u06af\u0630\u0634\u062a\u0647 (Persian text)",
+        "it's been 18 days now",
+        "\u0646\u0645\u06cc\u200c\u062a\u0648\u0627\u0646\u0633\u062a\u0645 (Persian text)",
+        "(Since) I've been able to",
+        "\u0627\u06cc\u0646 \u0645\u0639\u0645\u0648\u0644\u0627 \u0648\u0642\u062a \u0634\u0627\u062f\u06cc \u0627\u0633\u062a (Persian text)",
+        "This is, normally, a very joyous moment.",
+        "with my relatives in Iran.",
+        "LEADER Press Office (partial lower third)"
+      ],
+      "setting": "City Hall setting with Haft-Seen table; guests sharing stories; intercut with close-ups of traditional Nowruz items including fish (Mahi symbol); JASMINA name identifies interview subject",
+      "visual_elements": ["decorative fish display (Mahi)", "Haft-Seen table items", "yellow tulips", "Persian and English bilingual text", "interviewee close-up shots", "JASMINA name lower third", "warm indoor lighting"],
+      "presentation_style": "Interview-style documentary segment; bilingual text; personal storytelling about family separation due to Iran travel restrictions"
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "approximately 0:54-1:03",
+      "on_screen_text": [
+        "\u067e\u06cc\u0631\u0648\u0632\u06cc \u0646\u0648\u0631 \u0628\u0631 \u062a\u0627\u0631\u06cc\u06a9\u06cc\u200c (Persian text)",
+        "The triumph of light over darkness.",
+        "Ben Omidian-Azodi (lower third name)",
+        "\u0628\u0647 \u0627\u0645\u06cc\u062f \u0622\u0632\u0627\u062f\u06cc (Persian text)",
+        "Well, we are a better city",
+        "NYC official seal (closing card, animated glow)",
+        "NYC seal on dark background (final card)"
+      ],
+      "setting": "Closing segment at City Hall Nowruz gathering; group photo with Mayor and Iranian-American guests; NYC seal animated closing card",
+      "visual_elements": ["City Hall interior", "group gathering with Mayor", "NYC official seal animated closing card with gold glow effect", "bilingual Persian/English text", "BEN OMIDIAN-AZODI name lower third", "flowers and Nowruz decor in background"],
+      "presentation_style": "Warm closing with group gathering and animated NYC seal card; ends bilingual celebration"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "City Hall interior with Nowruz Haft-Seen table and gathering",
+    "text_overlay_types": ["Persian-language text overlays (large stylized)", "English subtitle captions", "bilingual Persian/English name lower thirds", "animated NYC seal closing card"],
+    "visual_themes": ["Nowruz / Persian New Year celebration", "bilingual Persian-English content", "cultural traditions explanation (Haft-Seen)", "Iranian-American community focus", "family separation theme (Iran)", "City Hall hosting cultural event"]
+  }
+}

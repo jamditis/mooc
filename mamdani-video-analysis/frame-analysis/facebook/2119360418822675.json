@@ -1,0 +1,36 @@
+{
+  "video_id": "2119360418822675",
+  "platform": "facebook",
+  "title": "Press Conference - Child Care Announcement",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": ["0", "8", "9 (large digit displays on easel boards)", "CHILD CARE", "for ALL"],
+      "setting": "Indoor construction or warehouse space; unfinished walls and exposed structural elements; officials in hard hats and formal wear gathered around easel-mounted signs",
+      "visual_elements": ["large digit countdown/number displays on easels", "blue 'CHILD CARE for ALL' podium sign", "hard hats on some attendees", "exposed structural beams", "indoor construction venue", "group of officials"],
+      "presentation_style": "Indoor press conference in construction/development site; mix of officials in suits and hard hats"
+    },
+    {
+      "grid": "grid_0297.jpg",
+      "timestamp_range": "approximately 1:39-1:48",
+      "on_screen_text": ["CHILD CARE", "for ALL"],
+      "setting": "Same indoor construction space; large group of men in hard hats and formal attire standing together for announcement",
+      "visual_elements": ["blue 'CHILD CARE for ALL' podium sign", "hard hats worn by attendees", "exposed structural interior", "large diverse group of officials", "formal business attire"],
+      "presentation_style": "Group photo-style shot in front of branded signage; hard hat attire signals construction/development context"
+    },
+    {
+      "grid": "grid_0585.jpg",
+      "timestamp_range": "approximately 3:15-3:24",
+      "on_screen_text": ["0", "8", "9 (digit displays)", "CHILD CAR... (partially visible 'CHILD CARE for ALL' sign)"],
+      "setting": "Same indoor construction venue; wider shots showing audience seated in blue chairs, mingling after the announcement",
+      "visual_elements": ["blue chairs for audience", "easel number displays", "child care branded sign", "exposed industrial space", "crowd of attendees"],
+      "presentation_style": "Wide shot of post-announcement crowd; industrial/construction site setting"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Indoor construction or development site used as press conference venue",
+    "text_overlay_types": ["podium sign branding ('CHILD CARE for ALL')", "large digit display boards"],
+    "visual_themes": ["child care policy announcement", "construction site press event", "hard hats as visual symbol", "large coalition of officials", "NYC government branding"]
+  }
+}

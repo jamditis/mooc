@@ -1,0 +1,72 @@
+{
+  "video_id": "7585930626700709150",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "Doralee Patinki...",
+        "Introduction by M...",
+        "Who could this be? Hello!",
+        "It's the Mayor.",
+        "This is my mother's recipe. Grandma Doralee's",
+        "Grandma Doralee's Jewish cookbook",
+        "Okay, so we're putting this together",
+        "Grind on, on and off."
+      ],
+      "setting": "Residential kitchen, warm and lived-in; cookbook visible with 'Doralee Patinki' on cover",
+      "visual_elements": [
+        "Cookbook cover partially visible (author: Doralee Patinki, Introduction by M...)",
+        "Elderly man with white beard in the kitchen",
+        "Raw potatoes on a counter",
+        "Food processor close-up",
+        "Warm, intimate home kitchen environment",
+        "Mamdani entering and greeting the man"
+      ],
+      "presentation_style": "Warm personal cooking visit; subtitle captions; intimate home setting; Jewish cultural context"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "Shehecheyanu",
+        "v-higanu",
+        "la-z'man ha-zeh",
+        "Amen.",
+        "You're on total tenure, or what is it called,",
+        "Candidly now been blessed."
+      ],
+      "setting": "Same home kitchen and dining area; Hanukkah candles or ceremonial context implied",
+      "visual_elements": [
+        "Mamdani and elderly man bowing heads in prayer/blessing",
+        "Mamdani in white shirt, relaxed attire",
+        "Older couple (man and woman) with Mamdani",
+        "Intimate multigenerational gathering",
+        "Subtitle captions with Hebrew prayer text (Shehecheyanu)"
+      ],
+      "presentation_style": "Personal Hanukkah visit with Jewish prayer recitation; subtitle captions include Hebrew transliteration; warm and reverent tone"
+    },
+    {
+      "grid": "grid_0063.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "A NEW ERA for NEW YORK CITY",
+        "HAPPY HANUKKAH!"
+      ],
+      "setting": "Campaign branded end card (deep blue background)",
+      "visual_elements": [
+        "Bold campaign branding: 'A NEW ERA for NEW YORK CITY'",
+        "Holiday message: 'HAPPY HANUKKAH!' in large bold type",
+        "Blue, white, and red color palette matching campaign identity",
+        "End card in same style as other campaign holiday greetings"
+      ],
+      "presentation_style": "Campaign branded holiday greeting end card; matches campaign visual identity"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Private Jewish home kitchen; ends with branded campaign card",
+    "text_overlay_types": ["dialogue subtitles", "Hebrew prayer transliteration", "campaign holiday greeting card ('HAPPY HANUKKAH!')"],
+    "visual_themes": ["Hanukkah celebration", "Jewish community engagement", "home cooking and tradition", "interfaith outreach", "personal and intimate mayoral connection"]
+  }
+}

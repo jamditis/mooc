@@ -1,0 +1,85 @@
+{
+  "video_id": "DWmWUe3EZ1V",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "how the budget process worked.",
+        "Well my friends, we're in the middle of it now.",
+        "just released her budget proposal.",
+        "$5.4 billion fiscal gap",
+        "without taxing the rich or cutting services.",
+        "The problem? That's not what it would do.",
+        "it would result in slashing",
+        "and working New Yorkers would pay the price",
+        "it double counts savings,"
+      ],
+      "setting": "Office interior — man (Mamdani) seated at a dark wood desk in front of a leather chair. Formal government office with traditional wood furnishings and warm lighting.",
+      "visual_elements": [
+        "talking-head medium shot",
+        "dark wood desk and leather chair",
+        "white subtitles centered at bottom of frame",
+        "suit and tie attire",
+        "formal interior office setting"
+      ],
+      "presentation_style": "Direct-to-camera talking-head monologue with white subtitle captions. Rapid sequential cuts across the 3x3 grid. Formal setting but conversational, urgent tone."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [
+        "savings on interest payments.",
+        "And in the midst of this historic budget deficit,",
+        "the speaker's $6 billion proposal",
+        "more time to reduce class sizes.",
+        "My position? Tax the rich.",
+        "and most profitable corporations",
+        "End the drain.",
+        "than the City has received in return.",
+        "and I'm working with Albany to change that."
+      ],
+      "setting": "Same office interior. Man seated at dark wood desk, then leaning forward gesturing. Formal office setting with lamp visible.",
+      "visual_elements": [
+        "talking-head medium shot",
+        "gesture-forward body language",
+        "white subtitle captions",
+        "dark wood paneling in background",
+        "lamp visible mid-right"
+      ],
+      "presentation_style": "Continuation of direct-to-camera policy explanation. White captions. Gestures used for emphasis on key phrases like 'Tax the rich.'"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "It will repeat.",
+        "asking future generations",
+        "We will solve this budget crisis."
+      ],
+      "setting": "Same office interior. Video winds down to final frames — fewer panels filled, some black. Man seated with hands clasped.",
+      "visual_elements": [
+        "talking-head shot",
+        "clasped hands on desk",
+        "concluding/resolution framing",
+        "white subtitle captions",
+        "mostly black padding indicating near-end of video"
+      ],
+      "presentation_style": "Closing statement framing. Resolute tone. Hands clasped signal conclusion. Video ends with sparse final frames."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Formal office interior with dark wood desk and leather chair — consistent throughout",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions centered at bottom of frame"
+    ],
+    "visual_themes": [
+      "policy explainer / budget debate",
+      "tax-the-rich messaging",
+      "formal government office setting",
+      "direct-to-camera address",
+      "fiscal accountability framing"
+    ]
+  }
+}

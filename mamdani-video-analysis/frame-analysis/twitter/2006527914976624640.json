@@ -1,0 +1,80 @@
+{
+  "video_id": "2006527914976624640",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-54s",
+      "on_screen_text": [
+        "Election Night",
+        "Election Night 7pm",
+        "Someone heard a rumor about two bad exit polls.",
+        "What's going on?",
+        "Just a bad exit poll.",
+        "I speak of Yemeni bodega owners and Mexican abuelas, and Ethiopian aunties.",
+        "This hits different with you as the speaker.",
+        "It's way better."
+      ],
+      "setting": "NYC street exterior at night, then interior hotel or event space with moody lighting, personal room or suite with warm lamp lighting",
+      "visual_elements": [
+        "street-level night shot with truck in background",
+        "man standing at desk in dimly lit room",
+        "subtitle captions in white text at bottom of frame",
+        "on-screen chapter title cards",
+        "indoor scenes with intimate warm lighting"
+      ],
+      "presentation_style": "cinematic documentary with chapter title cards, dialogue-driven subtitles, intimate behind-the-scenes footage shot on election night"
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "54s-99s",
+      "on_screen_text": [
+        "The human mind is a wild thing.",
+        "63% in and it's still holding.",
+        "Brooklyn is still the lowest. Staten Island is now at 83%.",
+        "And you hold totally even there.",
+        "That 8% is not... super inspiring.",
+        "Cause I'm waiting.",
+        "You got anything more to tell?",
+        "MSNBC just called, you need to call."
+      ],
+      "setting": "Dimly lit indoor space, appears to be a campaign watch party or private suite with people gathered around laptops and phones",
+      "visual_elements": [
+        "group of campaign staff watching results on laptops",
+        "tense expressions and body language",
+        "white subtitle text overlays at bottom of frames",
+        "multiple people with phones and devices"
+      ],
+      "presentation_style": "verite documentary capturing real-time tension of election night results watching"
+    },
+    {
+      "grid": "grid_0099.jpg",
+      "timestamp_range": "99s-end",
+      "on_screen_text": [
+        "MAYOR"
+      ],
+      "setting": "Mixed settings: someone editing a 'MAYOR' graphic on a laptop, then a crowded celebration venue with blue and purple lighting",
+      "visual_elements": [
+        "laptop screen displaying 'MAYOR' graphic being designed",
+        "people hugging and celebrating",
+        "blue and purple stage lighting at victory party",
+        "crowd scenes"
+      ],
+      "presentation_style": "emotional documentary culmination showing the moment of victory, transitioning from behind-the-scenes to public celebration"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Election night interior spaces - hotel or event venue, campaign watch party, victory celebration",
+    "text_overlay_types": [
+      "chapter title cards with date/time stamps",
+      "dialogue subtitles",
+      "graphic design on laptop screen"
+    ],
+    "visual_themes": [
+      "behind-the-scenes election night documentary",
+      "tension and relief of awaiting results",
+      "community and coalition building referenced in dialogue",
+      "victory celebration"
+    ]
+  }
+}

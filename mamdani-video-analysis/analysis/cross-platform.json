@@ -28,8 +28,35 @@
         "feel": 8,
         "york": 8
       },
-      "on_screen_text_samples": [],
-      "common_settings": {}
+      "on_screen_text_samples": [
+        "how the budget process worked.",
+        "Well my friends, we're in the middle of it now.",
+        "just released her budget proposal.",
+        "$5.4 billion fiscal gap",
+        "without taxing the rich or cutting services.",
+        "The problem? That's not what it would do.",
+        "it would result in slashing",
+        "and working New Yorkers would pay the price",
+        "it double counts savings,",
+        "savings on interest payments.",
+        "And in the midst of this historic budget deficit,",
+        "the speaker's $6 billion proposal",
+        "more time to reduce class sizes.",
+        "My position? Tax the rich.",
+        "and most profitable corporations",
+        "End the drain.",
+        "than the City has received in return.",
+        "and I'm working with Albany to change that.",
+        "It will repeat.",
+        "asking future generations"
+      ],
+      "common_settings": {
+        "Overhead shot of a Passover seder table with deep blue tablecloth, seder plate, matzah, wine glasses, and ritual items. Hands are visible interacting with the food.": 1,
+        "Single frame showing a dark blue background with the NYC mayoral seal (white circular emblem with eagle, shield, and figures, dated 1625).": 1,
+        "Office interior \u2014 man (Mamdani) seated at a dark wood desk in front of a leather chair. Formal government office with traditional wood furnishings and warm lighting.": 1,
+        "Same office interior. Man seated at dark wood desk, then leaning forward gesturing. Formal office setting with lamp visible.": 1,
+        "Same office interior. Video winds down to final frames \u2014 fewer panels filled, some black. Man seated with hands clasped.": 1
+      }
     },
     "facebook": {
       "video_count": 15,
@@ -59,8 +86,35 @@
         "over": 52,
         "community": 50
       },
-      "on_screen_text_samples": [],
-      "common_settings": {}
+      "on_screen_text_samples": [
+        "NYC Child Care Atlas (visible on projected map screen)",
+        "CHILD CARE",
+        "for ALL",
+        "#NYCCHILDCARE (lower-left banner)",
+        "NYC Child Care Atlas (on projected screen)",
+        "RTV (podium logo)",
+        "how the budget process worked.",
+        "Well my friends, we're in the middle of it now.",
+        "just released her budget proposal.",
+        "$5.4 billion fiscal gap",
+        "without taxing the rich or cutting services.",
+        "The problem? That's not what it would do.",
+        "it would result in slashing",
+        "and working New Yorkers would pay the price",
+        "it double counts savings,",
+        "savings on interest payments.",
+        "And in the midst of this historic budget deficit,",
+        "the speaker's $6 billion proposal",
+        "more time to reduce class sizes.",
+        "My position? Tax the rich."
+      ],
+      "common_settings": {
+        "Large indoor event space or auditorium with a large projected map of NYC on a screen behind a speaker at a podium; audience standing around the perimeter": 1,
+        "Close-up at podium with NYC child care map graphic background; mayor speaking directly to camera": 1,
+        "Dimly lit event hall; speaker at podium with large projected NYC map on multiple screens; seated audience in foreground": 1,
+        "Overhead and close-up shots of a Passover seder table; deep blue tablecloth with traditional seder plate, matzah, wine, and other ritual items": 1,
+        "Single frame showing NYC official seal on a dark blue background; likely a closing card or transition frame": 1
+      }
     },
     "tiktok": {
       "video_count": 15,
@@ -90,8 +144,35 @@
         "care": 9,
         "please": 8
       },
-      "on_screen_text_samples": [],
-      "common_settings": {}
+      "on_screen_text_samples": [
+        "Brad Lander",
+        "Mayor Mamdani",
+        "Some bonds are unbreakable.",
+        "I'm Brad Lander.",
+        "And I'm running for Congress.",
+        "By AIPAC",
+        "And I'm not about to change.",
+        "BradLanderForCongress.com",
+        "Please go to BradLanderForCongress.com",
+        "Because it's not enough to elect Democrats.",
+        "And some things are better together.",
+        "BRAD LANDER for Congress",
+        "BradLanderForCongress.com",
+        "Friends, I'm once again asking for your donation",
+        "For Claire Valdez!",
+        "CLAIRE VALDEZ",
+        "Claire is an assemblymember.",
+        "running for Congress in NY-7",
+        "That's Greenpoint, Williamsburg, Bushwick...",
+        "Ridgewood, Maspeth, Cypress Hills, East New York"
+      ],
+      "common_settings": {
+        "NYC subway station platforms and tunnels; outdoor urban street": 1,
+        "NYC subway station; animated campaign graphic (dark blue grid background)": 1,
+        "NYC subway station platform (City Hall stop visible in background)": 1,
+        "NYC subway station (City Hall station signage visible)": 1,
+        "Animated campaign graphic (solid blue background); QR code card": 1
+      }
     },
     "twitter": {
       "video_count": 16,
@@ -121,8 +202,35 @@
         "good": 8,
         "there": 8
       },
-      "on_screen_text_samples": [],
-      "common_settings": {}
+      "on_screen_text_samples": [
+        "Brad Lander",
+        "Mayor Mamdani",
+        "BRAD LANDER",
+        "A lifelong progressive",
+        "running for Congress",
+        "BradLanderForCongress.com",
+        "So if you have some spare change, please go to BradLanderForCongress.com",
+        "Give whatever you",
+        "We need better Democrats",
+        "And some things are better together",
+        "BRAD LANDER for Congress",
+        "Friends, I'm once again asking you for your donation",
+        "for Claire Valdez",
+        "CLAIRE VALDEZ",
+        "Current assemblymember",
+        "running for Congress in NY-7",
+        "Clark Greenwoodge, Williamsburg, Bushwick, Ridgewood, Maspeth, Woodside, Middle Village, East New York",
+        "a little bit of help goes a long way",
+        "whoa whoa, you just said Ridgewood haha",
+        "we're going to get all..."
+      ],
+      "common_settings": {
+        "NYC subway station at night": 2,
+        "NYC subway station and outdoor NYC street": 1,
+        "NYC subway station platform": 1,
+        "Blue campaign graphic end card": 1,
+        "NYC street exterior at night, then interior hotel or event space with moody lighting, personal room or suite with warm lamp lighting": 1
+      }
     },
     "youtube": {
       "video_count": 15,
@@ -152,8 +260,35 @@
         "said": 11,
         "lot": 11
       },
-      "on_screen_text_samples": [],
-      "common_settings": {}
+      "on_screen_text_samples": [
+        "Election Night",
+        "Election Night 7pm",
+        "Someone heard a rumor about two bad exit polls.",
+        "What's going on?",
+        "Just a bad exit poll.",
+        "I speak of Yemeni bodega owners and Mexican abuelas and Ethiopian aunties.",
+        "This hits so different with you as the speaker.",
+        "It's way better.",
+        "The human mind is a wild thing.",
+        "60% in and it's still holding.",
+        "Brooklyn is still the lowest, Staten Island is now at 83%.",
+        "And you held totally even there.",
+        "That 8% is not... super inspiring.",
+        "Cause you're waiting.",
+        "You got anything more for us?",
+        "MSNBC just called the race for us.",
+        "MAYOR (visible on laptop screen graphic)",
+        "Kaufman",
+        "Museum of the Moving Image",
+        "MUSEUM OF THE MOVING IMAGE"
+      ],
+      "common_settings": {
+        "Mix of outdoor urban night scene (city street with truck, orange ambient light) and dim indoor private room (hotel or campaign suite with desk, lamp, suit jacket visible)": 1,
+        "Dark indoor campaign suite; multiple people gathered around laptops; warm, low-key ambient lighting with some dim overhead light": 1,
+        "Transition from a dimly lit workspace (staff member at laptop with 'MAYOR' graphic visible on screen) to a dark event venue with blue/purple stage lighting; celebration and embraces among supporters": 1,
+        "Exterior of Museum of the Moving Image in Astoria, Queens; wide shot of building facade and signage; interior shots of a minimalist white institutional space with chairs and tables; bus in parking lot": 1,
+        "Office or civic meeting room with large windows and natural light; plants visible; candidate seated at a table in a suit listening and on phone": 1
+      }
     }
   },
   "platform_count": 5,

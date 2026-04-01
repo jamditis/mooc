@@ -1,0 +1,84 @@
+{
+  "video_id": "s_hR4A1_sew",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:54",
+      "on_screen_text": [
+        "Election Night",
+        "Election Night 7pm",
+        "Someone heard a rumor about two bad exit polls.",
+        "What's going on?",
+        "Just a bad exit poll.",
+        "I speak of Yemeni bodega owners and Mexican abuelas and Ethiopian aunties.",
+        "This hits so different with you as the speaker.",
+        "It's way better."
+      ],
+      "setting": "Mix of outdoor urban night scene (city street with truck, orange ambient light) and dim indoor private room (hotel or campaign suite with desk, lamp, suit jacket visible)",
+      "visual_elements": [
+        "White subtitle text on dark background",
+        "Location/time text overlay ('Election Night', 'Election Night 7pm')",
+        "Candidate in suit and tie at a desk",
+        "Dramatic low-key lighting",
+        "Multi-panel grid layout showing sequential moments"
+      ],
+      "presentation_style": "Cinematic documentary; narrative captions establish time and place; intimate behind-the-scenes election night footage"
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "0:54-1:39",
+      "on_screen_text": [
+        "The human mind is a wild thing.",
+        "60% in and it's still holding.",
+        "Brooklyn is still the lowest, Staten Island is now at 83%.",
+        "And you held totally even there.",
+        "That 8% is not... super inspiring.",
+        "Cause you're waiting.",
+        "You got anything more for us?",
+        "MSNBC just called the race for us."
+      ],
+      "setting": "Dark indoor campaign suite; multiple people gathered around laptops; warm, low-key ambient lighting with some dim overhead light",
+      "visual_elements": [
+        "Group of campaign staffers/advisors huddled around laptops",
+        "Candidate in suit among team",
+        "White subtitle captions",
+        "Tense, focused body language",
+        "Close-up shots of faces showing anxiety and anticipation",
+        "Laptop screens showing election data"
+      ],
+      "presentation_style": "Fly-on-the-wall documentary; real-time election night tension captured in intimate close-ups; no heavy graphic treatment"
+    },
+    {
+      "grid": "grid_0099.jpg",
+      "timestamp_range": "1:39-end",
+      "on_screen_text": [
+        "MAYOR (visible on laptop screen graphic)"
+      ],
+      "setting": "Transition from a dimly lit workspace (staff member at laptop with 'MAYOR' graphic visible on screen) to a dark event venue with blue/purple stage lighting; celebration and embraces among supporters",
+      "visual_elements": [
+        "Laptop screen showing a 'MAYOR' victory graphic",
+        "Election night celebration crowd",
+        "Blue and purple stage lighting",
+        "Embraces and emotional reactions",
+        "Partially black frames (video ending)"
+      ],
+      "presentation_style": "Emotional documentary climax; low-light celebration footage; no text overlays in final frames; raw, unpolished victory atmosphere"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Campaign election night suite and victory celebration venue",
+    "text_overlay_types": [
+      "Time and location title cards",
+      "Dialogue subtitle captions",
+      "Victory graphic on laptop screen"
+    ],
+    "visual_themes": [
+      "Behind-the-scenes intimacy",
+      "Election night tension and relief",
+      "Cinematic low-key lighting",
+      "Authentic documentary style",
+      "Multi-person campaign team dynamics"
+    ]
+  }
+}

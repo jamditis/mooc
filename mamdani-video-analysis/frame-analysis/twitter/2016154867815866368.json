@@ -1,0 +1,35 @@
+{
+  "video_id": "2016154867815866368",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-24s",
+      "on_screen_text": ["Friends, I'm once again asking you for your donation", "for Claire Valdez", "CLAIRE VALDEZ", "Current assemblymember", "running for Congress in NY-7", "Clark Greenwoodge, Williamsburg, Bushwick, Ridgewood, Maspeth, Woodside, Middle Village, East New York", "a little bit of help goes a long way", "whoa whoa, you just said Ridgewood haha"],
+      "setting": "NYC subway station at night",
+      "visual_elements": ["Mamdani in suit with red tie", "Claire Valdez in black jacket", "subway Q train", "subway platform signs"],
+      "presentation_style": "casual endorsement video, handheld, subway station setting with banter"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "27s-51s",
+      "on_screen_text": ["we're going to get all...", "That's not her thing!", "Where can they do that again?", "ClaireValdezForCongress.com", "Thank you, Mr. Mayor", "Please donate to her", "Please!"],
+      "setting": "NYC subway station at night",
+      "visual_elements": ["Mamdani and Valdez side by side on platform", "campaign URL overlay in yellow"],
+      "presentation_style": "casual endorsement with donation ask"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "54s-60s",
+      "on_screen_text": ["CLAIRE VALDEZ FOR CONGRESS", "CLAIREVALDEZFORCONGRESS.COM", "DEM. PRIMARY June 23", "PAID FOR BY CLAIRE VALDEZ FOR CONGRESS", "QR code"],
+      "setting": "Blue campaign graphic end card",
+      "visual_elements": ["campaign logo", "QR code", "blue background with white and orange text"],
+      "presentation_style": "formal campaign end card with QR code"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "NYC subway station",
+    "text_overlay_types": ["caption subtitles", "name labels", "campaign URL", "campaign end card with QR code"],
+    "visual_themes": ["political endorsement", "casual subway vibe", "progressive Democratic primary"]
+  }
+}

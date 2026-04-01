@@ -1,0 +1,98 @@
+{
+  "video_id": "DWY__3qEYTQ",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "fix (large white text, stylized with 'The City that Never...' branding above)",
+        "like a broken basketball rim",
+        "The first ever competition",
+        "thousands of tiny little problems",
+        "Normally, our incredible city workers",
+        "But over the next two weeks,"
+      ],
+      "setting": "Outdoor basketball court. Mamdani and a woman (wearing NY Yankees jacket) stand at the court. Brick housing project buildings visible in background. Overcast day.",
+      "visual_elements": [
+        "outdoor basketball court",
+        "broken basketball rim (prop/real)",
+        "NYC housing project buildings in background",
+        "Yankees jacket on female co-presenter",
+        "city worker with equipment (ladder/camera)",
+        "stylized 'fix' logo/text in upper left",
+        "white subtitle captions"
+      ],
+      "presentation_style": "On-location direct-to-camera explainer. Promotional campaign video for a public-engagement contest. Multiple speakers. Playful/energetic pacing."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [
+        "you want to see me fix.",
+        "We'll be fixing",
+        "tennis courts on Staten Island.",
+        "gets the most votes.",
+        "Or missing trail markers in Queens.",
+        "I'll complete the winning fix on",
+        "You're already at day 100!",
+        "And we're just getting started.",
+        "So go to NYC.GOV/MADNESS"
+      ],
+      "setting": "Same outdoor basketball court. Mamdani holds a basketball. Workers with ladder visible working on the rim. Mamdani and co-presenter pointing and gesturing.",
+      "visual_elements": [
+        "Mamdani holding basketball",
+        "repair ladder/equipment at basketball rim",
+        "blue 'So go to NYC.GOV/MADNESS' CTA box",
+        "white subtitle captions",
+        "outdoor court chain-link fence",
+        "co-presenter in Yankees jacket"
+      ],
+      "presentation_style": "Public-engagement campaign. Energetic host-style delivery. Clear CTA with URL. March Madness bracket theme applied to city repair requests."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "Go to NYC.GOV/MADNESS (blue CTA box, repeated across frames)",
+        "VOTING WILL GO FROM MARCH 27 - APRIL 2 (yellow bold text overlay)",
+        "Last one, last ooone.",
+        "voting will happen today",
+        "no task too big",
+        "Make sure you vote",
+        "first ever bracket of all time.",
+        "All time.",
+        "ROUNDS OF VOTING: ROUND 1: FRIDAY, 3/27 - SATURDAY, 3/28; ROUND 2: SUNDAY, 3/29 - MONDAY, 3/30; SEMI FINALS: TUESDAY, 3/31 - WEDNESDAY, 4/1; CHAMPIONSHIP: THURSDAY, 4/2 - FRIDAY, 4/2"
+      ],
+      "setting": "Same basketball court, plus graphical schedule slides. One panel shows a full text-over-purple schedule card listing voting rounds.",
+      "visual_elements": [
+        "blue 'Go to NYC.GOV/MADNESS' CTA box (persistent)",
+        "yellow bold 'VOTING WILL GO FROM MARCH 27 - APRIL 2' text overlay",
+        "purple/dark schedule card with round-by-round voting dates",
+        "basketball dunk/basket scoring visual",
+        "Mamdani gesturing at court",
+        "co-presenter",
+        "white subtitle captions"
+      ],
+      "presentation_style": "Promotional campaign video with layered on-screen graphics: persistent CTA URL, date overlay, and full-frame schedule card. March Madness bracket theme. High-energy civic engagement framing."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor NYC public basketball court (housing project backdrop)",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "blue CTA box with URL (NYC.GOV/MADNESS)",
+      "yellow bold event date overlay",
+      "full-frame purple schedule/voting timeline card",
+      "stylized 'fix' campaign logo"
+    ],
+    "visual_themes": [
+      "civic engagement campaign",
+      "March Madness bracket parody for city repairs",
+      "basketball court setting",
+      "public works / 311 complaint resolution",
+      "call-to-action voting mechanics",
+      "day-100 milestone framing"
+    ]
+  }
+}

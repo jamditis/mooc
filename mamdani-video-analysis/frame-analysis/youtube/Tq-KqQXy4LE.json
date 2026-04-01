@@ -1,0 +1,84 @@
+{
+  "video_id": "Tq-KqQXy4LE",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "A NEW ERA (visible on banner in background)",
+        "ICE intentionally realizó una redada en Canal Street / ICE attempted to... on Canal Street",
+        "protegen los derechos de todos los inmigrantes. / protect the rights of every New Yorker.",
+        "los inmigrantes que viven en esta ciudad / who call this city home",
+        "Primero, ICE no puede entrar en espacios privados, como su... / First, ICE cannot enter private areas, like your...",
+        "al área de los hogares de familias privadas / of area of private family homes",
+        "a menos que tengan una orden firmada por un juez. / unless they have an order signed by a judge."
+      ],
+      "setting": "Indoor meeting room or classroom with wood-paneled walls; candidate in suit and tie standing before a whiteboard; a 'A NEW ERA' campaign banner visible on the wall behind him; daylight from windows",
+      "visual_elements": [
+        "Candidate standing and gesturing in an indoor room",
+        "Whiteboard or wall behind candidate",
+        "'A NEW ERA' campaign banner partially visible",
+        "White subtitle captions in both English and Spanish (bilingual)",
+        "Intercut with outdoor crowd footage (ICE protest/response scene)",
+        "Candidate writing on whiteboard in one frame",
+        "Serious, instructional delivery"
+      ],
+      "presentation_style": "Bilingual (English and Spanish) public information video in a classroom/meeting room format; candidate presents 'know your rights' content directly to camera; instructional and urgent tone"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "A NEW ERA (banner in background)",
+        "'Am I free to go?' must legally answer you. / 'Am I free to go?' they must legally answer you.",
+        "You're legally allowed to film ICE.",
+        "siempre y cuando no interfiera con un arresto. / as long as you do not interfere with an arrest.",
+        "Si cualquier miembro de ICE o la policia... / If any ICE or police officer...",
+        "No debes resistirte al arresto, no debes alejarte o huir. / You should not resist arrest, do not move away or run.",
+        "Los neoyorquinos tienen el derecho constitucional a protestar. / New Yorkers have a constitutional right to protest.",
+        "Cuando sea alcalde, protegeremos ese derecho. / And when I'm Mayor, I will protect that right.",
+        "Nueva York siempre dará la bienvenida a los inmigrantes. / New York will always welcome immigrants.",
+        "y hermanas inmigrantes estén protegidos, apoyados y / to protect, support and..."
+      ],
+      "setting": "Same indoor meeting room; continued direct-to-camera delivery with bilingual subtitles",
+      "visual_elements": [
+        "Candidate speaking directly to camera, standing",
+        "'A NEW ERA' banner consistently visible in background",
+        "Bilingual subtitle captions in two-line format (Spanish above English)",
+        "Serious and authoritative posture",
+        "Clean, simple indoor setting"
+      ],
+      "presentation_style": "Continued bilingual 'know your rights' instructional video; strong civic rights messaging; candidate presents as a legal authority figure; consistent framing"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-end",
+      "on_screen_text": [
+        "A NEW ERA (banner in background)"
+      ],
+      "setting": "Same indoor meeting room; single active panel (top-left), rest of grid is black, indicating end of video",
+      "visual_elements": [
+        "Candidate in suit at desk, composed and seated",
+        "'A NEW ERA' campaign banner visible on wall",
+        "Final static frame before video ends",
+        "Majority black frame panels"
+      ],
+      "presentation_style": "Video concludes without a dedicated outro card in this final grid; campaign banner serves as ambient branding throughout rather than a closing graphic"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Indoor meeting room or classroom with wood-paneled walls and a campaign banner",
+    "text_overlay_types": [
+      "Bilingual subtitle captions (Spanish and English, two-line format)",
+      "'A NEW ERA' campaign banner as ambient background branding"
+    ],
+    "visual_themes": [
+      "Know your rights / immigrant rights public information",
+      "Bilingual communication (Spanish and English)",
+      "Direct-to-camera instructional delivery",
+      "Civic and legal rights emphasis",
+      "Candidate as advocate and educator"
+    ]
+  }
+}

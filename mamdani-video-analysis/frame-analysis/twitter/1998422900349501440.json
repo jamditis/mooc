@@ -1,0 +1,88 @@
+{
+  "video_id": "1998422900349501440",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-9s",
+      "on_screen_text": [
+        "Time flies.",
+        "But before then,",
+        "I am once again asking for your support.",
+        "And I want to tell you a little bit more about why we need it.",
+        "We've got a full plate getting ready for January.",
+        "We're reviewing the more than 70,000 resumes we received.",
+        "Gaming our appointments who will turn policy into progress.",
+        "and budgeting-"
+      ],
+      "setting": "Outdoor urban setting - appears to be a pedestrian area with brick architecture, elevated rail structure visible in background, bare winter trees",
+      "visual_elements": [
+        "man in dark coat walking directly toward camera on an urban pedestrian path",
+        "brick building or market structure in background",
+        "bare winter trees",
+        "elevated train structure visible",
+        "subtitle captions throughout",
+        "direct-to-camera walking style address"
+      ],
+      "presentation_style": "walking-to-camera fundraising appeal video, casual direct address while walking in an outdoor NYC location"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "9s-18s",
+      "on_screen_text": [
+        "all so excited to share with you soon.",
+        "all so we can start delivering on our affordability agenda",
+        "without skipping a beat.",
+        "We're already at $5.5 million from more than 30,000 donors.",
+        "each and every one of your contributions.",
+        "Transitions do not get public matching funds from the city.",
+        "That means we need just a bit more.",
+        "And I promise two things:",
+        "to buy hand warmers"
+      ],
+      "setting": "Same outdoor urban pedestrian area with brick market or train station architecture",
+      "visual_elements": [
+        "candidate gesturing while speaking to camera",
+        "continues walking and speaking in outdoor location",
+        "subtitle captions throughout",
+        "urban winter setting"
+      ],
+      "presentation_style": "continued fundraising appeal with specific dollar amounts and donor counts, walking delivery style"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-end",
+      "on_screen_text": [
+        "TRANSITION2025.COM",
+        "TO BE CONTINUED...",
+        "A NEW ERA",
+        "for NEW YORK CITY",
+        "I will stop making these fundraising videos."
+      ],
+      "setting": "Outdoor location, then end cards with campaign branding",
+      "visual_elements": [
+        "candidate seated at outdoor bench or table",
+        "TRANSITION2025.COM URL overlay in white text",
+        "black screen with static/noise pattern behind 'TO BE CONTINUED...' text",
+        "'A NEW ERA for NEW YORK CITY' campaign logo",
+        "humorous 'to be continued' cliffhanger graphic"
+      ],
+      "presentation_style": "fundraising video with a humorous 'to be continued' ending, prominent website URL call-to-action, campaign logo end card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor urban pedestrian area in NYC, winter setting, brick architecture and elevated rail structure",
+    "text_overlay_types": [
+      "dialogue subtitle captions",
+      "website URL call-to-action (TRANSITION2025.COM)",
+      "humorous 'TO BE CONTINUED' graphic",
+      "campaign end card logo"
+    ],
+    "visual_themes": [
+      "transition fundraising appeal",
+      "walking-to-camera direct address style",
+      "donor statistics and fundraising progress",
+      "humor to soften fundraising ask"
+    ]
+  }
+}
