@@ -1,0 +1,1252 @@
+{
+  "per_video": {
+    "DWmgu9fESV_": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 2
+    },
+    "DWmWUe3EZ1V": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 3,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.75,
+        "urgent": 0.25
+      },
+      "dominant_tone": "negative",
+      "word_count": 201
+    },
+    "1238505278271315": {
+      "title": "Mayor Mamdani Holds Press Conference to Make a Child Care Announcement",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 20,
+        "negative": 19,
+        "urgent": 52
+      },
+      "normalized": {
+        "positive": 0.22,
+        "negative": 0.209,
+        "urgent": 0.571
+      },
+      "dominant_tone": "urgent",
+      "word_count": 4469
+    },
+    "810778714884189": {
+      "title": "142K views \u00c2\u00b7 453 reactions | Happy Passover, Chag Pesach Sameach, and a Zissen un Koshern Pesach! | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 2
+    },
+    "992279556558448": {
+      "title": "147K views \u00c2\u00b7 933 reactions | What New Yorkers should know about the budget proposal that New York City Council released today. | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 3,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.75,
+        "urgent": 0.25
+      },
+      "dominant_tone": "negative",
+      "word_count": 201
+    },
+    "1860854987947164": {
+      "title": "Mayor Mamdani Holds Press Conference to Make an Infrastructure Improvement Announcement",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 34,
+        "negative": 1,
+        "urgent": 34
+      },
+      "normalized": {
+        "positive": 0.493,
+        "negative": 0.014,
+        "urgent": 0.493
+      },
+      "dominant_tone": "positive",
+      "word_count": 2926
+    },
+    "DWgwSVekTpF": {
+      "title": "Video by bambambaklava",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 330
+    },
+    "2119360418822675": {
+      "title": "Mayor Zohran Mamdani Holds Press Conference to Make a Child Care Announcement",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 38,
+        "negative": 24,
+        "urgent": 25
+      },
+      "normalized": {
+        "positive": 0.437,
+        "negative": 0.276,
+        "urgent": 0.287
+      },
+      "dominant_tone": "positive",
+      "word_count": 4827
+    },
+    "DWY__3qEYTQ": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 4,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.429,
+        "negative": 0.571,
+        "urgent": 0.0
+      },
+      "dominant_tone": "negative",
+      "word_count": 241
+    },
+    "793203993833857": {
+      "title": "865K views \u00c2\u00b7 16K reactions | New Yorkers, join us in the first ever Mayor\u00e2\u20ac\u2122s Municipal Madness: a competition of city fixes where everyone wins. City workers fix thousands of tiny annoyances every year",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 4,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.429,
+        "negative": 0.571,
+        "urgent": 0.0
+      },
+      "dominant_tone": "negative",
+      "word_count": 241
+    },
+    "939283565126763": {
+      "title": "Mayor Mamdani Holds a Press Conference to Make a Street Safety Announcement",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 41,
+        "negative": 4,
+        "urgent": 33
+      },
+      "normalized": {
+        "positive": 0.526,
+        "negative": 0.051,
+        "urgent": 0.423
+      },
+      "dominant_tone": "positive",
+      "word_count": 4055
+    },
+    "DWWm3UqkXf1": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.429,
+        "negative": 0.0,
+        "urgent": 0.571
+      },
+      "dominant_tone": "urgent",
+      "word_count": 328
+    },
+    "1676074316905665": {
+      "title": "241K views \u00c2\u00b7 3.5K reactions | Who decides whether or not stabilized rents are raised? Meet the Rent Guidelines Board. Here\u00e2\u20ac\u2122s what you should know about the board and how to make your voice heard. | Ma",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.429,
+        "negative": 0.0,
+        "urgent": 0.571
+      },
+      "dominant_tone": "urgent",
+      "word_count": 326
+    },
+    "DWSYw_SEfNe": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 3,
+        "urgent": 2
+      },
+      "normalized": {
+        "positive": 0.286,
+        "negative": 0.429,
+        "urgent": 0.286
+      },
+      "dominant_tone": "negative",
+      "word_count": 500
+    },
+    "DWTz5zIkRLY": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 5,
+        "negative": 2,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.714,
+        "negative": 0.286,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 345
+    },
+    "1427791955119421": {
+      "title": "475K views \u00c2\u00b7 9.4K reactions | Government must deliver for working people\u00e2\u20ac\u201dand every dollar in our budget should work as hard as they do. That\u00e2\u20ac\u2122s why I directed every agency to cut waste and help close o",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 5,
+        "negative": 2,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.714,
+        "negative": 0.286,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 345
+    },
+    "3334870776684027": {
+      "title": "1.4M views \u00c2\u00b7 14K reactions | Happy Nowruz, New York City.\u00ef\u00bf\u00bd\u00ef\u00bf\u00bdAs Persian and other communities welcome the new year, I joined some members of our team to learn the about the Haft-seen table \u00e2\u20ac\u201d a tradition",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 3,
+        "urgent": 2
+      },
+      "normalized": {
+        "positive": 0.286,
+        "negative": 0.429,
+        "urgent": 0.286
+      },
+      "dominant_tone": "negative",
+      "word_count": 500
+    },
+    "3963158093976580": {
+      "title": "Mayor Mamdani Holds Press Conference to Make an Affordable Housing Announcement",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 55,
+        "negative": 34,
+        "urgent": 33
+      },
+      "normalized": {
+        "positive": 0.451,
+        "negative": 0.279,
+        "urgent": 0.27
+      },
+      "dominant_tone": "positive",
+      "word_count": 4304
+    },
+    "DWGubHPkWC5": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 205
+    },
+    "1515680729887629": {
+      "title": "666K views \u00c2\u00b7 15K reactions | Eid Mubarak, New York. Watch the full documentary short at YouTube.com/nycmayorsoffice | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 191
+    },
+    "26023158683974073": {
+      "title": "Mayor Mamdani Holds Press Conference to Make an Announcement",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 54,
+        "negative": 39,
+        "urgent": 50
+      },
+      "normalized": {
+        "positive": 0.378,
+        "negative": 0.273,
+        "urgent": 0.35
+      },
+      "dominant_tone": "positive",
+      "word_count": 6343
+    },
+    "DWCi_70EVza": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 5,
+        "negative": 0,
+        "urgent": 6
+      },
+      "normalized": {
+        "positive": 0.455,
+        "negative": 0.0,
+        "urgent": 0.545
+      },
+      "dominant_tone": "urgent",
+      "word_count": 251
+    },
+    "1250618806654589": {
+      "title": "371K views \u00c2\u00b7 6.3K reactions | Harlem night with Mo Diawara. New York Forever. | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 5,
+        "negative": 0,
+        "urgent": 6
+      },
+      "normalized": {
+        "positive": 0.455,
+        "negative": 0.0,
+        "urgent": 0.545
+      },
+      "dominant_tone": "urgent",
+      "word_count": 290
+    },
+    "DV_c5ZJETpW": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 5
+      },
+      "normalized": {
+        "positive": 0.375,
+        "negative": 0.0,
+        "urgent": 0.625
+      },
+      "dominant_tone": "urgent",
+      "word_count": 542
+    },
+    "DV_JL69ES1I": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 203
+    },
+    "1614085309624677": {
+      "title": "1.7M views \u00c2\u00b7 61K reactions | Happy St. Patrick\u00e2\u20ac\u2122s Day, New York. | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.429,
+        "negative": 0.0,
+        "urgent": 0.571
+      },
+      "dominant_tone": "urgent",
+      "word_count": 534
+    },
+    "DVzkigfEZLt": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 2
+      },
+      "normalized": {
+        "positive": 0.333,
+        "negative": 0.0,
+        "urgent": 0.667
+      },
+      "dominant_tone": "urgent",
+      "word_count": 89
+    },
+    "DVwFzoPkYOT": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 19
+    },
+    "DVt-Of4Ee6A": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 330
+    },
+    "DVrokd0EaPs": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 1,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.5,
+        "negative": 0.5,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 265
+    },
+    "7610918633673379103": {
+      "title": "I\u00e2\u20ac\u2122m proud to be supporting my friend Brad Lander for Congress.\u00c2\u00a0 @Brad...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 4,
+        "negative": 0,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.8,
+        "negative": 0.0,
+        "urgent": 0.2
+      },
+      "dominant_tone": "positive",
+      "word_count": 79
+    },
+    "2026771477794574337": {
+      "title": "Zohran Kwame Mamdani - I\u00e2\u20ac\u2122m proud to be supporting my friend Brad Lander for Congress.\u00c2\u00a0  @Bra...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 4,
+        "negative": 0,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.8,
+        "negative": 0.0,
+        "urgent": 0.2
+      },
+      "dominant_tone": "positive",
+      "word_count": 90
+    },
+    "7600042219541761311": {
+      "title": "Friends, I'm once again asking you to donate \u00e2\u20ac\u201d but not to me! @claire...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 170
+    },
+    "2016154867815866368": {
+      "title": "Zohran Kwame Mamdani - Friends, I\u00e2\u20ac\u2122m once again asking you to donate. But not to me!   @clair...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 170
+    },
+    "7597265072708177182": {
+      "title": "\u00f0\u0178\u2021\u00b2\u00f0\u0178\u2021\u00a6\u00f0\u0178\u2014\u00bd\u00f0\u0178\u2021\u00b8\u00f0\u0178\u2021\u00b3",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 29
+    },
+    "s_hR4A1_sew": {
+      "title": "Revisiting Election Night",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 9
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 553
+    },
+    "7590188347398573343": {
+      "title": "Before the victory speech and celebrations on November 4, there were ...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 7
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 572
+    },
+    "2006527914976624640": {
+      "title": "Zohran Kwame Mamdani - Before the victory speech and celebrations on November 4, there were ...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 7
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 561
+    },
+    "xj89tYvwr6k": {
+      "title": "THE MAYOR IS LISTENING",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 15,
+        "negative": 9,
+        "urgent": 43
+      },
+      "normalized": {
+        "positive": 0.224,
+        "negative": 0.134,
+        "urgent": 0.642
+      },
+      "dominant_tone": "urgent",
+      "word_count": 3237
+    },
+    "7590114344952778015": {
+      "title": "On December 14th, I sat across from 142 New Yorkers as they shared th...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 4,
+        "negative": 4,
+        "urgent": 6
+      },
+      "normalized": {
+        "positive": 0.286,
+        "negative": 0.286,
+        "urgent": 0.429
+      },
+      "dominant_tone": "urgent",
+      "word_count": 585
+    },
+    "2006456525590560768": {
+      "title": "Zohran Kwame Mamdani - On December 14th, I sat across from 142 New Yorkers as they shared th...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 4,
+        "negative": 3,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.364,
+        "negative": 0.273,
+        "urgent": 0.364
+      },
+      "dominant_tone": "positive",
+      "word_count": 575
+    },
+    "LaZ2hNDZjFc": {
+      "title": "\"I Want To Do Something About It\" - Concerns From a Young New Yorker",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 194
+    },
+    "7588968577248627998": {
+      "title": "Two weeks ago I spent the whole day at Museum of the Moving Image to ...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 195
+    },
+    "2005339405079257088": {
+      "title": "Zohran Kwame Mamdani - Two weeks ago I spent the whole day at @MovingImageNYC to listen to N...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 193
+    },
+    "onvdHISKzAU": {
+      "title": "My #1 Canvasser: My Mother",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.4,
+        "negative": 0.0,
+        "urgent": 0.6
+      },
+      "dominant_tone": "urgent",
+      "word_count": 321
+    },
+    "7588235919799422239": {
+      "title": "In less than a week, I will be sworn in as the next mayor of New York...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.4,
+        "negative": 0.0,
+        "urgent": 0.6
+      },
+      "dominant_tone": "urgent",
+      "word_count": 332
+    },
+    "2004621971980533760": {
+      "title": "Zohran Kwame Mamdani - In less than a week, I will be sworn in as the next mayor of New York...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.4,
+        "negative": 0.0,
+        "urgent": 0.6
+      },
+      "dominant_tone": "urgent",
+      "word_count": 301
+    },
+    "ayG-4CPpI0w": {
+      "title": "Most New Yorkers Can't Afford Childcare",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 4,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.286,
+        "negative": 0.571,
+        "urgent": 0.143
+      },
+      "dominant_tone": "negative",
+      "word_count": 296
+    },
+    "7587933046901361934": {
+      "title": "A big thank you to Shaw-nae for warmly welcoming us, sharing her hist...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 124
+    },
+    "7587850681113971999": {
+      "title": "Merry Christmas, New York City \u00f0\u0178\u017d\u201e\u00f0\u0178\u2014\u00bd [Animation by Sarah Elawad]",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 1
+    },
+    "7587616948700171550": {
+      "title": "Most New Yorkers can\u00e2\u20ac\u2122t afford childcare.",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 4,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.286,
+        "negative": 0.571,
+        "urgent": 0.143
+      },
+      "dominant_tone": "negative",
+      "word_count": 291
+    },
+    "2003979931135492097": {
+      "title": "Zohran Kwame Mamdani - Most New Yorkers can't afford childcare.",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 4,
+        "urgent": 2
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.5,
+        "urgent": 0.25
+      },
+      "dominant_tone": "negative",
+      "word_count": 312
+    },
+    "2004239618892324865": {
+      "title": "Zohran Kwame Mamdani - Merry Christmas, New York City \u00f0\u0178\u017d\u201e\u00f0\u0178\u2014\u00bd  [Animation by Sarah Elawad]",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 1
+    },
+    "2004324954913808384": {
+      "title": "Zohran Kwame Mamdani - A big thank you to Shaw-nae for warmly welcoming us, sharing her hist...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 124
+    },
+    "Atlw-hdpha4": {
+      "title": "The Inauguration of a New Era",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.2,
+        "negative": 0.0,
+        "urgent": 0.8
+      },
+      "dominant_tone": "urgent",
+      "word_count": 139
+    },
+    "7586328185348934943": {
+      "title": "New York, this moment belongs to you. Please join us for the Inaugura...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.2,
+        "negative": 0.0,
+        "urgent": 0.8
+      },
+      "dominant_tone": "urgent",
+      "word_count": 213
+    },
+    "2002759156156026880": {
+      "title": "Zohran Kwame Mamdani - New York, this moment belongs to you. Please join us for the Inaugura...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 1,
+        "urgent": 5
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.125,
+        "urgent": 0.625
+      },
+      "dominant_tone": "urgent",
+      "word_count": 191
+    },
+    "KIxAKyioXng": {
+      "title": "Happy Hanukkah",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.0,
+        "urgent": 0.75
+      },
+      "dominant_tone": "urgent",
+      "word_count": 472
+    },
+    "7585930626700709150": {
+      "title": "It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.0,
+        "urgent": 0.75
+      },
+      "dominant_tone": "urgent",
+      "word_count": 464
+    },
+    "2002370607917199361": {
+      "title": "Zohran Kwame Mamdani - It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.0,
+        "urgent": 0.75
+      },
+      "dominant_tone": "urgent",
+      "word_count": 483
+    },
+    "qZdCGroDHHo": {
+      "title": "Mayor for 8,478,000 New Yorkers",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 4
+    },
+    "7584631558447926541": {
+      "title": "This past Sunday, from 8am to 8pm, New Yorkers from every corner of o...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 38
+    },
+    "2001097538137444355": {
+      "title": "Zohran Kwame Mamdani - This past Sunday, from 8am to 8pm, New Yorkers from every corner of o...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "neutral",
+      "word_count": 5
+    },
+    "XuD40RSFhl4": {
+      "title": "Kuf Alef Kislev",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 48
+    },
+    "7582732952430234910": {
+      "title": "Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar...",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 48
+    },
+    "7582675039246454071": {
+      "title": "Meet my new bosses.",
+      "platform": "tiktok",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 0,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.0,
+        "urgent": 1.0
+      },
+      "dominant_tone": "urgent",
+      "word_count": 241
+    },
+    "1999245343456653313": {
+      "title": "Zohran Kwame Mamdani - Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 48
+    },
+    "6q500M3Qqfc": {
+      "title": "I'm Asking For Your Donations One More Time",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 238
+    },
+    "1998422900349501440": {
+      "title": "Zohran Kwame Mamdani - One last time.",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 249
+    },
+    "Tq-KqQXy4LE": {
+      "title": "Know Your Rights When Dealing With ICE",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 5,
+        "negative": 1,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.556,
+        "negative": 0.111,
+        "urgent": 0.333
+      },
+      "dominant_tone": "positive",
+      "word_count": 287
+    },
+    "1997711472353214464": {
+      "title": "Zohran Kwame Mamdani - Know your rights. Protect your neighbors.  New York is \u00e2\u20ac\u201d and always w...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 5,
+        "negative": 1,
+        "urgent": 3
+      },
+      "normalized": {
+        "positive": 0.556,
+        "negative": 0.111,
+        "urgent": 0.333
+      },
+      "dominant_tone": "positive",
+      "word_count": 270
+    },
+    "fXRso8vCfcA": {
+      "title": "Starbucks on Strike! With Bernie Sanders",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 2,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.25,
+        "urgent": 0.5
+      },
+      "dominant_tone": "urgent",
+      "word_count": 306
+    },
+    "1996610139332247552": {
+      "title": "Zohran Kwame Mamdani - More than 2,500 Starbucks workers are on strike. They\u00e2\u20ac\u2122re demanding di...",
+      "platform": "twitter",
+      "raw_counts": {
+        "positive": 2,
+        "negative": 2,
+        "urgent": 4
+      },
+      "normalized": {
+        "positive": 0.25,
+        "negative": 0.25,
+        "urgent": 0.5
+      },
+      "dominant_tone": "urgent",
+      "word_count": 306
+    },
+    "CXnfID1Lw0c": {
+      "title": "No Contract? No Coffee!",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 0,
+        "negative": 1,
+        "urgent": 2
+      },
+      "normalized": {
+        "positive": 0.0,
+        "negative": 0.333,
+        "urgent": 0.667
+      },
+      "dominant_tone": "urgent",
+      "word_count": 259
+    },
+    "u9BoAJzlfHw": {
+      "title": "Getting the Team Together",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 1,
+        "negative": 0,
+        "urgent": 0
+      },
+      "normalized": {
+        "positive": 1.0,
+        "negative": 0.0,
+        "urgent": 0.0
+      },
+      "dominant_tone": "positive",
+      "word_count": 135
+    },
+    "h-hmxt6NdMg": {
+      "title": "We need your help! But let me explain why.",
+      "platform": "youtube",
+      "raw_counts": {
+        "positive": 3,
+        "negative": 1,
+        "urgent": 1
+      },
+      "normalized": {
+        "positive": 0.6,
+        "negative": 0.2,
+        "urgent": 0.2
+      },
+      "dominant_tone": "positive",
+      "word_count": 299
+    }
+  },
+  "per_platform": {
+    "instagram": {
+      "positive": 28,
+      "negative": 13,
+      "urgent": 23,
+      "count": 15
+    },
+    "facebook": {
+      "positive": 264,
+      "negative": 133,
+      "urgent": 244,
+      "count": 15
+    },
+    "tiktok": {
+      "positive": 17,
+      "negative": 8,
+      "urgent": 28,
+      "count": 15
+    },
+    "twitter": {
+      "positive": 28,
+      "negative": 11,
+      "urgent": 33,
+      "count": 16
+    },
+    "youtube": {
+      "positive": 38,
+      "negative": 18,
+      "urgent": 73,
+      "count": 15
+    }
+  }
+}

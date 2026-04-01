@@ -38,19 +38,10 @@ def extract_frames(video_path: Path, platform: str, video_id: str) -> int:
 
     try:
         subprocess.run(cmd, check=True, timeout=120)
+        # frame_0000.jpg = 0s, frame_0001.jpg = 3s, frame_0002.jpg = 6s, etc.
         frames = list(out_dir.glob("frame_*.jpg"))
-
-        # Rename frames to use seconds instead of sequence numbers
-        for frame in sorted(frames):
-            seq = int(frame.stem.split("_")[1])
-            seconds = seq * 3
-            new_name = out_dir / f"frame_{seconds:04d}.jpg"
-            if frame != new_name:
-                frame.rename(new_name)
-
-        final_frames = list(out_dir.glob("frame_*.jpg"))
-        print(f"  OK: {len(final_frames)} frames from {video_id}")
-        return len(final_frames)
+        print(f"  OK: {len(frames)} frames from {video_id}")
+        return len(frames)
 
     except subprocess.CalledProcessError as e:
         print(f"  FAILED: {video_id}: {e}")
