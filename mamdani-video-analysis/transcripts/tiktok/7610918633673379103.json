@@ -1,0 +1,879 @@
+{
+  "text": " Some bonds are unbreakable. Some ties are unshakable. And winning coalitions are still makeable. And action. I'm Brad Lander, a lifelong progressive, and I'm running for Congress. A lifelong progressive? You mean you haven't sold out to special interests? Or APAC either. That's impressive. No, it shouldn't be. And I'm not about to change. But Congress needs to. Please go to bradlanderforcongress.com. Because it's not enough to elect Democrats. We need better Democrats. And some things are better together.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 6.8199999999999985,
+      "end": 8.54,
+      "text": " Some bonds are unbreakable.",
+      "tokens": [
+        50365,
+        2188,
+        14713,
+        366,
+        517,
+        13225,
+        712,
+        13,
+        50793
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " Some",
+          "start": 6.8199999999999985,
+          "end": 7.26,
+          "probability": 0.3081934154033661
+        },
+        {
+          "word": " bonds",
+          "start": 7.26,
+          "end": 7.7,
+          "probability": 0.98378986120224
+        },
+        {
+          "word": " are",
+          "start": 7.7,
+          "end": 7.9,
+          "probability": 0.9942951798439026
+        },
+        {
+          "word": " unbreakable.",
+          "start": 7.9,
+          "end": 8.54,
+          "probability": 0.9975453019142151
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 8.68,
+      "end": 9.92,
+      "text": " Some ties are unshakable.",
+      "tokens": [
+        50801,
+        2188,
+        14039,
+        366,
+        2693,
+        37253,
+        712,
+        13,
+        50861
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " Some",
+          "start": 8.68,
+          "end": 8.88,
+          "probability": 0.9627496600151062
+        },
+        {
+          "word": " ties",
+          "start": 8.88,
+          "end": 9.16,
+          "probability": 0.9995430707931519
+        },
+        {
+          "word": " are",
+          "start": 9.16,
+          "end": 9.36,
+          "probability": 0.9974874258041382
+        },
+        {
+          "word": " unshakable.",
+          "start": 9.36,
+          "end": 9.92,
+          "probability": 0.9661833842595419
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.24,
+      "end": 12.78,
+      "text": " And winning coalitions are still makeable.",
+      "tokens": [
+        50879,
+        400,
+        8224,
+        10209,
+        2451,
+        366,
+        920,
+        652,
+        712,
+        13,
+        51004
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 10.24,
+          "end": 10.46,
+          "probability": 0.9950356483459473
+        },
+        {
+          "word": " winning",
+          "start": 10.46,
+          "end": 10.76,
+          "probability": 0.995965838432312
+        },
+        {
+          "word": " coalitions",
+          "start": 10.76,
+          "end": 11.44,
+          "probability": 0.9982697367668152
+        },
+        {
+          "word": " are",
+          "start": 11.44,
+          "end": 11.82,
+          "probability": 0.990324854850769
+        },
+        {
+          "word": " still",
+          "start": 11.82,
+          "end": 12.18,
+          "probability": 0.9979756474494934
+        },
+        {
+          "word": " makeable.",
+          "start": 12.18,
+          "end": 12.78,
+          "probability": 0.9833748936653137
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.139999999999997,
+      "end": 15.02,
+      "text": " And action.",
+      "tokens": [
+        51064,
+        400,
+        3069,
+        13,
+        51118
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 14.139999999999997,
+          "end": 14.579999999999998,
+          "probability": 0.7523096203804016
+        },
+        {
+          "word": " action.",
+          "start": 14.579999999999998,
+          "end": 15.02,
+          "probability": 0.9768622517585754
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.98,
+      "end": 19.46,
+      "text": " I'm Brad Lander, a lifelong progressive, and I'm running for Congress.",
+      "tokens": [
+        51174,
+        286,
+        478,
+        11895,
+        441,
+        4483,
+        11,
+        257,
+        27232,
+        16131,
+        11,
+        293,
+        286,
+        478,
+        2614,
+        337,
+        6426,
+        13,
+        51338
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 15.98,
+          "end": 16.42,
+          "probability": 0.991904079914093
+        },
+        {
+          "word": " Brad",
+          "start": 16.42,
+          "end": 16.64,
+          "probability": 0.9988608360290527
+        },
+        {
+          "word": " Lander,",
+          "start": 16.64,
+          "end": 17.0,
+          "probability": 0.9885308742523193
+        },
+        {
+          "word": " a",
+          "start": 17.18,
+          "end": 17.34,
+          "probability": 0.9987884163856506
+        },
+        {
+          "word": " lifelong",
+          "start": 17.34,
+          "end": 17.68,
+          "probability": 0.9908342957496643
+        },
+        {
+          "word": " progressive,",
+          "start": 17.68,
+          "end": 18.16,
+          "probability": 0.9970270991325378
+        },
+        {
+          "word": " and",
+          "start": 18.5,
+          "end": 18.64,
+          "probability": 0.9988210797309875
+        },
+        {
+          "word": " I'm",
+          "start": 18.64,
+          "end": 18.78,
+          "probability": 0.9994843304157257
+        },
+        {
+          "word": " running",
+          "start": 18.78,
+          "end": 18.96,
+          "probability": 0.9991846680641174
+        },
+        {
+          "word": " for",
+          "start": 18.96,
+          "end": 19.1,
+          "probability": 0.9997132420539856
+        },
+        {
+          "word": " Congress.",
+          "start": 19.1,
+          "end": 19.46,
+          "probability": 0.9883241653442383
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.72,
+      "end": 20.46,
+      "text": " A lifelong progressive?",
+      "tokens": [
+        51347,
+        316,
+        27232,
+        16131,
+        30,
+        51387
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " A",
+          "start": 19.72,
+          "end": 19.74,
+          "probability": 0.9830948710441589
+        },
+        {
+          "word": " lifelong",
+          "start": 19.74,
+          "end": 20.02,
+          "probability": 0.9995853304862976
+        },
+        {
+          "word": " progressive?",
+          "start": 20.02,
+          "end": 20.46,
+          "probability": 0.9998445510864258
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 20.62,
+      "end": 22.06,
+      "text": " You mean you haven't sold out to special interests?",
+      "tokens": [
+        51398,
+        509,
+        914,
+        291,
+        2378,
+        380,
+        3718,
+        484,
+        281,
+        2121,
+        8847,
+        30,
+        51469
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " You",
+          "start": 20.62,
+          "end": 20.76,
+          "probability": 0.9986112117767334
+        },
+        {
+          "word": " mean",
+          "start": 20.76,
+          "end": 20.84,
+          "probability": 0.9997808337211609
+        },
+        {
+          "word": " you",
+          "start": 20.84,
+          "end": 20.94,
+          "probability": 0.9986086487770081
+        },
+        {
+          "word": " haven't",
+          "start": 20.94,
+          "end": 21.14,
+          "probability": 0.9999036192893982
+        },
+        {
+          "word": " sold",
+          "start": 21.14,
+          "end": 21.32,
+          "probability": 0.9995664954185486
+        },
+        {
+          "word": " out",
+          "start": 21.32,
+          "end": 21.42,
+          "probability": 0.9981233477592468
+        },
+        {
+          "word": " to",
+          "start": 21.42,
+          "end": 21.56,
+          "probability": 0.6524693965911865
+        },
+        {
+          "word": " special",
+          "start": 21.56,
+          "end": 21.74,
+          "probability": 0.9838476777076721
+        },
+        {
+          "word": " interests?",
+          "start": 21.74,
+          "end": 22.06,
+          "probability": 0.9641423225402832
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 22.18,
+      "end": 22.98,
+      "text": " Or APAC either.",
+      "tokens": [
+        51474,
+        1610,
+        5372,
+        4378,
+        2139,
+        13,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " Or",
+          "start": 22.18,
+          "end": 22.34,
+          "probability": 0.996732234954834
+        },
+        {
+          "word": " APAC",
+          "start": 22.34,
+          "end": 22.74,
+          "probability": 0.9424098134040833
+        },
+        {
+          "word": " either.",
+          "start": 22.74,
+          "end": 22.98,
+          "probability": 0.8684608340263367
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.3,
+      "end": 23.98,
+      "text": " That's impressive.",
+      "tokens": [
+        51531,
+        663,
+        311,
+        8992,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 23.3,
+          "end": 23.58,
+          "probability": 0.9994152188301086
+        },
+        {
+          "word": " impressive.",
+          "start": 23.58,
+          "end": 23.98,
+          "probability": 0.9997597336769104
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 24.16,
+      "end": 24.98,
+      "text": " No, it shouldn't be.",
+      "tokens": [
+        51578,
+        883,
+        11,
+        309,
+        4659,
+        380,
+        312,
+        13,
+        51616
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " No,",
+          "start": 24.16,
+          "end": 24.42,
+          "probability": 0.7125072479248047
+        },
+        {
+          "word": " it",
+          "start": 24.46,
+          "end": 24.54,
+          "probability": 0.9997747540473938
+        },
+        {
+          "word": " shouldn't",
+          "start": 24.54,
+          "end": 24.8,
+          "probability": 0.999795526266098
+        },
+        {
+          "word": " be.",
+          "start": 24.8,
+          "end": 24.98,
+          "probability": 0.9998939037322998
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 25.26,
+      "end": 26.42,
+      "text": " And I'm not about to change.",
+      "tokens": [
+        51632,
+        400,
+        286,
+        478,
+        406,
+        466,
+        281,
+        1319,
+        13,
+        51689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 25.26,
+          "end": 25.54,
+          "probability": 0.9978354573249817
+        },
+        {
+          "word": " I'm",
+          "start": 25.54,
+          "end": 25.66,
+          "probability": 0.9998989105224609
+        },
+        {
+          "word": " not",
+          "start": 25.66,
+          "end": 25.78,
+          "probability": 0.9993684887886047
+        },
+        {
+          "word": " about",
+          "start": 25.78,
+          "end": 25.94,
+          "probability": 0.9997573494911194
+        },
+        {
+          "word": " to",
+          "start": 25.94,
+          "end": 26.08,
+          "probability": 0.9997441172599792
+        },
+        {
+          "word": " change.",
+          "start": 26.08,
+          "end": 26.42,
+          "probability": 0.9998914003372192
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 26.56,
+      "end": 27.5,
+      "text": " But Congress needs to.",
+      "tokens": [
+        51695,
+        583,
+        6426,
+        2203,
+        281,
+        13,
+        51742
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " But",
+          "start": 26.56,
+          "end": 26.7,
+          "probability": 0.8371731638908386
+        },
+        {
+          "word": " Congress",
+          "start": 26.7,
+          "end": 27.0,
+          "probability": 0.9994871616363525
+        },
+        {
+          "word": " needs",
+          "start": 27.0,
+          "end": 27.32,
+          "probability": 0.9998084902763367
+        },
+        {
+          "word": " to.",
+          "start": 27.32,
+          "end": 27.5,
+          "probability": 0.9989891648292542
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 27.66,
+      "end": 29.44,
+      "text": " Please go to bradlanderforcongress.com.",
+      "tokens": [
+        51749,
+        2555,
+        352,
+        281,
+        738,
+        345,
+        1661,
+        260,
+        2994,
+        40275,
+        735,
+        13,
+        1112,
+        13,
+        51837
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.20585495233535767,
+      "compression_ratio": 1.6382113821138211,
+      "no_speech_prob": 6.752902490664292e-12,
+      "words": [
+        {
+          "word": " Please",
+          "start": 27.66,
+          "end": 27.88,
+          "probability": 0.9915674328804016
+        },
+        {
+          "word": " go",
+          "start": 27.88,
+          "end": 28.04,
+          "probability": 0.9993641972541809
+        },
+        {
+          "word": " to",
+          "start": 28.04,
+          "end": 28.12,
+          "probability": 0.9997324347496033
+        },
+        {
+          "word": " bradlanderforcongress",
+          "start": 28.12,
+          "end": 29.02,
+          "probability": 0.9103679146085467
+        },
+        {
+          "word": ".com.",
+          "start": 29.02,
+          "end": 29.44,
+          "probability": 0.9996643662452698
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2944,
+      "start": 29.44,
+      "end": 31.34,
+      "text": " Because it's not enough to elect Democrats.",
+      "tokens": [
+        50365,
+        1436,
+        309,
+        311,
+        406,
+        1547,
+        281,
+        2185,
+        12217,
+        13,
+        50460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27191102504730225,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 2.7825959852262327e-12,
+      "words": [
+        {
+          "word": " Because",
+          "start": 29.44,
+          "end": 29.78,
+          "probability": 0.6572302579879761
+        },
+        {
+          "word": " it's",
+          "start": 29.78,
+          "end": 30.02,
+          "probability": 0.9821526110172272
+        },
+        {
+          "word": " not",
+          "start": 30.02,
+          "end": 30.18,
+          "probability": 0.9990313053131104
+        },
+        {
+          "word": " enough",
+          "start": 30.18,
+          "end": 30.42,
+          "probability": 0.9992639422416687
+        },
+        {
+          "word": " to",
+          "start": 30.42,
+          "end": 30.62,
+          "probability": 0.9976770281791687
+        },
+        {
+          "word": " elect",
+          "start": 30.62,
+          "end": 30.88,
+          "probability": 0.9965818524360657
+        },
+        {
+          "word": " Democrats.",
+          "start": 30.88,
+          "end": 31.34,
+          "probability": 0.8525756001472473
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2944,
+      "start": 31.36,
+      "end": 32.64,
+      "text": " We need better Democrats.",
+      "tokens": [
+        50474,
+        492,
+        643,
+        1101,
+        12217,
+        13,
+        50526
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27191102504730225,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 2.7825959852262327e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 31.36,
+          "end": 31.76,
+          "probability": 0.9503214359283447
+        },
+        {
+          "word": " need",
+          "start": 31.76,
+          "end": 31.92,
+          "probability": 0.9989124536514282
+        },
+        {
+          "word": " better",
+          "start": 31.92,
+          "end": 32.16,
+          "probability": 0.9977939128875732
+        },
+        {
+          "word": " Democrats.",
+          "start": 32.16,
+          "end": 32.64,
+          "probability": 0.9891369342803955
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2944,
+      "start": 33.18,
+      "end": 35.32,
+      "text": " And some things are better together.",
+      "tokens": [
+        50570,
+        400,
+        512,
+        721,
+        366,
+        1101,
+        1214,
+        13,
+        50663
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.27191102504730225,
+      "compression_ratio": 1.2619047619047619,
+      "no_speech_prob": 2.7825959852262327e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 33.18,
+          "end": 33.72,
+          "probability": 0.831347644329071
+        },
+        {
+          "word": " some",
+          "start": 33.72,
+          "end": 34.1,
+          "probability": 0.9299203753471375
+        },
+        {
+          "word": " things",
+          "start": 34.1,
+          "end": 34.3,
+          "probability": 0.9930638670921326
+        },
+        {
+          "word": " are",
+          "start": 34.3,
+          "end": 34.72,
+          "probability": 0.963864266872406
+        },
+        {
+          "word": " better",
+          "start": 34.72,
+          "end": 34.94,
+          "probability": 0.9970412850379944
+        },
+        {
+          "word": " together.",
+          "start": 34.94,
+          "end": 35.32,
+          "probability": 0.9965235590934753
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

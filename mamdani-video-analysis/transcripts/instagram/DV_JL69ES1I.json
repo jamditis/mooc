@@ -1,0 +1,1803 @@
+{
+  "text": " Small businesses are the staples of our communities. Together, they keep our city running. And without them, our city wouldn't survive. And for a small business, keeping the lights on can be a challenge. Especially as revenues change throughout the year for seasonal shops. So New York City needs to do everything in its power to make sure that small businesses succeed. That's why we're excited to announce that applications are once again open for the NYC Future Fund. The NYC Future Fund ensures small business owners have a loan program catered to their individual needs. Such as... Reduced minimum revenue requirements, lower minimum loan size, affordable interest rates. And flexible monthly repayment terms that adjust with seasonal revenues. Because a tough winter shouldn't put your ice cream shop under. We're building a fairer economy for the entrepreneurs who support our neighborhoods. So the local businesses that make our city great stay open year-round. Whether you're serving up the finest homemade Sancocho in the five boroughs. Or you're the bike shop that's always there for the neighborhood. Small businesses are the beating heart of our city's culture. So apply for the NYC Future Fund. It's here for your small business with big dreams.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.14,
+      "text": " Small businesses are the staples of our communities.",
+      "tokens": [
+        50365,
+        15287,
+        6011,
+        366,
+        264,
+        11135,
+        2622,
+        295,
+        527,
+        4456,
+        13,
+        50473
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " Small",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.8562026619911194
+        },
+        {
+          "word": " businesses",
+          "start": 0.28,
+          "end": 0.66,
+          "probability": 0.964682936668396
+        },
+        {
+          "word": " are",
+          "start": 0.66,
+          "end": 1.0,
+          "probability": 0.9966631531715393
+        },
+        {
+          "word": " the",
+          "start": 1.0,
+          "end": 1.12,
+          "probability": 0.9952538013458252
+        },
+        {
+          "word": " staples",
+          "start": 1.12,
+          "end": 1.48,
+          "probability": 0.9922572374343872
+        },
+        {
+          "word": " of",
+          "start": 1.48,
+          "end": 1.62,
+          "probability": 0.9876776337623596
+        },
+        {
+          "word": " our",
+          "start": 1.62,
+          "end": 1.7,
+          "probability": 0.9965189695358276
+        },
+        {
+          "word": " communities.",
+          "start": 1.7,
+          "end": 2.14,
+          "probability": 0.9751119017601013
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.5,
+      "end": 3.98,
+      "text": " Together, they keep our city running.",
+      "tokens": [
+        50496,
+        15911,
+        11,
+        436,
+        1066,
+        527,
+        2307,
+        2614,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " Together,",
+          "start": 2.5,
+          "end": 2.86,
+          "probability": 0.996170699596405
+        },
+        {
+          "word": " they",
+          "start": 3.14,
+          "end": 3.22,
+          "probability": 0.9952393770217896
+        },
+        {
+          "word": " keep",
+          "start": 3.22,
+          "end": 3.44,
+          "probability": 0.9974058270454407
+        },
+        {
+          "word": " our",
+          "start": 3.44,
+          "end": 3.56,
+          "probability": 0.9977914094924927
+        },
+        {
+          "word": " city",
+          "start": 3.56,
+          "end": 3.72,
+          "probability": 0.9656581878662109
+        },
+        {
+          "word": " running.",
+          "start": 3.72,
+          "end": 3.98,
+          "probability": 0.9985398054122925
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.3,
+      "end": 5.66,
+      "text": " And without them, our city wouldn't survive.",
+      "tokens": [
+        50577,
+        400,
+        1553,
+        552,
+        11,
+        527,
+        2307,
+        2759,
+        380,
+        7867,
+        13,
+        50652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 4.3,
+          "end": 4.3,
+          "probability": 0.8740087747573853
+        },
+        {
+          "word": " without",
+          "start": 4.3,
+          "end": 4.46,
+          "probability": 0.9766024947166443
+        },
+        {
+          "word": " them,",
+          "start": 4.46,
+          "end": 4.7,
+          "probability": 0.9990087747573853
+        },
+        {
+          "word": " our",
+          "start": 4.82,
+          "end": 4.94,
+          "probability": 0.9970216155052185
+        },
+        {
+          "word": " city",
+          "start": 4.94,
+          "end": 5.14,
+          "probability": 0.992021381855011
+        },
+        {
+          "word": " wouldn't",
+          "start": 5.14,
+          "end": 5.38,
+          "probability": 0.9972643256187439
+        },
+        {
+          "word": " survive.",
+          "start": 5.38,
+          "end": 5.66,
+          "probability": 0.9994250535964966
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 5.88,
+      "end": 8.78,
+      "text": " And for a small business, keeping the lights on can be a challenge.",
+      "tokens": [
+        50660,
+        400,
+        337,
+        257,
+        1359,
+        1606,
+        11,
+        5145,
+        264,
+        5811,
+        322,
+        393,
+        312,
+        257,
+        3430,
+        13,
+        50806
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 5.88,
+          "end": 5.96,
+          "probability": 0.9813838601112366
+        },
+        {
+          "word": " for",
+          "start": 5.96,
+          "end": 6.1,
+          "probability": 0.9952482581138611
+        },
+        {
+          "word": " a",
+          "start": 6.1,
+          "end": 6.22,
+          "probability": 0.9941056966781616
+        },
+        {
+          "word": " small",
+          "start": 6.22,
+          "end": 6.44,
+          "probability": 0.9984316229820251
+        },
+        {
+          "word": " business,",
+          "start": 6.44,
+          "end": 6.86,
+          "probability": 0.998647153377533
+        },
+        {
+          "word": " keeping",
+          "start": 7.16,
+          "end": 7.3,
+          "probability": 0.9988719820976257
+        },
+        {
+          "word": " the",
+          "start": 7.3,
+          "end": 7.44,
+          "probability": 0.9978817105293274
+        },
+        {
+          "word": " lights",
+          "start": 7.44,
+          "end": 7.64,
+          "probability": 0.9988542795181274
+        },
+        {
+          "word": " on",
+          "start": 7.64,
+          "end": 7.9,
+          "probability": 0.999152421951294
+        },
+        {
+          "word": " can",
+          "start": 7.9,
+          "end": 8.16,
+          "probability": 0.9766693115234375
+        },
+        {
+          "word": " be",
+          "start": 8.16,
+          "end": 8.3,
+          "probability": 0.9994432330131531
+        },
+        {
+          "word": " a",
+          "start": 8.3,
+          "end": 8.38,
+          "probability": 0.9989714622497559
+        },
+        {
+          "word": " challenge.",
+          "start": 8.38,
+          "end": 8.78,
+          "probability": 0.9996254444122314
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 9.1,
+      "end": 12.68,
+      "text": " Especially as revenues change throughout the year for seasonal shops.",
+      "tokens": [
+        50824,
+        8545,
+        382,
+        27299,
+        1319,
+        3710,
+        264,
+        1064,
+        337,
+        27421,
+        14457,
+        13,
+        51002
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " Especially",
+          "start": 9.1,
+          "end": 9.6,
+          "probability": 0.9961679577827454
+        },
+        {
+          "word": " as",
+          "start": 9.6,
+          "end": 10.04,
+          "probability": 0.9290016293525696
+        },
+        {
+          "word": " revenues",
+          "start": 10.04,
+          "end": 10.4,
+          "probability": 0.9877241849899292
+        },
+        {
+          "word": " change",
+          "start": 10.4,
+          "end": 10.84,
+          "probability": 0.9984917640686035
+        },
+        {
+          "word": " throughout",
+          "start": 10.84,
+          "end": 11.16,
+          "probability": 0.9944703578948975
+        },
+        {
+          "word": " the",
+          "start": 11.16,
+          "end": 11.34,
+          "probability": 0.9989485144615173
+        },
+        {
+          "word": " year",
+          "start": 11.34,
+          "end": 11.64,
+          "probability": 0.9988388419151306
+        },
+        {
+          "word": " for",
+          "start": 11.64,
+          "end": 12.0,
+          "probability": 0.9594892263412476
+        },
+        {
+          "word": " seasonal",
+          "start": 12.0,
+          "end": 12.28,
+          "probability": 0.9883434772491455
+        },
+        {
+          "word": " shops.",
+          "start": 12.28,
+          "end": 12.68,
+          "probability": 0.996859073638916
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.86,
+      "end": 16.84,
+      "text": " So New York City needs to do everything in its power to make sure that small businesses succeed.",
+      "tokens": [
+        51010,
+        407,
+        1873,
+        3609,
+        4392,
+        2203,
+        281,
+        360,
+        1203,
+        294,
+        1080,
+        1347,
+        281,
+        652,
+        988,
+        300,
+        1359,
+        6011,
+        7754,
+        13,
+        51208
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 12.86,
+          "end": 13.06,
+          "probability": 0.9925248026847839
+        },
+        {
+          "word": " New",
+          "start": 13.06,
+          "end": 13.2,
+          "probability": 0.8300045132637024
+        },
+        {
+          "word": " York",
+          "start": 13.2,
+          "end": 13.34,
+          "probability": 0.9972164630889893
+        },
+        {
+          "word": " City",
+          "start": 13.34,
+          "end": 13.54,
+          "probability": 0.9905834197998047
+        },
+        {
+          "word": " needs",
+          "start": 13.54,
+          "end": 13.74,
+          "probability": 0.9969950914382935
+        },
+        {
+          "word": " to",
+          "start": 13.74,
+          "end": 13.86,
+          "probability": 0.9991638660430908
+        },
+        {
+          "word": " do",
+          "start": 13.86,
+          "end": 14.04,
+          "probability": 0.9987492561340332
+        },
+        {
+          "word": " everything",
+          "start": 14.04,
+          "end": 14.54,
+          "probability": 0.9974045157432556
+        },
+        {
+          "word": " in",
+          "start": 14.54,
+          "end": 14.72,
+          "probability": 0.9996837377548218
+        },
+        {
+          "word": " its",
+          "start": 14.72,
+          "end": 14.84,
+          "probability": 0.9912300109863281
+        },
+        {
+          "word": " power",
+          "start": 14.84,
+          "end": 15.12,
+          "probability": 0.9978271126747131
+        },
+        {
+          "word": " to",
+          "start": 15.12,
+          "end": 15.38,
+          "probability": 0.9922769069671631
+        },
+        {
+          "word": " make",
+          "start": 15.38,
+          "end": 15.58,
+          "probability": 0.9977460503578186
+        },
+        {
+          "word": " sure",
+          "start": 15.58,
+          "end": 15.74,
+          "probability": 0.9987931251525879
+        },
+        {
+          "word": " that",
+          "start": 15.74,
+          "end": 15.88,
+          "probability": 0.9846049547195435
+        },
+        {
+          "word": " small",
+          "start": 15.88,
+          "end": 16.08,
+          "probability": 0.9987609386444092
+        },
+        {
+          "word": " businesses",
+          "start": 16.08,
+          "end": 16.42,
+          "probability": 0.9899495840072632
+        },
+        {
+          "word": " succeed.",
+          "start": 16.42,
+          "end": 16.84,
+          "probability": 0.9986213445663452
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.02,
+      "end": 21.68,
+      "text": " That's why we're excited to announce that applications are once again open for the NYC Future Fund.",
+      "tokens": [
+        51220,
+        663,
+        311,
+        983,
+        321,
+        434,
+        2919,
+        281,
+        7478,
+        300,
+        5821,
+        366,
+        1564,
+        797,
+        1269,
+        337,
+        264,
+        26032,
+        34,
+        20805,
+        13493,
+        13,
+        51450
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 17.02,
+          "end": 17.36,
+          "probability": 0.998295247554779
+        },
+        {
+          "word": " why",
+          "start": 17.36,
+          "end": 17.54,
+          "probability": 0.9996606111526489
+        },
+        {
+          "word": " we're",
+          "start": 17.54,
+          "end": 17.82,
+          "probability": 0.9856054484844208
+        },
+        {
+          "word": " excited",
+          "start": 17.82,
+          "end": 18.1,
+          "probability": 0.9984664916992188
+        },
+        {
+          "word": " to",
+          "start": 18.1,
+          "end": 18.28,
+          "probability": 0.9995005130767822
+        },
+        {
+          "word": " announce",
+          "start": 18.28,
+          "end": 18.62,
+          "probability": 0.999263346195221
+        },
+        {
+          "word": " that",
+          "start": 18.62,
+          "end": 18.84,
+          "probability": 0.9932177662849426
+        },
+        {
+          "word": " applications",
+          "start": 18.84,
+          "end": 19.36,
+          "probability": 0.9965373277664185
+        },
+        {
+          "word": " are",
+          "start": 19.36,
+          "end": 19.66,
+          "probability": 0.9997677206993103
+        },
+        {
+          "word": " once",
+          "start": 19.66,
+          "end": 19.94,
+          "probability": 0.9909892678260803
+        },
+        {
+          "word": " again",
+          "start": 19.94,
+          "end": 20.14,
+          "probability": 0.9992006421089172
+        },
+        {
+          "word": " open",
+          "start": 20.14,
+          "end": 20.38,
+          "probability": 0.9953041076660156
+        },
+        {
+          "word": " for",
+          "start": 20.38,
+          "end": 20.6,
+          "probability": 0.9980366826057434
+        },
+        {
+          "word": " the",
+          "start": 20.6,
+          "end": 20.68,
+          "probability": 0.9975183010101318
+        },
+        {
+          "word": " NYC",
+          "start": 20.68,
+          "end": 21.14,
+          "probability": 0.9988527894020081
+        },
+        {
+          "word": " Future",
+          "start": 21.14,
+          "end": 21.4,
+          "probability": 0.9840763211250305
+        },
+        {
+          "word": " Fund.",
+          "start": 21.4,
+          "end": 21.68,
+          "probability": 0.9961323738098145
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 21.84,
+      "end": 27.76,
+      "text": " The NYC Future Fund ensures small business owners have a loan program catered to their individual needs.",
+      "tokens": [
+        51466,
+        440,
+        26032,
+        34,
+        20805,
+        13493,
+        28111,
+        1359,
+        1606,
+        7710,
+        362,
+        257,
+        10529,
+        1461,
+        21557,
+        292,
+        281,
+        641,
+        2609,
+        2203,
+        13,
+        51753
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 21.84,
+          "end": 22.16,
+          "probability": 0.9944671392440796
+        },
+        {
+          "word": " NYC",
+          "start": 22.16,
+          "end": 22.66,
+          "probability": 0.9989948868751526
+        },
+        {
+          "word": " Future",
+          "start": 22.66,
+          "end": 22.96,
+          "probability": 0.9954664707183838
+        },
+        {
+          "word": " Fund",
+          "start": 22.96,
+          "end": 23.32,
+          "probability": 0.9980772733688354
+        },
+        {
+          "word": " ensures",
+          "start": 23.32,
+          "end": 23.7,
+          "probability": 0.9980035424232483
+        },
+        {
+          "word": " small",
+          "start": 23.7,
+          "end": 24.24,
+          "probability": 0.9954820871353149
+        },
+        {
+          "word": " business",
+          "start": 24.24,
+          "end": 24.64,
+          "probability": 0.994775652885437
+        },
+        {
+          "word": " owners",
+          "start": 24.64,
+          "end": 25.0,
+          "probability": 0.9993147850036621
+        },
+        {
+          "word": " have",
+          "start": 25.0,
+          "end": 25.28,
+          "probability": 0.9992614388465881
+        },
+        {
+          "word": " a",
+          "start": 25.28,
+          "end": 25.38,
+          "probability": 0.9997419714927673
+        },
+        {
+          "word": " loan",
+          "start": 25.38,
+          "end": 25.58,
+          "probability": 0.9975511431694031
+        },
+        {
+          "word": " program",
+          "start": 25.58,
+          "end": 26.1,
+          "probability": 0.9979923963546753
+        },
+        {
+          "word": " catered",
+          "start": 26.1,
+          "end": 26.6,
+          "probability": 0.9960028827190399
+        },
+        {
+          "word": " to",
+          "start": 26.6,
+          "end": 26.68,
+          "probability": 0.9993066787719727
+        },
+        {
+          "word": " their",
+          "start": 26.68,
+          "end": 26.82,
+          "probability": 0.9993413090705872
+        },
+        {
+          "word": " individual",
+          "start": 26.82,
+          "end": 27.24,
+          "probability": 0.9986253976821899
+        },
+        {
+          "word": " needs.",
+          "start": 27.24,
+          "end": 27.76,
+          "probability": 0.9993973970413208
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 27.9,
+      "end": 29.0,
+      "text": " Such as...",
+      "tokens": [
+        51770,
+        9653,
+        382,
+        485,
+        51822
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1289655866414091,
+      "compression_ratio": 1.7492537313432837,
+      "no_speech_prob": 1.4382398267134833e-12,
+      "words": [
+        {
+          "word": " Such",
+          "start": 27.9,
+          "end": 28.42,
+          "probability": 0.9947320222854614
+        },
+        {
+          "word": " as...",
+          "start": 28.42,
+          "end": 29.0,
+          "probability": 0.8488635718822479
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2900,
+      "start": 29.0,
+      "end": 33.64,
+      "text": " Reduced minimum revenue requirements, lower minimum loan size, affordable interest rates.",
+      "tokens": [
+        50365,
+        4477,
+        41209,
+        7285,
+        9324,
+        7728,
+        11,
+        3126,
+        7285,
+        10529,
+        2744,
+        11,
+        12028,
+        1179,
+        6846,
+        13,
+        50600
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " Reduced",
+          "start": 29.0,
+          "end": 29.5,
+          "probability": 0.7366680800914764
+        },
+        {
+          "word": " minimum",
+          "start": 29.5,
+          "end": 29.74,
+          "probability": 0.8345314860343933
+        },
+        {
+          "word": " revenue",
+          "start": 29.74,
+          "end": 30.06,
+          "probability": 0.9866759181022644
+        },
+        {
+          "word": " requirements,",
+          "start": 30.06,
+          "end": 30.66,
+          "probability": 0.9894077181816101
+        },
+        {
+          "word": " lower",
+          "start": 30.9,
+          "end": 31.2,
+          "probability": 0.950769305229187
+        },
+        {
+          "word": " minimum",
+          "start": 31.2,
+          "end": 31.44,
+          "probability": 0.9887405037879944
+        },
+        {
+          "word": " loan",
+          "start": 31.44,
+          "end": 31.78,
+          "probability": 0.9563973546028137
+        },
+        {
+          "word": " size,",
+          "start": 31.78,
+          "end": 32.2,
+          "probability": 0.9943713545799255
+        },
+        {
+          "word": " affordable",
+          "start": 32.62,
+          "end": 32.96,
+          "probability": 0.9630494713783264
+        },
+        {
+          "word": " interest",
+          "start": 32.96,
+          "end": 33.24,
+          "probability": 0.9955774545669556
+        },
+        {
+          "word": " rates.",
+          "start": 33.24,
+          "end": 33.64,
+          "probability": 0.9977577328681946
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2900,
+      "start": 33.98,
+      "end": 37.86,
+      "text": " And flexible monthly repayment terms that adjust with seasonal revenues.",
+      "tokens": [
+        50623,
+        400,
+        11358,
+        12878,
+        27522,
+        518,
+        2115,
+        300,
+        4369,
+        365,
+        27421,
+        27299,
+        13,
+        50809
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 33.98,
+          "end": 34.26,
+          "probability": 0.9050907492637634
+        },
+        {
+          "word": " flexible",
+          "start": 34.26,
+          "end": 34.78,
+          "probability": 0.976473331451416
+        },
+        {
+          "word": " monthly",
+          "start": 34.78,
+          "end": 35.16,
+          "probability": 0.9609493017196655
+        },
+        {
+          "word": " repayment",
+          "start": 35.16,
+          "end": 35.74,
+          "probability": 0.995187371969223
+        },
+        {
+          "word": " terms",
+          "start": 35.74,
+          "end": 36.04,
+          "probability": 0.9966553449630737
+        },
+        {
+          "word": " that",
+          "start": 36.04,
+          "end": 36.36,
+          "probability": 0.9718487858772278
+        },
+        {
+          "word": " adjust",
+          "start": 36.36,
+          "end": 36.76,
+          "probability": 0.9924048781394958
+        },
+        {
+          "word": " with",
+          "start": 36.76,
+          "end": 37.08,
+          "probability": 0.9323031306266785
+        },
+        {
+          "word": " seasonal",
+          "start": 37.08,
+          "end": 37.4,
+          "probability": 0.9893416166305542
+        },
+        {
+          "word": " revenues.",
+          "start": 37.4,
+          "end": 37.86,
+          "probability": 0.8614661693572998
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2900,
+      "start": 38.16,
+      "end": 41.0,
+      "text": " Because a tough winter shouldn't put your ice cream shop under.",
+      "tokens": [
+        50827,
+        1436,
+        257,
+        4930,
+        6355,
+        4659,
+        380,
+        829,
+        428,
+        4435,
+        4689,
+        3945,
+        833,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " Because",
+          "start": 38.16,
+          "end": 38.52,
+          "probability": 0.9929360747337341
+        },
+        {
+          "word": " a",
+          "start": 38.52,
+          "end": 38.64,
+          "probability": 0.9932541251182556
+        },
+        {
+          "word": " tough",
+          "start": 38.64,
+          "end": 38.86,
+          "probability": 0.9960546493530273
+        },
+        {
+          "word": " winter",
+          "start": 38.86,
+          "end": 39.28,
+          "probability": 0.9956827163696289
+        },
+        {
+          "word": " shouldn't",
+          "start": 39.28,
+          "end": 39.82,
+          "probability": 0.9876219928264618
+        },
+        {
+          "word": " put",
+          "start": 39.82,
+          "end": 39.98,
+          "probability": 0.9959027171134949
+        },
+        {
+          "word": " your",
+          "start": 39.98,
+          "end": 40.1,
+          "probability": 0.9950605034828186
+        },
+        {
+          "word": " ice",
+          "start": 40.1,
+          "end": 40.34,
+          "probability": 0.9943934679031372
+        },
+        {
+          "word": " cream",
+          "start": 40.34,
+          "end": 40.44,
+          "probability": 0.9194919466972351
+        },
+        {
+          "word": " shop",
+          "start": 40.44,
+          "end": 40.7,
+          "probability": 0.995786726474762
+        },
+        {
+          "word": " under.",
+          "start": 40.7,
+          "end": 41.0,
+          "probability": 0.9970877766609192
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2900,
+      "start": 41.14,
+      "end": 44.16,
+      "text": " We're building a fairer economy for the entrepreneurs who support our neighborhoods.",
+      "tokens": [
+        50973,
+        492,
+        434,
+        2390,
+        257,
+        3143,
+        260,
+        5010,
+        337,
+        264,
+        12639,
+        567,
+        1406,
+        527,
+        20052,
+        13,
+        51123
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " We're",
+          "start": 41.14,
+          "end": 41.26,
+          "probability": 0.9879443645477295
+        },
+        {
+          "word": " building",
+          "start": 41.26,
+          "end": 41.44,
+          "probability": 0.9981482028961182
+        },
+        {
+          "word": " a",
+          "start": 41.44,
+          "end": 41.64,
+          "probability": 0.9981710910797119
+        },
+        {
+          "word": " fairer",
+          "start": 41.64,
+          "end": 41.98,
+          "probability": 0.8755309581756592
+        },
+        {
+          "word": " economy",
+          "start": 41.98,
+          "end": 42.34,
+          "probability": 0.9980941414833069
+        },
+        {
+          "word": " for",
+          "start": 42.34,
+          "end": 42.58,
+          "probability": 0.994529664516449
+        },
+        {
+          "word": " the",
+          "start": 42.58,
+          "end": 42.68,
+          "probability": 0.9882346391677856
+        },
+        {
+          "word": " entrepreneurs",
+          "start": 42.68,
+          "end": 43.18,
+          "probability": 0.9966416358947754
+        },
+        {
+          "word": " who",
+          "start": 43.18,
+          "end": 43.38,
+          "probability": 0.9861014485359192
+        },
+        {
+          "word": " support",
+          "start": 43.38,
+          "end": 43.72,
+          "probability": 0.9984727501869202
+        },
+        {
+          "word": " our",
+          "start": 43.72,
+          "end": 43.84,
+          "probability": 0.998801589012146
+        },
+        {
+          "word": " neighborhoods.",
+          "start": 43.84,
+          "end": 44.16,
+          "probability": 0.9862380027770996
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2900,
+      "start": 44.44,
+      "end": 47.56,
+      "text": " So the local businesses that make our city great stay open year-round.",
+      "tokens": [
+        51143,
+        407,
+        264,
+        2654,
+        6011,
+        300,
+        652,
+        527,
+        2307,
+        869,
+        1754,
+        1269,
+        1064,
+        12,
+        5453,
+        13,
+        51295
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 44.44,
+          "end": 44.7,
+          "probability": 0.9986010193824768
+        },
+        {
+          "word": " the",
+          "start": 44.7,
+          "end": 44.82,
+          "probability": 0.9631683826446533
+        },
+        {
+          "word": " local",
+          "start": 44.82,
+          "end": 45.04,
+          "probability": 0.9993466734886169
+        },
+        {
+          "word": " businesses",
+          "start": 45.04,
+          "end": 45.42,
+          "probability": 0.9947492480278015
+        },
+        {
+          "word": " that",
+          "start": 45.42,
+          "end": 45.62,
+          "probability": 0.9988654851913452
+        },
+        {
+          "word": " make",
+          "start": 45.62,
+          "end": 45.82,
+          "probability": 0.9985664486885071
+        },
+        {
+          "word": " our",
+          "start": 45.82,
+          "end": 45.94,
+          "probability": 0.9984074234962463
+        },
+        {
+          "word": " city",
+          "start": 45.94,
+          "end": 46.1,
+          "probability": 0.9908276200294495
+        },
+        {
+          "word": " great",
+          "start": 46.1,
+          "end": 46.38,
+          "probability": 0.9984052777290344
+        },
+        {
+          "word": " stay",
+          "start": 46.38,
+          "end": 46.8,
+          "probability": 0.6777306795120239
+        },
+        {
+          "word": " open",
+          "start": 46.8,
+          "end": 47.1,
+          "probability": 0.9993295669555664
+        },
+        {
+          "word": " year",
+          "start": 47.1,
+          "end": 47.34,
+          "probability": 0.9857156872749329
+        },
+        {
+          "word": "-round.",
+          "start": 47.34,
+          "end": 47.56,
+          "probability": 0.7751874923706055
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2900,
+      "start": 48.02,
+      "end": 52.2,
+      "text": " Whether you're serving up the finest homemade Sancocho in the five boroughs.",
+      "tokens": [
+        51319,
+        8503,
+        291,
+        434,
+        8148,
+        493,
+        264,
+        28141,
+        23336,
+        5271,
+        1291,
+        5738,
+        294,
+        264,
+        1732,
+        14828,
+        34445,
+        13,
+        51526
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " Whether",
+          "start": 48.02,
+          "end": 48.3,
+          "probability": 0.9967440366744995
+        },
+        {
+          "word": " you're",
+          "start": 48.3,
+          "end": 48.5,
+          "probability": 0.9975694119930267
+        },
+        {
+          "word": " serving",
+          "start": 48.5,
+          "end": 48.84,
+          "probability": 0.9993484616279602
+        },
+        {
+          "word": " up",
+          "start": 48.84,
+          "end": 49.02,
+          "probability": 0.9940831065177917
+        },
+        {
+          "word": " the",
+          "start": 49.02,
+          "end": 49.22,
+          "probability": 0.9987255930900574
+        },
+        {
+          "word": " finest",
+          "start": 49.22,
+          "end": 49.68,
+          "probability": 0.9994997978210449
+        },
+        {
+          "word": " homemade",
+          "start": 49.68,
+          "end": 50.34,
+          "probability": 0.9481449127197266
+        },
+        {
+          "word": " Sancocho",
+          "start": 50.34,
+          "end": 51.04,
+          "probability": 0.8636987209320068
+        },
+        {
+          "word": " in",
+          "start": 51.04,
+          "end": 51.28,
+          "probability": 0.9982776641845703
+        },
+        {
+          "word": " the",
+          "start": 51.28,
+          "end": 51.42,
+          "probability": 0.9945577383041382
+        },
+        {
+          "word": " five",
+          "start": 51.42,
+          "end": 51.64,
+          "probability": 0.8927293419837952
+        },
+        {
+          "word": " boroughs.",
+          "start": 51.64,
+          "end": 52.2,
+          "probability": 0.9922566115856171
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2900,
+      "start": 52.3,
+      "end": 54.36,
+      "text": " Or you're the bike shop that's always there for the neighborhood.",
+      "tokens": [
+        51543,
+        1610,
+        291,
+        434,
+        264,
+        5656,
+        3945,
+        300,
+        311,
+        1009,
+        456,
+        337,
+        264,
+        7630,
+        13,
+        51634
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " Or",
+          "start": 52.3,
+          "end": 52.7,
+          "probability": 0.9951255917549133
+        },
+        {
+          "word": " you're",
+          "start": 52.7,
+          "end": 52.78,
+          "probability": 0.9397096335887909
+        },
+        {
+          "word": " the",
+          "start": 52.78,
+          "end": 52.86,
+          "probability": 0.9947395920753479
+        },
+        {
+          "word": " bike",
+          "start": 52.86,
+          "end": 53.04,
+          "probability": 0.9982842803001404
+        },
+        {
+          "word": " shop",
+          "start": 53.04,
+          "end": 53.24,
+          "probability": 0.9994131326675415
+        },
+        {
+          "word": " that's",
+          "start": 53.24,
+          "end": 53.5,
+          "probability": 0.9990739822387695
+        },
+        {
+          "word": " always",
+          "start": 53.5,
+          "end": 53.7,
+          "probability": 0.999445378780365
+        },
+        {
+          "word": " there",
+          "start": 53.7,
+          "end": 53.86,
+          "probability": 0.9995328187942505
+        },
+        {
+          "word": " for",
+          "start": 53.86,
+          "end": 54.0,
+          "probability": 0.9999363422393799
+        },
+        {
+          "word": " the",
+          "start": 54.0,
+          "end": 54.08,
+          "probability": 0.998586893081665
+        },
+        {
+          "word": " neighborhood.",
+          "start": 54.08,
+          "end": 54.36,
+          "probability": 0.9969435334205627
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2900,
+      "start": 54.6,
+      "end": 57.42,
+      "text": " Small businesses are the beating heart of our city's culture.",
+      "tokens": [
+        51649,
+        15287,
+        6011,
+        366,
+        264,
+        13497,
+        1917,
+        295,
+        527,
+        2307,
+        311,
+        3713,
+        13,
+        51788
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13264985120933476,
+      "compression_ratio": 1.7163742690058479,
+      "no_speech_prob": 1.3513455762378945e-12,
+      "words": [
+        {
+          "word": " Small",
+          "start": 54.6,
+          "end": 54.96,
+          "probability": 0.9984996318817139
+        },
+        {
+          "word": " businesses",
+          "start": 54.96,
+          "end": 55.46,
+          "probability": 0.9986240863800049
+        },
+        {
+          "word": " are",
+          "start": 55.46,
+          "end": 55.82,
+          "probability": 0.9997542500495911
+        },
+        {
+          "word": " the",
+          "start": 55.82,
+          "end": 55.9,
+          "probability": 0.999653697013855
+        },
+        {
+          "word": " beating",
+          "start": 55.9,
+          "end": 56.16,
+          "probability": 0.998995840549469
+        },
+        {
+          "word": " heart",
+          "start": 56.16,
+          "end": 56.44,
+          "probability": 0.9984840750694275
+        },
+        {
+          "word": " of",
+          "start": 56.44,
+          "end": 56.7,
+          "probability": 0.9993205070495605
+        },
+        {
+          "word": " our",
+          "start": 56.7,
+          "end": 56.82,
+          "probability": 0.9993763566017151
+        },
+        {
+          "word": " city's",
+          "start": 56.82,
+          "end": 57.14,
+          "probability": 0.994869589805603
+        },
+        {
+          "word": " culture.",
+          "start": 57.14,
+          "end": 57.42,
+          "probability": 0.9994664788246155
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5742,
+      "start": 57.42,
+      "end": 59.38,
+      "text": " So apply for the NYC Future Fund.",
+      "tokens": [
+        50365,
+        407,
+        3079,
+        337,
+        264,
+        26032,
+        34,
+        20805,
+        13493,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11343500137329102,
+      "compression_ratio": 0.9767441860465116,
+      "no_speech_prob": 2.8032012475143198e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 57.42,
+          "end": 57.88,
+          "probability": 0.8547841310501099
+        },
+        {
+          "word": " apply",
+          "start": 57.88,
+          "end": 58.14,
+          "probability": 0.939643383026123
+        },
+        {
+          "word": " for",
+          "start": 58.14,
+          "end": 58.36,
+          "probability": 0.9960668683052063
+        },
+        {
+          "word": " the",
+          "start": 58.36,
+          "end": 58.44,
+          "probability": 0.9878465533256531
+        },
+        {
+          "word": " NYC",
+          "start": 58.44,
+          "end": 58.88,
+          "probability": 0.9934728443622589
+        },
+        {
+          "word": " Future",
+          "start": 58.88,
+          "end": 59.1,
+          "probability": 0.951202392578125
+        },
+        {
+          "word": " Fund.",
+          "start": 59.1,
+          "end": 59.38,
+          "probability": 0.9844719767570496
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5742,
+      "start": 59.56,
+      "end": 61.42,
+      "text": " It's here for your small business with big dreams.",
+      "tokens": [
+        50474,
+        467,
+        311,
+        510,
+        337,
+        428,
+        1359,
+        1606,
+        365,
+        955,
+        7505,
+        13,
+        50569
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11343500137329102,
+      "compression_ratio": 0.9767441860465116,
+      "no_speech_prob": 2.8032012475143198e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 59.56,
+          "end": 59.72,
+          "probability": 0.9949527978897095
+        },
+        {
+          "word": " here",
+          "start": 59.72,
+          "end": 59.8,
+          "probability": 0.9926568865776062
+        },
+        {
+          "word": " for",
+          "start": 59.8,
+          "end": 59.94,
+          "probability": 0.9987232089042664
+        },
+        {
+          "word": " your",
+          "start": 59.94,
+          "end": 60.12,
+          "probability": 0.9897757768630981
+        },
+        {
+          "word": " small",
+          "start": 60.12,
+          "end": 60.36,
+          "probability": 0.9927288889884949
+        },
+        {
+          "word": " business",
+          "start": 60.36,
+          "end": 60.7,
+          "probability": 0.9990668892860413
+        },
+        {
+          "word": " with",
+          "start": 60.7,
+          "end": 61.0,
+          "probability": 0.8681305050849915
+        },
+        {
+          "word": " big",
+          "start": 61.0,
+          "end": 61.18,
+          "probability": 0.9657509922981262
+        },
+        {
+          "word": " dreams.",
+          "start": 61.18,
+          "end": 61.42,
+          "probability": 0.998244047164917
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

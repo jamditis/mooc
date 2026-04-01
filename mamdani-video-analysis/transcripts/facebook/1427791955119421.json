@@ -1,0 +1,3072 @@
+{
+  "text": " As someone who believes deeply in the responsibility of government to deliver for working class people, I also believe it's our responsibility to deliver a government that's efficient, with every single dollar being put to the best possible use. That's why two months ago, I asked agencies across city government to find $1.7 billion in savings, without compromising essential services. Here are just a few things we've found so far. Even just by capping how much we spend on paper, pens, and office supplies, we're going to save more than $27 million. The city was paying for a lot of work from outside contractors that was costing us far too much. So we're bringing a lot of that work in-house and saving our budget, millions on things like IT services and software. We've also found that sometimes we've been overcharged for life-saving medicine, like naloxone. So we're renegotiating that contract and saving another million dollars. Our contract with McKinsey at the Department of Social Services? No more. That's $9 million that we won't be spending next year. The city rents lots of property it doesn't actually need. So we're going to shrink our physical footprint and save millions on leases. And we want to make sure that the programs we're delivering to New Yorkers are being used as intended. So we're going to strengthen verification to ensure that homeowners getting tax breaks are actually living in that home. This adds up to another $13 million a year. You've heard me say this time and again. In fighting a $5.4 billion fiscal deficit, we need to tax the rich and end of the drain that's been our relationship with the state for far too long. As we pursue that, though, we also have to take a close look at our own spending and cut waste wherever we can. When we're looking to put our city back on firm financial footing, no saving is too small. We'll keep you posted every step of the way. Because to deliver public goods, you have to first deliver public excellence.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.96,
+      "text": " As someone who believes deeply in the responsibility of government to deliver for working class people,",
+      "tokens": [
+        50365,
+        1018,
+        1580,
+        567,
+        12307,
+        8760,
+        294,
+        264,
+        6357,
+        295,
+        2463,
+        281,
+        4239,
+        337,
+        1364,
+        1508,
+        561,
+        11,
+        50563
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " As",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.9266690611839294
+        },
+        {
+          "word": " someone",
+          "start": 0.16,
+          "end": 0.38,
+          "probability": 0.996581494808197
+        },
+        {
+          "word": " who",
+          "start": 0.38,
+          "end": 0.48,
+          "probability": 0.997617781162262
+        },
+        {
+          "word": " believes",
+          "start": 0.48,
+          "end": 0.78,
+          "probability": 0.9931121468544006
+        },
+        {
+          "word": " deeply",
+          "start": 0.78,
+          "end": 1.18,
+          "probability": 0.9923964142799377
+        },
+        {
+          "word": " in",
+          "start": 1.18,
+          "end": 1.34,
+          "probability": 0.998094379901886
+        },
+        {
+          "word": " the",
+          "start": 1.34,
+          "end": 1.42,
+          "probability": 0.9942466616630554
+        },
+        {
+          "word": " responsibility",
+          "start": 1.42,
+          "end": 1.94,
+          "probability": 0.9897512197494507
+        },
+        {
+          "word": " of",
+          "start": 1.94,
+          "end": 2.24,
+          "probability": 0.9969999194145203
+        },
+        {
+          "word": " government",
+          "start": 2.24,
+          "end": 2.54,
+          "probability": 0.9870613217353821
+        },
+        {
+          "word": " to",
+          "start": 2.54,
+          "end": 2.74,
+          "probability": 0.9947616457939148
+        },
+        {
+          "word": " deliver",
+          "start": 2.74,
+          "end": 2.96,
+          "probability": 0.9991695880889893
+        },
+        {
+          "word": " for",
+          "start": 2.96,
+          "end": 3.14,
+          "probability": 0.9902670979499817
+        },
+        {
+          "word": " working",
+          "start": 3.14,
+          "end": 3.4,
+          "probability": 0.9972596168518066
+        },
+        {
+          "word": " class",
+          "start": 3.4,
+          "end": 3.62,
+          "probability": 0.5222570300102234
+        },
+        {
+          "word": " people,",
+          "start": 3.62,
+          "end": 3.96,
+          "probability": 0.998794674873352
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.12,
+      "end": 7.64,
+      "text": " I also believe it's our responsibility to deliver a government that's efficient,",
+      "tokens": [
+        50563,
+        286,
+        611,
+        1697,
+        309,
+        311,
+        527,
+        6357,
+        281,
+        4239,
+        257,
+        2463,
+        300,
+        311,
+        7148,
+        11,
+        50747
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 4.12,
+          "end": 4.5,
+          "probability": 0.9974164962768555
+        },
+        {
+          "word": " also",
+          "start": 4.5,
+          "end": 4.74,
+          "probability": 0.998770534992218
+        },
+        {
+          "word": " believe",
+          "start": 4.74,
+          "end": 5.02,
+          "probability": 0.998578667640686
+        },
+        {
+          "word": " it's",
+          "start": 5.02,
+          "end": 5.2,
+          "probability": 0.9802283644676208
+        },
+        {
+          "word": " our",
+          "start": 5.2,
+          "end": 5.3,
+          "probability": 0.998582124710083
+        },
+        {
+          "word": " responsibility",
+          "start": 5.3,
+          "end": 5.84,
+          "probability": 0.998829185962677
+        },
+        {
+          "word": " to",
+          "start": 5.84,
+          "end": 6.24,
+          "probability": 0.9965404868125916
+        },
+        {
+          "word": " deliver",
+          "start": 6.24,
+          "end": 6.48,
+          "probability": 0.9985774755477905
+        },
+        {
+          "word": " a",
+          "start": 6.48,
+          "end": 6.62,
+          "probability": 0.9921674132347107
+        },
+        {
+          "word": " government",
+          "start": 6.62,
+          "end": 6.92,
+          "probability": 0.9993234872817993
+        },
+        {
+          "word": " that's",
+          "start": 6.92,
+          "end": 7.28,
+          "probability": 0.9860557615756989
+        },
+        {
+          "word": " efficient,",
+          "start": 7.28,
+          "end": 7.64,
+          "probability": 0.9894946217536926
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.82,
+      "end": 11.46,
+      "text": " with every single dollar being put to the best possible use.",
+      "tokens": [
+        50771,
+        365,
+        633,
+        2167,
+        7241,
+        885,
+        829,
+        281,
+        264,
+        1151,
+        1944,
+        764,
+        13,
+        50940
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " with",
+          "start": 7.82,
+          "end": 8.2,
+          "probability": 0.9973422884941101
+        },
+        {
+          "word": " every",
+          "start": 8.2,
+          "end": 8.7,
+          "probability": 0.9980267882347107
+        },
+        {
+          "word": " single",
+          "start": 8.7,
+          "end": 9.08,
+          "probability": 0.9938640594482422
+        },
+        {
+          "word": " dollar",
+          "start": 9.08,
+          "end": 9.48,
+          "probability": 0.9984989166259766
+        },
+        {
+          "word": " being",
+          "start": 9.48,
+          "end": 9.82,
+          "probability": 0.9978577494621277
+        },
+        {
+          "word": " put",
+          "start": 9.82,
+          "end": 10.06,
+          "probability": 0.9989533424377441
+        },
+        {
+          "word": " to",
+          "start": 10.06,
+          "end": 10.24,
+          "probability": 0.9978722333908081
+        },
+        {
+          "word": " the",
+          "start": 10.24,
+          "end": 10.36,
+          "probability": 0.9932199716567993
+        },
+        {
+          "word": " best",
+          "start": 10.36,
+          "end": 10.66,
+          "probability": 0.9988865256309509
+        },
+        {
+          "word": " possible",
+          "start": 10.66,
+          "end": 11.1,
+          "probability": 0.9989311099052429
+        },
+        {
+          "word": " use.",
+          "start": 11.1,
+          "end": 11.46,
+          "probability": 0.9997296929359436
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.62,
+      "end": 17.14,
+      "text": " That's why two months ago, I asked agencies across city government to find $1.7 billion in savings,",
+      "tokens": [
+        50952,
+        663,
+        311,
+        983,
+        732,
+        2493,
+        2057,
+        11,
+        286,
+        2351,
+        9504,
+        2108,
+        2307,
+        2463,
+        281,
+        915,
+        1848,
+        16,
+        13,
+        22,
+        5218,
+        294,
+        13454,
+        11,
+        51223
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 11.62,
+          "end": 11.88,
+          "probability": 0.9976308345794678
+        },
+        {
+          "word": " why",
+          "start": 11.88,
+          "end": 11.98,
+          "probability": 0.998976469039917
+        },
+        {
+          "word": " two",
+          "start": 11.98,
+          "end": 12.14,
+          "probability": 0.8932060599327087
+        },
+        {
+          "word": " months",
+          "start": 12.14,
+          "end": 12.4,
+          "probability": 0.9981106519699097
+        },
+        {
+          "word": " ago,",
+          "start": 12.4,
+          "end": 12.64,
+          "probability": 0.999549925327301
+        },
+        {
+          "word": " I",
+          "start": 12.84,
+          "end": 13.1,
+          "probability": 0.9991251826286316
+        },
+        {
+          "word": " asked",
+          "start": 13.1,
+          "end": 13.4,
+          "probability": 0.9991315007209778
+        },
+        {
+          "word": " agencies",
+          "start": 13.4,
+          "end": 13.8,
+          "probability": 0.9964207410812378
+        },
+        {
+          "word": " across",
+          "start": 13.8,
+          "end": 14.1,
+          "probability": 0.9991920590400696
+        },
+        {
+          "word": " city",
+          "start": 14.1,
+          "end": 14.4,
+          "probability": 0.969414234161377
+        },
+        {
+          "word": " government",
+          "start": 14.4,
+          "end": 14.68,
+          "probability": 0.9948945045471191
+        },
+        {
+          "word": " to",
+          "start": 14.68,
+          "end": 14.86,
+          "probability": 0.9985772371292114
+        },
+        {
+          "word": " find",
+          "start": 14.86,
+          "end": 15.06,
+          "probability": 0.9946183562278748
+        },
+        {
+          "word": " $1",
+          "start": 15.06,
+          "end": 15.46,
+          "probability": 0.8729927241802216
+        },
+        {
+          "word": ".7",
+          "start": 15.46,
+          "end": 16.0,
+          "probability": 0.9976241290569305
+        },
+        {
+          "word": " billion",
+          "start": 16.0,
+          "end": 16.34,
+          "probability": 0.9847413897514343
+        },
+        {
+          "word": " in",
+          "start": 16.34,
+          "end": 16.8,
+          "probability": 0.9268386363983154
+        },
+        {
+          "word": " savings,",
+          "start": 16.8,
+          "end": 17.14,
+          "probability": 0.9982768297195435
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 17.42,
+      "end": 19.28,
+      "text": " without compromising essential services.",
+      "tokens": [
+        51240,
+        1553,
+        11482,
+        3436,
+        7115,
+        3328,
+        13,
+        51332
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " without",
+          "start": 17.42,
+          "end": 17.76,
+          "probability": 0.9973275661468506
+        },
+        {
+          "word": " compromising",
+          "start": 17.76,
+          "end": 18.48,
+          "probability": 0.9994165003299713
+        },
+        {
+          "word": " essential",
+          "start": 18.48,
+          "end": 18.86,
+          "probability": 0.9484176635742188
+        },
+        {
+          "word": " services.",
+          "start": 18.86,
+          "end": 19.28,
+          "probability": 0.9987888932228088
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 19.78,
+      "end": 22.1,
+      "text": " Here are just a few things we've found so far.",
+      "tokens": [
+        51362,
+        1692,
+        366,
+        445,
+        257,
+        1326,
+        721,
+        321,
+        600,
+        1352,
+        370,
+        1400,
+        13,
+        51472
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " Here",
+          "start": 19.78,
+          "end": 20.2,
+          "probability": 0.996371865272522
+        },
+        {
+          "word": " are",
+          "start": 20.2,
+          "end": 20.36,
+          "probability": 0.9981505274772644
+        },
+        {
+          "word": " just",
+          "start": 20.36,
+          "end": 20.5,
+          "probability": 0.9918131828308105
+        },
+        {
+          "word": " a",
+          "start": 20.5,
+          "end": 20.68,
+          "probability": 0.9992732405662537
+        },
+        {
+          "word": " few",
+          "start": 20.68,
+          "end": 20.9,
+          "probability": 0.998768150806427
+        },
+        {
+          "word": " things",
+          "start": 20.9,
+          "end": 21.22,
+          "probability": 0.9989560842514038
+        },
+        {
+          "word": " we've",
+          "start": 21.22,
+          "end": 21.56,
+          "probability": 0.9232667088508606
+        },
+        {
+          "word": " found",
+          "start": 21.56,
+          "end": 21.7,
+          "probability": 0.9993225336074829
+        },
+        {
+          "word": " so",
+          "start": 21.7,
+          "end": 21.88,
+          "probability": 0.9979954957962036
+        },
+        {
+          "word": " far.",
+          "start": 21.88,
+          "end": 22.1,
+          "probability": 0.9999018907546997
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 22.32,
+      "end": 26.52,
+      "text": " Even just by capping how much we spend on paper, pens, and office supplies,",
+      "tokens": [
+        51488,
+        2754,
+        445,
+        538,
+        1335,
+        3759,
+        577,
+        709,
+        321,
+        3496,
+        322,
+        3035,
+        11,
+        6099,
+        11,
+        293,
+        3398,
+        11768,
+        11,
+        51693
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17320270698611476,
+      "compression_ratio": 1.6798679867986799,
+      "no_speech_prob": 1.1334562845591312e-12,
+      "words": [
+        {
+          "word": " Even",
+          "start": 22.32,
+          "end": 22.66,
+          "probability": 0.9969332218170166
+        },
+        {
+          "word": " just",
+          "start": 22.66,
+          "end": 22.8,
+          "probability": 0.9957332015037537
+        },
+        {
+          "word": " by",
+          "start": 22.8,
+          "end": 22.96,
+          "probability": 0.9957863688468933
+        },
+        {
+          "word": " capping",
+          "start": 22.96,
+          "end": 23.34,
+          "probability": 0.9990581572055817
+        },
+        {
+          "word": " how",
+          "start": 23.34,
+          "end": 23.6,
+          "probability": 0.9919015765190125
+        },
+        {
+          "word": " much",
+          "start": 23.6,
+          "end": 23.78,
+          "probability": 0.999053418636322
+        },
+        {
+          "word": " we",
+          "start": 23.78,
+          "end": 23.92,
+          "probability": 0.9989198446273804
+        },
+        {
+          "word": " spend",
+          "start": 23.92,
+          "end": 24.28,
+          "probability": 0.9951325058937073
+        },
+        {
+          "word": " on",
+          "start": 24.28,
+          "end": 24.54,
+          "probability": 0.9982547163963318
+        },
+        {
+          "word": " paper,",
+          "start": 24.54,
+          "end": 25.0,
+          "probability": 0.9979783892631531
+        },
+        {
+          "word": " pens,",
+          "start": 25.18,
+          "end": 25.54,
+          "probability": 0.9994020462036133
+        },
+        {
+          "word": " and",
+          "start": 25.7,
+          "end": 25.78,
+          "probability": 0.9981635212898254
+        },
+        {
+          "word": " office",
+          "start": 25.78,
+          "end": 26.06,
+          "probability": 0.9993523955345154
+        },
+        {
+          "word": " supplies,",
+          "start": 26.06,
+          "end": 26.52,
+          "probability": 0.9998307228088379
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2652,
+      "start": 26.52,
+      "end": 29.94,
+      "text": " we're going to save more than $27 million.",
+      "tokens": [
+        50365,
+        321,
+        434,
+        516,
+        281,
+        3155,
+        544,
+        813,
+        1848,
+        10076,
+        2459,
+        13,
+        50537
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1427744431929155,
+      "compression_ratio": 1.6745098039215687,
+      "no_speech_prob": 1.2496540260920064e-12,
+      "words": [
+        {
+          "word": " we're",
+          "start": 26.52,
+          "end": 27.46,
+          "probability": 0.6496188938617706
+        },
+        {
+          "word": " going",
+          "start": 27.46,
+          "end": 27.5,
+          "probability": 0.3515284061431885
+        },
+        {
+          "word": " to",
+          "start": 27.5,
+          "end": 27.6,
+          "probability": 0.9957412481307983
+        },
+        {
+          "word": " save",
+          "start": 27.6,
+          "end": 27.92,
+          "probability": 0.9971520900726318
+        },
+        {
+          "word": " more",
+          "start": 27.92,
+          "end": 29.04,
+          "probability": 0.9519399404525757
+        },
+        {
+          "word": " than",
+          "start": 29.04,
+          "end": 29.18,
+          "probability": 0.9973948001861572
+        },
+        {
+          "word": " $27",
+          "start": 29.18,
+          "end": 29.64,
+          "probability": 0.7135264277458191
+        },
+        {
+          "word": " million.",
+          "start": 29.64,
+          "end": 29.94,
+          "probability": 0.939464807510376
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2652,
+      "start": 30.54,
+      "end": 35.82,
+      "text": " The city was paying for a lot of work from outside contractors that was costing us far too much.",
+      "tokens": [
+        50567,
+        440,
+        2307,
+        390,
+        6229,
+        337,
+        257,
+        688,
+        295,
+        589,
+        490,
+        2380,
+        28377,
+        300,
+        390,
+        37917,
+        505,
+        1400,
+        886,
+        709,
+        13,
+        50832
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1427744431929155,
+      "compression_ratio": 1.6745098039215687,
+      "no_speech_prob": 1.2496540260920064e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 30.54,
+          "end": 30.94,
+          "probability": 0.9860727787017822
+        },
+        {
+          "word": " city",
+          "start": 30.94,
+          "end": 31.1,
+          "probability": 0.9090182781219482
+        },
+        {
+          "word": " was",
+          "start": 31.1,
+          "end": 31.3,
+          "probability": 0.9983533620834351
+        },
+        {
+          "word": " paying",
+          "start": 31.3,
+          "end": 31.62,
+          "probability": 0.9993392825126648
+        },
+        {
+          "word": " for",
+          "start": 31.62,
+          "end": 31.9,
+          "probability": 0.9960008263587952
+        },
+        {
+          "word": " a",
+          "start": 31.9,
+          "end": 32.04,
+          "probability": 0.9972845315933228
+        },
+        {
+          "word": " lot",
+          "start": 32.04,
+          "end": 32.28,
+          "probability": 0.9988917708396912
+        },
+        {
+          "word": " of",
+          "start": 32.28,
+          "end": 32.48,
+          "probability": 0.998885452747345
+        },
+        {
+          "word": " work",
+          "start": 32.48,
+          "end": 32.74,
+          "probability": 0.9982959628105164
+        },
+        {
+          "word": " from",
+          "start": 32.74,
+          "end": 32.98,
+          "probability": 0.9941673278808594
+        },
+        {
+          "word": " outside",
+          "start": 32.98,
+          "end": 33.36,
+          "probability": 0.9975612163543701
+        },
+        {
+          "word": " contractors",
+          "start": 33.36,
+          "end": 34.02,
+          "probability": 0.9974668025970459
+        },
+        {
+          "word": " that",
+          "start": 34.02,
+          "end": 34.42,
+          "probability": 0.9161121249198914
+        },
+        {
+          "word": " was",
+          "start": 34.42,
+          "end": 34.52,
+          "probability": 0.990134060382843
+        },
+        {
+          "word": " costing",
+          "start": 34.52,
+          "end": 34.86,
+          "probability": 0.9982960820198059
+        },
+        {
+          "word": " us",
+          "start": 34.86,
+          "end": 35.02,
+          "probability": 0.9938960671424866
+        },
+        {
+          "word": " far",
+          "start": 35.02,
+          "end": 35.36,
+          "probability": 0.9907544851303101
+        },
+        {
+          "word": " too",
+          "start": 35.36,
+          "end": 35.56,
+          "probability": 0.9984915256500244
+        },
+        {
+          "word": " much.",
+          "start": 35.56,
+          "end": 35.82,
+          "probability": 0.9995396137237549
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2652,
+      "start": 35.94,
+      "end": 39.92,
+      "text": " So we're bringing a lot of that work in-house and saving our budget,",
+      "tokens": [
+        50849,
+        407,
+        321,
+        434,
+        5062,
+        257,
+        688,
+        295,
+        300,
+        589,
+        294,
+        12,
+        6410,
+        293,
+        6816,
+        527,
+        4706,
+        11,
+        51036
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1427744431929155,
+      "compression_ratio": 1.6745098039215687,
+      "no_speech_prob": 1.2496540260920064e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 35.94,
+          "end": 36.3,
+          "probability": 0.9810879230499268
+        },
+        {
+          "word": " we're",
+          "start": 36.3,
+          "end": 36.42,
+          "probability": 0.963972270488739
+        },
+        {
+          "word": " bringing",
+          "start": 36.42,
+          "end": 36.6,
+          "probability": 0.9984210729598999
+        },
+        {
+          "word": " a",
+          "start": 36.6,
+          "end": 36.76,
+          "probability": 0.9971339702606201
+        },
+        {
+          "word": " lot",
+          "start": 36.76,
+          "end": 36.9,
+          "probability": 0.9997603297233582
+        },
+        {
+          "word": " of",
+          "start": 36.9,
+          "end": 37.0,
+          "probability": 0.9994242191314697
+        },
+        {
+          "word": " that",
+          "start": 37.0,
+          "end": 37.12,
+          "probability": 0.9923844337463379
+        },
+        {
+          "word": " work",
+          "start": 37.12,
+          "end": 37.42,
+          "probability": 0.9943941831588745
+        },
+        {
+          "word": " in",
+          "start": 37.42,
+          "end": 37.86,
+          "probability": 0.992553174495697
+        },
+        {
+          "word": "-house",
+          "start": 37.86,
+          "end": 38.16,
+          "probability": 0.9182386994361877
+        },
+        {
+          "word": " and",
+          "start": 38.16,
+          "end": 38.78,
+          "probability": 0.9269314408302307
+        },
+        {
+          "word": " saving",
+          "start": 38.78,
+          "end": 39.2,
+          "probability": 0.9982849955558777
+        },
+        {
+          "word": " our",
+          "start": 39.2,
+          "end": 39.54,
+          "probability": 0.9967557787895203
+        },
+        {
+          "word": " budget,",
+          "start": 39.54,
+          "end": 39.92,
+          "probability": 0.9981787204742432
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2652,
+      "start": 41.879999999999995,
+      "end": 44.8,
+      "text": " millions on things like IT services and software.",
+      "tokens": [
+        51110,
+        6803,
+        322,
+        721,
+        411,
+        6783,
+        3328,
+        293,
+        4722,
+        13,
+        51280
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1427744431929155,
+      "compression_ratio": 1.6745098039215687,
+      "no_speech_prob": 1.2496540260920064e-12,
+      "words": [
+        {
+          "word": " millions",
+          "start": 41.879999999999995,
+          "end": 42.48,
+          "probability": 0.8855854272842407
+        },
+        {
+          "word": " on",
+          "start": 42.48,
+          "end": 43.08,
+          "probability": 0.6056166887283325
+        },
+        {
+          "word": " things",
+          "start": 43.08,
+          "end": 43.28,
+          "probability": 0.9960137605667114
+        },
+        {
+          "word": " like",
+          "start": 43.28,
+          "end": 43.48,
+          "probability": 0.9967633485794067
+        },
+        {
+          "word": " IT",
+          "start": 43.48,
+          "end": 43.7,
+          "probability": 0.9360344409942627
+        },
+        {
+          "word": " services",
+          "start": 43.7,
+          "end": 44.12,
+          "probability": 0.9863017797470093
+        },
+        {
+          "word": " and",
+          "start": 44.12,
+          "end": 44.44,
+          "probability": 0.9934321045875549
+        },
+        {
+          "word": " software.",
+          "start": 44.44,
+          "end": 44.8,
+          "probability": 0.9983420372009277
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2652,
+      "start": 45.04,
+      "end": 50.7,
+      "text": " We've also found that sometimes we've been overcharged for life-saving medicine, like naloxone.",
+      "tokens": [
+        51296,
+        492,
+        600,
+        611,
+        1352,
+        300,
+        2171,
+        321,
+        600,
+        668,
+        670,
+        25064,
+        337,
+        993,
+        12,
+        82,
+        6152,
+        7195,
+        11,
+        411,
+        297,
+        304,
+        5230,
+        546,
+        13,
+        51574
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1427744431929155,
+      "compression_ratio": 1.6745098039215687,
+      "no_speech_prob": 1.2496540260920064e-12,
+      "words": [
+        {
+          "word": " We've",
+          "start": 45.04,
+          "end": 45.38,
+          "probability": 0.9946443438529968
+        },
+        {
+          "word": " also",
+          "start": 45.38,
+          "end": 45.6,
+          "probability": 0.9996237754821777
+        },
+        {
+          "word": " found",
+          "start": 45.6,
+          "end": 45.98,
+          "probability": 0.9995365142822266
+        },
+        {
+          "word": " that",
+          "start": 45.98,
+          "end": 46.38,
+          "probability": 0.9973015785217285
+        },
+        {
+          "word": " sometimes",
+          "start": 46.38,
+          "end": 46.74,
+          "probability": 0.9955540299415588
+        },
+        {
+          "word": " we've",
+          "start": 46.74,
+          "end": 47.3,
+          "probability": 0.9904077053070068
+        },
+        {
+          "word": " been",
+          "start": 47.3,
+          "end": 47.42,
+          "probability": 0.9989111423492432
+        },
+        {
+          "word": " overcharged",
+          "start": 47.42,
+          "end": 48.12,
+          "probability": 0.9922909736633301
+        },
+        {
+          "word": " for",
+          "start": 48.12,
+          "end": 48.48,
+          "probability": 0.9990487694740295
+        },
+        {
+          "word": " life",
+          "start": 48.48,
+          "end": 48.74,
+          "probability": 0.6770588755607605
+        },
+        {
+          "word": "-saving",
+          "start": 48.74,
+          "end": 49.04,
+          "probability": 0.9517498811086019
+        },
+        {
+          "word": " medicine,",
+          "start": 49.04,
+          "end": 49.38,
+          "probability": 0.9955033659934998
+        },
+        {
+          "word": " like",
+          "start": 49.68,
+          "end": 50.0,
+          "probability": 0.9967042803764343
+        },
+        {
+          "word": " naloxone.",
+          "start": 50.0,
+          "end": 50.7,
+          "probability": 0.8900420516729355
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2652,
+      "start": 51.0,
+      "end": 54.62,
+      "text": " So we're renegotiating that contract and saving another million dollars.",
+      "tokens": [
+        51593,
+        407,
+        321,
+        434,
+        319,
+        28561,
+        8206,
+        990,
+        300,
+        4364,
+        293,
+        6816,
+        1071,
+        2459,
+        3808,
+        13,
+        51773
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1427744431929155,
+      "compression_ratio": 1.6745098039215687,
+      "no_speech_prob": 1.2496540260920064e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 51.0,
+          "end": 51.26,
+          "probability": 0.9925651550292969
+        },
+        {
+          "word": " we're",
+          "start": 51.26,
+          "end": 51.4,
+          "probability": 0.992556095123291
+        },
+        {
+          "word": " renegotiating",
+          "start": 51.4,
+          "end": 52.1,
+          "probability": 0.993106409907341
+        },
+        {
+          "word": " that",
+          "start": 52.1,
+          "end": 52.26,
+          "probability": 0.9979451298713684
+        },
+        {
+          "word": " contract",
+          "start": 52.26,
+          "end": 52.66,
+          "probability": 0.9961087107658386
+        },
+        {
+          "word": " and",
+          "start": 52.66,
+          "end": 53.12,
+          "probability": 0.9871203303337097
+        },
+        {
+          "word": " saving",
+          "start": 53.12,
+          "end": 53.38,
+          "probability": 0.998623251914978
+        },
+        {
+          "word": " another",
+          "start": 53.38,
+          "end": 53.82,
+          "probability": 0.9983088970184326
+        },
+        {
+          "word": " million",
+          "start": 53.82,
+          "end": 54.28,
+          "probability": 0.8435239791870117
+        },
+        {
+          "word": " dollars.",
+          "start": 54.28,
+          "end": 54.62,
+          "probability": 0.9835776090621948
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 5462,
+      "start": 54.62,
+      "end": 57.36,
+      "text": " Our contract with McKinsey at the Department of Social Services?",
+      "tokens": [
+        50365,
+        2621,
+        4364,
+        365,
+        21765,
+        259,
+        7399,
+        412,
+        264,
+        5982,
+        295,
+        9909,
+        12124,
+        30,
+        50505
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " Our",
+          "start": 54.62,
+          "end": 55.06,
+          "probability": 0.8466886281967163
+        },
+        {
+          "word": " contract",
+          "start": 55.06,
+          "end": 55.48,
+          "probability": 0.9934825301170349
+        },
+        {
+          "word": " with",
+          "start": 55.48,
+          "end": 55.68,
+          "probability": 0.9358118176460266
+        },
+        {
+          "word": " McKinsey",
+          "start": 55.68,
+          "end": 56.1,
+          "probability": 0.9768661856651306
+        },
+        {
+          "word": " at",
+          "start": 56.1,
+          "end": 56.24,
+          "probability": 0.801063060760498
+        },
+        {
+          "word": " the",
+          "start": 56.24,
+          "end": 56.28,
+          "probability": 0.9973626732826233
+        },
+        {
+          "word": " Department",
+          "start": 56.28,
+          "end": 56.56,
+          "probability": 0.97740638256073
+        },
+        {
+          "word": " of",
+          "start": 56.56,
+          "end": 56.72,
+          "probability": 0.9984221458435059
+        },
+        {
+          "word": " Social",
+          "start": 56.72,
+          "end": 56.94,
+          "probability": 0.9984069466590881
+        },
+        {
+          "word": " Services?",
+          "start": 56.94,
+          "end": 57.36,
+          "probability": 0.9948062300682068
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5462,
+      "start": 57.92,
+      "end": 58.74,
+      "text": " No more.",
+      "tokens": [
+        50545,
+        883,
+        544,
+        13,
+        50573
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 57.92,
+          "end": 58.44,
+          "probability": 0.9899781942367554
+        },
+        {
+          "word": " more.",
+          "start": 58.44,
+          "end": 58.74,
+          "probability": 0.9967384934425354
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5462,
+      "start": 59.18,
+      "end": 62.7,
+      "text": " That's $9 million that we won't be spending next year.",
+      "tokens": [
+        50605,
+        663,
+        311,
+        1848,
+        24,
+        2459,
+        300,
+        321,
+        1582,
+        380,
+        312,
+        6434,
+        958,
+        1064,
+        13,
+        50770
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 59.18,
+          "end": 59.66,
+          "probability": 0.9974042177200317
+        },
+        {
+          "word": " $9",
+          "start": 59.66,
+          "end": 60.32,
+          "probability": 0.885521799325943
+        },
+        {
+          "word": " million",
+          "start": 60.32,
+          "end": 60.64,
+          "probability": 0.9765032529830933
+        },
+        {
+          "word": " that",
+          "start": 60.64,
+          "end": 61.58,
+          "probability": 0.9408226609230042
+        },
+        {
+          "word": " we",
+          "start": 61.58,
+          "end": 61.72,
+          "probability": 0.99968421459198
+        },
+        {
+          "word": " won't",
+          "start": 61.72,
+          "end": 61.88,
+          "probability": 0.9992237389087677
+        },
+        {
+          "word": " be",
+          "start": 61.88,
+          "end": 61.98,
+          "probability": 0.998831570148468
+        },
+        {
+          "word": " spending",
+          "start": 61.98,
+          "end": 62.24,
+          "probability": 0.9996693134307861
+        },
+        {
+          "word": " next",
+          "start": 62.24,
+          "end": 62.5,
+          "probability": 0.9975559711456299
+        },
+        {
+          "word": " year.",
+          "start": 62.5,
+          "end": 62.7,
+          "probability": 0.9997692704200745
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 5462,
+      "start": 62.9,
+      "end": 65.58,
+      "text": " The city rents lots of property it doesn't actually need.",
+      "tokens": [
+        50786,
+        440,
+        2307,
+        6214,
+        82,
+        3195,
+        295,
+        4707,
+        309,
+        1177,
+        380,
+        767,
+        643,
+        13,
+        50914
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 62.9,
+          "end": 63.14,
+          "probability": 0.9988722205162048
+        },
+        {
+          "word": " city",
+          "start": 63.14,
+          "end": 63.3,
+          "probability": 0.9685589671134949
+        },
+        {
+          "word": " rents",
+          "start": 63.3,
+          "end": 63.64,
+          "probability": 0.9989763498306274
+        },
+        {
+          "word": " lots",
+          "start": 63.64,
+          "end": 63.88,
+          "probability": 0.9989712238311768
+        },
+        {
+          "word": " of",
+          "start": 63.88,
+          "end": 64.06,
+          "probability": 0.9997652173042297
+        },
+        {
+          "word": " property",
+          "start": 64.06,
+          "end": 64.4,
+          "probability": 0.998855710029602
+        },
+        {
+          "word": " it",
+          "start": 64.4,
+          "end": 64.58,
+          "probability": 0.9987345337867737
+        },
+        {
+          "word": " doesn't",
+          "start": 64.58,
+          "end": 64.84,
+          "probability": 0.9994195401668549
+        },
+        {
+          "word": " actually",
+          "start": 64.84,
+          "end": 65.22,
+          "probability": 0.9992762207984924
+        },
+        {
+          "word": " need.",
+          "start": 65.22,
+          "end": 65.58,
+          "probability": 0.999836802482605
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5462,
+      "start": 65.7,
+      "end": 67.58,
+      "text": " So we're going to shrink our physical footprint",
+      "tokens": [
+        50932,
+        407,
+        321,
+        434,
+        516,
+        281,
+        23060,
+        527,
+        4001,
+        24222,
+        51013
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 65.7,
+          "end": 66.06,
+          "probability": 0.998695433139801
+        },
+        {
+          "word": " we're",
+          "start": 66.06,
+          "end": 66.16,
+          "probability": 0.9905101954936981
+        },
+        {
+          "word": " going",
+          "start": 66.16,
+          "end": 66.26,
+          "probability": 0.9987015724182129
+        },
+        {
+          "word": " to",
+          "start": 66.26,
+          "end": 66.38,
+          "probability": 0.9998102784156799
+        },
+        {
+          "word": " shrink",
+          "start": 66.38,
+          "end": 66.66,
+          "probability": 0.999769389629364
+        },
+        {
+          "word": " our",
+          "start": 66.66,
+          "end": 66.86,
+          "probability": 0.9999362230300903
+        },
+        {
+          "word": " physical",
+          "start": 66.86,
+          "end": 67.18,
+          "probability": 0.9995129108428955
+        },
+        {
+          "word": " footprint",
+          "start": 67.18,
+          "end": 67.58,
+          "probability": 0.999768078327179
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5462,
+      "start": 69.4,
+      "end": 71.14,
+      "text": " and save millions on leases.",
+      "tokens": [
+        51013,
+        293,
+        3155,
+        6803,
+        322,
+        476,
+        1957,
+        13,
+        51192
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " and",
+          "start": 69.4,
+          "end": 69.92,
+          "probability": 0.8519766330718994
+        },
+        {
+          "word": " save",
+          "start": 69.92,
+          "end": 70.22,
+          "probability": 0.9996607303619385
+        },
+        {
+          "word": " millions",
+          "start": 70.22,
+          "end": 70.62,
+          "probability": 0.9997765421867371
+        },
+        {
+          "word": " on",
+          "start": 70.62,
+          "end": 70.82,
+          "probability": 0.9999239444732666
+        },
+        {
+          "word": " leases.",
+          "start": 70.82,
+          "end": 71.14,
+          "probability": 0.9995152950286865
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5462,
+      "start": 71.44,
+      "end": 75.9,
+      "text": " And we want to make sure that the programs we're delivering to New Yorkers are being used as intended.",
+      "tokens": [
+        51216,
+        400,
+        321,
+        528,
+        281,
+        652,
+        988,
+        300,
+        264,
+        4268,
+        321,
+        434,
+        14666,
+        281,
+        1873,
+        3609,
+        433,
+        366,
+        885,
+        1143,
+        382,
+        10226,
+        13,
+        51431
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 71.44,
+          "end": 71.8,
+          "probability": 0.9994974136352539
+        },
+        {
+          "word": " we",
+          "start": 71.8,
+          "end": 71.9,
+          "probability": 0.9999620914459229
+        },
+        {
+          "word": " want",
+          "start": 71.9,
+          "end": 72.1,
+          "probability": 0.9998990297317505
+        },
+        {
+          "word": " to",
+          "start": 72.1,
+          "end": 72.24,
+          "probability": 0.9999676942825317
+        },
+        {
+          "word": " make",
+          "start": 72.24,
+          "end": 72.4,
+          "probability": 0.9998049139976501
+        },
+        {
+          "word": " sure",
+          "start": 72.4,
+          "end": 72.62,
+          "probability": 0.9999620914459229
+        },
+        {
+          "word": " that",
+          "start": 72.62,
+          "end": 72.78,
+          "probability": 0.9987382292747498
+        },
+        {
+          "word": " the",
+          "start": 72.78,
+          "end": 72.9,
+          "probability": 0.9988232254981995
+        },
+        {
+          "word": " programs",
+          "start": 72.9,
+          "end": 73.36,
+          "probability": 0.9999085664749146
+        },
+        {
+          "word": " we're",
+          "start": 73.36,
+          "end": 73.56,
+          "probability": 0.9983557760715485
+        },
+        {
+          "word": " delivering",
+          "start": 73.56,
+          "end": 73.94,
+          "probability": 0.9997345805168152
+        },
+        {
+          "word": " to",
+          "start": 73.94,
+          "end": 74.12,
+          "probability": 0.9999619722366333
+        },
+        {
+          "word": " New",
+          "start": 74.12,
+          "end": 74.26,
+          "probability": 0.9931097030639648
+        },
+        {
+          "word": " Yorkers",
+          "start": 74.26,
+          "end": 74.58,
+          "probability": 0.9996375739574432
+        },
+        {
+          "word": " are",
+          "start": 74.58,
+          "end": 74.82,
+          "probability": 0.999907374382019
+        },
+        {
+          "word": " being",
+          "start": 74.82,
+          "end": 74.98,
+          "probability": 0.9999303817749023
+        },
+        {
+          "word": " used",
+          "start": 74.98,
+          "end": 75.28,
+          "probability": 0.9997944235801697
+        },
+        {
+          "word": " as",
+          "start": 75.28,
+          "end": 75.56,
+          "probability": 0.9998584985733032
+        },
+        {
+          "word": " intended.",
+          "start": 75.56,
+          "end": 75.9,
+          "probability": 0.9998300075531006
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5462,
+      "start": 76.14,
+      "end": 80.5,
+      "text": " So we're going to strengthen verification to ensure that homeowners getting tax breaks",
+      "tokens": [
+        51446,
+        407,
+        321,
+        434,
+        516,
+        281,
+        17045,
+        30206,
+        281,
+        5586,
+        300,
+        39868,
+        1242,
+        3366,
+        9857,
+        51660
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 76.14,
+          "end": 76.5,
+          "probability": 0.9997801184654236
+        },
+        {
+          "word": " we're",
+          "start": 76.5,
+          "end": 76.6,
+          "probability": 0.9999721646308899
+        },
+        {
+          "word": " going",
+          "start": 76.6,
+          "end": 76.72,
+          "probability": 0.9997226595878601
+        },
+        {
+          "word": " to",
+          "start": 76.72,
+          "end": 76.84,
+          "probability": 0.9999294281005859
+        },
+        {
+          "word": " strengthen",
+          "start": 76.84,
+          "end": 77.18,
+          "probability": 0.9978677034378052
+        },
+        {
+          "word": " verification",
+          "start": 77.18,
+          "end": 77.8,
+          "probability": 0.9974818825721741
+        },
+        {
+          "word": " to",
+          "start": 77.8,
+          "end": 78.32,
+          "probability": 0.9954230189323425
+        },
+        {
+          "word": " ensure",
+          "start": 78.32,
+          "end": 78.56,
+          "probability": 0.9993984699249268
+        },
+        {
+          "word": " that",
+          "start": 78.56,
+          "end": 78.7,
+          "probability": 0.9995768666267395
+        },
+        {
+          "word": " homeowners",
+          "start": 78.7,
+          "end": 79.1,
+          "probability": 0.9989848732948303
+        },
+        {
+          "word": " getting",
+          "start": 79.1,
+          "end": 79.88,
+          "probability": 0.9829279780387878
+        },
+        {
+          "word": " tax",
+          "start": 79.88,
+          "end": 80.24,
+          "probability": 0.9999405145645142
+        },
+        {
+          "word": " breaks",
+          "start": 80.24,
+          "end": 80.5,
+          "probability": 0.9998352527618408
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5462,
+      "start": 80.5,
+      "end": 82.3,
+      "text": " are actually living in that home.",
+      "tokens": [
+        51660,
+        366,
+        767,
+        2647,
+        294,
+        300,
+        1280,
+        13,
+        51751
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.149997992593734,
+      "compression_ratio": 1.6621160409556315,
+      "no_speech_prob": 2.1753024728732306e-12,
+      "words": [
+        {
+          "word": " are",
+          "start": 80.5,
+          "end": 80.82,
+          "probability": 0.9996627569198608
+        },
+        {
+          "word": " actually",
+          "start": 80.82,
+          "end": 81.26,
+          "probability": 0.9998809099197388
+        },
+        {
+          "word": " living",
+          "start": 81.26,
+          "end": 81.68,
+          "probability": 0.9998161196708679
+        },
+        {
+          "word": " in",
+          "start": 81.68,
+          "end": 81.94,
+          "probability": 0.999962568283081
+        },
+        {
+          "word": " that",
+          "start": 81.94,
+          "end": 82.1,
+          "probability": 0.9998784065246582
+        },
+        {
+          "word": " home.",
+          "start": 82.1,
+          "end": 82.3,
+          "probability": 0.9997435212135315
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 8230,
+      "start": 82.3,
+      "end": 85.16,
+      "text": " This adds up to another $13 million a year.",
+      "tokens": [
+        50365,
+        639,
+        10860,
+        493,
+        281,
+        1071,
+        1848,
+        7668,
+        2459,
+        257,
+        1064,
+        13,
+        50509
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " This",
+          "start": 82.3,
+          "end": 83.02,
+          "probability": 0.8438014984130859
+        },
+        {
+          "word": " adds",
+          "start": 83.02,
+          "end": 83.24,
+          "probability": 0.9953191876411438
+        },
+        {
+          "word": " up",
+          "start": 83.24,
+          "end": 83.42,
+          "probability": 0.9950708150863647
+        },
+        {
+          "word": " to",
+          "start": 83.42,
+          "end": 83.58,
+          "probability": 0.9974040389060974
+        },
+        {
+          "word": " another",
+          "start": 83.58,
+          "end": 83.78,
+          "probability": 0.984022319316864
+        },
+        {
+          "word": " $13",
+          "start": 83.78,
+          "end": 84.22,
+          "probability": 0.8927550315856934
+        },
+        {
+          "word": " million",
+          "start": 84.22,
+          "end": 84.56,
+          "probability": 0.983782947063446
+        },
+        {
+          "word": " a",
+          "start": 84.56,
+          "end": 84.98,
+          "probability": 0.9174892902374268
+        },
+        {
+          "word": " year.",
+          "start": 84.98,
+          "end": 85.16,
+          "probability": 0.9994900226593018
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 8230,
+      "start": 85.38,
+      "end": 86.86,
+      "text": " You've heard me say this time and again.",
+      "tokens": [
+        50524,
+        509,
+        600,
+        2198,
+        385,
+        584,
+        341,
+        565,
+        293,
+        797,
+        13,
+        50594
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " You've",
+          "start": 85.38,
+          "end": 85.68,
+          "probability": 0.994095116853714
+        },
+        {
+          "word": " heard",
+          "start": 85.68,
+          "end": 85.78,
+          "probability": 0.999413251876831
+        },
+        {
+          "word": " me",
+          "start": 85.78,
+          "end": 85.92,
+          "probability": 0.9992345571517944
+        },
+        {
+          "word": " say",
+          "start": 85.92,
+          "end": 86.08,
+          "probability": 0.9989724159240723
+        },
+        {
+          "word": " this",
+          "start": 86.08,
+          "end": 86.24,
+          "probability": 0.9982979893684387
+        },
+        {
+          "word": " time",
+          "start": 86.24,
+          "end": 86.48,
+          "probability": 0.9981062412261963
+        },
+        {
+          "word": " and",
+          "start": 86.48,
+          "end": 86.64,
+          "probability": 0.9984914064407349
+        },
+        {
+          "word": " again.",
+          "start": 86.64,
+          "end": 86.86,
+          "probability": 0.9996016621589661
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 8230,
+      "start": 87.24,
+      "end": 89.6,
+      "text": " In fighting a $5.4 billion fiscal deficit,",
+      "tokens": [
+        50613,
+        682,
+        5237,
+        257,
+        1848,
+        20,
+        13,
+        19,
+        5218,
+        15897,
+        22132,
+        11,
+        50732
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " In",
+          "start": 87.24,
+          "end": 87.34,
+          "probability": 0.9946632385253906
+        },
+        {
+          "word": " fighting",
+          "start": 87.34,
+          "end": 87.6,
+          "probability": 0.9988000392913818
+        },
+        {
+          "word": " a",
+          "start": 87.6,
+          "end": 87.76,
+          "probability": 0.9974779486656189
+        },
+        {
+          "word": " $5",
+          "start": 87.76,
+          "end": 88.0,
+          "probability": 0.989590048789978
+        },
+        {
+          "word": ".4",
+          "start": 88.0,
+          "end": 88.42,
+          "probability": 0.9996410608291626
+        },
+        {
+          "word": " billion",
+          "start": 88.42,
+          "end": 88.74,
+          "probability": 0.993034839630127
+        },
+        {
+          "word": " fiscal",
+          "start": 88.74,
+          "end": 89.24,
+          "probability": 0.9845853447914124
+        },
+        {
+          "word": " deficit,",
+          "start": 89.24,
+          "end": 89.6,
+          "probability": 0.9997219443321228
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 8230,
+      "start": 89.84,
+      "end": 94.28,
+      "text": " we need to tax the rich and end of the drain that's been our relationship with the state for far too long.",
+      "tokens": [
+        50751,
+        321,
+        643,
+        281,
+        3366,
+        264,
+        4593,
+        293,
+        917,
+        295,
+        264,
+        12339,
+        300,
+        311,
+        668,
+        527,
+        2480,
+        365,
+        264,
+        1785,
+        337,
+        1400,
+        886,
+        938,
+        13,
+        50966
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " we",
+          "start": 89.84,
+          "end": 90.12,
+          "probability": 0.9983561635017395
+        },
+        {
+          "word": " need",
+          "start": 90.12,
+          "end": 90.24,
+          "probability": 0.9997109770774841
+        },
+        {
+          "word": " to",
+          "start": 90.24,
+          "end": 90.34,
+          "probability": 0.9978311657905579
+        },
+        {
+          "word": " tax",
+          "start": 90.34,
+          "end": 90.58,
+          "probability": 0.9997126460075378
+        },
+        {
+          "word": " the",
+          "start": 90.58,
+          "end": 90.74,
+          "probability": 0.9990523457527161
+        },
+        {
+          "word": " rich",
+          "start": 90.74,
+          "end": 90.94,
+          "probability": 0.9993232488632202
+        },
+        {
+          "word": " and",
+          "start": 90.94,
+          "end": 91.06,
+          "probability": 0.8018244504928589
+        },
+        {
+          "word": " end",
+          "start": 91.06,
+          "end": 91.22,
+          "probability": 0.9907500147819519
+        },
+        {
+          "word": " of",
+          "start": 91.22,
+          "end": 91.3,
+          "probability": 0.6338890790939331
+        },
+        {
+          "word": " the",
+          "start": 91.3,
+          "end": 91.38,
+          "probability": 0.9994390606880188
+        },
+        {
+          "word": " drain",
+          "start": 91.38,
+          "end": 91.64,
+          "probability": 0.9990103244781494
+        },
+        {
+          "word": " that's",
+          "start": 91.64,
+          "end": 91.92,
+          "probability": 0.9911444187164307
+        },
+        {
+          "word": " been",
+          "start": 91.92,
+          "end": 92.12,
+          "probability": 0.999810516834259
+        },
+        {
+          "word": " our",
+          "start": 92.12,
+          "end": 92.56,
+          "probability": 0.9981520771980286
+        },
+        {
+          "word": " relationship",
+          "start": 92.56,
+          "end": 93.0,
+          "probability": 0.9996862411499023
+        },
+        {
+          "word": " with",
+          "start": 93.0,
+          "end": 93.22,
+          "probability": 0.9995666146278381
+        },
+        {
+          "word": " the",
+          "start": 93.22,
+          "end": 93.34,
+          "probability": 0.9993428587913513
+        },
+        {
+          "word": " state",
+          "start": 93.34,
+          "end": 93.52,
+          "probability": 0.9983922839164734
+        },
+        {
+          "word": " for",
+          "start": 93.52,
+          "end": 93.7,
+          "probability": 0.9991304278373718
+        },
+        {
+          "word": " far",
+          "start": 93.7,
+          "end": 93.88,
+          "probability": 0.9990341663360596
+        },
+        {
+          "word": " too",
+          "start": 93.88,
+          "end": 94.02,
+          "probability": 0.999845027923584
+        },
+        {
+          "word": " long.",
+          "start": 94.02,
+          "end": 94.28,
+          "probability": 0.9999628067016602
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 8230,
+      "start": 94.5,
+      "end": 95.74,
+      "text": " As we pursue that, though,",
+      "tokens": [
+        50983,
+        1018,
+        321,
+        12392,
+        300,
+        11,
+        1673,
+        11,
+        51040
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " As",
+          "start": 94.5,
+          "end": 94.82,
+          "probability": 0.9993933439254761
+        },
+        {
+          "word": " we",
+          "start": 94.82,
+          "end": 94.94,
+          "probability": 0.9999803304672241
+        },
+        {
+          "word": " pursue",
+          "start": 94.94,
+          "end": 95.32,
+          "probability": 0.9997356534004211
+        },
+        {
+          "word": " that,",
+          "start": 95.32,
+          "end": 95.54,
+          "probability": 0.9993273019790649
+        },
+        {
+          "word": " though,",
+          "start": 95.66,
+          "end": 95.74,
+          "probability": 0.9990988969802856
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 8230,
+      "start": 95.94,
+      "end": 100.38,
+      "text": " we also have to take a close look at our own spending and cut waste wherever we can.",
+      "tokens": [
+        51046,
+        321,
+        611,
+        362,
+        281,
+        747,
+        257,
+        1998,
+        574,
+        412,
+        527,
+        1065,
+        6434,
+        293,
+        1723,
+        5964,
+        8660,
+        321,
+        393,
+        13,
+        51273
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " we",
+          "start": 95.94,
+          "end": 96.28,
+          "probability": 0.9993950128555298
+        },
+        {
+          "word": " also",
+          "start": 96.28,
+          "end": 96.6,
+          "probability": 0.9997994303703308
+        },
+        {
+          "word": " have",
+          "start": 96.6,
+          "end": 96.84,
+          "probability": 0.9996370077133179
+        },
+        {
+          "word": " to",
+          "start": 96.84,
+          "end": 96.98,
+          "probability": 0.9999309778213501
+        },
+        {
+          "word": " take",
+          "start": 96.98,
+          "end": 97.2,
+          "probability": 0.9990511536598206
+        },
+        {
+          "word": " a",
+          "start": 97.2,
+          "end": 97.42,
+          "probability": 0.9997238516807556
+        },
+        {
+          "word": " close",
+          "start": 97.42,
+          "end": 97.72,
+          "probability": 0.9968574047088623
+        },
+        {
+          "word": " look",
+          "start": 97.72,
+          "end": 97.94,
+          "probability": 0.9999185800552368
+        },
+        {
+          "word": " at",
+          "start": 97.94,
+          "end": 98.08,
+          "probability": 0.9999673366546631
+        },
+        {
+          "word": " our",
+          "start": 98.08,
+          "end": 98.2,
+          "probability": 0.9999076128005981
+        },
+        {
+          "word": " own",
+          "start": 98.2,
+          "end": 98.38,
+          "probability": 0.9986270666122437
+        },
+        {
+          "word": " spending",
+          "start": 98.38,
+          "end": 98.78,
+          "probability": 0.9998206496238708
+        },
+        {
+          "word": " and",
+          "start": 98.78,
+          "end": 99.2,
+          "probability": 0.9971942901611328
+        },
+        {
+          "word": " cut",
+          "start": 99.2,
+          "end": 99.4,
+          "probability": 0.9997308850288391
+        },
+        {
+          "word": " waste",
+          "start": 99.4,
+          "end": 99.68,
+          "probability": 0.9998457431793213
+        },
+        {
+          "word": " wherever",
+          "start": 99.68,
+          "end": 99.94,
+          "probability": 0.9967361092567444
+        },
+        {
+          "word": " we",
+          "start": 99.94,
+          "end": 100.2,
+          "probability": 0.9999339580535889
+        },
+        {
+          "word": " can.",
+          "start": 100.2,
+          "end": 100.38,
+          "probability": 0.9999498128890991
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 8230,
+      "start": 100.7,
+      "end": 103.62,
+      "text": " When we're looking to put our city back on firm financial footing,",
+      "tokens": [
+        51294,
+        1133,
+        321,
+        434,
+        1237,
+        281,
+        829,
+        527,
+        2307,
+        646,
+        322,
+        6174,
+        4669,
+        45959,
+        11,
+        51433
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " When",
+          "start": 100.7,
+          "end": 101.1,
+          "probability": 0.9994900226593018
+        },
+        {
+          "word": " we're",
+          "start": 101.1,
+          "end": 101.22,
+          "probability": 0.999815821647644
+        },
+        {
+          "word": " looking",
+          "start": 101.22,
+          "end": 101.4,
+          "probability": 0.9998239874839783
+        },
+        {
+          "word": " to",
+          "start": 101.4,
+          "end": 101.56,
+          "probability": 0.9999336004257202
+        },
+        {
+          "word": " put",
+          "start": 101.56,
+          "end": 101.72,
+          "probability": 0.9998156428337097
+        },
+        {
+          "word": " our",
+          "start": 101.72,
+          "end": 101.84,
+          "probability": 0.9998574256896973
+        },
+        {
+          "word": " city",
+          "start": 101.84,
+          "end": 102.06,
+          "probability": 0.9994944334030151
+        },
+        {
+          "word": " back",
+          "start": 102.06,
+          "end": 102.36,
+          "probability": 0.9998408555984497
+        },
+        {
+          "word": " on",
+          "start": 102.36,
+          "end": 102.64,
+          "probability": 0.9999237060546875
+        },
+        {
+          "word": " firm",
+          "start": 102.64,
+          "end": 102.92,
+          "probability": 0.9997351765632629
+        },
+        {
+          "word": " financial",
+          "start": 102.92,
+          "end": 103.32,
+          "probability": 0.9987860321998596
+        },
+        {
+          "word": " footing,",
+          "start": 103.32,
+          "end": 103.62,
+          "probability": 0.9999563694000244
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 8230,
+      "start": 103.9,
+      "end": 105.18,
+      "text": " no saving is too small.",
+      "tokens": [
+        51448,
+        572,
+        6816,
+        307,
+        886,
+        1359,
+        13,
+        51511
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " no",
+          "start": 103.9,
+          "end": 104.2,
+          "probability": 0.9993959665298462
+        },
+        {
+          "word": " saving",
+          "start": 104.2,
+          "end": 104.56,
+          "probability": 0.992833137512207
+        },
+        {
+          "word": " is",
+          "start": 104.56,
+          "end": 104.78,
+          "probability": 0.9999468326568604
+        },
+        {
+          "word": " too",
+          "start": 104.78,
+          "end": 104.9,
+          "probability": 0.9999618530273438
+        },
+        {
+          "word": " small.",
+          "start": 104.9,
+          "end": 105.18,
+          "probability": 0.9998892545700073
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 8230,
+      "start": 105.48,
+      "end": 107.54,
+      "text": " We'll keep you posted every step of the way.",
+      "tokens": [
+        51536,
+        492,
+        603,
+        1066,
+        291,
+        9437,
+        633,
+        1823,
+        295,
+        264,
+        636,
+        13,
+        51628
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.16174608961980147,
+      "compression_ratio": 1.580327868852459,
+      "no_speech_prob": 1.2300933925971091e-12,
+      "words": [
+        {
+          "word": " We'll",
+          "start": 105.48,
+          "end": 105.92,
+          "probability": 0.9998581111431122
+        },
+        {
+          "word": " keep",
+          "start": 105.92,
+          "end": 106.04,
+          "probability": 0.9998775720596313
+        },
+        {
+          "word": " you",
+          "start": 106.04,
+          "end": 106.18,
+          "probability": 0.9999384880065918
+        },
+        {
+          "word": " posted",
+          "start": 106.18,
+          "end": 106.5,
+          "probability": 0.9999178647994995
+        },
+        {
+          "word": " every",
+          "start": 106.5,
+          "end": 106.94,
+          "probability": 0.99787437915802
+        },
+        {
+          "word": " step",
+          "start": 106.94,
+          "end": 107.18,
+          "probability": 0.999948263168335
+        },
+        {
+          "word": " of",
+          "start": 107.18,
+          "end": 107.34,
+          "probability": 0.9999747276306152
+        },
+        {
+          "word": " the",
+          "start": 107.34,
+          "end": 107.36,
+          "probability": 0.9999806880950928
+        },
+        {
+          "word": " way.",
+          "start": 107.36,
+          "end": 107.54,
+          "probability": 0.999974250793457
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 10754,
+      "start": 107.54,
+      "end": 110.92,
+      "text": " Because to deliver public goods, you have to first deliver public excellence.",
+      "tokens": [
+        50365,
+        1436,
+        281,
+        4239,
+        1908,
+        10179,
+        11,
+        291,
+        362,
+        281,
+        700,
+        4239,
+        1908,
+        21268,
+        13,
+        50537
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1425464153289795,
+      "compression_ratio": 1.1323529411764706,
+      "no_speech_prob": 2.8584808131615347e-12,
+      "words": [
+        {
+          "word": " Because",
+          "start": 107.54,
+          "end": 108.2,
+          "probability": 0.6891629099845886
+        },
+        {
+          "word": " to",
+          "start": 108.2,
+          "end": 108.3,
+          "probability": 0.9528794884681702
+        },
+        {
+          "word": " deliver",
+          "start": 108.3,
+          "end": 108.5,
+          "probability": 0.9945539236068726
+        },
+        {
+          "word": " public",
+          "start": 108.5,
+          "end": 108.82,
+          "probability": 0.9898057579994202
+        },
+        {
+          "word": " goods,",
+          "start": 108.82,
+          "end": 109.14,
+          "probability": 0.9959636926651001
+        },
+        {
+          "word": " you",
+          "start": 109.46,
+          "end": 109.6,
+          "probability": 0.9938971400260925
+        },
+        {
+          "word": " have",
+          "start": 109.6,
+          "end": 109.7,
+          "probability": 0.9872224926948547
+        },
+        {
+          "word": " to",
+          "start": 109.7,
+          "end": 109.78,
+          "probability": 0.9959230422973633
+        },
+        {
+          "word": " first",
+          "start": 109.78,
+          "end": 109.98,
+          "probability": 0.9904296398162842
+        },
+        {
+          "word": " deliver",
+          "start": 109.98,
+          "end": 110.26,
+          "probability": 0.9933150410652161
+        },
+        {
+          "word": " public",
+          "start": 110.26,
+          "end": 110.56,
+          "probability": 0.9931601285934448
+        },
+        {
+          "word": " excellence.",
+          "start": 110.56,
+          "end": 110.92,
+          "probability": 0.9970225691795349
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

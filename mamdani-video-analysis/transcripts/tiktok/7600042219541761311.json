@@ -1,0 +1,1902 @@
+{
+  "text": " Friends, I am once again asking for your donations. Not for me! For Claire Valdez. Claire is an assembly member, a democratic socialist, and a union organizer running for Congress in New York 7. That's Greenpoint, Williamsburg, Bushwick, Ridgewood, Masspet, Cypress Hills, East New York, a little bit of Fort Greene, a little bit of Bed-Stuy, Ridgewood, downtown Brooklyn. Whoa, you just said Ridgewood West. Yeah, baby. Wait, so I have a queue for you. What are you running on? Unions for all, housing for all, Medicare for all. I thought DC was only doing for some right now. Nah, we're gonna do it all. We can't do it without you. That's right. So I'm asking you to donate whatever you can to Claire. Where can they do that again? Claire Valdez for Congress dot com. Claire Valdez for Congress dot com. Claire Valdez for Congress dot com. Claire Valdez for Congress dot com. Thank you, Mr. Mayer. You heard the lady. Please donate to her. Please. Please. Please. Please.achingtjie.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.38000000000000056,
+      "end": 2.64,
+      "text": " Friends, I am once again asking for your donations.",
+      "tokens": [
+        50365,
+        14042,
+        11,
+        286,
+        669,
+        1564,
+        797,
+        3365,
+        337,
+        428,
+        22705,
+        13,
+        50498
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Friends,",
+          "start": 0.38000000000000056,
+          "end": 0.74,
+          "probability": 0.7389069199562073
+        },
+        {
+          "word": " I",
+          "start": 0.94,
+          "end": 1.08,
+          "probability": 0.9967647790908813
+        },
+        {
+          "word": " am",
+          "start": 1.08,
+          "end": 1.22,
+          "probability": 0.8999245762825012
+        },
+        {
+          "word": " once",
+          "start": 1.22,
+          "end": 1.5,
+          "probability": 0.9928828477859497
+        },
+        {
+          "word": " again",
+          "start": 1.5,
+          "end": 1.68,
+          "probability": 0.9993588328361511
+        },
+        {
+          "word": " asking",
+          "start": 1.68,
+          "end": 1.96,
+          "probability": 0.9925646781921387
+        },
+        {
+          "word": " for",
+          "start": 1.96,
+          "end": 2.1,
+          "probability": 0.9929420948028564
+        },
+        {
+          "word": " your",
+          "start": 2.1,
+          "end": 2.22,
+          "probability": 0.9939384460449219
+        },
+        {
+          "word": " donations.",
+          "start": 2.22,
+          "end": 2.64,
+          "probability": 0.9958602786064148
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.76,
+      "end": 5.44,
+      "text": " Not for me! For Claire Valdez.",
+      "tokens": [
+        50498,
+        1726,
+        337,
+        385,
+        0,
+        1171,
+        22605,
+        7188,
+        1479,
+        89,
+        13,
+        50655
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Not",
+          "start": 2.76,
+          "end": 2.92,
+          "probability": 0.7249276041984558
+        },
+        {
+          "word": " for",
+          "start": 2.92,
+          "end": 3.74,
+          "probability": 0.9990167617797852
+        },
+        {
+          "word": " me!",
+          "start": 3.74,
+          "end": 3.94,
+          "probability": 0.9988279938697815
+        },
+        {
+          "word": " For",
+          "start": 4.14,
+          "end": 4.48,
+          "probability": 0.978832483291626
+        },
+        {
+          "word": " Claire",
+          "start": 4.48,
+          "end": 4.72,
+          "probability": 0.8240329623222351
+        },
+        {
+          "word": " Valdez.",
+          "start": 4.72,
+          "end": 5.44,
+          "probability": 0.9845067262649536
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.82,
+      "end": 9.04,
+      "text": " Claire is an assembly member, a democratic socialist,",
+      "tokens": [
+        50655,
+        22605,
+        307,
+        364,
+        12103,
+        4006,
+        11,
+        257,
+        15337,
+        33981,
+        11,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Claire",
+          "start": 6.82,
+          "end": 7.18,
+          "probability": 0.9911772012710571
+        },
+        {
+          "word": " is",
+          "start": 7.18,
+          "end": 7.4,
+          "probability": 0.9975046515464783
+        },
+        {
+          "word": " an",
+          "start": 7.4,
+          "end": 7.52,
+          "probability": 0.9970423579216003
+        },
+        {
+          "word": " assembly",
+          "start": 7.52,
+          "end": 7.82,
+          "probability": 0.7389060854911804
+        },
+        {
+          "word": " member,",
+          "start": 7.82,
+          "end": 8.08,
+          "probability": 0.9840453863143921
+        },
+        {
+          "word": " a",
+          "start": 8.26,
+          "end": 8.28,
+          "probability": 0.998353123664856
+        },
+        {
+          "word": " democratic",
+          "start": 8.28,
+          "end": 8.6,
+          "probability": 0.5905866622924805
+        },
+        {
+          "word": " socialist,",
+          "start": 8.6,
+          "end": 9.04,
+          "probability": 0.9839792251586914
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.18,
+      "end": 12.02,
+      "text": " and a union organizer running for Congress in New York 7.",
+      "tokens": [
+        50815,
+        293,
+        257,
+        11671,
+        41363,
+        2614,
+        337,
+        6426,
+        294,
+        1873,
+        3609,
+        1614,
+        13,
+        50982
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " and",
+          "start": 9.18,
+          "end": 9.24,
+          "probability": 0.9945459365844727
+        },
+        {
+          "word": " a",
+          "start": 9.24,
+          "end": 9.34,
+          "probability": 0.9952634572982788
+        },
+        {
+          "word": " union",
+          "start": 9.34,
+          "end": 9.58,
+          "probability": 0.9987902045249939
+        },
+        {
+          "word": " organizer",
+          "start": 9.58,
+          "end": 10.02,
+          "probability": 0.9937949180603027
+        },
+        {
+          "word": " running",
+          "start": 10.02,
+          "end": 10.26,
+          "probability": 0.983180820941925
+        },
+        {
+          "word": " for",
+          "start": 10.26,
+          "end": 10.42,
+          "probability": 0.9972658157348633
+        },
+        {
+          "word": " Congress",
+          "start": 10.42,
+          "end": 10.76,
+          "probability": 0.6833263039588928
+        },
+        {
+          "word": " in",
+          "start": 10.76,
+          "end": 11.02,
+          "probability": 0.9582648277282715
+        },
+        {
+          "word": " New",
+          "start": 11.02,
+          "end": 11.28,
+          "probability": 0.9683429598808289
+        },
+        {
+          "word": " York",
+          "start": 11.28,
+          "end": 11.66,
+          "probability": 0.9984034895896912
+        },
+        {
+          "word": " 7.",
+          "start": 11.66,
+          "end": 12.02,
+          "probability": 0.8917877674102783
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.3,
+      "end": 14.74,
+      "text": " That's Greenpoint, Williamsburg, Bushwick, Ridgewood,",
+      "tokens": [
+        50982,
+        663,
+        311,
+        6969,
+        6053,
+        11,
+        12929,
+        8342,
+        11,
+        15782,
+        16038,
+        11,
+        32313,
+        6092,
+        11,
+        51107
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 12.3,
+          "end": 12.66,
+          "probability": 0.9854120314121246
+        },
+        {
+          "word": " Greenpoint,",
+          "start": 12.66,
+          "end": 13.06,
+          "probability": 0.9239468276500702
+        },
+        {
+          "word": " Williamsburg,",
+          "start": 13.22,
+          "end": 13.7,
+          "probability": 0.9981282353401184
+        },
+        {
+          "word": " Bushwick,",
+          "start": 13.8,
+          "end": 14.16,
+          "probability": 0.9915772974491119
+        },
+        {
+          "word": " Ridgewood,",
+          "start": 14.36,
+          "end": 14.74,
+          "probability": 0.9933249950408936
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 14.9,
+      "end": 16.54,
+      "text": " Masspet, Cypress Hills, East New York,",
+      "tokens": [
+        51107,
+        10482,
+        7275,
+        11,
+        10295,
+        11637,
+        25663,
+        11,
+        6747,
+        1873,
+        3609,
+        11,
+        51193
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Masspet,",
+          "start": 14.9,
+          "end": 15.28,
+          "probability": 0.4032941274344921
+        },
+        {
+          "word": " Cypress",
+          "start": 15.42,
+          "end": 15.74,
+          "probability": 0.9862062335014343
+        },
+        {
+          "word": " Hills,",
+          "start": 15.74,
+          "end": 15.9,
+          "probability": 0.9843147397041321
+        },
+        {
+          "word": " East",
+          "start": 16.06,
+          "end": 16.24,
+          "probability": 0.9765932559967041
+        },
+        {
+          "word": " New",
+          "start": 16.24,
+          "end": 16.4,
+          "probability": 0.9953448176383972
+        },
+        {
+          "word": " York,",
+          "start": 16.4,
+          "end": 16.54,
+          "probability": 0.9992944002151489
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 16.68,
+      "end": 19.58,
+      "text": " a little bit of Fort Greene, a little bit of Bed-Stuy, Ridgewood, downtown Brooklyn.",
+      "tokens": [
+        51193,
+        257,
+        707,
+        857,
+        295,
+        11002,
+        14986,
+        1450,
+        11,
+        257,
+        707,
+        857,
+        295,
+        19893,
+        12,
+        4520,
+        7493,
+        11,
+        32313,
+        6092,
+        11,
+        14209,
+        21872,
+        13,
+        51328
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " a",
+          "start": 16.68,
+          "end": 16.74,
+          "probability": 0.9672278165817261
+        },
+        {
+          "word": " little",
+          "start": 16.74,
+          "end": 16.86,
+          "probability": 0.9992007613182068
+        },
+        {
+          "word": " bit",
+          "start": 16.86,
+          "end": 16.94,
+          "probability": 0.9973226189613342
+        },
+        {
+          "word": " of",
+          "start": 16.94,
+          "end": 17.02,
+          "probability": 0.9983312487602234
+        },
+        {
+          "word": " Fort",
+          "start": 17.02,
+          "end": 17.16,
+          "probability": 0.994144856929779
+        },
+        {
+          "word": " Greene,",
+          "start": 17.16,
+          "end": 17.36,
+          "probability": 0.9049763977527618
+        },
+        {
+          "word": " a",
+          "start": 17.48,
+          "end": 17.54,
+          "probability": 0.9117521047592163
+        },
+        {
+          "word": " little",
+          "start": 17.54,
+          "end": 17.6,
+          "probability": 0.9993389248847961
+        },
+        {
+          "word": " bit",
+          "start": 17.6,
+          "end": 17.7,
+          "probability": 0.9970697164535522
+        },
+        {
+          "word": " of",
+          "start": 17.7,
+          "end": 17.8,
+          "probability": 0.9988797307014465
+        },
+        {
+          "word": " Bed",
+          "start": 17.8,
+          "end": 17.94,
+          "probability": 0.9524572491645813
+        },
+        {
+          "word": "-Stuy,",
+          "start": 17.94,
+          "end": 18.22,
+          "probability": 0.9607364932696024
+        },
+        {
+          "word": " Ridgewood,",
+          "start": 18.5,
+          "end": 18.98,
+          "probability": 0.9982796907424927
+        },
+        {
+          "word": " downtown",
+          "start": 19.12,
+          "end": 19.32,
+          "probability": 0.916978657245636
+        },
+        {
+          "word": " Brooklyn.",
+          "start": 19.32,
+          "end": 19.58,
+          "probability": 0.9754060506820679
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.7,
+      "end": 20.34,
+      "text": " Whoa, you just said Ridgewood West.",
+      "tokens": [
+        51328,
+        7521,
+        11,
+        291,
+        445,
+        848,
+        32313,
+        6092,
+        4055,
+        13,
+        51393
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Whoa,",
+          "start": 19.7,
+          "end": 19.7,
+          "probability": 0.85209059715271
+        },
+        {
+          "word": " you",
+          "start": 19.7,
+          "end": 19.7,
+          "probability": 0.9888084530830383
+        },
+        {
+          "word": " just",
+          "start": 19.7,
+          "end": 19.7,
+          "probability": 0.7586992383003235
+        },
+        {
+          "word": " said",
+          "start": 19.7,
+          "end": 19.8,
+          "probability": 0.9986613988876343
+        },
+        {
+          "word": " Ridgewood",
+          "start": 19.8,
+          "end": 20.1,
+          "probability": 0.9983570575714111
+        },
+        {
+          "word": " West.",
+          "start": 20.1,
+          "end": 20.34,
+          "probability": 0.5368333458900452
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 20.62,
+      "end": 21.1,
+      "text": " Yeah, baby.",
+      "tokens": [
+        51393,
+        865,
+        11,
+        3186,
+        13,
+        51433
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 20.62,
+          "end": 20.86,
+          "probability": 0.9888923764228821
+        },
+        {
+          "word": " baby.",
+          "start": 20.96,
+          "end": 21.1,
+          "probability": 0.995486319065094
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 21.42,
+      "end": 24.1,
+      "text": " Wait, so I have a queue for you. What are you running on?",
+      "tokens": [
+        51433,
+        3802,
+        11,
+        370,
+        286,
+        362,
+        257,
+        18639,
+        337,
+        291,
+        13,
+        708,
+        366,
+        291,
+        2614,
+        322,
+        30,
+        51585
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Wait,",
+          "start": 21.42,
+          "end": 21.62,
+          "probability": 0.9977891445159912
+        },
+        {
+          "word": " so",
+          "start": 21.7,
+          "end": 21.78,
+          "probability": 0.9998750686645508
+        },
+        {
+          "word": " I",
+          "start": 21.78,
+          "end": 21.96,
+          "probability": 0.9980923533439636
+        },
+        {
+          "word": " have",
+          "start": 21.96,
+          "end": 22.2,
+          "probability": 0.9999322891235352
+        },
+        {
+          "word": " a",
+          "start": 22.2,
+          "end": 22.44,
+          "probability": 0.9999334812164307
+        },
+        {
+          "word": " queue",
+          "start": 22.44,
+          "end": 22.86,
+          "probability": 0.7335435152053833
+        },
+        {
+          "word": " for",
+          "start": 22.86,
+          "end": 23.06,
+          "probability": 0.9999833106994629
+        },
+        {
+          "word": " you.",
+          "start": 23.06,
+          "end": 23.22,
+          "probability": 0.9999762773513794
+        },
+        {
+          "word": " What",
+          "start": 23.36,
+          "end": 23.58,
+          "probability": 0.999864935874939
+        },
+        {
+          "word": " are",
+          "start": 23.58,
+          "end": 23.66,
+          "probability": 0.9999401569366455
+        },
+        {
+          "word": " you",
+          "start": 23.66,
+          "end": 23.74,
+          "probability": 0.9999346733093262
+        },
+        {
+          "word": " running",
+          "start": 23.74,
+          "end": 23.94,
+          "probability": 0.9998582601547241
+        },
+        {
+          "word": " on?",
+          "start": 23.94,
+          "end": 24.1,
+          "probability": 0.9679258465766907
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 24.6,
+      "end": 26.72,
+      "text": " Unions for all, housing for all, Medicare for all.",
+      "tokens": [
+        51585,
+        1156,
+        626,
+        337,
+        439,
+        11,
+        6849,
+        337,
+        439,
+        11,
+        19583,
+        337,
+        439,
+        13,
+        51705
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Unions",
+          "start": 24.6,
+          "end": 24.96,
+          "probability": 0.9970939457416534
+        },
+        {
+          "word": " for",
+          "start": 24.96,
+          "end": 25.12,
+          "probability": 0.989615797996521
+        },
+        {
+          "word": " all,",
+          "start": 25.12,
+          "end": 25.24,
+          "probability": 0.9589051604270935
+        },
+        {
+          "word": " housing",
+          "start": 25.34,
+          "end": 25.6,
+          "probability": 0.9835174083709717
+        },
+        {
+          "word": " for",
+          "start": 25.6,
+          "end": 25.78,
+          "probability": 0.9998587369918823
+        },
+        {
+          "word": " all,",
+          "start": 25.78,
+          "end": 25.9,
+          "probability": 0.9998552799224854
+        },
+        {
+          "word": " Medicare",
+          "start": 26.04,
+          "end": 26.24,
+          "probability": 0.9933815002441406
+        },
+        {
+          "word": " for",
+          "start": 26.24,
+          "end": 26.52,
+          "probability": 0.9999412298202515
+        },
+        {
+          "word": " all.",
+          "start": 26.52,
+          "end": 26.72,
+          "probability": 0.9963877201080322
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 26.88,
+      "end": 28.5,
+      "text": " I thought DC was only doing for some right now.",
+      "tokens": [
+        51705,
+        286,
+        1194,
+        9114,
+        390,
+        787,
+        884,
+        337,
+        512,
+        558,
+        586,
+        13,
+        51793
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 26.88,
+          "end": 27.0,
+          "probability": 0.9997203946113586
+        },
+        {
+          "word": " thought",
+          "start": 27.0,
+          "end": 27.12,
+          "probability": 0.9997795224189758
+        },
+        {
+          "word": " DC",
+          "start": 27.12,
+          "end": 27.34,
+          "probability": 0.44506728649139404
+        },
+        {
+          "word": " was",
+          "start": 27.34,
+          "end": 27.52,
+          "probability": 0.9999548196792603
+        },
+        {
+          "word": " only",
+          "start": 27.52,
+          "end": 27.68,
+          "probability": 0.9996215105056763
+        },
+        {
+          "word": " doing",
+          "start": 27.68,
+          "end": 27.8,
+          "probability": 0.9980019927024841
+        },
+        {
+          "word": " for",
+          "start": 27.8,
+          "end": 27.94,
+          "probability": 0.9682698845863342
+        },
+        {
+          "word": " some",
+          "start": 27.94,
+          "end": 28.16,
+          "probability": 0.9986107349395752
+        },
+        {
+          "word": " right",
+          "start": 28.16,
+          "end": 28.34,
+          "probability": 0.9997057318687439
+        },
+        {
+          "word": " now.",
+          "start": 28.34,
+          "end": 28.5,
+          "probability": 0.9999324083328247
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 28.62,
+      "end": 29.54,
+      "text": " Nah, we're gonna do it all.",
+      "tokens": [
+        51793,
+        13933,
+        11,
+        321,
+        434,
+        799,
+        360,
+        309,
+        439,
+        13,
+        51858
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29111179330730963,
+      "compression_ratio": 1.6440217391304348,
+      "no_speech_prob": 1.9504619273857937e-12,
+      "words": [
+        {
+          "word": " Nah,",
+          "start": 28.62,
+          "end": 28.78,
+          "probability": 0.9404059052467346
+        },
+        {
+          "word": " we're",
+          "start": 28.92,
+          "end": 28.98,
+          "probability": 0.9999450445175171
+        },
+        {
+          "word": " gonna",
+          "start": 28.98,
+          "end": 29.08,
+          "probability": 0.4570912718772888
+        },
+        {
+          "word": " do",
+          "start": 29.08,
+          "end": 29.22,
+          "probability": 0.9998719692230225
+        },
+        {
+          "word": " it",
+          "start": 29.22,
+          "end": 29.34,
+          "probability": 0.9999057054519653
+        },
+        {
+          "word": " all.",
+          "start": 29.34,
+          "end": 29.54,
+          "probability": 0.9998723268508911
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2954,
+      "start": 29.54,
+      "end": 31.4,
+      "text": " We can't do it without you.",
+      "tokens": [
+        50365,
+        492,
+        393,
+        380,
+        360,
+        309,
+        1553,
+        291,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 29.54,
+          "end": 30.32,
+          "probability": 0.5053747296333313
+        },
+        {
+          "word": " can't",
+          "start": 30.32,
+          "end": 30.62,
+          "probability": 0.9928897321224213
+        },
+        {
+          "word": " do",
+          "start": 30.62,
+          "end": 30.74,
+          "probability": 0.99835604429245
+        },
+        {
+          "word": " it",
+          "start": 30.74,
+          "end": 30.9,
+          "probability": 0.9962577819824219
+        },
+        {
+          "word": " without",
+          "start": 30.9,
+          "end": 31.12,
+          "probability": 0.9917147755622864
+        },
+        {
+          "word": " you.",
+          "start": 31.12,
+          "end": 31.4,
+          "probability": 0.9941534399986267
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2954,
+      "start": 31.66,
+      "end": 34.04,
+      "text": " That's right. So I'm asking you to donate whatever you can to Claire.",
+      "tokens": [
+        50465,
+        663,
+        311,
+        558,
+        13,
+        407,
+        286,
+        478,
+        3365,
+        291,
+        281,
+        17751,
+        2035,
+        291,
+        393,
+        281,
+        22605,
+        13,
+        50597
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 31.66,
+          "end": 31.82,
+          "probability": 0.8873728215694427
+        },
+        {
+          "word": " right.",
+          "start": 31.82,
+          "end": 31.98,
+          "probability": 0.9989338517189026
+        },
+        {
+          "word": " So",
+          "start": 32.26,
+          "end": 32.26,
+          "probability": 0.9794473648071289
+        },
+        {
+          "word": " I'm",
+          "start": 32.26,
+          "end": 32.38,
+          "probability": 0.9400854408740997
+        },
+        {
+          "word": " asking",
+          "start": 32.38,
+          "end": 32.56,
+          "probability": 0.9954582452774048
+        },
+        {
+          "word": " you",
+          "start": 32.56,
+          "end": 32.68,
+          "probability": 0.961043655872345
+        },
+        {
+          "word": " to",
+          "start": 32.68,
+          "end": 32.7,
+          "probability": 0.9856629967689514
+        },
+        {
+          "word": " donate",
+          "start": 32.7,
+          "end": 32.88,
+          "probability": 0.9959710240364075
+        },
+        {
+          "word": " whatever",
+          "start": 32.88,
+          "end": 33.12,
+          "probability": 0.9841087460517883
+        },
+        {
+          "word": " you",
+          "start": 33.12,
+          "end": 33.36,
+          "probability": 0.9976917505264282
+        },
+        {
+          "word": " can",
+          "start": 33.36,
+          "end": 33.62,
+          "probability": 0.9990639090538025
+        },
+        {
+          "word": " to",
+          "start": 33.62,
+          "end": 33.86,
+          "probability": 0.9549123644828796
+        },
+        {
+          "word": " Claire.",
+          "start": 33.86,
+          "end": 34.04,
+          "probability": 0.7607880234718323
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2954,
+      "start": 34.32,
+      "end": 35.08,
+      "text": " Where can they do that again?",
+      "tokens": [
+        50597,
+        2305,
+        393,
+        436,
+        360,
+        300,
+        797,
+        30,
+        50657
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Where",
+          "start": 34.32,
+          "end": 34.52,
+          "probability": 0.9550098776817322
+        },
+        {
+          "word": " can",
+          "start": 34.52,
+          "end": 34.62,
+          "probability": 0.9911684989929199
+        },
+        {
+          "word": " they",
+          "start": 34.62,
+          "end": 34.72,
+          "probability": 0.9897037148475647
+        },
+        {
+          "word": " do",
+          "start": 34.72,
+          "end": 34.8,
+          "probability": 0.9979111552238464
+        },
+        {
+          "word": " that",
+          "start": 34.8,
+          "end": 34.92,
+          "probability": 0.9973357319831848
+        },
+        {
+          "word": " again?",
+          "start": 34.92,
+          "end": 35.08,
+          "probability": 0.9562866687774658
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2954,
+      "start": 35.5,
+      "end": 36.6,
+      "text": " Claire Valdez for Congress dot com.",
+      "tokens": [
+        50657,
+        22605,
+        7188,
+        1479,
+        89,
+        337,
+        6426,
+        5893,
+        395,
+        13,
+        50717
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Claire",
+          "start": 35.5,
+          "end": 35.6,
+          "probability": 0.7575268149375916
+        },
+        {
+          "word": " Valdez",
+          "start": 35.6,
+          "end": 35.88,
+          "probability": 0.797814667224884
+        },
+        {
+          "word": " for",
+          "start": 35.88,
+          "end": 36.0,
+          "probability": 0.613407552242279
+        },
+        {
+          "word": " Congress",
+          "start": 36.0,
+          "end": 36.2,
+          "probability": 0.7961245775222778
+        },
+        {
+          "word": " dot",
+          "start": 36.2,
+          "end": 36.38,
+          "probability": 0.7406984567642212
+        },
+        {
+          "word": " com.",
+          "start": 36.38,
+          "end": 36.6,
+          "probability": 0.9872180819511414
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2954,
+      "start": 36.72,
+      "end": 38.02,
+      "text": " Claire Valdez for Congress dot com.",
+      "tokens": [
+        50717,
+        22605,
+        7188,
+        1479,
+        89,
+        337,
+        6426,
+        5893,
+        395,
+        13,
+        50797
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Claire",
+          "start": 36.72,
+          "end": 36.84,
+          "probability": 0.9733511805534363
+        },
+        {
+          "word": " Valdez",
+          "start": 36.84,
+          "end": 37.16,
+          "probability": 0.9959889451662699
+        },
+        {
+          "word": " for",
+          "start": 37.16,
+          "end": 37.26,
+          "probability": 0.9923385381698608
+        },
+        {
+          "word": " Congress",
+          "start": 37.26,
+          "end": 37.48,
+          "probability": 0.9762802720069885
+        },
+        {
+          "word": " dot",
+          "start": 37.48,
+          "end": 37.78,
+          "probability": 0.9932507872581482
+        },
+        {
+          "word": " com.",
+          "start": 37.78,
+          "end": 38.02,
+          "probability": 0.9966469407081604
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2954,
+      "start": 38.22,
+      "end": 39.36,
+      "text": " Claire Valdez for Congress dot com.",
+      "tokens": [
+        50797,
+        22605,
+        7188,
+        1479,
+        89,
+        337,
+        6426,
+        5893,
+        395,
+        13,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Claire",
+          "start": 38.22,
+          "end": 38.44,
+          "probability": 0.9519807696342468
+        },
+        {
+          "word": " Valdez",
+          "start": 38.44,
+          "end": 38.72,
+          "probability": 0.9988628427187601
+        },
+        {
+          "word": " for",
+          "start": 38.72,
+          "end": 38.8,
+          "probability": 0.9947646856307983
+        },
+        {
+          "word": " Congress",
+          "start": 38.8,
+          "end": 39.0,
+          "probability": 0.9936782717704773
+        },
+        {
+          "word": " dot",
+          "start": 39.0,
+          "end": 39.16,
+          "probability": 0.9968750476837158
+        },
+        {
+          "word": " com.",
+          "start": 39.16,
+          "end": 39.36,
+          "probability": 0.9932258725166321
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2954,
+      "start": 39.48,
+      "end": 41.42,
+      "text": " Claire Valdez for Congress dot com.",
+      "tokens": [
+        50857,
+        22605,
+        7188,
+        1479,
+        89,
+        337,
+        6426,
+        5893,
+        395,
+        13,
+        50977
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Claire",
+          "start": 39.48,
+          "end": 39.56,
+          "probability": 0.6847906708717346
+        },
+        {
+          "word": " Valdez",
+          "start": 39.56,
+          "end": 39.92,
+          "probability": 0.9990400274594625
+        },
+        {
+          "word": " for",
+          "start": 39.92,
+          "end": 40.02,
+          "probability": 0.994024932384491
+        },
+        {
+          "word": " Congress",
+          "start": 40.02,
+          "end": 40.32,
+          "probability": 0.9948235750198364
+        },
+        {
+          "word": " dot",
+          "start": 40.32,
+          "end": 40.62,
+          "probability": 0.9968511462211609
+        },
+        {
+          "word": " com.",
+          "start": 40.62,
+          "end": 41.42,
+          "probability": 0.9868001937866211
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2954,
+      "start": 42.36,
+      "end": 43.18,
+      "text": " Thank you, Mr. Mayer.",
+      "tokens": [
+        50977,
+        1044,
+        291,
+        11,
+        2221,
+        13,
+        1891,
+        260,
+        13,
+        51057
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 42.36,
+          "end": 42.76,
+          "probability": 0.9317218661308289
+        },
+        {
+          "word": " you,",
+          "start": 42.76,
+          "end": 42.88,
+          "probability": 0.9898369908332825
+        },
+        {
+          "word": " Mr.",
+          "start": 42.98,
+          "end": 43.02,
+          "probability": 0.9935550093650818
+        },
+        {
+          "word": " Mayer.",
+          "start": 43.06,
+          "end": 43.18,
+          "probability": 0.6070862412452698
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2954,
+      "start": 43.7,
+      "end": 44.34,
+      "text": " You heard the lady.",
+      "tokens": [
+        51057,
+        509,
+        2198,
+        264,
+        7262,
+        13,
+        51117
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " You",
+          "start": 43.7,
+          "end": 43.92,
+          "probability": 0.9940683841705322
+        },
+        {
+          "word": " heard",
+          "start": 43.92,
+          "end": 44.04,
+          "probability": 0.5300323367118835
+        },
+        {
+          "word": " the",
+          "start": 44.04,
+          "end": 44.16,
+          "probability": 0.999338686466217
+        },
+        {
+          "word": " lady.",
+          "start": 44.16,
+          "end": 44.34,
+          "probability": 0.9990891218185425
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2954,
+      "start": 45.68,
+      "end": 46.56,
+      "text": " Please donate to her.",
+      "tokens": [
+        51117,
+        2555,
+        17751,
+        281,
+        720,
+        13,
+        51217
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Please",
+          "start": 45.68,
+          "end": 46.08,
+          "probability": 0.9982560276985168
+        },
+        {
+          "word": " donate",
+          "start": 46.08,
+          "end": 46.28,
+          "probability": 0.9946841597557068
+        },
+        {
+          "word": " to",
+          "start": 46.28,
+          "end": 46.44,
+          "probability": 0.9988903403282166
+        },
+        {
+          "word": " her.",
+          "start": 46.44,
+          "end": 46.56,
+          "probability": 0.9994847774505615
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2954,
+      "start": 49.38,
+      "end": 49.78,
+      "text": " Please.",
+      "tokens": [
+        51217,
+        2555,
+        13,
+        51393
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Please.",
+          "start": 49.38,
+          "end": 49.78,
+          "probability": 0.9920897483825684
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2954,
+      "start": 51.18,
+      "end": 51.58,
+      "text": " Please.",
+      "tokens": [
+        51393,
+        2555,
+        13,
+        51493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Please.",
+          "start": 51.18,
+          "end": 51.58,
+          "probability": 0.9903311729431152
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 2954,
+      "start": 51.9,
+      "end": 52.12,
+      "text": " Please.",
+      "tokens": [
+        51493,
+        2555,
+        13,
+        51593
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3196345417439437,
+      "compression_ratio": 2.0514285714285716,
+      "no_speech_prob": 1.6109887946216817e-12,
+      "words": [
+        {
+          "word": " Please.",
+          "start": 51.9,
+          "end": 52.12,
+          "probability": 0.9822041392326355
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5954,
+      "start": 59.54,
+      "end": 59.54,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 27,
+      "seek": 5954,
+      "start": 59.88,
+      "end": 60.08,
+      "text": " Please.",
+      "tokens": [
+        50465,
+        2555,
+        13,
+        50493
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": [
+        {
+          "word": " Please.",
+          "start": 59.88,
+          "end": 60.08,
+          "probability": 0.25322502851486206
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 29,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 30,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 31,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 32,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 33,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 34,
+      "seek": 5954,
+      "start": 60.08,
+      "end": 60.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 35,
+      "seek": 5954,
+      "start": 71.12,
+      "end": 73.06,
+      "text": "achingtjie.",
+      "tokens": [
+        50944,
+        2834,
+        83,
+        73,
+        414,
+        13,
+        51041
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.9245722452799479,
+      "compression_ratio": 2.7333333333333334,
+      "no_speech_prob": 1.0597087443664499e-11,
+      "words": []
+    },
+    {
+      "id": 36,
+      "seek": 6008,
+      "start": 60.06,
+      "end": 60.06,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.9668846130371094,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 1.8348467190065776e-10,
+      "words": []
+    },
+    {
+      "id": 37,
+      "seek": 6008,
+      "start": 60.06,
+      "end": 60.06,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.9668846130371094,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 1.8348467190065776e-10,
+      "words": []
+    },
+    {
+      "id": 38,
+      "seek": 6008,
+      "start": 60.06,
+      "end": 60.06,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.9668846130371094,
+      "compression_ratio": 0.7419354838709677,
+      "no_speech_prob": 1.8348467190065776e-10,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

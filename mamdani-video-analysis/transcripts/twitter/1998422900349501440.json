@@ -1,0 +1,2283 @@
+{
+  "text": " Time flies. Believe it or not, we have just a few weeks left before I take office as the next mayor of New York City. But before then, I would like to quote the great Senator from Vermont. I'm once again asking for your support. I'd like to tell you a little bit more about why we need it. We've had a full plate getting ready for January. We're reviewing the more than 70,000 resumes we've received, setting up our transition committees, naming our appointees will turn policy into practice, and planning and budgeting for an inauguration celebration we are so excited to share with you soon. All so we can start delivering our affordability agenda from day one. I'm not skipping a beat. We're already at three and a half million dollars from more than 30,000 donors. And we're so grateful for each and every one of your contributions. But just as a reminder, Transitions do not get public matching funds from the city. That means we need just a bit more to help us run through the tape. And I promise two things. The first, none of that money is being used to buy hand warmers like these. And the second is I will stop making these fundraising videos. So head to transition2025.com and give whatever you can, so we can build a city that every New Yorker can afford. Checkmate. So I can once again... Checkmate. All right. Let me pull my paper this morning here.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 1.139999999999998,
+      "end": 6.84,
+      "text": " Time flies. Believe it or not, we have just a few weeks left before I take office as the next mayor of New York City.",
+      "tokens": [
+        50365,
+        6161,
+        17414,
+        13,
+        21486,
+        309,
+        420,
+        406,
+        11,
+        321,
+        362,
+        445,
+        257,
+        1326,
+        3259,
+        1411,
+        949,
+        286,
+        747,
+        3398,
+        382,
+        264,
+        958,
+        10120,
+        295,
+        1873,
+        3609,
+        4392,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " Time",
+          "start": 1.139999999999998,
+          "end": 1.54,
+          "probability": 0.8917813301086426
+        },
+        {
+          "word": " flies.",
+          "start": 1.54,
+          "end": 1.88,
+          "probability": 0.9925734996795654
+        },
+        {
+          "word": " Believe",
+          "start": 2.16,
+          "end": 2.52,
+          "probability": 0.9821427464485168
+        },
+        {
+          "word": " it",
+          "start": 2.52,
+          "end": 2.64,
+          "probability": 0.9960982799530029
+        },
+        {
+          "word": " or",
+          "start": 2.64,
+          "end": 2.72,
+          "probability": 0.9982403516769409
+        },
+        {
+          "word": " not,",
+          "start": 2.72,
+          "end": 2.9,
+          "probability": 0.9993785619735718
+        },
+        {
+          "word": " we",
+          "start": 3.16,
+          "end": 3.32,
+          "probability": 0.6657409071922302
+        },
+        {
+          "word": " have",
+          "start": 3.32,
+          "end": 3.4,
+          "probability": 0.9178417325019836
+        },
+        {
+          "word": " just",
+          "start": 3.4,
+          "end": 3.52,
+          "probability": 0.9860361814498901
+        },
+        {
+          "word": " a",
+          "start": 3.52,
+          "end": 3.64,
+          "probability": 0.9968578815460205
+        },
+        {
+          "word": " few",
+          "start": 3.64,
+          "end": 3.92,
+          "probability": 0.9992254972457886
+        },
+        {
+          "word": " weeks",
+          "start": 3.92,
+          "end": 4.18,
+          "probability": 0.9976229071617126
+        },
+        {
+          "word": " left",
+          "start": 4.18,
+          "end": 4.46,
+          "probability": 0.9960930943489075
+        },
+        {
+          "word": " before",
+          "start": 4.46,
+          "end": 5.04,
+          "probability": 0.9574300646781921
+        },
+        {
+          "word": " I",
+          "start": 5.04,
+          "end": 5.14,
+          "probability": 0.9945107698440552
+        },
+        {
+          "word": " take",
+          "start": 5.14,
+          "end": 5.32,
+          "probability": 0.9958325028419495
+        },
+        {
+          "word": " office",
+          "start": 5.32,
+          "end": 5.6,
+          "probability": 0.9879040122032166
+        },
+        {
+          "word": " as",
+          "start": 5.6,
+          "end": 5.78,
+          "probability": 0.9634249806404114
+        },
+        {
+          "word": " the",
+          "start": 5.78,
+          "end": 5.84,
+          "probability": 0.9457952380180359
+        },
+        {
+          "word": " next",
+          "start": 5.84,
+          "end": 6.0,
+          "probability": 0.9946383833885193
+        },
+        {
+          "word": " mayor",
+          "start": 6.0,
+          "end": 6.24,
+          "probability": 0.8330038785934448
+        },
+        {
+          "word": " of",
+          "start": 6.24,
+          "end": 6.4,
+          "probability": 0.9026563167572021
+        },
+        {
+          "word": " New",
+          "start": 6.4,
+          "end": 6.48,
+          "probability": 0.9799613356590271
+        },
+        {
+          "word": " York",
+          "start": 6.48,
+          "end": 6.64,
+          "probability": 0.9972291588783264
+        },
+        {
+          "word": " City.",
+          "start": 6.64,
+          "end": 6.84,
+          "probability": 0.9811305999755859
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.1,
+      "end": 10.02,
+      "text": " But before then, I would like to quote the great Senator from Vermont.",
+      "tokens": [
+        50715,
+        583,
+        949,
+        550,
+        11,
+        286,
+        576,
+        411,
+        281,
+        6513,
+        264,
+        869,
+        10893,
+        490,
+        34754,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " But",
+          "start": 7.1,
+          "end": 7.38,
+          "probability": 0.9691101908683777
+        },
+        {
+          "word": " before",
+          "start": 7.38,
+          "end": 7.68,
+          "probability": 0.9752612113952637
+        },
+        {
+          "word": " then,",
+          "start": 7.68,
+          "end": 7.92,
+          "probability": 0.9929266571998596
+        },
+        {
+          "word": " I",
+          "start": 8.08,
+          "end": 8.16,
+          "probability": 0.998018741607666
+        },
+        {
+          "word": " would",
+          "start": 8.16,
+          "end": 8.26,
+          "probability": 0.9451126456260681
+        },
+        {
+          "word": " like",
+          "start": 8.26,
+          "end": 8.4,
+          "probability": 0.9973219037055969
+        },
+        {
+          "word": " to",
+          "start": 8.4,
+          "end": 8.52,
+          "probability": 0.9983464479446411
+        },
+        {
+          "word": " quote",
+          "start": 8.52,
+          "end": 8.72,
+          "probability": 0.9983469247817993
+        },
+        {
+          "word": " the",
+          "start": 8.72,
+          "end": 8.9,
+          "probability": 0.9889897108078003
+        },
+        {
+          "word": " great",
+          "start": 8.9,
+          "end": 9.16,
+          "probability": 0.993269145488739
+        },
+        {
+          "word": " Senator",
+          "start": 9.16,
+          "end": 9.48,
+          "probability": 0.3743557035923004
+        },
+        {
+          "word": " from",
+          "start": 9.48,
+          "end": 9.7,
+          "probability": 0.9909746050834656
+        },
+        {
+          "word": " Vermont.",
+          "start": 9.7,
+          "end": 10.02,
+          "probability": 0.9967175126075745
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 10.28,
+      "end": 14.6,
+      "text": " I'm once again asking for your support. I'd like to tell you a little bit more about why we need it.",
+      "tokens": [
+        50865,
+        286,
+        478,
+        1564,
+        797,
+        3365,
+        337,
+        428,
+        1406,
+        13,
+        286,
+        1116,
+        411,
+        281,
+        980,
+        291,
+        257,
+        707,
+        857,
+        544,
+        466,
+        983,
+        321,
+        643,
+        309,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 10.28,
+          "end": 10.68,
+          "probability": 0.8694610893726349
+        },
+        {
+          "word": " once",
+          "start": 10.68,
+          "end": 10.96,
+          "probability": 0.9501485824584961
+        },
+        {
+          "word": " again",
+          "start": 10.96,
+          "end": 11.22,
+          "probability": 0.9989263415336609
+        },
+        {
+          "word": " asking",
+          "start": 11.22,
+          "end": 11.72,
+          "probability": 0.9680063128471375
+        },
+        {
+          "word": " for",
+          "start": 11.72,
+          "end": 11.9,
+          "probability": 0.9981698989868164
+        },
+        {
+          "word": " your",
+          "start": 11.9,
+          "end": 12.0,
+          "probability": 0.9958551526069641
+        },
+        {
+          "word": " support.",
+          "start": 12.0,
+          "end": 12.36,
+          "probability": 0.9997125267982483
+        },
+        {
+          "word": " I'd",
+          "start": 12.54,
+          "end": 12.8,
+          "probability": 0.9779394567012787
+        },
+        {
+          "word": " like",
+          "start": 12.8,
+          "end": 12.88,
+          "probability": 0.9985357522964478
+        },
+        {
+          "word": " to",
+          "start": 12.88,
+          "end": 12.98,
+          "probability": 0.9968873858451843
+        },
+        {
+          "word": " tell",
+          "start": 12.98,
+          "end": 13.1,
+          "probability": 0.9983304142951965
+        },
+        {
+          "word": " you",
+          "start": 13.1,
+          "end": 13.2,
+          "probability": 0.9907483458518982
+        },
+        {
+          "word": " a",
+          "start": 13.2,
+          "end": 13.32,
+          "probability": 0.9923231601715088
+        },
+        {
+          "word": " little",
+          "start": 13.32,
+          "end": 13.44,
+          "probability": 0.9966465830802917
+        },
+        {
+          "word": " bit",
+          "start": 13.44,
+          "end": 13.56,
+          "probability": 0.9572024345397949
+        },
+        {
+          "word": " more",
+          "start": 13.56,
+          "end": 13.76,
+          "probability": 0.996260404586792
+        },
+        {
+          "word": " about",
+          "start": 13.76,
+          "end": 13.94,
+          "probability": 0.9973516464233398
+        },
+        {
+          "word": " why",
+          "start": 13.94,
+          "end": 14.14,
+          "probability": 0.9983150959014893
+        },
+        {
+          "word": " we",
+          "start": 14.14,
+          "end": 14.3,
+          "probability": 0.9986504912376404
+        },
+        {
+          "word": " need",
+          "start": 14.3,
+          "end": 14.48,
+          "probability": 0.9931447505950928
+        },
+        {
+          "word": " it.",
+          "start": 14.48,
+          "end": 14.6,
+          "probability": 0.9879326224327087
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 14.74,
+      "end": 16.6,
+      "text": " We've had a full plate getting ready for January.",
+      "tokens": [
+        51115,
+        492,
+        600,
+        632,
+        257,
+        1577,
+        5924,
+        1242,
+        1919,
+        337,
+        7061,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " We've",
+          "start": 14.74,
+          "end": 15.14,
+          "probability": 0.9858636856079102
+        },
+        {
+          "word": " had",
+          "start": 15.14,
+          "end": 15.22,
+          "probability": 0.8230300545692444
+        },
+        {
+          "word": " a",
+          "start": 15.22,
+          "end": 15.3,
+          "probability": 0.9980547428131104
+        },
+        {
+          "word": " full",
+          "start": 15.3,
+          "end": 15.48,
+          "probability": 0.999396800994873
+        },
+        {
+          "word": " plate",
+          "start": 15.48,
+          "end": 15.74,
+          "probability": 0.9690167903900146
+        },
+        {
+          "word": " getting",
+          "start": 15.74,
+          "end": 15.94,
+          "probability": 0.9920256733894348
+        },
+        {
+          "word": " ready",
+          "start": 15.94,
+          "end": 16.14,
+          "probability": 0.9986805319786072
+        },
+        {
+          "word": " for",
+          "start": 16.14,
+          "end": 16.28,
+          "probability": 0.9985744953155518
+        },
+        {
+          "word": " January.",
+          "start": 16.28,
+          "end": 16.6,
+          "probability": 0.9980788230895996
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.88,
+      "end": 21.36,
+      "text": " We're reviewing the more than 70,000 resumes we've received, setting up our transition committees,",
+      "tokens": [
+        51215,
+        492,
+        434,
+        19576,
+        264,
+        544,
+        813,
+        5285,
+        11,
+        1360,
+        48068,
+        321,
+        600,
+        4613,
+        11,
+        3287,
+        493,
+        527,
+        6034,
+        25998,
+        11,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " We're",
+          "start": 16.88,
+          "end": 17.2,
+          "probability": 0.9930916130542755
+        },
+        {
+          "word": " reviewing",
+          "start": 17.2,
+          "end": 17.44,
+          "probability": 0.997191846370697
+        },
+        {
+          "word": " the",
+          "start": 17.44,
+          "end": 17.6,
+          "probability": 0.9881956577301025
+        },
+        {
+          "word": " more",
+          "start": 17.6,
+          "end": 17.7,
+          "probability": 0.998583197593689
+        },
+        {
+          "word": " than",
+          "start": 17.7,
+          "end": 17.82,
+          "probability": 0.9965215921401978
+        },
+        {
+          "word": " 70",
+          "start": 17.82,
+          "end": 18.26,
+          "probability": 0.9508960247039795
+        },
+        {
+          "word": ",000",
+          "start": 18.26,
+          "end": 18.64,
+          "probability": 0.9684873223304749
+        },
+        {
+          "word": " resumes",
+          "start": 18.64,
+          "end": 18.98,
+          "probability": 0.9821344614028931
+        },
+        {
+          "word": " we've",
+          "start": 18.98,
+          "end": 19.28,
+          "probability": 0.7222033590078354
+        },
+        {
+          "word": " received,",
+          "start": 19.28,
+          "end": 19.6,
+          "probability": 0.9978011250495911
+        },
+        {
+          "word": " setting",
+          "start": 19.88,
+          "end": 20.26,
+          "probability": 0.9953799247741699
+        },
+        {
+          "word": " up",
+          "start": 20.26,
+          "end": 20.44,
+          "probability": 0.9991710186004639
+        },
+        {
+          "word": " our",
+          "start": 20.44,
+          "end": 20.56,
+          "probability": 0.9985332489013672
+        },
+        {
+          "word": " transition",
+          "start": 20.56,
+          "end": 20.94,
+          "probability": 0.9714056253433228
+        },
+        {
+          "word": " committees,",
+          "start": 20.94,
+          "end": 21.36,
+          "probability": 0.9867908358573914
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 21.76,
+      "end": 26.32,
+      "text": " naming our appointees will turn policy into practice, and planning and budgeting",
+      "tokens": [
+        51415,
+        25290,
+        527,
+        7602,
+        4031,
+        486,
+        1261,
+        3897,
+        666,
+        3124,
+        11,
+        293,
+        5038,
+        293,
+        47855,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " naming",
+          "start": 21.76,
+          "end": 22.06,
+          "probability": 0.9983640313148499
+        },
+        {
+          "word": " our",
+          "start": 22.06,
+          "end": 22.28,
+          "probability": 0.9977220892906189
+        },
+        {
+          "word": " appointees",
+          "start": 22.28,
+          "end": 22.88,
+          "probability": 0.9974041879177094
+        },
+        {
+          "word": " will",
+          "start": 22.88,
+          "end": 23.02,
+          "probability": 0.7607700228691101
+        },
+        {
+          "word": " turn",
+          "start": 23.02,
+          "end": 23.2,
+          "probability": 0.9987082481384277
+        },
+        {
+          "word": " policy",
+          "start": 23.2,
+          "end": 23.66,
+          "probability": 0.9960821270942688
+        },
+        {
+          "word": " into",
+          "start": 23.66,
+          "end": 23.86,
+          "probability": 0.9962849617004395
+        },
+        {
+          "word": " practice,",
+          "start": 23.86,
+          "end": 24.24,
+          "probability": 0.9984673857688904
+        },
+        {
+          "word": " and",
+          "start": 24.52,
+          "end": 24.82,
+          "probability": 0.9949369430541992
+        },
+        {
+          "word": " planning",
+          "start": 24.82,
+          "end": 25.26,
+          "probability": 0.9990379810333252
+        },
+        {
+          "word": " and",
+          "start": 25.26,
+          "end": 25.96,
+          "probability": 0.9340435862541199
+        },
+        {
+          "word": " budgeting",
+          "start": 25.96,
+          "end": 26.32,
+          "probability": 0.996442973613739
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 26.32,
+      "end": 29.58,
+      "text": " for an inauguration celebration we are so excited to share with you soon.",
+      "tokens": [
+        51665,
+        337,
+        364,
+        23541,
+        8167,
+        14184,
+        321,
+        366,
+        370,
+        2919,
+        281,
+        2073,
+        365,
+        291,
+        2321,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10473672548929851,
+      "compression_ratio": 1.638121546961326,
+      "no_speech_prob": 2.6975188575917297e-12,
+      "words": [
+        {
+          "word": " for",
+          "start": 26.32,
+          "end": 26.76,
+          "probability": 0.9174712300300598
+        },
+        {
+          "word": " an",
+          "start": 26.76,
+          "end": 26.86,
+          "probability": 0.9938716888427734
+        },
+        {
+          "word": " inauguration",
+          "start": 26.86,
+          "end": 27.34,
+          "probability": 0.9468994438648224
+        },
+        {
+          "word": " celebration",
+          "start": 27.34,
+          "end": 27.76,
+          "probability": 0.9800383448600769
+        },
+        {
+          "word": " we",
+          "start": 27.76,
+          "end": 28.04,
+          "probability": 0.9803261756896973
+        },
+        {
+          "word": " are",
+          "start": 28.04,
+          "end": 28.16,
+          "probability": 0.9717149138450623
+        },
+        {
+          "word": " so",
+          "start": 28.16,
+          "end": 28.46,
+          "probability": 0.99750816822052
+        },
+        {
+          "word": " excited",
+          "start": 28.46,
+          "end": 28.8,
+          "probability": 0.9988693594932556
+        },
+        {
+          "word": " to",
+          "start": 28.8,
+          "end": 28.94,
+          "probability": 0.9996225833892822
+        },
+        {
+          "word": " share",
+          "start": 28.94,
+          "end": 29.1,
+          "probability": 0.9993440508842468
+        },
+        {
+          "word": " with",
+          "start": 29.1,
+          "end": 29.24,
+          "probability": 0.9974467754364014
+        },
+        {
+          "word": " you",
+          "start": 29.24,
+          "end": 29.36,
+          "probability": 0.9991089701652527
+        },
+        {
+          "word": " soon.",
+          "start": 29.36,
+          "end": 29.58,
+          "probability": 0.9922298789024353
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2958,
+      "start": 29.58,
+      "end": 34.3,
+      "text": " All so we can start delivering our affordability agenda from day one. I'm not skipping a beat.",
+      "tokens": [
+        50365,
+        1057,
+        370,
+        321,
+        393,
+        722,
+        14666,
+        527,
+        6157,
+        2310,
+        9829,
+        490,
+        786,
+        472,
+        13,
+        286,
+        478,
+        406,
+        31533,
+        257,
+        4224,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " All",
+          "start": 29.58,
+          "end": 29.98,
+          "probability": 0.7283071875572205
+        },
+        {
+          "word": " so",
+          "start": 29.98,
+          "end": 30.18,
+          "probability": 0.9836784601211548
+        },
+        {
+          "word": " we",
+          "start": 30.18,
+          "end": 30.3,
+          "probability": 0.9651287794113159
+        },
+        {
+          "word": " can",
+          "start": 30.3,
+          "end": 30.4,
+          "probability": 0.9961549639701843
+        },
+        {
+          "word": " start",
+          "start": 30.4,
+          "end": 30.58,
+          "probability": 0.9864873290061951
+        },
+        {
+          "word": " delivering",
+          "start": 30.58,
+          "end": 31.0,
+          "probability": 0.987310528755188
+        },
+        {
+          "word": " our",
+          "start": 31.0,
+          "end": 31.24,
+          "probability": 0.7461018562316895
+        },
+        {
+          "word": " affordability",
+          "start": 31.24,
+          "end": 31.8,
+          "probability": 0.9769144654273987
+        },
+        {
+          "word": " agenda",
+          "start": 31.8,
+          "end": 32.12,
+          "probability": 0.9944887161254883
+        },
+        {
+          "word": " from",
+          "start": 32.12,
+          "end": 32.48,
+          "probability": 0.9855077862739563
+        },
+        {
+          "word": " day",
+          "start": 32.48,
+          "end": 32.76,
+          "probability": 0.8569841384887695
+        },
+        {
+          "word": " one.",
+          "start": 32.76,
+          "end": 33.18,
+          "probability": 0.9293739199638367
+        },
+        {
+          "word": " I'm",
+          "start": 33.38,
+          "end": 33.66,
+          "probability": 0.8083607256412506
+        },
+        {
+          "word": " not",
+          "start": 33.66,
+          "end": 33.78,
+          "probability": 0.9974588751792908
+        },
+        {
+          "word": " skipping",
+          "start": 33.78,
+          "end": 34.02,
+          "probability": 0.9642313122749329
+        },
+        {
+          "word": " a",
+          "start": 34.02,
+          "end": 34.18,
+          "probability": 0.9952043294906616
+        },
+        {
+          "word": " beat.",
+          "start": 34.18,
+          "end": 34.3,
+          "probability": 0.9570820927619934
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2958,
+      "start": 34.980000000000004,
+      "end": 38.52,
+      "text": " We're already at three and a half million dollars from more than 30,000 donors.",
+      "tokens": [
+        50615,
+        492,
+        434,
+        1217,
+        412,
+        1045,
+        293,
+        257,
+        1922,
+        2459,
+        3808,
+        490,
+        544,
+        813,
+        2217,
+        11,
+        1360,
+        25521,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " We're",
+          "start": 34.980000000000004,
+          "end": 35.42,
+          "probability": 0.9885098338127136
+        },
+        {
+          "word": " already",
+          "start": 35.42,
+          "end": 35.58,
+          "probability": 0.9886130094528198
+        },
+        {
+          "word": " at",
+          "start": 35.58,
+          "end": 35.76,
+          "probability": 0.9745610356330872
+        },
+        {
+          "word": " three",
+          "start": 35.76,
+          "end": 35.92,
+          "probability": 0.41058287024497986
+        },
+        {
+          "word": " and",
+          "start": 35.92,
+          "end": 36.08,
+          "probability": 0.94992595911026
+        },
+        {
+          "word": " a",
+          "start": 36.08,
+          "end": 36.16,
+          "probability": 0.9638410210609436
+        },
+        {
+          "word": " half",
+          "start": 36.16,
+          "end": 36.26,
+          "probability": 0.9974340796470642
+        },
+        {
+          "word": " million",
+          "start": 36.26,
+          "end": 36.64,
+          "probability": 0.9926599860191345
+        },
+        {
+          "word": " dollars",
+          "start": 36.64,
+          "end": 37.0,
+          "probability": 0.9887989163398743
+        },
+        {
+          "word": " from",
+          "start": 37.0,
+          "end": 37.26,
+          "probability": 0.581627607345581
+        },
+        {
+          "word": " more",
+          "start": 37.26,
+          "end": 37.42,
+          "probability": 0.9122962951660156
+        },
+        {
+          "word": " than",
+          "start": 37.42,
+          "end": 37.52,
+          "probability": 0.9952744245529175
+        },
+        {
+          "word": " 30",
+          "start": 37.52,
+          "end": 37.82,
+          "probability": 0.8378121852874756
+        },
+        {
+          "word": ",000",
+          "start": 37.82,
+          "end": 38.22,
+          "probability": 0.9645093679428101
+        },
+        {
+          "word": " donors.",
+          "start": 38.22,
+          "end": 38.52,
+          "probability": 0.9964802861213684
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2958,
+      "start": 38.76,
+      "end": 41.44,
+      "text": " And we're so grateful for each and every one of your contributions.",
+      "tokens": [
+        50815,
+        400,
+        321,
+        434,
+        370,
+        7941,
+        337,
+        1184,
+        293,
+        633,
+        472,
+        295,
+        428,
+        15725,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 38.76,
+          "end": 38.96,
+          "probability": 0.9671232104301453
+        },
+        {
+          "word": " we're",
+          "start": 38.96,
+          "end": 39.1,
+          "probability": 0.9888292551040649
+        },
+        {
+          "word": " so",
+          "start": 39.1,
+          "end": 39.26,
+          "probability": 0.9951139092445374
+        },
+        {
+          "word": " grateful",
+          "start": 39.26,
+          "end": 39.54,
+          "probability": 0.9983878135681152
+        },
+        {
+          "word": " for",
+          "start": 39.54,
+          "end": 39.78,
+          "probability": 0.9983463287353516
+        },
+        {
+          "word": " each",
+          "start": 39.78,
+          "end": 40.06,
+          "probability": 0.9989584684371948
+        },
+        {
+          "word": " and",
+          "start": 40.06,
+          "end": 40.3,
+          "probability": 0.9922242164611816
+        },
+        {
+          "word": " every",
+          "start": 40.3,
+          "end": 40.56,
+          "probability": 0.981187641620636
+        },
+        {
+          "word": " one",
+          "start": 40.56,
+          "end": 40.72,
+          "probability": 0.9977914094924927
+        },
+        {
+          "word": " of",
+          "start": 40.72,
+          "end": 40.82,
+          "probability": 0.9988449811935425
+        },
+        {
+          "word": " your",
+          "start": 40.82,
+          "end": 40.92,
+          "probability": 0.9691436290740967
+        },
+        {
+          "word": " contributions.",
+          "start": 40.92,
+          "end": 41.44,
+          "probability": 0.9867175817489624
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2958,
+      "start": 41.74,
+      "end": 45.38,
+      "text": " But just as a reminder, Transitions do not get public matching funds from the city.",
+      "tokens": [
+        50965,
+        583,
+        445,
+        382,
+        257,
+        13548,
+        11,
+        6531,
+        2451,
+        360,
+        406,
+        483,
+        1908,
+        14324,
+        8271,
+        490,
+        264,
+        2307,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " But",
+          "start": 41.74,
+          "end": 41.96,
+          "probability": 0.9717091917991638
+        },
+        {
+          "word": " just",
+          "start": 41.96,
+          "end": 42.12,
+          "probability": 0.9688637256622314
+        },
+        {
+          "word": " as",
+          "start": 42.12,
+          "end": 42.28,
+          "probability": 0.9875009059906006
+        },
+        {
+          "word": " a",
+          "start": 42.28,
+          "end": 42.36,
+          "probability": 0.9982553124427795
+        },
+        {
+          "word": " reminder,",
+          "start": 42.36,
+          "end": 42.74,
+          "probability": 0.9990015625953674
+        },
+        {
+          "word": " Transitions",
+          "start": 43.1,
+          "end": 43.52,
+          "probability": 0.6942435204982758
+        },
+        {
+          "word": " do",
+          "start": 43.52,
+          "end": 43.7,
+          "probability": 0.9760212898254395
+        },
+        {
+          "word": " not",
+          "start": 43.7,
+          "end": 43.92,
+          "probability": 0.9937108755111694
+        },
+        {
+          "word": " get",
+          "start": 43.92,
+          "end": 44.1,
+          "probability": 0.9976614713668823
+        },
+        {
+          "word": " public",
+          "start": 44.1,
+          "end": 44.4,
+          "probability": 0.9787318706512451
+        },
+        {
+          "word": " matching",
+          "start": 44.4,
+          "end": 44.72,
+          "probability": 0.9934934973716736
+        },
+        {
+          "word": " funds",
+          "start": 44.72,
+          "end": 44.96,
+          "probability": 0.9954404830932617
+        },
+        {
+          "word": " from",
+          "start": 44.96,
+          "end": 45.12,
+          "probability": 0.9749640226364136
+        },
+        {
+          "word": " the",
+          "start": 45.12,
+          "end": 45.24,
+          "probability": 0.9841320514678955
+        },
+        {
+          "word": " city.",
+          "start": 45.24,
+          "end": 45.38,
+          "probability": 0.8671264052391052
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2958,
+      "start": 45.7,
+      "end": 48.58,
+      "text": " That means we need just a bit more to help us run through the tape.",
+      "tokens": [
+        51165,
+        663,
+        1355,
+        321,
+        643,
+        445,
+        257,
+        857,
+        544,
+        281,
+        854,
+        505,
+        1190,
+        807,
+        264,
+        7314,
+        13,
+        51315
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " That",
+          "start": 45.7,
+          "end": 46.0,
+          "probability": 0.994934618473053
+        },
+        {
+          "word": " means",
+          "start": 46.0,
+          "end": 46.2,
+          "probability": 0.9989527463912964
+        },
+        {
+          "word": " we",
+          "start": 46.2,
+          "end": 46.38,
+          "probability": 0.9804256558418274
+        },
+        {
+          "word": " need",
+          "start": 46.38,
+          "end": 46.52,
+          "probability": 0.9809550642967224
+        },
+        {
+          "word": " just",
+          "start": 46.52,
+          "end": 46.68,
+          "probability": 0.983267605304718
+        },
+        {
+          "word": " a",
+          "start": 46.68,
+          "end": 46.8,
+          "probability": 0.9982659220695496
+        },
+        {
+          "word": " bit",
+          "start": 46.8,
+          "end": 47.0,
+          "probability": 0.9950034022331238
+        },
+        {
+          "word": " more",
+          "start": 47.0,
+          "end": 47.3,
+          "probability": 0.9996089339256287
+        },
+        {
+          "word": " to",
+          "start": 47.3,
+          "end": 47.62,
+          "probability": 0.9683277606964111
+        },
+        {
+          "word": " help",
+          "start": 47.62,
+          "end": 47.76,
+          "probability": 0.9987622499465942
+        },
+        {
+          "word": " us",
+          "start": 47.76,
+          "end": 47.92,
+          "probability": 0.995614767074585
+        },
+        {
+          "word": " run",
+          "start": 47.92,
+          "end": 48.08,
+          "probability": 0.9915087223052979
+        },
+        {
+          "word": " through",
+          "start": 48.08,
+          "end": 48.22,
+          "probability": 0.9964978098869324
+        },
+        {
+          "word": " the",
+          "start": 48.22,
+          "end": 48.38,
+          "probability": 0.9904511570930481
+        },
+        {
+          "word": " tape.",
+          "start": 48.38,
+          "end": 48.58,
+          "probability": 0.9688620567321777
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2958,
+      "start": 48.72,
+      "end": 53.66,
+      "text": " And I promise two things. The first, none of that money is being used to buy hand warmers like these.",
+      "tokens": [
+        51315,
+        400,
+        286,
+        6228,
+        732,
+        721,
+        13,
+        440,
+        700,
+        11,
+        6022,
+        295,
+        300,
+        1460,
+        307,
+        885,
+        1143,
+        281,
+        2256,
+        1011,
+        4561,
+        433,
+        411,
+        613,
+        13,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 48.72,
+          "end": 48.9,
+          "probability": 0.983683168888092
+        },
+        {
+          "word": " I",
+          "start": 48.9,
+          "end": 48.98,
+          "probability": 0.9953124523162842
+        },
+        {
+          "word": " promise",
+          "start": 48.98,
+          "end": 49.22,
+          "probability": 0.7640224099159241
+        },
+        {
+          "word": " two",
+          "start": 49.22,
+          "end": 49.42,
+          "probability": 0.9476391673088074
+        },
+        {
+          "word": " things.",
+          "start": 49.42,
+          "end": 49.7,
+          "probability": 0.9993802309036255
+        },
+        {
+          "word": " The",
+          "start": 50.0,
+          "end": 50.2,
+          "probability": 0.9868521094322205
+        },
+        {
+          "word": " first,",
+          "start": 50.2,
+          "end": 50.42,
+          "probability": 0.9987770915031433
+        },
+        {
+          "word": " none",
+          "start": 51.04,
+          "end": 51.28,
+          "probability": 0.9962165951728821
+        },
+        {
+          "word": " of",
+          "start": 51.28,
+          "end": 51.42,
+          "probability": 0.9996325969696045
+        },
+        {
+          "word": " that",
+          "start": 51.42,
+          "end": 51.56,
+          "probability": 0.9980407357215881
+        },
+        {
+          "word": " money",
+          "start": 51.56,
+          "end": 51.8,
+          "probability": 0.9991282820701599
+        },
+        {
+          "word": " is",
+          "start": 51.8,
+          "end": 52.06,
+          "probability": 0.996683657169342
+        },
+        {
+          "word": " being",
+          "start": 52.06,
+          "end": 52.2,
+          "probability": 0.997680127620697
+        },
+        {
+          "word": " used",
+          "start": 52.2,
+          "end": 52.44,
+          "probability": 0.9986565113067627
+        },
+        {
+          "word": " to",
+          "start": 52.44,
+          "end": 52.58,
+          "probability": 0.9967754483222961
+        },
+        {
+          "word": " buy",
+          "start": 52.58,
+          "end": 52.72,
+          "probability": 0.9956379532814026
+        },
+        {
+          "word": " hand",
+          "start": 52.72,
+          "end": 52.94,
+          "probability": 0.9979706406593323
+        },
+        {
+          "word": " warmers",
+          "start": 52.94,
+          "end": 53.24,
+          "probability": 0.9536287784576416
+        },
+        {
+          "word": " like",
+          "start": 53.24,
+          "end": 53.38,
+          "probability": 0.9982513785362244
+        },
+        {
+          "word": " these.",
+          "start": 53.38,
+          "end": 53.66,
+          "probability": 0.992264986038208
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2958,
+      "start": 54.04,
+      "end": 56.9,
+      "text": " And the second is I will stop making these fundraising videos.",
+      "tokens": [
+        51565,
+        400,
+        264,
+        1150,
+        307,
+        286,
+        486,
+        1590,
+        1455,
+        613,
+        32643,
+        2145,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06725646094452563,
+      "compression_ratio": 1.648967551622419,
+      "no_speech_prob": 1.5860100776102226e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 54.04,
+          "end": 54.18,
+          "probability": 0.9884364604949951
+        },
+        {
+          "word": " the",
+          "start": 54.18,
+          "end": 54.26,
+          "probability": 0.9983215928077698
+        },
+        {
+          "word": " second",
+          "start": 54.26,
+          "end": 54.52,
+          "probability": 0.9996019005775452
+        },
+        {
+          "word": " is",
+          "start": 54.52,
+          "end": 55.06,
+          "probability": 0.6322029829025269
+        },
+        {
+          "word": " I",
+          "start": 55.06,
+          "end": 55.22,
+          "probability": 0.8508384823799133
+        },
+        {
+          "word": " will",
+          "start": 55.22,
+          "end": 55.36,
+          "probability": 0.9985904097557068
+        },
+        {
+          "word": " stop",
+          "start": 55.36,
+          "end": 55.64,
+          "probability": 0.9983130693435669
+        },
+        {
+          "word": " making",
+          "start": 55.64,
+          "end": 55.96,
+          "probability": 0.9994751811027527
+        },
+        {
+          "word": " these",
+          "start": 55.96,
+          "end": 56.18,
+          "probability": 0.997829258441925
+        },
+        {
+          "word": " fundraising",
+          "start": 56.18,
+          "end": 56.5,
+          "probability": 0.930390477180481
+        },
+        {
+          "word": " videos.",
+          "start": 56.5,
+          "end": 56.9,
+          "probability": 0.9988920092582703
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 5690,
+      "start": 56.9,
+      "end": 62.94,
+      "text": " So head to transition2025.com and give whatever you can, so we can build a city that every New Yorker can afford.",
+      "tokens": [
+        50365,
+        407,
+        1378,
+        281,
+        6034,
+        2009,
+        6074,
+        13,
+        1112,
+        293,
+        976,
+        2035,
+        291,
+        393,
+        11,
+        370,
+        321,
+        393,
+        1322,
+        257,
+        2307,
+        300,
+        633,
+        1873,
+        3609,
+        260,
+        393,
+        6157,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17142998894979788,
+      "compression_ratio": 1.176,
+      "no_speech_prob": 4.110384775601883e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 56.9,
+          "end": 57.34,
+          "probability": 0.881180465221405
+        },
+        {
+          "word": " head",
+          "start": 57.34,
+          "end": 57.5,
+          "probability": 0.9877983927726746
+        },
+        {
+          "word": " to",
+          "start": 57.5,
+          "end": 57.62,
+          "probability": 0.9982303977012634
+        },
+        {
+          "word": " transition2025",
+          "start": 57.62,
+          "end": 58.66,
+          "probability": 0.844266434510549
+        },
+        {
+          "word": ".com",
+          "start": 58.66,
+          "end": 59.28,
+          "probability": 0.9992510974407196
+        },
+        {
+          "word": " and",
+          "start": 59.28,
+          "end": 59.44,
+          "probability": 0.9705702662467957
+        },
+        {
+          "word": " give",
+          "start": 59.44,
+          "end": 59.6,
+          "probability": 0.9582837224006653
+        },
+        {
+          "word": " whatever",
+          "start": 59.6,
+          "end": 59.86,
+          "probability": 0.991487979888916
+        },
+        {
+          "word": " you",
+          "start": 59.86,
+          "end": 60.08,
+          "probability": 0.999442994594574
+        },
+        {
+          "word": " can,",
+          "start": 60.08,
+          "end": 60.32,
+          "probability": 0.9997298121452332
+        },
+        {
+          "word": " so",
+          "start": 60.48,
+          "end": 60.84,
+          "probability": 0.9929147958755493
+        },
+        {
+          "word": " we",
+          "start": 60.84,
+          "end": 60.94,
+          "probability": 0.9778579473495483
+        },
+        {
+          "word": " can",
+          "start": 60.94,
+          "end": 61.04,
+          "probability": 0.9977374076843262
+        },
+        {
+          "word": " build",
+          "start": 61.04,
+          "end": 61.22,
+          "probability": 0.998477041721344
+        },
+        {
+          "word": " a",
+          "start": 61.22,
+          "end": 61.32,
+          "probability": 0.9963395595550537
+        },
+        {
+          "word": " city",
+          "start": 61.32,
+          "end": 61.52,
+          "probability": 0.9969845414161682
+        },
+        {
+          "word": " that",
+          "start": 61.52,
+          "end": 61.68,
+          "probability": 0.9932067394256592
+        },
+        {
+          "word": " every",
+          "start": 61.68,
+          "end": 62.08,
+          "probability": 0.9967028498649597
+        },
+        {
+          "word": " New",
+          "start": 62.08,
+          "end": 62.26,
+          "probability": 0.9651151299476624
+        },
+        {
+          "word": " Yorker",
+          "start": 62.26,
+          "end": 62.5,
+          "probability": 0.9878078699111938
+        },
+        {
+          "word": " can",
+          "start": 62.5,
+          "end": 62.64,
+          "probability": 0.9988992214202881
+        },
+        {
+          "word": " afford.",
+          "start": 62.64,
+          "end": 62.94,
+          "probability": 0.9988960027694702
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 5690,
+      "start": 64.58,
+      "end": 66.7,
+      "text": " Checkmate. So I can once again...",
+      "tokens": [
+        50665,
+        6881,
+        13963,
+        13,
+        407,
+        286,
+        393,
+        1564,
+        797,
+        485,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17142998894979788,
+      "compression_ratio": 1.176,
+      "no_speech_prob": 4.110384775601883e-12,
+      "words": [
+        {
+          "word": " Checkmate.",
+          "start": 64.58,
+          "end": 64.98,
+          "probability": 0.9883826375007629
+        },
+        {
+          "word": " So",
+          "start": 65.14,
+          "end": 65.38,
+          "probability": 0.994304358959198
+        },
+        {
+          "word": " I",
+          "start": 65.38,
+          "end": 65.5,
+          "probability": 0.9973239898681641
+        },
+        {
+          "word": " can",
+          "start": 65.5,
+          "end": 65.66,
+          "probability": 0.9996160268783569
+        },
+        {
+          "word": " once",
+          "start": 65.66,
+          "end": 66.0,
+          "probability": 0.9577940106391907
+        },
+        {
+          "word": " again...",
+          "start": 66.0,
+          "end": 66.7,
+          "probability": 0.8249126672744751
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 6670,
+      "start": 66.7,
+      "end": 69.92,
+      "text": " Checkmate. All right.",
+      "tokens": [
+        50365,
+        6881,
+        13963,
+        13,
+        1057,
+        558,
+        13,
+        50515
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": [
+        {
+          "word": " Checkmate.",
+          "start": 66.7,
+          "end": 67.16,
+          "probability": 0.0007954967732075602
+        },
+        {
+          "word": " All",
+          "start": 67.24,
+          "end": 68.64,
+          "probability": 0.0019149476429447532
+        },
+        {
+          "word": " right.",
+          "start": 68.64,
+          "end": 69.92,
+          "probability": 0.5720280408859253
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 6670,
+      "start": 71.96,
+      "end": 73.36,
+      "text": " Let me pull my paper this morning here.",
+      "tokens": [
+        50515,
+        961,
+        385,
+        2235,
+        452,
+        3035,
+        341,
+        2446,
+        510,
+        13,
+        50615
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": [
+        {
+          "word": " Let",
+          "start": 71.96,
+          "end": 73.36,
+          "probability": 0.08749938011169434
+        },
+        {
+          "word": " me",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.10257680714130402
+        },
+        {
+          "word": " pull",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.0015665600076317787
+        },
+        {
+          "word": " my",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.01728714443743229
+        },
+        {
+          "word": " paper",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.0024294250179082155
+        },
+        {
+          "word": " this",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.0029209263157099485
+        },
+        {
+          "word": " morning",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.0078194011002779
+        },
+        {
+          "word": " here.",
+          "start": 73.36,
+          "end": 73.36,
+          "probability": 0.002133486792445183
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 19,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 20,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 21,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 22,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 23,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 24,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 25,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 26,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 27,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 28,
+      "seek": 6670,
+      "start": 73.36,
+      "end": 73.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -3.162729352912647,
+      "compression_ratio": 1.61,
+      "no_speech_prob": 1.959868031753409e-11,
+      "words": []
+    },
+    {
+      "id": 29,
+      "seek": 7336,
+      "start": 73.34,
+      "end": 73.34,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.2,
+      "avg_logprob": -0.5588798522949219,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.692664203245542e-10,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

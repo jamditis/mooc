@@ -1,0 +1,5160 @@
+{
+  "text": " Today, as New Yorkers celebrate St. Patrick's Day, I think of the words of St. Patrick himself, the Apostle of Ireland. In the fifth century, in what we now know as Ireland, a British warlord named Caroticus had laid waste to the countryside. St. Patrick implored the soldiers responsible to stop. Overcome by grief, he wrote, all I can do is what is written, weep with those who weep. It is no small act to weep with those who weep. It is a choice, one that many do not make. It requires sacrifice, a subjugation of the self, solidarity. Irish solidarity is no coincidence, as it was on Irish soil that the British Empire developed their colonial project. So much of the exploitation later imposed elsewhere across the world was honed first in the plantations in Ireland. Who can better understand those who weep than those who have wept for so long? And yet the story of Ireland is not merely one of violent oppression, of subjugation, of attempted domination. It is one of resistance too. For centuries, generation after generation waged a lonely effort for independence. Year after year, uprising after uprising, they were brutally beaten back. And still, they kept coming. I think of leaders like James Connolly and Patrick Pierce, who roused hundreds of thousands with demands of political freedom and economic self-determination. I think of those who endured unimaginable hardship during the troubles. The ten prisoners who died after going on hunger strike to protest the British government's refusal to deem them political prisoners. I think of the many whose names have been lost to time, who perished from a famine exacerbated by imperial callousness. And I think of the discrimination Irish New Yorkers faced when they first came to these shores. They were barred from employment and housing. Signs plastered across storefronts read, Help Wanted. No Irish Need Apply. They did not grow discouraged, however. They organized, mobilized, and formed labor movements that endure to this day. It was Irish hands that helped build so much of the city we recognize today. The skyscrapers that pierced clouds. The tunnels carved through bedrock. If solidarity has so often been withheld from the Irish, it has never been withheld by the Irish. An Irish diplomat named Roger Casement helped to expose the barbarism of Belgian King Leopold II in the Congo Free State. After Dublin supermarket workers went on a three-year strike to protest apartheid, the Irish government banned the import of South African goods. The first complete ban by a Western government. And in 1980, Ireland was the first EEC nation to call for a Palestinian state. For years afterwards, Irish leaders like former President Mary Robinson stood steadfast in their support for Palestinian freedom. Today, as we celebrate St. Patrick's Day, I know there are many who feel a continued obligation to one another, to a world where justice does not feel so often like the exception, to all those who still weep. Happy St. Patrick's Day. I'll see you now there. I think that in every real�ั 그러 yak packaging. Ken Mitchell did not have a variant almost found in sight for Dr.elen Habib. And it very likelyro that we have a self-purehip of Timothy Gmmett.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 2.2,
+      "text": " Today, as New Yorkers celebrate St. Patrick's Day,",
+      "tokens": [
+        50365,
+        2692,
+        11,
+        382,
+        1873,
+        3609,
+        433,
+        8098,
+        745,
+        13,
+        13980,
+        311,
+        5226,
+        11,
+        50503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " Today,",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.708673357963562
+        },
+        {
+          "word": " as",
+          "start": 0.6,
+          "end": 0.66,
+          "probability": 0.9985301494598389
+        },
+        {
+          "word": " New",
+          "start": 0.66,
+          "end": 0.8,
+          "probability": 0.9857592582702637
+        },
+        {
+          "word": " Yorkers",
+          "start": 0.8,
+          "end": 1.1,
+          "probability": 0.9932911396026611
+        },
+        {
+          "word": " celebrate",
+          "start": 1.1,
+          "end": 1.48,
+          "probability": 0.9926798343658447
+        },
+        {
+          "word": " St.",
+          "start": 1.48,
+          "end": 1.66,
+          "probability": 0.8427987694740295
+        },
+        {
+          "word": " Patrick's",
+          "start": 1.82,
+          "end": 2.12,
+          "probability": 0.9978854358196259
+        },
+        {
+          "word": " Day,",
+          "start": 2.12,
+          "end": 2.2,
+          "probability": 0.971954882144928
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.5,
+      "end": 4.34,
+      "text": " I think of the words of St. Patrick himself,",
+      "tokens": [
+        50503,
+        286,
+        519,
+        295,
+        264,
+        2283,
+        295,
+        745,
+        13,
+        13980,
+        3647,
+        11,
+        50613
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 2.5,
+          "end": 2.86,
+          "probability": 0.9964843988418579
+        },
+        {
+          "word": " think",
+          "start": 2.86,
+          "end": 3.0,
+          "probability": 0.999383807182312
+        },
+        {
+          "word": " of",
+          "start": 3.0,
+          "end": 3.08,
+          "probability": 0.994665265083313
+        },
+        {
+          "word": " the",
+          "start": 3.08,
+          "end": 3.16,
+          "probability": 0.9992207288742065
+        },
+        {
+          "word": " words",
+          "start": 3.16,
+          "end": 3.42,
+          "probability": 0.9992820620536804
+        },
+        {
+          "word": " of",
+          "start": 3.42,
+          "end": 3.54,
+          "probability": 0.9980314373970032
+        },
+        {
+          "word": " St.",
+          "start": 3.54,
+          "end": 3.68,
+          "probability": 0.9870141744613647
+        },
+        {
+          "word": " Patrick",
+          "start": 3.82,
+          "end": 4.02,
+          "probability": 0.9989727735519409
+        },
+        {
+          "word": " himself,",
+          "start": 4.02,
+          "end": 4.34,
+          "probability": 0.9967069029808044
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.72,
+      "end": 5.92,
+      "text": " the Apostle of Ireland.",
+      "tokens": [
+        50613,
+        264,
+        31467,
+        306,
+        295,
+        15880,
+        13,
+        50685
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " the",
+          "start": 4.72,
+          "end": 5.06,
+          "probability": 0.9749148488044739
+        },
+        {
+          "word": " Apostle",
+          "start": 5.06,
+          "end": 5.48,
+          "probability": 0.8319863975048065
+        },
+        {
+          "word": " of",
+          "start": 5.48,
+          "end": 5.62,
+          "probability": 0.999213695526123
+        },
+        {
+          "word": " Ireland.",
+          "start": 5.62,
+          "end": 5.92,
+          "probability": 0.999261200428009
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.18,
+      "end": 8.56,
+      "text": " In the fifth century, in what we now know as Ireland,",
+      "tokens": [
+        50685,
+        682,
+        264,
+        9266,
+        4901,
+        11,
+        294,
+        437,
+        321,
+        586,
+        458,
+        382,
+        15880,
+        11,
+        50812
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " In",
+          "start": 6.18,
+          "end": 6.48,
+          "probability": 0.9385742545127869
+        },
+        {
+          "word": " the",
+          "start": 6.48,
+          "end": 6.56,
+          "probability": 0.9995999932289124
+        },
+        {
+          "word": " fifth",
+          "start": 6.56,
+          "end": 6.7,
+          "probability": 0.4602075219154358
+        },
+        {
+          "word": " century,",
+          "start": 6.7,
+          "end": 7.1,
+          "probability": 0.9989610910415649
+        },
+        {
+          "word": " in",
+          "start": 7.34,
+          "end": 7.58,
+          "probability": 0.740115761756897
+        },
+        {
+          "word": " what",
+          "start": 7.58,
+          "end": 7.66,
+          "probability": 0.999725878238678
+        },
+        {
+          "word": " we",
+          "start": 7.66,
+          "end": 7.74,
+          "probability": 0.9989222288131714
+        },
+        {
+          "word": " now",
+          "start": 7.74,
+          "end": 7.96,
+          "probability": 0.9957114458084106
+        },
+        {
+          "word": " know",
+          "start": 7.96,
+          "end": 8.18,
+          "probability": 0.9951464533805847
+        },
+        {
+          "word": " as",
+          "start": 8.18,
+          "end": 8.32,
+          "probability": 0.9958869814872742
+        },
+        {
+          "word": " Ireland,",
+          "start": 8.32,
+          "end": 8.56,
+          "probability": 0.999299168586731
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.84,
+      "end": 10.48,
+      "text": " a British warlord named Caroticus",
+      "tokens": [
+        50812,
+        257,
+        6221,
+        1516,
+        22839,
+        4926,
+        2741,
+        9411,
+        301,
+        50896
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " a",
+          "start": 8.84,
+          "end": 9.02,
+          "probability": 0.9966511130332947
+        },
+        {
+          "word": " British",
+          "start": 9.02,
+          "end": 9.26,
+          "probability": 0.9995799660682678
+        },
+        {
+          "word": " warlord",
+          "start": 9.26,
+          "end": 9.68,
+          "probability": 0.9964067935943604
+        },
+        {
+          "word": " named",
+          "start": 9.68,
+          "end": 9.9,
+          "probability": 0.9965206384658813
+        },
+        {
+          "word": " Caroticus",
+          "start": 9.9,
+          "end": 10.48,
+          "probability": 0.718174417813619
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.48,
+      "end": 11.8,
+      "text": " had laid waste to the countryside.",
+      "tokens": [
+        50896,
+        632,
+        9897,
+        5964,
+        281,
+        264,
+        28252,
+        13,
+        50990
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " had",
+          "start": 10.48,
+          "end": 10.72,
+          "probability": 0.9972309470176697
+        },
+        {
+          "word": " laid",
+          "start": 10.72,
+          "end": 10.9,
+          "probability": 0.9990686774253845
+        },
+        {
+          "word": " waste",
+          "start": 10.9,
+          "end": 11.2,
+          "probability": 0.9978281855583191
+        },
+        {
+          "word": " to",
+          "start": 11.2,
+          "end": 11.34,
+          "probability": 0.9991409778594971
+        },
+        {
+          "word": " the",
+          "start": 11.34,
+          "end": 11.42,
+          "probability": 0.999143123626709
+        },
+        {
+          "word": " countryside.",
+          "start": 11.42,
+          "end": 11.8,
+          "probability": 0.9980788230895996
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.26,
+      "end": 14.94,
+      "text": " St. Patrick implored the soldiers responsible to stop.",
+      "tokens": [
+        50990,
+        745,
+        13,
+        13980,
+        8484,
+        2769,
+        264,
+        8892,
+        6250,
+        281,
+        1590,
+        13,
+        51127
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " St.",
+          "start": 12.26,
+          "end": 12.62,
+          "probability": 0.9988558292388916
+        },
+        {
+          "word": " Patrick",
+          "start": 12.9,
+          "end": 12.94,
+          "probability": 0.9997459053993225
+        },
+        {
+          "word": " implored",
+          "start": 12.94,
+          "end": 13.46,
+          "probability": 0.9989423453807831
+        },
+        {
+          "word": " the",
+          "start": 13.46,
+          "end": 13.62,
+          "probability": 0.9994832277297974
+        },
+        {
+          "word": " soldiers",
+          "start": 13.62,
+          "end": 13.94,
+          "probability": 0.999222993850708
+        },
+        {
+          "word": " responsible",
+          "start": 13.94,
+          "end": 14.48,
+          "probability": 0.9991254210472107
+        },
+        {
+          "word": " to",
+          "start": 14.48,
+          "end": 14.68,
+          "probability": 0.9997687935829163
+        },
+        {
+          "word": " stop.",
+          "start": 14.68,
+          "end": 14.94,
+          "probability": 0.9997326731681824
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.2,
+      "end": 16.52,
+      "text": " Overcome by grief, he wrote,",
+      "tokens": [
+        51127,
+        4886,
+        1102,
+        538,
+        18998,
+        11,
+        415,
+        4114,
+        11,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " Overcome",
+          "start": 15.2,
+          "end": 15.62,
+          "probability": 0.9923736751079559
+        },
+        {
+          "word": " by",
+          "start": 15.62,
+          "end": 15.8,
+          "probability": 0.9997789263725281
+        },
+        {
+          "word": " grief,",
+          "start": 15.8,
+          "end": 16.08,
+          "probability": 0.9997358918190002
+        },
+        {
+          "word": " he",
+          "start": 16.12,
+          "end": 16.28,
+          "probability": 0.9998413324356079
+        },
+        {
+          "word": " wrote,",
+          "start": 16.28,
+          "end": 16.52,
+          "probability": 0.999945878982544
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 16.74,
+      "end": 18.66,
+      "text": " all I can do is what is written,",
+      "tokens": [
+        51215,
+        439,
+        286,
+        393,
+        360,
+        307,
+        437,
+        307,
+        3720,
+        11,
+        51320
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " all",
+          "start": 16.74,
+          "end": 17.2,
+          "probability": 0.31874018907546997
+        },
+        {
+          "word": " I",
+          "start": 17.2,
+          "end": 17.38,
+          "probability": 0.9998119473457336
+        },
+        {
+          "word": " can",
+          "start": 17.38,
+          "end": 17.52,
+          "probability": 0.9999678134918213
+        },
+        {
+          "word": " do",
+          "start": 17.52,
+          "end": 17.78,
+          "probability": 0.9999711513519287
+        },
+        {
+          "word": " is",
+          "start": 17.78,
+          "end": 18.16,
+          "probability": 0.9997636675834656
+        },
+        {
+          "word": " what",
+          "start": 18.16,
+          "end": 18.28,
+          "probability": 0.9998929500579834
+        },
+        {
+          "word": " is",
+          "start": 18.28,
+          "end": 18.4,
+          "probability": 0.9997765421867371
+        },
+        {
+          "word": " written,",
+          "start": 18.4,
+          "end": 18.66,
+          "probability": 0.9999722242355347
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 19.02,
+      "end": 20.44,
+      "text": " weep with those who weep.",
+      "tokens": [
+        51320,
+        321,
+        595,
+        365,
+        729,
+        567,
+        321,
+        595,
+        13,
+        51417
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " weep",
+          "start": 19.02,
+          "end": 19.4,
+          "probability": 0.9899831712245941
+        },
+        {
+          "word": " with",
+          "start": 19.4,
+          "end": 19.78,
+          "probability": 0.9995492100715637
+        },
+        {
+          "word": " those",
+          "start": 19.78,
+          "end": 20.0,
+          "probability": 0.999880313873291
+        },
+        {
+          "word": " who",
+          "start": 20.0,
+          "end": 20.16,
+          "probability": 0.999961256980896
+        },
+        {
+          "word": " weep.",
+          "start": 20.16,
+          "end": 20.44,
+          "probability": 0.9998034834861755
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 20.66,
+      "end": 23.52,
+      "text": " It is no small act to weep with those who weep.",
+      "tokens": [
+        51417,
+        467,
+        307,
+        572,
+        1359,
+        605,
+        281,
+        321,
+        595,
+        365,
+        729,
+        567,
+        321,
+        595,
+        13,
+        51564
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 20.66,
+          "end": 21.14,
+          "probability": 0.9995852112770081
+        },
+        {
+          "word": " is",
+          "start": 21.14,
+          "end": 21.24,
+          "probability": 0.99993896484375
+        },
+        {
+          "word": " no",
+          "start": 21.24,
+          "end": 21.36,
+          "probability": 0.9969815611839294
+        },
+        {
+          "word": " small",
+          "start": 21.36,
+          "end": 21.64,
+          "probability": 0.999945878982544
+        },
+        {
+          "word": " act",
+          "start": 21.64,
+          "end": 22.0,
+          "probability": 0.9998577833175659
+        },
+        {
+          "word": " to",
+          "start": 22.0,
+          "end": 22.54,
+          "probability": 0.9933237433433533
+        },
+        {
+          "word": " weep",
+          "start": 22.54,
+          "end": 22.76,
+          "probability": 0.9998879432678223
+        },
+        {
+          "word": " with",
+          "start": 22.76,
+          "end": 22.88,
+          "probability": 0.9999352693557739
+        },
+        {
+          "word": " those",
+          "start": 22.88,
+          "end": 23.06,
+          "probability": 0.9999436140060425
+        },
+        {
+          "word": " who",
+          "start": 23.06,
+          "end": 23.26,
+          "probability": 0.9999051094055176
+        },
+        {
+          "word": " weep.",
+          "start": 23.26,
+          "end": 23.52,
+          "probability": 0.9998839795589447
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 23.74,
+      "end": 26.16,
+      "text": " It is a choice, one that many do not make.",
+      "tokens": [
+        51564,
+        467,
+        307,
+        257,
+        3922,
+        11,
+        472,
+        300,
+        867,
+        360,
+        406,
+        652,
+        13,
+        51699
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 23.74,
+          "end": 24.04,
+          "probability": 0.999849796295166
+        },
+        {
+          "word": " is",
+          "start": 24.04,
+          "end": 24.14,
+          "probability": 0.999947190284729
+        },
+        {
+          "word": " a",
+          "start": 24.14,
+          "end": 24.22,
+          "probability": 0.9999121427536011
+        },
+        {
+          "word": " choice,",
+          "start": 24.22,
+          "end": 24.58,
+          "probability": 0.9999377727508545
+        },
+        {
+          "word": " one",
+          "start": 25.06,
+          "end": 25.26,
+          "probability": 0.9998476505279541
+        },
+        {
+          "word": " that",
+          "start": 25.26,
+          "end": 25.38,
+          "probability": 0.9999034404754639
+        },
+        {
+          "word": " many",
+          "start": 25.38,
+          "end": 25.58,
+          "probability": 0.9998964071273804
+        },
+        {
+          "word": " do",
+          "start": 25.58,
+          "end": 25.72,
+          "probability": 0.9999243021011353
+        },
+        {
+          "word": " not",
+          "start": 25.72,
+          "end": 25.88,
+          "probability": 0.9999631643295288
+        },
+        {
+          "word": " make.",
+          "start": 25.88,
+          "end": 26.16,
+          "probability": 0.9998601675033569
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 26.5,
+      "end": 29.4,
+      "text": " It requires sacrifice, a subjugation of the self,",
+      "tokens": [
+        51699,
+        467,
+        7029,
+        11521,
+        11,
+        257,
+        1422,
+        42068,
+        399,
+        295,
+        264,
+        2698,
+        11,
+        51863
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10065283775329589,
+      "compression_ratio": 1.713355048859935,
+      "no_speech_prob": 1.83235024375783e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 26.5,
+          "end": 26.76,
+          "probability": 0.9983450174331665
+        },
+        {
+          "word": " requires",
+          "start": 26.76,
+          "end": 27.14,
+          "probability": 0.9997171759605408
+        },
+        {
+          "word": " sacrifice,",
+          "start": 27.14,
+          "end": 27.7,
+          "probability": 0.9996552467346191
+        },
+        {
+          "word": " a",
+          "start": 28.08,
+          "end": 28.34,
+          "probability": 0.9993231296539307
+        },
+        {
+          "word": " subjugation",
+          "start": 28.34,
+          "end": 28.88,
+          "probability": 0.9996461470921835
+        },
+        {
+          "word": " of",
+          "start": 28.88,
+          "end": 29.02,
+          "probability": 0.9998505115509033
+        },
+        {
+          "word": " the",
+          "start": 29.02,
+          "end": 29.12,
+          "probability": 0.9999022483825684
+        },
+        {
+          "word": " self,",
+          "start": 29.12,
+          "end": 29.4,
+          "probability": 0.9966741800308228
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2940,
+      "start": 29.4,
+      "end": 30.32,
+      "text": " solidarity.",
+      "tokens": [
+        50365,
+        27220,
+        13,
+        50453
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " solidarity.",
+          "start": 29.4,
+          "end": 30.32,
+          "probability": 0.4817965030670166
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2940,
+      "start": 30.8,
+      "end": 32.64,
+      "text": " Irish solidarity is no coincidence,",
+      "tokens": [
+        50453,
+        16801,
+        27220,
+        307,
+        572,
+        22137,
+        11,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " Irish",
+          "start": 30.8,
+          "end": 31.36,
+          "probability": 0.9980037808418274
+        },
+        {
+          "word": " solidarity",
+          "start": 31.36,
+          "end": 31.74,
+          "probability": 0.9931776523590088
+        },
+        {
+          "word": " is",
+          "start": 31.74,
+          "end": 32.04,
+          "probability": 0.9986940026283264
+        },
+        {
+          "word": " no",
+          "start": 32.04,
+          "end": 32.18,
+          "probability": 0.9960852861404419
+        },
+        {
+          "word": " coincidence,",
+          "start": 32.18,
+          "end": 32.64,
+          "probability": 0.9994663596153259
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2940,
+      "start": 33.4,
+      "end": 35.26,
+      "text": " as it was on Irish soil that the British Empire",
+      "tokens": [
+        50565,
+        382,
+        309,
+        390,
+        322,
+        16801,
+        6704,
+        300,
+        264,
+        6221,
+        12197,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " as",
+          "start": 33.22,
+          "end": 33.5,
+          "probability": 0.99856036901474
+        },
+        {
+          "word": " it",
+          "start": 33.5,
+          "end": 33.58,
+          "probability": 0.9986769556999207
+        },
+        {
+          "word": " was",
+          "start": 33.58,
+          "end": 33.68,
+          "probability": 0.9987797141075134
+        },
+        {
+          "word": " on",
+          "start": 33.68,
+          "end": 33.8,
+          "probability": 0.9925479292869568
+        },
+        {
+          "word": " Irish",
+          "start": 33.8,
+          "end": 34.12,
+          "probability": 0.9971281886100769
+        },
+        {
+          "word": " soil",
+          "start": 34.12,
+          "end": 34.5,
+          "probability": 0.9994753003120422
+        },
+        {
+          "word": " that",
+          "start": 34.5,
+          "end": 34.72,
+          "probability": 0.9540244340896606
+        },
+        {
+          "word": " the",
+          "start": 34.72,
+          "end": 34.76,
+          "probability": 0.9948095083236694
+        },
+        {
+          "word": " British",
+          "start": 34.76,
+          "end": 34.92,
+          "probability": 0.9986845850944519
+        },
+        {
+          "word": " Empire",
+          "start": 34.92,
+          "end": 35.26,
+          "probability": 0.8913789987564087
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2940,
+      "start": 35.26,
+      "end": 36.64,
+      "text": " developed their colonial project.",
+      "tokens": [
+        50665,
+        4743,
+        641,
+        19066,
+        1716,
+        13,
+        50740
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " developed",
+          "start": 35.26,
+          "end": 35.68,
+          "probability": 0.99861741065979
+        },
+        {
+          "word": " their",
+          "start": 35.68,
+          "end": 35.86,
+          "probability": 0.9984548091888428
+        },
+        {
+          "word": " colonial",
+          "start": 35.86,
+          "end": 36.18,
+          "probability": 0.9987443685531616
+        },
+        {
+          "word": " project.",
+          "start": 36.18,
+          "end": 36.64,
+          "probability": 0.9983373880386353
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2940,
+      "start": 36.82,
+      "end": 39.02,
+      "text": " So much of the exploitation later imposed elsewhere",
+      "tokens": [
+        50740,
+        407,
+        709,
+        295,
+        264,
+        33122,
+        1780,
+        26491,
+        14517,
+        50853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 36.82,
+          "end": 37.04,
+          "probability": 0.9961923360824585
+        },
+        {
+          "word": " much",
+          "start": 37.04,
+          "end": 37.18,
+          "probability": 0.999118983745575
+        },
+        {
+          "word": " of",
+          "start": 37.18,
+          "end": 37.28,
+          "probability": 0.9995614886283875
+        },
+        {
+          "word": " the",
+          "start": 37.28,
+          "end": 37.36,
+          "probability": 0.9965720176696777
+        },
+        {
+          "word": " exploitation",
+          "start": 37.36,
+          "end": 37.92,
+          "probability": 0.9993292093276978
+        },
+        {
+          "word": " later",
+          "start": 37.92,
+          "end": 38.22,
+          "probability": 0.9931737780570984
+        },
+        {
+          "word": " imposed",
+          "start": 38.22,
+          "end": 38.66,
+          "probability": 0.9989985823631287
+        },
+        {
+          "word": " elsewhere",
+          "start": 38.66,
+          "end": 39.02,
+          "probability": 0.9992676377296448
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2940,
+      "start": 39.02,
+      "end": 41.02,
+      "text": " across the world was honed first",
+      "tokens": [
+        50853,
+        2108,
+        264,
+        1002,
+        390,
+        2157,
+        292,
+        700,
+        50959
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " across",
+          "start": 39.02,
+          "end": 39.34,
+          "probability": 0.9966025352478027
+        },
+        {
+          "word": " the",
+          "start": 39.34,
+          "end": 39.54,
+          "probability": 0.9996646642684937
+        },
+        {
+          "word": " world",
+          "start": 39.54,
+          "end": 39.82,
+          "probability": 0.9993690848350525
+        },
+        {
+          "word": " was",
+          "start": 39.82,
+          "end": 40.38,
+          "probability": 0.9929181933403015
+        },
+        {
+          "word": " honed",
+          "start": 40.38,
+          "end": 40.7,
+          "probability": 0.9982921183109283
+        },
+        {
+          "word": " first",
+          "start": 40.7,
+          "end": 41.02,
+          "probability": 0.9984003901481628
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2940,
+      "start": 41.02,
+      "end": 42.52,
+      "text": " in the plantations in Ireland.",
+      "tokens": [
+        50959,
+        294,
+        264,
+        3709,
+        763,
+        294,
+        15880,
+        13,
+        51048
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " in",
+          "start": 41.02,
+          "end": 41.36,
+          "probability": 0.9390555620193481
+        },
+        {
+          "word": " the",
+          "start": 41.36,
+          "end": 41.44,
+          "probability": 0.9993841648101807
+        },
+        {
+          "word": " plantations",
+          "start": 41.44,
+          "end": 42.06,
+          "probability": 0.9977271258831024
+        },
+        {
+          "word": " in",
+          "start": 42.06,
+          "end": 42.24,
+          "probability": 0.9768593907356262
+        },
+        {
+          "word": " Ireland.",
+          "start": 42.24,
+          "end": 42.52,
+          "probability": 0.9995997548103333
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2940,
+      "start": 42.74,
+      "end": 44.74,
+      "text": " Who can better understand those who weep",
+      "tokens": [
+        51048,
+        2102,
+        393,
+        1101,
+        1223,
+        729,
+        567,
+        321,
+        595,
+        51158
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " Who",
+          "start": 42.74,
+          "end": 43.16,
+          "probability": 0.9867011904716492
+        },
+        {
+          "word": " can",
+          "start": 43.16,
+          "end": 43.28,
+          "probability": 0.9989625215530396
+        },
+        {
+          "word": " better",
+          "start": 43.28,
+          "end": 43.44,
+          "probability": 0.9978786706924438
+        },
+        {
+          "word": " understand",
+          "start": 43.44,
+          "end": 43.9,
+          "probability": 0.9996041655540466
+        },
+        {
+          "word": " those",
+          "start": 43.9,
+          "end": 44.18,
+          "probability": 0.9963040351867676
+        },
+        {
+          "word": " who",
+          "start": 44.18,
+          "end": 44.38,
+          "probability": 0.9996472597122192
+        },
+        {
+          "word": " weep",
+          "start": 44.38,
+          "end": 44.74,
+          "probability": 0.9996354877948761
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2940,
+      "start": 45.26,
+      "end": 46.86,
+      "text": " than those who have wept for so long?",
+      "tokens": [
+        51158,
+        813,
+        729,
+        567,
+        362,
+        321,
+        662,
+        337,
+        370,
+        938,
+        30,
+        51277
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " than",
+          "start": 45.04,
+          "end": 45.32,
+          "probability": 0.9720778465270996
+        },
+        {
+          "word": " those",
+          "start": 45.32,
+          "end": 45.56,
+          "probability": 0.9980522394180298
+        },
+        {
+          "word": " who",
+          "start": 45.56,
+          "end": 45.78,
+          "probability": 0.9990590214729309
+        },
+        {
+          "word": " have",
+          "start": 45.78,
+          "end": 45.9,
+          "probability": 0.9968318343162537
+        },
+        {
+          "word": " wept",
+          "start": 45.9,
+          "end": 46.16,
+          "probability": 0.9996040463447571
+        },
+        {
+          "word": " for",
+          "start": 46.16,
+          "end": 46.4,
+          "probability": 0.9985779523849487
+        },
+        {
+          "word": " so",
+          "start": 46.4,
+          "end": 46.6,
+          "probability": 0.9996800422668457
+        },
+        {
+          "word": " long?",
+          "start": 46.6,
+          "end": 46.86,
+          "probability": 0.9999393224716187
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2940,
+      "start": 47.36,
+      "end": 49.6,
+      "text": " And yet the story of Ireland is not merely",
+      "tokens": [
+        51277,
+        400,
+        1939,
+        264,
+        1657,
+        295,
+        15880,
+        307,
+        406,
+        17003,
+        51381
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 47.36,
+          "end": 47.72,
+          "probability": 0.9987455606460571
+        },
+        {
+          "word": " yet",
+          "start": 47.72,
+          "end": 47.84,
+          "probability": 0.9996286630630493
+        },
+        {
+          "word": " the",
+          "start": 47.84,
+          "end": 47.94,
+          "probability": 0.9301530718803406
+        },
+        {
+          "word": " story",
+          "start": 47.94,
+          "end": 48.2,
+          "probability": 0.9995017051696777
+        },
+        {
+          "word": " of",
+          "start": 48.2,
+          "end": 48.36,
+          "probability": 0.9997219443321228
+        },
+        {
+          "word": " Ireland",
+          "start": 48.36,
+          "end": 48.68,
+          "probability": 0.9996552467346191
+        },
+        {
+          "word": " is",
+          "start": 48.68,
+          "end": 49.12,
+          "probability": 0.9996278285980225
+        },
+        {
+          "word": " not",
+          "start": 49.12,
+          "end": 49.26,
+          "probability": 0.9998036026954651
+        },
+        {
+          "word": " merely",
+          "start": 49.26,
+          "end": 49.6,
+          "probability": 0.9996575117111206
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2940,
+      "start": 49.6,
+      "end": 52.0,
+      "text": " one of violent oppression, of subjugation,",
+      "tokens": [
+        51381,
+        472,
+        295,
+        11867,
+        27337,
+        11,
+        295,
+        1422,
+        42068,
+        399,
+        11,
+        51503
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " one",
+          "start": 49.6,
+          "end": 49.8,
+          "probability": 0.999016523361206
+        },
+        {
+          "word": " of",
+          "start": 49.8,
+          "end": 49.92,
+          "probability": 0.9998530149459839
+        },
+        {
+          "word": " violent",
+          "start": 49.92,
+          "end": 50.3,
+          "probability": 0.9992456436157227
+        },
+        {
+          "word": " oppression,",
+          "start": 50.3,
+          "end": 50.74,
+          "probability": 0.9922925233840942
+        },
+        {
+          "word": " of",
+          "start": 51.16,
+          "end": 51.34,
+          "probability": 0.9990952014923096
+        },
+        {
+          "word": " subjugation,",
+          "start": 51.34,
+          "end": 52.0,
+          "probability": 0.9994818965593973
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2940,
+      "start": 52.1,
+      "end": 52.94,
+      "text": " of attempted domination.",
+      "tokens": [
+        51503,
+        295,
+        18997,
+        41502,
+        13,
+        51578
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " of",
+          "start": 52.1,
+          "end": 52.2,
+          "probability": 0.9984519481658936
+        },
+        {
+          "word": " attempted",
+          "start": 52.2,
+          "end": 52.48,
+          "probability": 0.9353026747703552
+        },
+        {
+          "word": " domination.",
+          "start": 52.48,
+          "end": 52.94,
+          "probability": 0.9997342228889465
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 2940,
+      "start": 53.16,
+      "end": 54.78,
+      "text": " It is one of resistance too.",
+      "tokens": [
+        51578,
+        467,
+        307,
+        472,
+        295,
+        7335,
+        886,
+        13,
+        51656
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 53.16,
+          "end": 53.72,
+          "probability": 0.9997493624687195
+        },
+        {
+          "word": " is",
+          "start": 53.72,
+          "end": 53.84,
+          "probability": 0.9996931552886963
+        },
+        {
+          "word": " one",
+          "start": 53.84,
+          "end": 53.98,
+          "probability": 0.9997771382331848
+        },
+        {
+          "word": " of",
+          "start": 53.98,
+          "end": 54.12,
+          "probability": 0.9998723268508911
+        },
+        {
+          "word": " resistance",
+          "start": 54.12,
+          "end": 54.52,
+          "probability": 0.9991102814674377
+        },
+        {
+          "word": " too.",
+          "start": 54.52,
+          "end": 54.78,
+          "probability": 0.5520871877670288
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 2940,
+      "start": 55.06,
+      "end": 57.26,
+      "text": " For centuries, generation after generation",
+      "tokens": [
+        51656,
+        1171,
+        13926,
+        11,
+        5125,
+        934,
+        5125,
+        51779
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11456612283869307,
+      "compression_ratio": 1.712837837837838,
+      "no_speech_prob": 1.0042493095788196e-12,
+      "words": [
+        {
+          "word": " For",
+          "start": 55.06,
+          "end": 55.32,
+          "probability": 0.9993712306022644
+        },
+        {
+          "word": " centuries,",
+          "start": 55.32,
+          "end": 55.84,
+          "probability": 0.9995342493057251
+        },
+        {
+          "word": " generation",
+          "start": 56.1,
+          "end": 56.46,
+          "probability": 0.9977719187736511
+        },
+        {
+          "word": " after",
+          "start": 56.46,
+          "end": 56.76,
+          "probability": 0.999708354473114
+        },
+        {
+          "word": " generation",
+          "start": 56.76,
+          "end": 57.26,
+          "probability": 0.9994379878044128
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5726,
+      "start": 57.26,
+      "end": 59.42,
+      "text": " waged a lonely effort for independence.",
+      "tokens": [
+        50365,
+        261,
+        2980,
+        257,
+        14236,
+        4630,
+        337,
+        14640,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " waged",
+          "start": 57.26,
+          "end": 57.92,
+          "probability": 0.9614551961421967
+        },
+        {
+          "word": " a",
+          "start": 57.92,
+          "end": 58.06,
+          "probability": 0.9991056323051453
+        },
+        {
+          "word": " lonely",
+          "start": 58.06,
+          "end": 58.46,
+          "probability": 0.9985514283180237
+        },
+        {
+          "word": " effort",
+          "start": 58.46,
+          "end": 58.8,
+          "probability": 0.9985916018486023
+        },
+        {
+          "word": " for",
+          "start": 58.8,
+          "end": 59.02,
+          "probability": 0.9994869232177734
+        },
+        {
+          "word": " independence.",
+          "start": 59.02,
+          "end": 59.42,
+          "probability": 0.9910684823989868
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5726,
+      "start": 59.78,
+      "end": 62.28,
+      "text": " Year after year, uprising after uprising,",
+      "tokens": [
+        50465,
+        10289,
+        934,
+        1064,
+        11,
+        49144,
+        934,
+        49144,
+        11,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " Year",
+          "start": 59.78,
+          "end": 60.22,
+          "probability": 0.9973999261856079
+        },
+        {
+          "word": " after",
+          "start": 60.22,
+          "end": 60.44,
+          "probability": 0.9990816116333008
+        },
+        {
+          "word": " year,",
+          "start": 60.44,
+          "end": 60.76,
+          "probability": 0.9998076558113098
+        },
+        {
+          "word": " uprising",
+          "start": 61.0,
+          "end": 61.46,
+          "probability": 0.9931356906890869
+        },
+        {
+          "word": " after",
+          "start": 61.46,
+          "end": 61.78,
+          "probability": 0.9996310472488403
+        },
+        {
+          "word": " uprising,",
+          "start": 61.78,
+          "end": 62.28,
+          "probability": 0.9984575510025024
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 5726,
+      "start": 62.58,
+      "end": 64.14,
+      "text": " they were brutally beaten back.",
+      "tokens": [
+        50615,
+        436,
+        645,
+        48476,
+        17909,
+        646,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " they",
+          "start": 62.58,
+          "end": 62.82,
+          "probability": 0.9988380074501038
+        },
+        {
+          "word": " were",
+          "start": 62.82,
+          "end": 62.94,
+          "probability": 0.9997499585151672
+        },
+        {
+          "word": " brutally",
+          "start": 62.94,
+          "end": 63.32,
+          "probability": 0.9990267753601074
+        },
+        {
+          "word": " beaten",
+          "start": 63.32,
+          "end": 63.74,
+          "probability": 0.9995560050010681
+        },
+        {
+          "word": " back.",
+          "start": 63.74,
+          "end": 64.14,
+          "probability": 0.9994943141937256
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 5726,
+      "start": 64.46,
+      "end": 66.2,
+      "text": " And still, they kept coming.",
+      "tokens": [
+        50715,
+        400,
+        920,
+        11,
+        436,
+        4305,
+        1348,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 64.46,
+          "end": 64.74,
+          "probability": 0.9982282519340515
+        },
+        {
+          "word": " still,",
+          "start": 64.74,
+          "end": 65.02,
+          "probability": 0.9966214895248413
+        },
+        {
+          "word": " they",
+          "start": 65.26,
+          "end": 65.74,
+          "probability": 0.9992615580558777
+        },
+        {
+          "word": " kept",
+          "start": 65.74,
+          "end": 65.94,
+          "probability": 0.9995137453079224
+        },
+        {
+          "word": " coming.",
+          "start": 65.94,
+          "end": 66.2,
+          "probability": 0.999681830406189
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 5726,
+      "start": 66.48,
+      "end": 68.96,
+      "text": " I think of leaders like James Connolly and Patrick Pierce,",
+      "tokens": [
+        50815,
+        286,
+        519,
+        295,
+        3523,
+        411,
+        5678,
+        2656,
+        1771,
+        13020,
+        293,
+        13980,
+        45432,
+        11,
+        50953
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 66.48,
+          "end": 66.76,
+          "probability": 0.9974850416183472
+        },
+        {
+          "word": " think",
+          "start": 66.76,
+          "end": 66.86,
+          "probability": 0.9996508359909058
+        },
+        {
+          "word": " of",
+          "start": 66.86,
+          "end": 66.96,
+          "probability": 0.9990140199661255
+        },
+        {
+          "word": " leaders",
+          "start": 66.96,
+          "end": 67.18,
+          "probability": 0.998439610004425
+        },
+        {
+          "word": " like",
+          "start": 67.18,
+          "end": 67.36,
+          "probability": 0.9996476173400879
+        },
+        {
+          "word": " James",
+          "start": 67.36,
+          "end": 67.6,
+          "probability": 0.998860239982605
+        },
+        {
+          "word": " Connolly",
+          "start": 67.6,
+          "end": 68.08,
+          "probability": 0.9368309179941813
+        },
+        {
+          "word": " and",
+          "start": 68.08,
+          "end": 68.36,
+          "probability": 0.9891332983970642
+        },
+        {
+          "word": " Patrick",
+          "start": 68.36,
+          "end": 68.62,
+          "probability": 0.9986171722412109
+        },
+        {
+          "word": " Pierce,",
+          "start": 68.62,
+          "end": 68.96,
+          "probability": 0.42198774218559265
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 5726,
+      "start": 69.16,
+      "end": 71.22,
+      "text": " who roused hundreds of thousands with demands",
+      "tokens": [
+        50953,
+        567,
+        367,
+        45478,
+        6779,
+        295,
+        5383,
+        365,
+        15107,
+        51053
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " who",
+          "start": 69.16,
+          "end": 69.52,
+          "probability": 0.9996365308761597
+        },
+        {
+          "word": " roused",
+          "start": 69.52,
+          "end": 69.8,
+          "probability": 0.9994284212589264
+        },
+        {
+          "word": " hundreds",
+          "start": 69.8,
+          "end": 70.12,
+          "probability": 0.9994459748268127
+        },
+        {
+          "word": " of",
+          "start": 70.12,
+          "end": 70.36,
+          "probability": 0.9999209642410278
+        },
+        {
+          "word": " thousands",
+          "start": 70.36,
+          "end": 70.7,
+          "probability": 0.9996663331985474
+        },
+        {
+          "word": " with",
+          "start": 70.7,
+          "end": 70.9,
+          "probability": 0.9982989430427551
+        },
+        {
+          "word": " demands",
+          "start": 70.9,
+          "end": 71.22,
+          "probability": 0.9996919631958008
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 5726,
+      "start": 71.22,
+      "end": 73.68,
+      "text": " of political freedom and economic self-determination.",
+      "tokens": [
+        51053,
+        295,
+        3905,
+        5645,
+        293,
+        4836,
+        2698,
+        12,
+        49136,
+        2486,
+        13,
+        51178
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.19353531536303067,
+      "compression_ratio": 1.4754901960784315,
+      "no_speech_prob": 1.5732933619089229e-12,
+      "words": [
+        {
+          "word": " of",
+          "start": 71.22,
+          "end": 71.4,
+          "probability": 0.9996750354766846
+        },
+        {
+          "word": " political",
+          "start": 71.4,
+          "end": 71.68,
+          "probability": 0.999815046787262
+        },
+        {
+          "word": " freedom",
+          "start": 71.68,
+          "end": 72.02,
+          "probability": 0.9999083280563354
+        },
+        {
+          "word": " and",
+          "start": 72.02,
+          "end": 72.52,
+          "probability": 0.998633086681366
+        },
+        {
+          "word": " economic",
+          "start": 72.52,
+          "end": 72.9,
+          "probability": 0.9995506405830383
+        },
+        {
+          "word": " self",
+          "start": 72.9,
+          "end": 73.1,
+          "probability": 0.9996836185455322
+        },
+        {
+          "word": "-determination.",
+          "start": 73.1,
+          "end": 73.68,
+          "probability": 0.9987502694129944
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 7368,
+      "start": 73.68,
+      "end": 76.88,
+      "text": " I think of those who endured unimaginable hardship during the troubles.",
+      "tokens": [
+        50365,
+        286,
+        519,
+        295,
+        729,
+        567,
+        39017,
+        517,
+        44976,
+        712,
+        24172,
+        1830,
+        264,
+        15379,
+        13,
+        50553
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18259848557509384,
+      "compression_ratio": 1.570048309178744,
+      "no_speech_prob": 2.7832293761353988e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 73.68,
+          "end": 74.18,
+          "probability": 0.9366499781608582
+        },
+        {
+          "word": " think",
+          "start": 74.18,
+          "end": 74.32,
+          "probability": 0.9987565279006958
+        },
+        {
+          "word": " of",
+          "start": 74.32,
+          "end": 74.44,
+          "probability": 0.9990166425704956
+        },
+        {
+          "word": " those",
+          "start": 74.44,
+          "end": 74.64,
+          "probability": 0.9976410865783691
+        },
+        {
+          "word": " who",
+          "start": 74.64,
+          "end": 74.8,
+          "probability": 0.9986960291862488
+        },
+        {
+          "word": " endured",
+          "start": 74.8,
+          "end": 75.08,
+          "probability": 0.9988947510719299
+        },
+        {
+          "word": " unimaginable",
+          "start": 75.08,
+          "end": 75.82,
+          "probability": 0.999373197555542
+        },
+        {
+          "word": " hardship",
+          "start": 75.82,
+          "end": 76.18,
+          "probability": 0.9994251728057861
+        },
+        {
+          "word": " during",
+          "start": 76.18,
+          "end": 76.48,
+          "probability": 0.9997633099555969
+        },
+        {
+          "word": " the",
+          "start": 76.48,
+          "end": 76.62,
+          "probability": 0.994400680065155
+        },
+        {
+          "word": " troubles.",
+          "start": 76.62,
+          "end": 76.88,
+          "probability": 0.21509507298469543
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 7368,
+      "start": 77.16,
+      "end": 79.76,
+      "text": " The ten prisoners who died after going on hunger strike",
+      "tokens": [
+        50553,
+        440,
+        2064,
+        20417,
+        567,
+        4539,
+        934,
+        516,
+        322,
+        19229,
+        9302,
+        50687
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18259848557509384,
+      "compression_ratio": 1.570048309178744,
+      "no_speech_prob": 2.7832293761353988e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 77.16,
+          "end": 77.58,
+          "probability": 0.9994365572929382
+        },
+        {
+          "word": " ten",
+          "start": 77.58,
+          "end": 77.72,
+          "probability": 0.4876996576786041
+        },
+        {
+          "word": " prisoners",
+          "start": 77.72,
+          "end": 78.12,
+          "probability": 0.9995349645614624
+        },
+        {
+          "word": " who",
+          "start": 78.12,
+          "end": 78.3,
+          "probability": 0.998977780342102
+        },
+        {
+          "word": " died",
+          "start": 78.3,
+          "end": 78.54,
+          "probability": 0.9998339414596558
+        },
+        {
+          "word": " after",
+          "start": 78.54,
+          "end": 78.8,
+          "probability": 0.9993177652359009
+        },
+        {
+          "word": " going",
+          "start": 78.8,
+          "end": 79.02,
+          "probability": 0.9994770884513855
+        },
+        {
+          "word": " on",
+          "start": 79.02,
+          "end": 79.18,
+          "probability": 0.999828577041626
+        },
+        {
+          "word": " hunger",
+          "start": 79.18,
+          "end": 79.44,
+          "probability": 0.8878498673439026
+        },
+        {
+          "word": " strike",
+          "start": 79.44,
+          "end": 79.76,
+          "probability": 0.9986433386802673
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 7368,
+      "start": 79.76,
+      "end": 83.36,
+      "text": " to protest the British government's refusal to deem them political prisoners.",
+      "tokens": [
+        50687,
+        281,
+        11281,
+        264,
+        6221,
+        2463,
+        311,
+        48948,
+        281,
+        368,
+        443,
+        552,
+        3905,
+        20417,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18259848557509384,
+      "compression_ratio": 1.570048309178744,
+      "no_speech_prob": 2.7832293761353988e-12,
+      "words": [
+        {
+          "word": " to",
+          "start": 79.76,
+          "end": 80.22,
+          "probability": 0.9632081985473633
+        },
+        {
+          "word": " protest",
+          "start": 80.22,
+          "end": 80.54,
+          "probability": 0.9997401833534241
+        },
+        {
+          "word": " the",
+          "start": 80.54,
+          "end": 80.68,
+          "probability": 0.9991379976272583
+        },
+        {
+          "word": " British",
+          "start": 80.68,
+          "end": 80.86,
+          "probability": 0.9996088147163391
+        },
+        {
+          "word": " government's",
+          "start": 80.86,
+          "end": 81.28,
+          "probability": 0.9932665824890137
+        },
+        {
+          "word": " refusal",
+          "start": 81.28,
+          "end": 81.72,
+          "probability": 0.9998716115951538
+        },
+        {
+          "word": " to",
+          "start": 81.72,
+          "end": 82.26,
+          "probability": 0.9995860457420349
+        },
+        {
+          "word": " deem",
+          "start": 82.26,
+          "end": 82.5,
+          "probability": 0.9965637028217316
+        },
+        {
+          "word": " them",
+          "start": 82.5,
+          "end": 82.68,
+          "probability": 0.9995741248130798
+        },
+        {
+          "word": " political",
+          "start": 82.68,
+          "end": 82.96,
+          "probability": 0.9968110918998718
+        },
+        {
+          "word": " prisoners.",
+          "start": 82.96,
+          "end": 83.36,
+          "probability": 0.9998716115951538
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 7368,
+      "start": 83.62,
+      "end": 86.14,
+      "text": " I think of the many whose names have been lost to time,",
+      "tokens": [
+        50865,
+        286,
+        519,
+        295,
+        264,
+        867,
+        6104,
+        5288,
+        362,
+        668,
+        2731,
+        281,
+        565,
+        11,
+        51003
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18259848557509384,
+      "compression_ratio": 1.570048309178744,
+      "no_speech_prob": 2.7832293761353988e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 83.62,
+          "end": 84.04,
+          "probability": 0.9997943043708801
+        },
+        {
+          "word": " think",
+          "start": 84.04,
+          "end": 84.14,
+          "probability": 0.9999505281448364
+        },
+        {
+          "word": " of",
+          "start": 84.14,
+          "end": 84.24,
+          "probability": 0.9995438456535339
+        },
+        {
+          "word": " the",
+          "start": 84.24,
+          "end": 84.32,
+          "probability": 0.997168242931366
+        },
+        {
+          "word": " many",
+          "start": 84.32,
+          "end": 84.52,
+          "probability": 0.9996945858001709
+        },
+        {
+          "word": " whose",
+          "start": 84.52,
+          "end": 84.74,
+          "probability": 0.9989562034606934
+        },
+        {
+          "word": " names",
+          "start": 84.74,
+          "end": 85.06,
+          "probability": 0.999271810054779
+        },
+        {
+          "word": " have",
+          "start": 85.06,
+          "end": 85.26,
+          "probability": 0.9980536699295044
+        },
+        {
+          "word": " been",
+          "start": 85.26,
+          "end": 85.36,
+          "probability": 0.9994675517082214
+        },
+        {
+          "word": " lost",
+          "start": 85.36,
+          "end": 85.66,
+          "probability": 0.999514102935791
+        },
+        {
+          "word": " to",
+          "start": 85.66,
+          "end": 85.86,
+          "probability": 0.9920916557312012
+        },
+        {
+          "word": " time,",
+          "start": 85.86,
+          "end": 86.14,
+          "probability": 0.9960635304450989
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 7368,
+      "start": 86.34,
+      "end": 89.88,
+      "text": " who perished from a famine exacerbated by imperial callousness.",
+      "tokens": [
+        51003,
+        567,
+        680,
+        4729,
+        490,
+        257,
+        42790,
+        38819,
+        770,
+        538,
+        21143,
+        818,
+        563,
+        1287,
+        13,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18259848557509384,
+      "compression_ratio": 1.570048309178744,
+      "no_speech_prob": 2.7832293761353988e-12,
+      "words": [
+        {
+          "word": " who",
+          "start": 86.34,
+          "end": 86.9,
+          "probability": 0.9991793036460876
+        },
+        {
+          "word": " perished",
+          "start": 86.9,
+          "end": 87.24,
+          "probability": 0.8792566955089569
+        },
+        {
+          "word": " from",
+          "start": 87.24,
+          "end": 87.38,
+          "probability": 0.9998718500137329
+        },
+        {
+          "word": " a",
+          "start": 87.38,
+          "end": 87.48,
+          "probability": 0.9996935129165649
+        },
+        {
+          "word": " famine",
+          "start": 87.48,
+          "end": 87.78,
+          "probability": 0.9999200105667114
+        },
+        {
+          "word": " exacerbated",
+          "start": 87.78,
+          "end": 88.56,
+          "probability": 0.9998887181282043
+        },
+        {
+          "word": " by",
+          "start": 88.56,
+          "end": 88.82,
+          "probability": 0.9999524354934692
+        },
+        {
+          "word": " imperial",
+          "start": 88.82,
+          "end": 89.26,
+          "probability": 0.9804185032844543
+        },
+        {
+          "word": " callousness.",
+          "start": 89.26,
+          "end": 89.88,
+          "probability": 0.9982375502586365
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 8988,
+      "start": 89.88,
+      "end": 94.4,
+      "text": " And I think of the discrimination Irish New Yorkers faced when they first came to these shores.",
+      "tokens": [
+        50365,
+        400,
+        286,
+        519,
+        295,
+        264,
+        15973,
+        16801,
+        1873,
+        3609,
+        433,
+        11446,
+        562,
+        436,
+        700,
+        1361,
+        281,
+        613,
+        44247,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10707749759449678,
+      "compression_ratio": 1.509009009009009,
+      "no_speech_prob": 2.794142521522769e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 89.88,
+          "end": 90.22,
+          "probability": 0.7130498886108398
+        },
+        {
+          "word": " I",
+          "start": 90.22,
+          "end": 90.32,
+          "probability": 0.9854710102081299
+        },
+        {
+          "word": " think",
+          "start": 90.32,
+          "end": 90.5,
+          "probability": 0.9978622794151306
+        },
+        {
+          "word": " of",
+          "start": 90.5,
+          "end": 90.64,
+          "probability": 0.9951615929603577
+        },
+        {
+          "word": " the",
+          "start": 90.64,
+          "end": 90.74,
+          "probability": 0.9961026906967163
+        },
+        {
+          "word": " discrimination",
+          "start": 90.74,
+          "end": 91.26,
+          "probability": 0.9972208738327026
+        },
+        {
+          "word": " Irish",
+          "start": 91.26,
+          "end": 91.66,
+          "probability": 0.997653067111969
+        },
+        {
+          "word": " New",
+          "start": 91.66,
+          "end": 91.82,
+          "probability": 0.9959331154823303
+        },
+        {
+          "word": " Yorkers",
+          "start": 91.82,
+          "end": 92.1,
+          "probability": 0.9961979687213898
+        },
+        {
+          "word": " faced",
+          "start": 92.1,
+          "end": 92.42,
+          "probability": 0.9970593452453613
+        },
+        {
+          "word": " when",
+          "start": 92.42,
+          "end": 92.96,
+          "probability": 0.9900704026222229
+        },
+        {
+          "word": " they",
+          "start": 92.96,
+          "end": 93.1,
+          "probability": 0.9945923686027527
+        },
+        {
+          "word": " first",
+          "start": 93.1,
+          "end": 93.46,
+          "probability": 0.9974876642227173
+        },
+        {
+          "word": " came",
+          "start": 93.46,
+          "end": 93.84,
+          "probability": 0.9986428618431091
+        },
+        {
+          "word": " to",
+          "start": 93.84,
+          "end": 93.96,
+          "probability": 0.998815655708313
+        },
+        {
+          "word": " these",
+          "start": 93.96,
+          "end": 94.14,
+          "probability": 0.9969257712364197
+        },
+        {
+          "word": " shores.",
+          "start": 94.14,
+          "end": 94.4,
+          "probability": 0.9968576431274414
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 8988,
+      "start": 94.68,
+      "end": 96.6,
+      "text": " They were barred from employment and housing.",
+      "tokens": [
+        50615,
+        814,
+        645,
+        2159,
+        986,
+        490,
+        11949,
+        293,
+        6849,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10707749759449678,
+      "compression_ratio": 1.509009009009009,
+      "no_speech_prob": 2.794142521522769e-12,
+      "words": [
+        {
+          "word": " They",
+          "start": 94.68,
+          "end": 95.06,
+          "probability": 0.9900875687599182
+        },
+        {
+          "word": " were",
+          "start": 95.06,
+          "end": 95.18,
+          "probability": 0.9995098114013672
+        },
+        {
+          "word": " barred",
+          "start": 95.18,
+          "end": 95.54,
+          "probability": 0.9984478056430817
+        },
+        {
+          "word": " from",
+          "start": 95.54,
+          "end": 95.68,
+          "probability": 0.9995036125183105
+        },
+        {
+          "word": " employment",
+          "start": 95.68,
+          "end": 96.08,
+          "probability": 0.9951423406600952
+        },
+        {
+          "word": " and",
+          "start": 96.08,
+          "end": 96.26,
+          "probability": 0.9980382323265076
+        },
+        {
+          "word": " housing.",
+          "start": 96.26,
+          "end": 96.6,
+          "probability": 0.9995344877243042
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 8988,
+      "start": 97.16,
+      "end": 99.1,
+      "text": " Signs plastered across storefronts read,",
+      "tokens": [
+        50715,
+        13515,
+        82,
+        34467,
+        292,
+        2108,
+        3531,
+        11496,
+        82,
+        1401,
+        11,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10707749759449678,
+      "compression_ratio": 1.509009009009009,
+      "no_speech_prob": 2.794142521522769e-12,
+      "words": [
+        {
+          "word": " Signs",
+          "start": 97.16,
+          "end": 97.52,
+          "probability": 0.9984730184078217
+        },
+        {
+          "word": " plastered",
+          "start": 97.52,
+          "end": 98.06,
+          "probability": 0.9997314810752869
+        },
+        {
+          "word": " across",
+          "start": 98.06,
+          "end": 98.26,
+          "probability": 0.9988601207733154
+        },
+        {
+          "word": " storefronts",
+          "start": 98.26,
+          "end": 98.88,
+          "probability": 0.9943551222483317
+        },
+        {
+          "word": " read,",
+          "start": 98.88,
+          "end": 99.1,
+          "probability": 0.9888808727264404
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "seek": 8988,
+      "start": 99.36,
+      "end": 101.42,
+      "text": " Help Wanted. No Irish Need Apply.",
+      "tokens": [
+        50815,
+        10773,
+        11773,
+        292,
+        13,
+        883,
+        16801,
+        16984,
+        25264,
+        13,
+        50953
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10707749759449678,
+      "compression_ratio": 1.509009009009009,
+      "no_speech_prob": 2.794142521522769e-12,
+      "words": [
+        {
+          "word": " Help",
+          "start": 99.36,
+          "end": 99.64,
+          "probability": 0.5168113708496094
+        },
+        {
+          "word": " Wanted.",
+          "start": 99.64,
+          "end": 100.1,
+          "probability": 0.9284228980541229
+        },
+        {
+          "word": " No",
+          "start": 100.28,
+          "end": 100.6,
+          "probability": 0.9995112419128418
+        },
+        {
+          "word": " Irish",
+          "start": 100.6,
+          "end": 100.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " Need",
+          "start": 100.96,
+          "end": 101.14,
+          "probability": 0.9014046788215637
+        },
+        {
+          "word": " Apply.",
+          "start": 101.14,
+          "end": 101.42,
+          "probability": 0.9843828082084656
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 8988,
+      "start": 101.66,
+      "end": 103.5,
+      "text": " They did not grow discouraged, however.",
+      "tokens": [
+        50953,
+        814,
+        630,
+        406,
+        1852,
+        35010,
+        11,
+        4461,
+        13,
+        51053
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10707749759449678,
+      "compression_ratio": 1.509009009009009,
+      "no_speech_prob": 2.794142521522769e-12,
+      "words": [
+        {
+          "word": " They",
+          "start": 101.66,
+          "end": 102.06,
+          "probability": 0.9993205070495605
+        },
+        {
+          "word": " did",
+          "start": 102.06,
+          "end": 102.16,
+          "probability": 0.9998462200164795
+        },
+        {
+          "word": " not",
+          "start": 102.16,
+          "end": 102.32,
+          "probability": 0.999957799911499
+        },
+        {
+          "word": " grow",
+          "start": 102.32,
+          "end": 102.58,
+          "probability": 0.9998773336410522
+        },
+        {
+          "word": " discouraged,",
+          "start": 102.58,
+          "end": 103.18,
+          "probability": 0.9995157718658447
+        },
+        {
+          "word": " however.",
+          "start": 103.28,
+          "end": 103.5,
+          "probability": 0.9999343156814575
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 8988,
+      "start": 103.98,
+      "end": 107.88,
+      "text": " They organized, mobilized, and formed labor movements that endure to this day.",
+      "tokens": [
+        51053,
+        814,
+        9983,
+        11,
+        15891,
+        1602,
+        11,
+        293,
+        8693,
+        5938,
+        9981,
+        300,
+        24732,
+        281,
+        341,
+        786,
+        13,
+        51265
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10707749759449678,
+      "compression_ratio": 1.509009009009009,
+      "no_speech_prob": 2.794142521522769e-12,
+      "words": [
+        {
+          "word": " They",
+          "start": 103.98,
+          "end": 104.24,
+          "probability": 0.9998214840888977
+        },
+        {
+          "word": " organized,",
+          "start": 104.24,
+          "end": 104.6,
+          "probability": 0.9984076619148254
+        },
+        {
+          "word": " mobilized,",
+          "start": 105.02,
+          "end": 105.64,
+          "probability": 0.9998076260089874
+        },
+        {
+          "word": " and",
+          "start": 105.72,
+          "end": 105.84,
+          "probability": 0.9950628876686096
+        },
+        {
+          "word": " formed",
+          "start": 105.84,
+          "end": 106.06,
+          "probability": 0.9998266100883484
+        },
+        {
+          "word": " labor",
+          "start": 106.06,
+          "end": 106.32,
+          "probability": 0.992064893245697
+        },
+        {
+          "word": " movements",
+          "start": 106.32,
+          "end": 106.66,
+          "probability": 0.9998407363891602
+        },
+        {
+          "word": " that",
+          "start": 106.66,
+          "end": 106.84,
+          "probability": 0.9999834299087524
+        },
+        {
+          "word": " endure",
+          "start": 106.84,
+          "end": 107.16,
+          "probability": 0.999797523021698
+        },
+        {
+          "word": " to",
+          "start": 107.16,
+          "end": 107.38,
+          "probability": 0.9998393058776855
+        },
+        {
+          "word": " this",
+          "start": 107.38,
+          "end": 107.6,
+          "probability": 0.999769389629364
+        },
+        {
+          "word": " day.",
+          "start": 107.6,
+          "end": 107.88,
+          "probability": 0.9999392032623291
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "seek": 10788,
+      "start": 107.88,
+      "end": 111.68,
+      "text": " It was Irish hands that helped build so much of the city we recognize today.",
+      "tokens": [
+        50365,
+        467,
+        390,
+        16801,
+        2377,
+        300,
+        4254,
+        1322,
+        370,
+        709,
+        295,
+        264,
+        2307,
+        321,
+        5521,
+        965,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 107.88,
+          "end": 108.42,
+          "probability": 0.7672832608222961
+        },
+        {
+          "word": " was",
+          "start": 108.42,
+          "end": 108.56,
+          "probability": 0.9961791038513184
+        },
+        {
+          "word": " Irish",
+          "start": 108.56,
+          "end": 108.9,
+          "probability": 0.9841400384902954
+        },
+        {
+          "word": " hands",
+          "start": 108.9,
+          "end": 109.22,
+          "probability": 0.9908655285835266
+        },
+        {
+          "word": " that",
+          "start": 109.22,
+          "end": 109.4,
+          "probability": 0.9943369030952454
+        },
+        {
+          "word": " helped",
+          "start": 109.4,
+          "end": 109.62,
+          "probability": 0.992957353591919
+        },
+        {
+          "word": " build",
+          "start": 109.62,
+          "end": 109.84,
+          "probability": 0.9930873513221741
+        },
+        {
+          "word": " so",
+          "start": 109.84,
+          "end": 110.12,
+          "probability": 0.9937730431556702
+        },
+        {
+          "word": " much",
+          "start": 110.12,
+          "end": 110.38,
+          "probability": 0.9995135068893433
+        },
+        {
+          "word": " of",
+          "start": 110.38,
+          "end": 110.56,
+          "probability": 0.9954283237457275
+        },
+        {
+          "word": " the",
+          "start": 110.56,
+          "end": 110.66,
+          "probability": 0.9980189800262451
+        },
+        {
+          "word": " city",
+          "start": 110.66,
+          "end": 110.84,
+          "probability": 0.9952155351638794
+        },
+        {
+          "word": " we",
+          "start": 110.84,
+          "end": 110.98,
+          "probability": 0.9781635999679565
+        },
+        {
+          "word": " recognize",
+          "start": 110.98,
+          "end": 111.32,
+          "probability": 0.9938129186630249
+        },
+        {
+          "word": " today.",
+          "start": 111.32,
+          "end": 111.68,
+          "probability": 0.9978041052818298
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 10788,
+      "start": 111.98,
+      "end": 113.7,
+      "text": " The skyscrapers that pierced clouds.",
+      "tokens": [
+        50565,
+        440,
+        48227,
+        66,
+        4007,
+        433,
+        300,
+        9766,
+        1232,
+        12193,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 111.98,
+          "end": 112.2,
+          "probability": 0.9899896383285522
+        },
+        {
+          "word": " skyscrapers",
+          "start": 112.2,
+          "end": 112.88,
+          "probability": 0.9983024150133133
+        },
+        {
+          "word": " that",
+          "start": 112.88,
+          "end": 113.02,
+          "probability": 0.9944426417350769
+        },
+        {
+          "word": " pierced",
+          "start": 113.02,
+          "end": 113.28,
+          "probability": 0.7532835006713867
+        },
+        {
+          "word": " clouds.",
+          "start": 113.28,
+          "end": 113.7,
+          "probability": 0.9974472522735596
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "seek": 10788,
+      "start": 114.14,
+      "end": 115.6,
+      "text": " The tunnels carved through bedrock.",
+      "tokens": [
+        50665,
+        440,
+        30804,
+        28613,
+        807,
+        2901,
+        17799,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 114.14,
+          "end": 114.36,
+          "probability": 0.9915114045143127
+        },
+        {
+          "word": " tunnels",
+          "start": 114.36,
+          "end": 114.64,
+          "probability": 0.9953563809394836
+        },
+        {
+          "word": " carved",
+          "start": 114.64,
+          "end": 115.0,
+          "probability": 0.9943689703941345
+        },
+        {
+          "word": " through",
+          "start": 115.0,
+          "end": 115.2,
+          "probability": 0.9957376718521118
+        },
+        {
+          "word": " bedrock.",
+          "start": 115.2,
+          "end": 115.6,
+          "probability": 0.9961752593517303
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "seek": 10788,
+      "start": 115.88,
+      "end": 118.46,
+      "text": " If solidarity has so often been withheld from the Irish,",
+      "tokens": [
+        50765,
+        759,
+        27220,
+        575,
+        370,
+        2049,
+        668,
+        365,
+        23504,
+        490,
+        264,
+        16801,
+        11,
+        50915
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " If",
+          "start": 115.88,
+          "end": 116.26,
+          "probability": 0.9954858422279358
+        },
+        {
+          "word": " solidarity",
+          "start": 116.26,
+          "end": 116.66,
+          "probability": 0.9523751735687256
+        },
+        {
+          "word": " has",
+          "start": 116.66,
+          "end": 116.88,
+          "probability": 0.9863533973693848
+        },
+        {
+          "word": " so",
+          "start": 116.88,
+          "end": 117.02,
+          "probability": 0.9929937720298767
+        },
+        {
+          "word": " often",
+          "start": 117.02,
+          "end": 117.28,
+          "probability": 0.9988253712654114
+        },
+        {
+          "word": " been",
+          "start": 117.28,
+          "end": 117.42,
+          "probability": 0.9962798953056335
+        },
+        {
+          "word": " withheld",
+          "start": 117.42,
+          "end": 117.78,
+          "probability": 0.999580055475235
+        },
+        {
+          "word": " from",
+          "start": 117.78,
+          "end": 118.06,
+          "probability": 0.9962129592895508
+        },
+        {
+          "word": " the",
+          "start": 118.06,
+          "end": 118.2,
+          "probability": 0.9982684850692749
+        },
+        {
+          "word": " Irish,",
+          "start": 118.2,
+          "end": 118.46,
+          "probability": 0.9990978240966797
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "seek": 10788,
+      "start": 118.72,
+      "end": 120.72,
+      "text": " it has never been withheld by the Irish.",
+      "tokens": [
+        50915,
+        309,
+        575,
+        1128,
+        668,
+        365,
+        23504,
+        538,
+        264,
+        16801,
+        13,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " it",
+          "start": 118.72,
+          "end": 119.12,
+          "probability": 0.976552426815033
+        },
+        {
+          "word": " has",
+          "start": 119.12,
+          "end": 119.24,
+          "probability": 0.9940979480743408
+        },
+        {
+          "word": " never",
+          "start": 119.24,
+          "end": 119.4,
+          "probability": 0.9987003803253174
+        },
+        {
+          "word": " been",
+          "start": 119.4,
+          "end": 119.56,
+          "probability": 0.9989450573921204
+        },
+        {
+          "word": " withheld",
+          "start": 119.56,
+          "end": 119.92,
+          "probability": 0.9989577233791351
+        },
+        {
+          "word": " by",
+          "start": 119.92,
+          "end": 120.26,
+          "probability": 0.9864720106124878
+        },
+        {
+          "word": " the",
+          "start": 120.26,
+          "end": 120.42,
+          "probability": 0.998594343662262
+        },
+        {
+          "word": " Irish.",
+          "start": 120.42,
+          "end": 120.72,
+          "probability": 0.9996123909950256
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 10788,
+      "start": 121.18,
+      "end": 123.66,
+      "text": " An Irish diplomat named Roger Casement",
+      "tokens": [
+        51015,
+        1107,
+        16801,
+        20053,
+        267,
+        4926,
+        17666,
+        16100,
+        1712,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " An",
+          "start": 121.18,
+          "end": 121.42,
+          "probability": 0.9925450682640076
+        },
+        {
+          "word": " Irish",
+          "start": 121.42,
+          "end": 121.68,
+          "probability": 0.9996386766433716
+        },
+        {
+          "word": " diplomat",
+          "start": 121.68,
+          "end": 122.24,
+          "probability": 0.9958393275737762
+        },
+        {
+          "word": " named",
+          "start": 122.24,
+          "end": 122.74,
+          "probability": 0.9390357136726379
+        },
+        {
+          "word": " Roger",
+          "start": 122.74,
+          "end": 123.16,
+          "probability": 0.9912990927696228
+        },
+        {
+          "word": " Casement",
+          "start": 123.16,
+          "end": 123.66,
+          "probability": 0.904994547367096
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 10788,
+      "start": 123.66,
+      "end": 128.78,
+      "text": " helped to expose the barbarism of Belgian King Leopold II in the Congo Free State.",
+      "tokens": [
+        51165,
+        4254,
+        281,
+        19219,
+        264,
+        35822,
+        1434,
+        295,
+        47127,
+        3819,
+        1456,
+        404,
+        2641,
+        6351,
+        294,
+        264,
+        42839,
+        11551,
+        4533,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " helped",
+          "start": 123.66,
+          "end": 124.34,
+          "probability": 0.9578908085823059
+        },
+        {
+          "word": " to",
+          "start": 124.34,
+          "end": 124.48,
+          "probability": 0.9907094240188599
+        },
+        {
+          "word": " expose",
+          "start": 124.48,
+          "end": 124.84,
+          "probability": 0.99852055311203
+        },
+        {
+          "word": " the",
+          "start": 124.84,
+          "end": 125.0,
+          "probability": 0.9983933568000793
+        },
+        {
+          "word": " barbarism",
+          "start": 125.0,
+          "end": 125.64,
+          "probability": 0.9946907460689545
+        },
+        {
+          "word": " of",
+          "start": 125.64,
+          "end": 125.96,
+          "probability": 0.9985491633415222
+        },
+        {
+          "word": " Belgian",
+          "start": 125.96,
+          "end": 126.32,
+          "probability": 0.9813134670257568
+        },
+        {
+          "word": " King",
+          "start": 126.32,
+          "end": 126.52,
+          "probability": 0.915779173374176
+        },
+        {
+          "word": " Leopold",
+          "start": 126.52,
+          "end": 127.02,
+          "probability": 0.9982380072275797
+        },
+        {
+          "word": " II",
+          "start": 127.02,
+          "end": 127.3,
+          "probability": 0.9298402667045593
+        },
+        {
+          "word": " in",
+          "start": 127.3,
+          "end": 127.94,
+          "probability": 0.9777444005012512
+        },
+        {
+          "word": " the",
+          "start": 127.94,
+          "end": 128.02,
+          "probability": 0.9974581599235535
+        },
+        {
+          "word": " Congo",
+          "start": 128.02,
+          "end": 128.3,
+          "probability": 0.9970248341560364
+        },
+        {
+          "word": " Free",
+          "start": 128.3,
+          "end": 128.52,
+          "probability": 0.9542843699455261
+        },
+        {
+          "word": " State.",
+          "start": 128.52,
+          "end": 128.78,
+          "probability": 0.9697961807250977
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 10788,
+      "start": 129.06,
+      "end": 132.9,
+      "text": " After Dublin supermarket workers went on a three-year strike to protest apartheid,",
+      "tokens": [
+        51415,
+        2381,
+        42323,
+        25180,
+        5600,
+        1437,
+        322,
+        257,
+        1045,
+        12,
+        5294,
+        9302,
+        281,
+        11281,
+        34115,
+        3322,
+        327,
+        11,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " After",
+          "start": 129.06,
+          "end": 129.42,
+          "probability": 0.9970126152038574
+        },
+        {
+          "word": " Dublin",
+          "start": 129.42,
+          "end": 129.74,
+          "probability": 0.995347797870636
+        },
+        {
+          "word": " supermarket",
+          "start": 129.74,
+          "end": 130.18,
+          "probability": 0.9530336856842041
+        },
+        {
+          "word": " workers",
+          "start": 130.18,
+          "end": 130.6,
+          "probability": 0.9989564418792725
+        },
+        {
+          "word": " went",
+          "start": 130.6,
+          "end": 130.8,
+          "probability": 0.9989032745361328
+        },
+        {
+          "word": " on",
+          "start": 130.8,
+          "end": 130.88,
+          "probability": 0.9993672966957092
+        },
+        {
+          "word": " a",
+          "start": 130.88,
+          "end": 131.0,
+          "probability": 0.9957419037818909
+        },
+        {
+          "word": " three",
+          "start": 131.0,
+          "end": 131.24,
+          "probability": 0.9404333233833313
+        },
+        {
+          "word": "-year",
+          "start": 131.24,
+          "end": 131.5,
+          "probability": 0.9344761967658997
+        },
+        {
+          "word": " strike",
+          "start": 131.5,
+          "end": 131.82,
+          "probability": 0.9969102740287781
+        },
+        {
+          "word": " to",
+          "start": 131.82,
+          "end": 132.04,
+          "probability": 0.997688889503479
+        },
+        {
+          "word": " protest",
+          "start": 132.04,
+          "end": 132.34,
+          "probability": 0.9986433386802673
+        },
+        {
+          "word": " apartheid,",
+          "start": 132.34,
+          "end": 132.9,
+          "probability": 0.9891350865364075
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "seek": 10788,
+      "start": 133.08,
+      "end": 135.78,
+      "text": " the Irish government banned the import of South African goods.",
+      "tokens": [
+        51615,
+        264,
+        16801,
+        2463,
+        19564,
+        264,
+        974,
+        295,
+        4242,
+        7312,
+        10179,
+        13,
+        51765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.05618501076331506,
+      "compression_ratio": 1.619496855345912,
+      "no_speech_prob": 2.6047345703938962e-12,
+      "words": [
+        {
+          "word": " the",
+          "start": 133.08,
+          "end": 133.4,
+          "probability": 0.9947879314422607
+        },
+        {
+          "word": " Irish",
+          "start": 133.4,
+          "end": 133.68,
+          "probability": 0.9986557960510254
+        },
+        {
+          "word": " government",
+          "start": 133.68,
+          "end": 134.02,
+          "probability": 0.986659049987793
+        },
+        {
+          "word": " banned",
+          "start": 134.02,
+          "end": 134.4,
+          "probability": 0.9980260729789734
+        },
+        {
+          "word": " the",
+          "start": 134.4,
+          "end": 134.58,
+          "probability": 0.9982014894485474
+        },
+        {
+          "word": " import",
+          "start": 134.58,
+          "end": 134.86,
+          "probability": 0.9958413243293762
+        },
+        {
+          "word": " of",
+          "start": 134.86,
+          "end": 135.02,
+          "probability": 0.9993311166763306
+        },
+        {
+          "word": " South",
+          "start": 135.02,
+          "end": 135.16,
+          "probability": 0.9955387711524963
+        },
+        {
+          "word": " African",
+          "start": 135.16,
+          "end": 135.48,
+          "probability": 0.996845543384552
+        },
+        {
+          "word": " goods.",
+          "start": 135.48,
+          "end": 135.78,
+          "probability": 0.990313708782196
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 13578,
+      "start": 135.78,
+      "end": 138.56,
+      "text": " The first complete ban by a Western government.",
+      "tokens": [
+        50365,
+        440,
+        700,
+        3566,
+        5643,
+        538,
+        257,
+        8724,
+        2463,
+        13,
+        50515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 135.78,
+          "end": 136.38,
+          "probability": 0.08410888910293579
+        },
+        {
+          "word": " first",
+          "start": 136.38,
+          "end": 136.68,
+          "probability": 0.9940271377563477
+        },
+        {
+          "word": " complete",
+          "start": 136.68,
+          "end": 137.12,
+          "probability": 0.9965016841888428
+        },
+        {
+          "word": " ban",
+          "start": 137.12,
+          "end": 137.44,
+          "probability": 0.9901708960533142
+        },
+        {
+          "word": " by",
+          "start": 137.44,
+          "end": 137.86,
+          "probability": 0.9932191967964172
+        },
+        {
+          "word": " a",
+          "start": 137.86,
+          "end": 137.98,
+          "probability": 0.9851962327957153
+        },
+        {
+          "word": " Western",
+          "start": 137.98,
+          "end": 138.18,
+          "probability": 0.8488171100616455
+        },
+        {
+          "word": " government.",
+          "start": 138.18,
+          "end": 138.56,
+          "probability": 0.9757025837898254
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 13578,
+      "start": 138.88,
+      "end": 144.32,
+      "text": " And in 1980, Ireland was the first EEC nation to call for a Palestinian state.",
+      "tokens": [
+        50515,
+        400,
+        294,
+        13626,
+        11,
+        15880,
+        390,
+        264,
+        700,
+        462,
+        8140,
+        4790,
+        281,
+        818,
+        337,
+        257,
+        28202,
+        1785,
+        13,
+        50815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 138.88,
+          "end": 139.28,
+          "probability": 0.9926106333732605
+        },
+        {
+          "word": " in",
+          "start": 139.28,
+          "end": 139.4,
+          "probability": 0.9935795068740845
+        },
+        {
+          "word": " 1980,",
+          "start": 139.4,
+          "end": 140.0,
+          "probability": 0.9974629878997803
+        },
+        {
+          "word": " Ireland",
+          "start": 140.54,
+          "end": 140.8,
+          "probability": 0.9989995360374451
+        },
+        {
+          "word": " was",
+          "start": 140.8,
+          "end": 141.02,
+          "probability": 0.999674916267395
+        },
+        {
+          "word": " the",
+          "start": 141.02,
+          "end": 141.16,
+          "probability": 0.9989846348762512
+        },
+        {
+          "word": " first",
+          "start": 141.16,
+          "end": 141.52,
+          "probability": 0.9992007613182068
+        },
+        {
+          "word": " EEC",
+          "start": 141.52,
+          "end": 142.14,
+          "probability": 0.9943403601646423
+        },
+        {
+          "word": " nation",
+          "start": 142.14,
+          "end": 142.58,
+          "probability": 0.9875941872596741
+        },
+        {
+          "word": " to",
+          "start": 142.58,
+          "end": 143.06,
+          "probability": 0.9979236125946045
+        },
+        {
+          "word": " call",
+          "start": 143.06,
+          "end": 143.26,
+          "probability": 0.9991330504417419
+        },
+        {
+          "word": " for",
+          "start": 143.26,
+          "end": 143.42,
+          "probability": 0.9994657635688782
+        },
+        {
+          "word": " a",
+          "start": 143.42,
+          "end": 143.5,
+          "probability": 0.9990185499191284
+        },
+        {
+          "word": " Palestinian",
+          "start": 143.5,
+          "end": 143.94,
+          "probability": 0.9985231757164001
+        },
+        {
+          "word": " state.",
+          "start": 143.94,
+          "end": 144.32,
+          "probability": 0.9953807592391968
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "seek": 13578,
+      "start": 144.64,
+      "end": 148.1,
+      "text": " For years afterwards, Irish leaders like former President Mary Robinson",
+      "tokens": [
+        50815,
+        1171,
+        924,
+        10543,
+        11,
+        16801,
+        3523,
+        411,
+        5819,
+        3117,
+        6059,
+        25105,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " For",
+          "start": 144.64,
+          "end": 144.98,
+          "probability": 0.9985464215278625
+        },
+        {
+          "word": " years",
+          "start": 144.98,
+          "end": 145.32,
+          "probability": 0.9998875856399536
+        },
+        {
+          "word": " afterwards,",
+          "start": 145.32,
+          "end": 145.72,
+          "probability": 0.9728022217750549
+        },
+        {
+          "word": " Irish",
+          "start": 146.06,
+          "end": 146.26,
+          "probability": 0.9994558691978455
+        },
+        {
+          "word": " leaders",
+          "start": 146.26,
+          "end": 146.58,
+          "probability": 0.9999067783355713
+        },
+        {
+          "word": " like",
+          "start": 146.58,
+          "end": 146.78,
+          "probability": 0.9739490747451782
+        },
+        {
+          "word": " former",
+          "start": 146.78,
+          "end": 147.06,
+          "probability": 0.9988279938697815
+        },
+        {
+          "word": " President",
+          "start": 147.06,
+          "end": 147.4,
+          "probability": 0.9082199335098267
+        },
+        {
+          "word": " Mary",
+          "start": 147.4,
+          "end": 147.64,
+          "probability": 0.9922665953636169
+        },
+        {
+          "word": " Robinson",
+          "start": 147.64,
+          "end": 148.1,
+          "probability": 0.9987427592277527
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 13578,
+      "start": 148.1,
+      "end": 150.74,
+      "text": " stood steadfast in their support for Palestinian freedom.",
+      "tokens": [
+        50965,
+        9371,
+        23721,
+        7011,
+        294,
+        641,
+        1406,
+        337,
+        28202,
+        5645,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " stood",
+          "start": 148.1,
+          "end": 148.76,
+          "probability": 0.979120135307312
+        },
+        {
+          "word": " steadfast",
+          "start": 148.76,
+          "end": 149.34,
+          "probability": 0.9997653365135193
+        },
+        {
+          "word": " in",
+          "start": 149.34,
+          "end": 149.5,
+          "probability": 0.9990686774253845
+        },
+        {
+          "word": " their",
+          "start": 149.5,
+          "end": 149.6,
+          "probability": 0.9995623230934143
+        },
+        {
+          "word": " support",
+          "start": 149.6,
+          "end": 149.88,
+          "probability": 0.999609649181366
+        },
+        {
+          "word": " for",
+          "start": 149.88,
+          "end": 150.04,
+          "probability": 0.9975010752677917
+        },
+        {
+          "word": " Palestinian",
+          "start": 150.04,
+          "end": 150.44,
+          "probability": 0.9986363053321838
+        },
+        {
+          "word": " freedom.",
+          "start": 150.44,
+          "end": 150.74,
+          "probability": 0.9970351457595825
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "seek": 13578,
+      "start": 151.46,
+      "end": 153.26,
+      "text": " Today, as we celebrate St. Patrick's Day,",
+      "tokens": [
+        51115,
+        2692,
+        11,
+        382,
+        321,
+        8098,
+        745,
+        13,
+        13980,
+        311,
+        5226,
+        11,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " Today,",
+          "start": 151.46,
+          "end": 151.8,
+          "probability": 0.9991745352745056
+        },
+        {
+          "word": " as",
+          "start": 151.94,
+          "end": 152.02,
+          "probability": 0.9998624324798584
+        },
+        {
+          "word": " we",
+          "start": 152.02,
+          "end": 152.12,
+          "probability": 0.9999833106994629
+        },
+        {
+          "word": " celebrate",
+          "start": 152.12,
+          "end": 152.5,
+          "probability": 0.9999269247055054
+        },
+        {
+          "word": " St.",
+          "start": 152.5,
+          "end": 152.7,
+          "probability": 0.9765028953552246
+        },
+        {
+          "word": " Patrick's",
+          "start": 152.8,
+          "end": 153.12,
+          "probability": 0.9993361830711365
+        },
+        {
+          "word": " Day,",
+          "start": 153.12,
+          "end": 153.26,
+          "probability": 0.998984158039093
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "seek": 13578,
+      "start": 153.46,
+      "end": 156.96,
+      "text": " I know there are many who feel a continued obligation to one another,",
+      "tokens": [
+        51215,
+        286,
+        458,
+        456,
+        366,
+        867,
+        567,
+        841,
+        257,
+        7014,
+        20326,
+        281,
+        472,
+        1071,
+        11,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 153.46,
+          "end": 153.82,
+          "probability": 0.999731719493866
+        },
+        {
+          "word": " know",
+          "start": 153.82,
+          "end": 153.92,
+          "probability": 0.9999580383300781
+        },
+        {
+          "word": " there",
+          "start": 153.92,
+          "end": 154.04,
+          "probability": 0.9982821941375732
+        },
+        {
+          "word": " are",
+          "start": 154.04,
+          "end": 154.16,
+          "probability": 0.9999121427536011
+        },
+        {
+          "word": " many",
+          "start": 154.16,
+          "end": 154.44,
+          "probability": 0.9999270439147949
+        },
+        {
+          "word": " who",
+          "start": 154.44,
+          "end": 154.62,
+          "probability": 0.999722421169281
+        },
+        {
+          "word": " feel",
+          "start": 154.62,
+          "end": 154.82,
+          "probability": 0.9996417760848999
+        },
+        {
+          "word": " a",
+          "start": 154.82,
+          "end": 154.92,
+          "probability": 0.9998118281364441
+        },
+        {
+          "word": " continued",
+          "start": 154.92,
+          "end": 155.32,
+          "probability": 0.9997633099555969
+        },
+        {
+          "word": " obligation",
+          "start": 155.32,
+          "end": 155.86,
+          "probability": 0.999863862991333
+        },
+        {
+          "word": " to",
+          "start": 155.86,
+          "end": 156.58,
+          "probability": 0.7013129591941833
+        },
+        {
+          "word": " one",
+          "start": 156.58,
+          "end": 156.7,
+          "probability": 0.9998438358306885
+        },
+        {
+          "word": " another,",
+          "start": 156.7,
+          "end": 156.96,
+          "probability": 0.9998251795768738
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "seek": 13578,
+      "start": 157.22,
+      "end": 160.48,
+      "text": " to a world where justice does not feel so often like the exception,",
+      "tokens": [
+        51415,
+        281,
+        257,
+        1002,
+        689,
+        6118,
+        775,
+        406,
+        841,
+        370,
+        2049,
+        411,
+        264,
+        11183,
+        11,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " to",
+          "start": 157.22,
+          "end": 157.54,
+          "probability": 0.9989320635795593
+        },
+        {
+          "word": " a",
+          "start": 157.54,
+          "end": 157.66,
+          "probability": 0.9997702240943909
+        },
+        {
+          "word": " world",
+          "start": 157.66,
+          "end": 157.92,
+          "probability": 0.9997054934501648
+        },
+        {
+          "word": " where",
+          "start": 157.92,
+          "end": 158.12,
+          "probability": 0.9998530149459839
+        },
+        {
+          "word": " justice",
+          "start": 158.12,
+          "end": 158.5,
+          "probability": 0.9995594620704651
+        },
+        {
+          "word": " does",
+          "start": 158.5,
+          "end": 158.72,
+          "probability": 0.9994686245918274
+        },
+        {
+          "word": " not",
+          "start": 158.72,
+          "end": 158.9,
+          "probability": 0.9999567270278931
+        },
+        {
+          "word": " feel",
+          "start": 158.9,
+          "end": 159.16,
+          "probability": 0.9995953440666199
+        },
+        {
+          "word": " so",
+          "start": 159.16,
+          "end": 159.4,
+          "probability": 0.9989761114120483
+        },
+        {
+          "word": " often",
+          "start": 159.4,
+          "end": 159.72,
+          "probability": 0.9999597072601318
+        },
+        {
+          "word": " like",
+          "start": 159.72,
+          "end": 159.96,
+          "probability": 0.9994495511054993
+        },
+        {
+          "word": " the",
+          "start": 159.96,
+          "end": 160.1,
+          "probability": 0.9993495345115662
+        },
+        {
+          "word": " exception,",
+          "start": 160.1,
+          "end": 160.48,
+          "probability": 0.9994895458221436
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "seek": 13578,
+      "start": 160.74,
+      "end": 162.76,
+      "text": " to all those who still weep.",
+      "tokens": [
+        51615,
+        281,
+        439,
+        729,
+        567,
+        920,
+        321,
+        595,
+        13,
+        51715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " to",
+          "start": 160.74,
+          "end": 161.18,
+          "probability": 0.9990237951278687
+        },
+        {
+          "word": " all",
+          "start": 161.18,
+          "end": 161.42,
+          "probability": 0.9999361038208008
+        },
+        {
+          "word": " those",
+          "start": 161.42,
+          "end": 161.84,
+          "probability": 0.9993034601211548
+        },
+        {
+          "word": " who",
+          "start": 161.84,
+          "end": 162.24,
+          "probability": 0.9997113347053528
+        },
+        {
+          "word": " still",
+          "start": 162.24,
+          "end": 162.46,
+          "probability": 0.9996511936187744
+        },
+        {
+          "word": " weep.",
+          "start": 162.46,
+          "end": 162.76,
+          "probability": 0.9987067580223083
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "seek": 13578,
+      "start": 162.94,
+      "end": 164.06,
+      "text": " Happy St. Patrick's Day.",
+      "tokens": [
+        51715,
+        8277,
+        745,
+        13,
+        13980,
+        311,
+        5226,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.06265420361983874,
+      "compression_ratio": 1.6013071895424837,
+      "no_speech_prob": 1.7417235188832425e-12,
+      "words": [
+        {
+          "word": " Happy",
+          "start": 162.94,
+          "end": 163.3,
+          "probability": 0.997759222984314
+        },
+        {
+          "word": " St.",
+          "start": 163.3,
+          "end": 163.48,
+          "probability": 0.9995602965354919
+        },
+        {
+          "word": " Patrick's",
+          "start": 163.58,
+          "end": 163.92,
+          "probability": 0.9998315572738647
+        },
+        {
+          "word": " Day.",
+          "start": 163.92,
+          "end": 164.06,
+          "probability": 0.9998750686645508
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "seek": 16578,
+      "start": 167.20000000000002,
+      "end": 167.24,
+      "text": " I'll see you now there.",
+      "tokens": [
+        50365,
+        286,
+        603,
+        536,
+        291,
+        586,
+        456,
+        13,
+        50465
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.275067647298177,
+      "compression_ratio": 1.2511627906976743,
+      "no_speech_prob": 1.8620521791135047e-11,
+      "words": [
+        {
+          "word": " I'll",
+          "start": 167.20000000000002,
+          "end": 167.24,
+          "probability": 0.06159871444106102
+        },
+        {
+          "word": " see",
+          "start": 167.24,
+          "end": 167.24,
+          "probability": 0.5039265155792236
+        },
+        {
+          "word": " you",
+          "start": 167.24,
+          "end": 167.24,
+          "probability": 0.9888006448745728
+        },
+        {
+          "word": " now",
+          "start": 167.24,
+          "end": 167.24,
+          "probability": 0.006207605358213186
+        },
+        {
+          "word": " there.",
+          "start": 167.24,
+          "end": 167.24,
+          "probability": 0.00011044287384720519
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "seek": 16578,
+      "start": 167.24,
+      "end": 168.12,
+      "text": " I think that in every real�ั 그러 yak packaging.",
+      "tokens": [
+        50465,
+        286,
+        519,
+        300,
+        294,
+        633,
+        957,
+        18393,
+        5981,
+        14019,
+        18603,
+        16836,
+        13,
+        50615
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.275067647298177,
+      "compression_ratio": 1.2511627906976743,
+      "no_speech_prob": 1.8620521791135047e-11,
+      "words": [
+        {
+          "word": " I",
+          "start": 167.24,
+          "end": 167.24,
+          "probability": 0.1297559291124344
+        },
+        {
+          "word": " think",
+          "start": 167.24,
+          "end": 167.6,
+          "probability": 0.0018435311503708363
+        },
+        {
+          "word": " that",
+          "start": 167.6,
+          "end": 168.06,
+          "probability": 0.11177220940589905
+        },
+        {
+          "word": " in",
+          "start": 168.06,
+          "end": 168.06,
+          "probability": 0.005603359080851078
+        },
+        {
+          "word": " every",
+          "start": 168.06,
+          "end": 168.06,
+          "probability": 0.0014560562558472157
+        },
+        {
+          "word": " real�ั",
+          "start": 168.06,
+          "end": 168.06,
+          "probability": 5.5568382473817714e-05
+        },
+        {
+          "word": " 그러",
+          "start": 168.06,
+          "end": 168.06,
+          "probability": 0.00026588141918182373
+        },
+        {
+          "word": " yak",
+          "start": 168.06,
+          "end": 168.06,
+          "probability": 3.5988337913295254e-05
+        },
+        {
+          "word": " packaging.",
+          "start": 168.06,
+          "end": 168.12,
+          "probability": 2.1608764200209407e-06
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "seek": 16578,
+      "start": 168.84,
+      "end": 169.06,
+      "text": " Ken Mitchell did not have a variant almost found in sight for Dr.elen Habib.",
+      "tokens": [
+        50615,
+        8273,
+        27582,
+        630,
+        406,
+        362,
+        257,
+        17501,
+        1920,
+        1352,
+        294,
+        7860,
+        337,
+        2491,
+        13,
+        14818,
+        14225,
+        897,
+        13,
+        50715
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.275067647298177,
+      "compression_ratio": 1.2511627906976743,
+      "no_speech_prob": 1.8620521791135047e-11,
+      "words": [
+        {
+          "word": " Ken",
+          "start": 168.84,
+          "end": 168.88,
+          "probability": 1.6737763871788047e-05
+        },
+        {
+          "word": " Mitchell",
+          "start": 168.88,
+          "end": 168.9,
+          "probability": 0.0002038430975517258
+        },
+        {
+          "word": " did",
+          "start": 168.9,
+          "end": 168.92,
+          "probability": 0.007261757273226976
+        },
+        {
+          "word": " not",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.13468396663665771
+        },
+        {
+          "word": " have",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.05788573995232582
+        },
+        {
+          "word": " a",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.20798486471176147
+        },
+        {
+          "word": " variant",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.0001623027492314577
+        },
+        {
+          "word": " almost",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 7.807790825609118e-05
+        },
+        {
+          "word": " found",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.0001327469217358157
+        },
+        {
+          "word": " in",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.14826911687850952
+        },
+        {
+          "word": " sight",
+          "start": 168.92,
+          "end": 168.92,
+          "probability": 0.00020169524941593409
+        },
+        {
+          "word": " for",
+          "start": 168.92,
+          "end": 168.98,
+          "probability": 0.01640901155769825
+        },
+        {
+          "word": " Dr",
+          "start": 168.98,
+          "end": 169.0,
+          "probability": 0.0002581185253802687
+        },
+        {
+          "word": ".elen",
+          "start": 169.0,
+          "end": 169.02,
+          "probability": 0.4108287204082899
+        },
+        {
+          "word": " Habib.",
+          "start": 169.02,
+          "end": 169.06,
+          "probability": 0.13419754768256098
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "seek": 16578,
+      "start": 169.08,
+      "end": 169.16,
+      "text": " And it very likelyro",
+      "tokens": [
+        50715,
+        400,
+        309,
+        588,
+        3700,
+        340,
+        51060
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.275067647298177,
+      "compression_ratio": 1.2511627906976743,
+      "no_speech_prob": 1.8620521791135047e-11,
+      "words": [
+        {
+          "word": " And",
+          "start": 169.08,
+          "end": 169.1,
+          "probability": 0.035149917006492615
+        },
+        {
+          "word": " it",
+          "start": 169.1,
+          "end": 169.1,
+          "probability": 0.03329410031437874
+        },
+        {
+          "word": " very",
+          "start": 169.1,
+          "end": 169.1,
+          "probability": 0.00037647021235898137
+        },
+        {
+          "word": " likelyro",
+          "start": 169.1,
+          "end": 169.16,
+          "probability": 0.010439435376838446
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "seek": 16578,
+      "start": 169.16,
+      "end": 169.26,
+      "text": " that we have a self-purehip of Timothy Gmmett.",
+      "tokens": [
+        51265,
+        300,
+        321,
+        362,
+        257,
+        2698,
+        12,
+        79,
+        540,
+        1210,
+        295,
+        29418,
+        460,
+        2174,
+        3093,
+        13,
+        51365
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.275067647298177,
+      "compression_ratio": 1.2511627906976743,
+      "no_speech_prob": 1.8620521791135047e-11,
+      "words": [
+        {
+          "word": " that",
+          "start": 169.16,
+          "end": 169.18,
+          "probability": 0.011419007554650307
+        },
+        {
+          "word": " we",
+          "start": 169.18,
+          "end": 169.2,
+          "probability": 0.06679821014404297
+        },
+        {
+          "word": " have",
+          "start": 169.2,
+          "end": 169.2,
+          "probability": 0.0879141092300415
+        },
+        {
+          "word": " a",
+          "start": 169.2,
+          "end": 169.22,
+          "probability": 0.15097102522850037
+        },
+        {
+          "word": " self",
+          "start": 169.22,
+          "end": 169.24,
+          "probability": 0.00019898459140677005
+        },
+        {
+          "word": "-purehip",
+          "start": 169.24,
+          "end": 169.26,
+          "probability": 0.2192272043103003
+        },
+        {
+          "word": " of",
+          "start": 169.26,
+          "end": 169.26,
+          "probability": 0.05297291651368141
+        },
+        {
+          "word": " Timothy",
+          "start": 169.26,
+          "end": 169.26,
+          "probability": 2.2130649085738696e-05
+        },
+        {
+          "word": " Gmmett.",
+          "start": 169.26,
+          "end": 169.26,
+          "probability": 0.08075004624940145
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "seek": 16578,
+      "start": 169.26,
+      "end": 169.26,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.275067647298177,
+      "compression_ratio": 1.2511627906976743,
+      "no_speech_prob": 1.8620521791135047e-11,
+      "words": []
+    },
+    {
+      "id": 69,
+      "seek": 16926,
+      "start": 169.24,
+      "end": 169.24,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.4,
+      "avg_logprob": -0.670685609181722,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.744000499570575e-10,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

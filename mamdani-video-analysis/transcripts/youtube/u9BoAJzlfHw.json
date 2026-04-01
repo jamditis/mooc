@@ -1,0 +1,1214 @@
+{
+  "text": " Running late, so I gotta make this quick. I'm about to meet with more than 400 of the best New Yorkers that money can't buy. Experts on housing, transportation, the arts, labor, and so much more. I've entrusted these people inside with a huge responsibility to provide the policy and personnel recommendations our transition team will use to staff up our City Hall Administration to be ready to deliver on day one. Behind this door are gifted public servants. Artists, heads of nonprofits, organ artists. Some keep the city dreaming, some keep it running, but all of them make it great. We've assembled them into... 17 transition committees, based on subject area expertise. Each committee will be overseen by one of our incredible transition co-chairs. So let's go inside. It's time to get to work.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.6400000000000015,
+      "end": 2.2,
+      "text": " Running late, so I gotta make this quick.",
+      "tokens": [
+        50365,
+        28136,
+        3469,
+        11,
+        370,
+        286,
+        3428,
+        652,
+        341,
+        1702,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " Running",
+          "start": 0.6400000000000015,
+          "end": 1.04,
+          "probability": 0.39327847957611084
+        },
+        {
+          "word": " late,",
+          "start": 1.04,
+          "end": 1.3,
+          "probability": 0.9967648983001709
+        },
+        {
+          "word": " so",
+          "start": 1.44,
+          "end": 1.62,
+          "probability": 0.9887874722480774
+        },
+        {
+          "word": " I",
+          "start": 1.62,
+          "end": 1.7,
+          "probability": 0.9883484244346619
+        },
+        {
+          "word": " gotta",
+          "start": 1.7,
+          "end": 1.78,
+          "probability": 0.5658331513404846
+        },
+        {
+          "word": " make",
+          "start": 1.78,
+          "end": 1.94,
+          "probability": 0.9859985113143921
+        },
+        {
+          "word": " this",
+          "start": 1.94,
+          "end": 2.02,
+          "probability": 0.9708837270736694
+        },
+        {
+          "word": " quick.",
+          "start": 2.02,
+          "end": 2.2,
+          "probability": 0.9936822652816772
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.38,
+      "end": 5.44,
+      "text": " I'm about to meet with more than 400 of the best New Yorkers that money can't buy.",
+      "tokens": [
+        50465,
+        286,
+        478,
+        466,
+        281,
+        1677,
+        365,
+        544,
+        813,
+        8423,
+        295,
+        264,
+        1151,
+        1873,
+        3609,
+        433,
+        300,
+        1460,
+        393,
+        380,
+        2256,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 2.38,
+          "end": 2.54,
+          "probability": 0.9920350313186646
+        },
+        {
+          "word": " about",
+          "start": 2.54,
+          "end": 2.66,
+          "probability": 0.4654619097709656
+        },
+        {
+          "word": " to",
+          "start": 2.66,
+          "end": 2.78,
+          "probability": 0.9981648325920105
+        },
+        {
+          "word": " meet",
+          "start": 2.78,
+          "end": 2.9,
+          "probability": 0.984377384185791
+        },
+        {
+          "word": " with",
+          "start": 2.9,
+          "end": 3.04,
+          "probability": 0.9706928133964539
+        },
+        {
+          "word": " more",
+          "start": 3.04,
+          "end": 3.14,
+          "probability": 0.9655175805091858
+        },
+        {
+          "word": " than",
+          "start": 3.14,
+          "end": 3.24,
+          "probability": 0.9887692928314209
+        },
+        {
+          "word": " 400",
+          "start": 3.24,
+          "end": 3.64,
+          "probability": 0.9590814709663391
+        },
+        {
+          "word": " of",
+          "start": 3.64,
+          "end": 3.92,
+          "probability": 0.9847582578659058
+        },
+        {
+          "word": " the",
+          "start": 3.92,
+          "end": 4.0,
+          "probability": 0.9946343898773193
+        },
+        {
+          "word": " best",
+          "start": 4.0,
+          "end": 4.22,
+          "probability": 0.9891390204429626
+        },
+        {
+          "word": " New",
+          "start": 4.22,
+          "end": 4.42,
+          "probability": 0.9857875108718872
+        },
+        {
+          "word": " Yorkers",
+          "start": 4.42,
+          "end": 4.66,
+          "probability": 0.9925642013549805
+        },
+        {
+          "word": " that",
+          "start": 4.66,
+          "end": 4.78,
+          "probability": 0.981953501701355
+        },
+        {
+          "word": " money",
+          "start": 4.78,
+          "end": 4.96,
+          "probability": 0.9666662812232971
+        },
+        {
+          "word": " can't",
+          "start": 4.96,
+          "end": 5.24,
+          "probability": 0.9933593571186066
+        },
+        {
+          "word": " buy.",
+          "start": 5.24,
+          "end": 5.44,
+          "probability": 0.9946512579917908
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.62,
+      "end": 9.64,
+      "text": " Experts on housing, transportation, the arts, labor, and so much more.",
+      "tokens": [
+        50615,
+        12522,
+        1373,
+        322,
+        6849,
+        11,
+        11328,
+        11,
+        264,
+        8609,
+        11,
+        5938,
+        11,
+        293,
+        370,
+        709,
+        544,
+        13,
+        50865
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " Experts",
+          "start": 5.62,
+          "end": 6.02,
+          "probability": 0.9936953485012054
+        },
+        {
+          "word": " on",
+          "start": 6.02,
+          "end": 6.16,
+          "probability": 0.9947382807731628
+        },
+        {
+          "word": " housing,",
+          "start": 6.16,
+          "end": 6.6,
+          "probability": 0.9418141841888428
+        },
+        {
+          "word": " transportation,",
+          "start": 6.8,
+          "end": 7.34,
+          "probability": 0.9923635721206665
+        },
+        {
+          "word": " the",
+          "start": 7.72,
+          "end": 7.8,
+          "probability": 0.9731661081314087
+        },
+        {
+          "word": " arts,",
+          "start": 7.8,
+          "end": 8.14,
+          "probability": 0.9955875873565674
+        },
+        {
+          "word": " labor,",
+          "start": 8.44,
+          "end": 8.74,
+          "probability": 0.9598971009254456
+        },
+        {
+          "word": " and",
+          "start": 8.86,
+          "end": 9.0,
+          "probability": 0.9981266856193542
+        },
+        {
+          "word": " so",
+          "start": 9.0,
+          "end": 9.26,
+          "probability": 0.9986012578010559
+        },
+        {
+          "word": " much",
+          "start": 9.26,
+          "end": 9.44,
+          "probability": 0.9995319843292236
+        },
+        {
+          "word": " more.",
+          "start": 9.44,
+          "end": 9.64,
+          "probability": 0.9938250780105591
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 9.94,
+      "end": 12.54,
+      "text": " I've entrusted these people inside with a huge responsibility",
+      "tokens": [
+        50865,
+        286,
+        600,
+        8041,
+        6589,
+        613,
+        561,
+        1854,
+        365,
+        257,
+        2603,
+        6357,
+        51015
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " I've",
+          "start": 9.94,
+          "end": 10.18,
+          "probability": 0.9879107475280762
+        },
+        {
+          "word": " entrusted",
+          "start": 10.18,
+          "end": 10.54,
+          "probability": 0.9961310923099518
+        },
+        {
+          "word": " these",
+          "start": 10.54,
+          "end": 10.72,
+          "probability": 0.9945566654205322
+        },
+        {
+          "word": " people",
+          "start": 10.72,
+          "end": 10.96,
+          "probability": 0.9988558292388916
+        },
+        {
+          "word": " inside",
+          "start": 10.96,
+          "end": 11.3,
+          "probability": 0.9962061643600464
+        },
+        {
+          "word": " with",
+          "start": 11.3,
+          "end": 11.5,
+          "probability": 0.9954022169113159
+        },
+        {
+          "word": " a",
+          "start": 11.5,
+          "end": 11.64,
+          "probability": 0.9895002245903015
+        },
+        {
+          "word": " huge",
+          "start": 11.64,
+          "end": 11.94,
+          "probability": 0.9934658408164978
+        },
+        {
+          "word": " responsibility",
+          "start": 11.94,
+          "end": 12.54,
+          "probability": 0.9966585636138916
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 12.54,
+      "end": 16.46,
+      "text": " to provide the policy and personnel recommendations our transition team will use",
+      "tokens": [
+        51015,
+        281,
+        2893,
+        264,
+        3897,
+        293,
+        14988,
+        10434,
+        527,
+        6034,
+        1469,
+        486,
+        764,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " to",
+          "start": 12.54,
+          "end": 12.94,
+          "probability": 0.49953973293304443
+        },
+        {
+          "word": " provide",
+          "start": 12.94,
+          "end": 13.2,
+          "probability": 0.999081015586853
+        },
+        {
+          "word": " the",
+          "start": 13.2,
+          "end": 13.36,
+          "probability": 0.9953694939613342
+        },
+        {
+          "word": " policy",
+          "start": 13.36,
+          "end": 13.8,
+          "probability": 0.9974707365036011
+        },
+        {
+          "word": " and",
+          "start": 13.8,
+          "end": 14.0,
+          "probability": 0.9972714781761169
+        },
+        {
+          "word": " personnel",
+          "start": 14.0,
+          "end": 14.42,
+          "probability": 0.964134693145752
+        },
+        {
+          "word": " recommendations",
+          "start": 14.42,
+          "end": 15.02,
+          "probability": 0.9899094104766846
+        },
+        {
+          "word": " our",
+          "start": 15.02,
+          "end": 15.38,
+          "probability": 0.9911333918571472
+        },
+        {
+          "word": " transition",
+          "start": 15.38,
+          "end": 15.76,
+          "probability": 0.9667259454727173
+        },
+        {
+          "word": " team",
+          "start": 15.76,
+          "end": 15.98,
+          "probability": 0.9965227842330933
+        },
+        {
+          "word": " will",
+          "start": 15.98,
+          "end": 16.16,
+          "probability": 0.9933940768241882
+        },
+        {
+          "word": " use",
+          "start": 16.16,
+          "end": 16.46,
+          "probability": 0.9987021684646606
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 16.46,
+      "end": 20.2,
+      "text": " to staff up our City Hall Administration to be ready to deliver on day one.",
+      "tokens": [
+        51165,
+        281,
+        3525,
+        493,
+        527,
+        4392,
+        5434,
+        17187,
+        281,
+        312,
+        1919,
+        281,
+        4239,
+        322,
+        786,
+        472,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " to",
+          "start": 16.46,
+          "end": 16.82,
+          "probability": 0.9917870163917542
+        },
+        {
+          "word": " staff",
+          "start": 16.82,
+          "end": 17.12,
+          "probability": 0.9980162382125854
+        },
+        {
+          "word": " up",
+          "start": 17.12,
+          "end": 17.42,
+          "probability": 0.9817929863929749
+        },
+        {
+          "word": " our",
+          "start": 17.42,
+          "end": 17.6,
+          "probability": 0.9973516464233398
+        },
+        {
+          "word": " City",
+          "start": 17.6,
+          "end": 17.78,
+          "probability": 0.5882713198661804
+        },
+        {
+          "word": " Hall",
+          "start": 17.78,
+          "end": 17.96,
+          "probability": 0.9877558946609497
+        },
+        {
+          "word": " Administration",
+          "start": 17.96,
+          "end": 18.42,
+          "probability": 0.4767431616783142
+        },
+        {
+          "word": " to",
+          "start": 18.42,
+          "end": 18.84,
+          "probability": 0.9605913758277893
+        },
+        {
+          "word": " be",
+          "start": 18.84,
+          "end": 18.96,
+          "probability": 0.999579131603241
+        },
+        {
+          "word": " ready",
+          "start": 18.96,
+          "end": 19.16,
+          "probability": 0.9989433884620667
+        },
+        {
+          "word": " to",
+          "start": 19.16,
+          "end": 19.3,
+          "probability": 0.9937505125999451
+        },
+        {
+          "word": " deliver",
+          "start": 19.3,
+          "end": 19.54,
+          "probability": 0.9957485795021057
+        },
+        {
+          "word": " on",
+          "start": 19.54,
+          "end": 19.82,
+          "probability": 0.9910610318183899
+        },
+        {
+          "word": " day",
+          "start": 19.82,
+          "end": 19.96,
+          "probability": 0.9001760482788086
+        },
+        {
+          "word": " one.",
+          "start": 19.96,
+          "end": 20.2,
+          "probability": 0.9482619762420654
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 21.48,
+      "end": 23.52,
+      "text": " Behind this door are gifted public servants.",
+      "tokens": [
+        51415,
+        20475,
+        341,
+        2853,
+        366,
+        27104,
+        1908,
+        21705,
+        13,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " Behind",
+          "start": 21.48,
+          "end": 21.88,
+          "probability": 0.9964621663093567
+        },
+        {
+          "word": " this",
+          "start": 21.88,
+          "end": 22.06,
+          "probability": 0.7921444177627563
+        },
+        {
+          "word": " door",
+          "start": 22.06,
+          "end": 22.24,
+          "probability": 0.9803229570388794
+        },
+        {
+          "word": " are",
+          "start": 22.24,
+          "end": 22.42,
+          "probability": 0.9835404753684998
+        },
+        {
+          "word": " gifted",
+          "start": 22.42,
+          "end": 22.8,
+          "probability": 0.9951116442680359
+        },
+        {
+          "word": " public",
+          "start": 22.8,
+          "end": 23.14,
+          "probability": 0.9918404817581177
+        },
+        {
+          "word": " servants.",
+          "start": 23.14,
+          "end": 23.52,
+          "probability": 0.9904516935348511
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 23.82,
+      "end": 25.72,
+      "text": " Artists, heads of nonprofits, organ artists.",
+      "tokens": [
+        51515,
+        5735,
+        1751,
+        11,
+        8050,
+        295,
+        42851,
+        11,
+        1798,
+        6910,
+        13,
+        51665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " Artists,",
+          "start": 23.82,
+          "end": 24.22,
+          "probability": 0.9962160587310791
+        },
+        {
+          "word": " heads",
+          "start": 24.32,
+          "end": 24.52,
+          "probability": 0.9784101843833923
+        },
+        {
+          "word": " of",
+          "start": 24.52,
+          "end": 24.66,
+          "probability": 0.9922299981117249
+        },
+        {
+          "word": " nonprofits,",
+          "start": 24.66,
+          "end": 25.06,
+          "probability": 0.6127178072929382
+        },
+        {
+          "word": " organ",
+          "start": 25.3,
+          "end": 25.5,
+          "probability": 0.8889498114585876
+        },
+        {
+          "word": " artists.",
+          "start": 25.5,
+          "end": 25.72,
+          "probability": 0.47659143805503845
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 25.86,
+      "end": 29.3,
+      "text": " Some keep the city dreaming, some keep it running, but all of them make it great.",
+      "tokens": [
+        51665,
+        2188,
+        1066,
+        264,
+        2307,
+        21475,
+        11,
+        512,
+        1066,
+        309,
+        2614,
+        11,
+        457,
+        439,
+        295,
+        552,
+        652,
+        309,
+        869,
+        13,
+        51815
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13113631142510307,
+      "compression_ratio": 1.6232686980609419,
+      "no_speech_prob": 1.875908933399173e-12,
+      "words": [
+        {
+          "word": " Some",
+          "start": 25.86,
+          "end": 26.08,
+          "probability": 0.9977960586547852
+        },
+        {
+          "word": " keep",
+          "start": 26.08,
+          "end": 26.26,
+          "probability": 0.998252809047699
+        },
+        {
+          "word": " the",
+          "start": 26.26,
+          "end": 26.42,
+          "probability": 0.9428224563598633
+        },
+        {
+          "word": " city",
+          "start": 26.42,
+          "end": 26.6,
+          "probability": 0.9562329649925232
+        },
+        {
+          "word": " dreaming,",
+          "start": 26.6,
+          "end": 26.94,
+          "probability": 0.9974310994148254
+        },
+        {
+          "word": " some",
+          "start": 27.14,
+          "end": 27.38,
+          "probability": 0.9963065385818481
+        },
+        {
+          "word": " keep",
+          "start": 27.38,
+          "end": 27.58,
+          "probability": 0.9985180497169495
+        },
+        {
+          "word": " it",
+          "start": 27.58,
+          "end": 27.7,
+          "probability": 0.9980934262275696
+        },
+        {
+          "word": " running,",
+          "start": 27.7,
+          "end": 27.88,
+          "probability": 0.9937044978141785
+        },
+        {
+          "word": " but",
+          "start": 28.08,
+          "end": 28.24,
+          "probability": 0.9963313937187195
+        },
+        {
+          "word": " all",
+          "start": 28.24,
+          "end": 28.44,
+          "probability": 0.9974920749664307
+        },
+        {
+          "word": " of",
+          "start": 28.44,
+          "end": 28.58,
+          "probability": 0.9993013143539429
+        },
+        {
+          "word": " them",
+          "start": 28.58,
+          "end": 28.7,
+          "probability": 0.9946006536483765
+        },
+        {
+          "word": " make",
+          "start": 28.7,
+          "end": 29.0,
+          "probability": 0.9877268671989441
+        },
+        {
+          "word": " it",
+          "start": 29.0,
+          "end": 29.1,
+          "probability": 0.9988608360290527
+        },
+        {
+          "word": " great.",
+          "start": 29.1,
+          "end": 29.3,
+          "probability": 0.9949448704719543
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2930,
+      "start": 29.3,
+      "end": 31.66,
+      "text": " We've assembled them into...",
+      "tokens": [
+        50365,
+        492,
+        600,
+        24204,
+        552,
+        666,
+        485,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12975513083594187,
+      "compression_ratio": 1.394736842105263,
+      "no_speech_prob": 1.5671412735215884e-12,
+      "words": [
+        {
+          "word": " We've",
+          "start": 29.3,
+          "end": 29.82,
+          "probability": 0.9243436753749847
+        },
+        {
+          "word": " assembled",
+          "start": 29.82,
+          "end": 30.12,
+          "probability": 0.9974426031112671
+        },
+        {
+          "word": " them",
+          "start": 30.12,
+          "end": 30.3,
+          "probability": 0.9956567287445068
+        },
+        {
+          "word": " into...",
+          "start": 30.3,
+          "end": 31.66,
+          "probability": 0.5914744734764099
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2930,
+      "start": 34.580000000000005,
+      "end": 37.68,
+      "text": " 17 transition committees, based on subject area expertise.",
+      "tokens": [
+        50615,
+        3282,
+        6034,
+        25998,
+        11,
+        2361,
+        322,
+        3983,
+        1859,
+        11769,
+        13,
+        50765
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12975513083594187,
+      "compression_ratio": 1.394736842105263,
+      "no_speech_prob": 1.5671412735215884e-12,
+      "words": [
+        {
+          "word": " 17",
+          "start": 34.580000000000005,
+          "end": 35.06,
+          "probability": 0.7986432909965515
+        },
+        {
+          "word": " transition",
+          "start": 35.06,
+          "end": 35.54,
+          "probability": 0.9195920825004578
+        },
+        {
+          "word": " committees,",
+          "start": 35.54,
+          "end": 36.06,
+          "probability": 0.9950647950172424
+        },
+        {
+          "word": " based",
+          "start": 36.32,
+          "end": 36.7,
+          "probability": 0.9956321120262146
+        },
+        {
+          "word": " on",
+          "start": 36.7,
+          "end": 36.82,
+          "probability": 0.9989497065544128
+        },
+        {
+          "word": " subject",
+          "start": 36.82,
+          "end": 37.1,
+          "probability": 0.976255476474762
+        },
+        {
+          "word": " area",
+          "start": 37.1,
+          "end": 37.28,
+          "probability": 0.8801829218864441
+        },
+        {
+          "word": " expertise.",
+          "start": 37.28,
+          "end": 37.68,
+          "probability": 0.9809824824333191
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2930,
+      "start": 37.98,
+      "end": 41.0,
+      "text": " Each committee will be overseen by one of our incredible transition co-chairs.",
+      "tokens": [
+        50765,
+        6947,
+        7482,
+        486,
+        312,
+        11916,
+        268,
+        538,
+        472,
+        295,
+        527,
+        4651,
+        6034,
+        598,
+        12,
+        339,
+        4094,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12975513083594187,
+      "compression_ratio": 1.394736842105263,
+      "no_speech_prob": 1.5671412735215884e-12,
+      "words": [
+        {
+          "word": " Each",
+          "start": 37.98,
+          "end": 38.26,
+          "probability": 0.9932296276092529
+        },
+        {
+          "word": " committee",
+          "start": 38.26,
+          "end": 38.5,
+          "probability": 0.9958809614181519
+        },
+        {
+          "word": " will",
+          "start": 38.5,
+          "end": 38.64,
+          "probability": 0.997998058795929
+        },
+        {
+          "word": " be",
+          "start": 38.64,
+          "end": 38.74,
+          "probability": 0.997771680355072
+        },
+        {
+          "word": " overseen",
+          "start": 38.74,
+          "end": 39.24,
+          "probability": 0.9936237633228302
+        },
+        {
+          "word": " by",
+          "start": 39.24,
+          "end": 39.36,
+          "probability": 0.9970142841339111
+        },
+        {
+          "word": " one",
+          "start": 39.36,
+          "end": 39.5,
+          "probability": 0.9970588684082031
+        },
+        {
+          "word": " of",
+          "start": 39.5,
+          "end": 39.58,
+          "probability": 0.9978524446487427
+        },
+        {
+          "word": " our",
+          "start": 39.58,
+          "end": 39.68,
+          "probability": 0.9981049299240112
+        },
+        {
+          "word": " incredible",
+          "start": 39.68,
+          "end": 40.08,
+          "probability": 0.9972308278083801
+        },
+        {
+          "word": " transition",
+          "start": 40.08,
+          "end": 40.52,
+          "probability": 0.9668643474578857
+        },
+        {
+          "word": " co",
+          "start": 40.52,
+          "end": 40.78,
+          "probability": 0.9844022989273071
+        },
+        {
+          "word": "-chairs.",
+          "start": 40.78,
+          "end": 41.0,
+          "probability": 0.9932569265365601
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2930,
+      "start": 41.2,
+      "end": 42.94,
+      "text": " So let's go inside. It's time to get to work.",
+      "tokens": [
+        50965,
+        407,
+        718,
+        311,
+        352,
+        1854,
+        13,
+        467,
+        311,
+        565,
+        281,
+        483,
+        281,
+        589,
+        13,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12975513083594187,
+      "compression_ratio": 1.394736842105263,
+      "no_speech_prob": 1.5671412735215884e-12,
+      "words": [
+        {
+          "word": " So",
+          "start": 41.2,
+          "end": 41.5,
+          "probability": 0.9826120138168335
+        },
+        {
+          "word": " let's",
+          "start": 41.5,
+          "end": 41.62,
+          "probability": 0.9286278784275055
+        },
+        {
+          "word": " go",
+          "start": 41.62,
+          "end": 41.72,
+          "probability": 0.8031206727027893
+        },
+        {
+          "word": " inside.",
+          "start": 41.72,
+          "end": 41.96,
+          "probability": 0.9799304008483887
+        },
+        {
+          "word": " It's",
+          "start": 42.28,
+          "end": 42.38,
+          "probability": 0.9827884435653687
+        },
+        {
+          "word": " time",
+          "start": 42.38,
+          "end": 42.5,
+          "probability": 0.9974910020828247
+        },
+        {
+          "word": " to",
+          "start": 42.5,
+          "end": 42.6,
+          "probability": 0.9935706853866577
+        },
+        {
+          "word": " get",
+          "start": 42.6,
+          "end": 42.68,
+          "probability": 0.9974077343940735
+        },
+        {
+          "word": " to",
+          "start": 42.68,
+          "end": 42.78,
+          "probability": 0.9979051351547241
+        },
+        {
+          "word": " work.",
+          "start": 42.78,
+          "end": 42.94,
+          "probability": 0.9988865256309509
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

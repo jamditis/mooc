@@ -1,0 +1,1118 @@
+{
+  "text": " I'm an eight generation direct descendant to the very first free black African-American to purchase property on Staten Island. They came and traveled here in 1799 and purchased their piece of land in Sandy Ground in the Rossville area in 1828. I opened this restaurant with $22,000, no resources. The world was pretty much down. There was nobody out here really to help us. And I called every agency in the world to seek some support, resources, capital and direction. And that did not exist. And so I did everything ground up grassroots on my own with my husband and my children, just trying to figure things out. And that's how this kitchen came about. Thank you so much. Thank you. I appreciate you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 5.96,
+      "text": " I'm an eight generation direct descendant to the very first free black African-American to purchase property on Staten Island.",
+      "tokens": [
+        50365,
+        286,
+        478,
+        364,
+        3180,
+        5125,
+        2047,
+        16333,
+        394,
+        281,
+        264,
+        588,
+        700,
+        1737,
+        2211,
+        7312,
+        12,
+        14604,
+        281,
+        8110,
+        4707,
+        322,
+        745,
+        7186,
+        7637,
+        13,
+        50663
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1932580178244072,
+      "compression_ratio": 1.570469798657718,
+      "no_speech_prob": 2.1174739479185023e-12,
+      "words": [
+        {
+          "word": " I'm",
+          "start": 0.0,
+          "end": 0.14,
+          "probability": 0.8035211563110352
+        },
+        {
+          "word": " an",
+          "start": 0.14,
+          "end": 0.28,
+          "probability": 0.9711931347846985
+        },
+        {
+          "word": " eight",
+          "start": 0.28,
+          "end": 0.52,
+          "probability": 0.5889392495155334
+        },
+        {
+          "word": " generation",
+          "start": 0.52,
+          "end": 1.06,
+          "probability": 0.607552170753479
+        },
+        {
+          "word": " direct",
+          "start": 1.06,
+          "end": 1.5,
+          "probability": 0.8269959092140198
+        },
+        {
+          "word": " descendant",
+          "start": 1.5,
+          "end": 2.06,
+          "probability": 0.9487107992172241
+        },
+        {
+          "word": " to",
+          "start": 2.06,
+          "end": 2.16,
+          "probability": 0.959682285785675
+        },
+        {
+          "word": " the",
+          "start": 2.16,
+          "end": 2.3,
+          "probability": 0.9947431087493896
+        },
+        {
+          "word": " very",
+          "start": 2.3,
+          "end": 2.5,
+          "probability": 0.9834483861923218
+        },
+        {
+          "word": " first",
+          "start": 2.5,
+          "end": 2.86,
+          "probability": 0.995088517665863
+        },
+        {
+          "word": " free",
+          "start": 2.86,
+          "end": 3.1,
+          "probability": 0.9396530389785767
+        },
+        {
+          "word": " black",
+          "start": 3.1,
+          "end": 3.34,
+          "probability": 0.5152816772460938
+        },
+        {
+          "word": " African",
+          "start": 3.34,
+          "end": 3.74,
+          "probability": 0.9335334897041321
+        },
+        {
+          "word": "-American",
+          "start": 3.74,
+          "end": 4.1,
+          "probability": 0.7170372605323792
+        },
+        {
+          "word": " to",
+          "start": 4.1,
+          "end": 4.36,
+          "probability": 0.9838303923606873
+        },
+        {
+          "word": " purchase",
+          "start": 4.36,
+          "end": 4.64,
+          "probability": 0.9949098229408264
+        },
+        {
+          "word": " property",
+          "start": 4.64,
+          "end": 5.08,
+          "probability": 0.9963667392730713
+        },
+        {
+          "word": " on",
+          "start": 5.08,
+          "end": 5.28,
+          "probability": 0.9944604635238647
+        },
+        {
+          "word": " Staten",
+          "start": 5.28,
+          "end": 5.64,
+          "probability": 0.9871757924556732
+        },
+        {
+          "word": " Island.",
+          "start": 5.64,
+          "end": 5.96,
+          "probability": 0.9804076552391052
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.18,
+      "end": 14.2,
+      "text": " They came and traveled here in 1799 and purchased their piece of land in Sandy Ground in the Rossville area in 1828.",
+      "tokens": [
+        50675,
+        814,
+        1361,
+        293,
+        16147,
+        510,
+        294,
+        3282,
+        8494,
+        293,
+        14734,
+        641,
+        2522,
+        295,
+        2117,
+        294,
+        27390,
+        28371,
+        294,
+        264,
+        16140,
+        8386,
+        1859,
+        294,
+        2443,
+        11205,
+        13,
+        51080
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1932580178244072,
+      "compression_ratio": 1.570469798657718,
+      "no_speech_prob": 2.1174739479185023e-12,
+      "words": [
+        {
+          "word": " They",
+          "start": 6.18,
+          "end": 6.7,
+          "probability": 0.4647424519062042
+        },
+        {
+          "word": " came",
+          "start": 6.7,
+          "end": 6.98,
+          "probability": 0.9985718727111816
+        },
+        {
+          "word": " and",
+          "start": 6.98,
+          "end": 7.14,
+          "probability": 0.9777684807777405
+        },
+        {
+          "word": " traveled",
+          "start": 7.14,
+          "end": 7.48,
+          "probability": 0.9672293663024902
+        },
+        {
+          "word": " here",
+          "start": 7.48,
+          "end": 7.72,
+          "probability": 0.9822171926498413
+        },
+        {
+          "word": " in",
+          "start": 7.72,
+          "end": 7.86,
+          "probability": 0.9955315589904785
+        },
+        {
+          "word": " 1799",
+          "start": 7.86,
+          "end": 8.86,
+          "probability": 0.993095725774765
+        },
+        {
+          "word": " and",
+          "start": 8.86,
+          "end": 9.7,
+          "probability": 0.891337513923645
+        },
+        {
+          "word": " purchased",
+          "start": 9.7,
+          "end": 10.16,
+          "probability": 0.940702497959137
+        },
+        {
+          "word": " their",
+          "start": 10.16,
+          "end": 10.62,
+          "probability": 0.994745135307312
+        },
+        {
+          "word": " piece",
+          "start": 10.62,
+          "end": 10.88,
+          "probability": 0.9947397112846375
+        },
+        {
+          "word": " of",
+          "start": 10.88,
+          "end": 11.04,
+          "probability": 0.9993371367454529
+        },
+        {
+          "word": " land",
+          "start": 11.04,
+          "end": 11.34,
+          "probability": 0.9957363605499268
+        },
+        {
+          "word": " in",
+          "start": 11.34,
+          "end": 11.52,
+          "probability": 0.9599734544754028
+        },
+        {
+          "word": " Sandy",
+          "start": 11.52,
+          "end": 11.86,
+          "probability": 0.7363325953483582
+        },
+        {
+          "word": " Ground",
+          "start": 11.86,
+          "end": 12.1,
+          "probability": 0.5277290940284729
+        },
+        {
+          "word": " in",
+          "start": 12.1,
+          "end": 12.26,
+          "probability": 0.8674473762512207
+        },
+        {
+          "word": " the",
+          "start": 12.26,
+          "end": 12.34,
+          "probability": 0.9932918548583984
+        },
+        {
+          "word": " Rossville",
+          "start": 12.34,
+          "end": 12.74,
+          "probability": 0.9800562560558319
+        },
+        {
+          "word": " area",
+          "start": 12.74,
+          "end": 13.06,
+          "probability": 0.987838864326477
+        },
+        {
+          "word": " in",
+          "start": 13.06,
+          "end": 13.34,
+          "probability": 0.9816476106643677
+        },
+        {
+          "word": " 1828.",
+          "start": 13.34,
+          "end": 14.2,
+          "probability": 0.998582512140274
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 14.54,
+      "end": 18.44,
+      "text": " I opened this restaurant with $22,000, no resources.",
+      "tokens": [
+        51095,
+        286,
+        5625,
+        341,
+        6383,
+        365,
+        1848,
+        7490,
+        11,
+        1360,
+        11,
+        572,
+        3593,
+        13,
+        51287
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1932580178244072,
+      "compression_ratio": 1.570469798657718,
+      "no_speech_prob": 2.1174739479185023e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 14.54,
+          "end": 14.7,
+          "probability": 0.9734116196632385
+        },
+        {
+          "word": " opened",
+          "start": 14.7,
+          "end": 14.9,
+          "probability": 0.9782416224479675
+        },
+        {
+          "word": " this",
+          "start": 14.9,
+          "end": 15.08,
+          "probability": 0.9955671429634094
+        },
+        {
+          "word": " restaurant",
+          "start": 15.08,
+          "end": 15.46,
+          "probability": 0.9787108302116394
+        },
+        {
+          "word": " with",
+          "start": 15.46,
+          "end": 15.66,
+          "probability": 0.9575129151344299
+        },
+        {
+          "word": " $22",
+          "start": 15.66,
+          "end": 16.02,
+          "probability": 0.9235811829566956
+        },
+        {
+          "word": ",000,",
+          "start": 16.02,
+          "end": 16.58,
+          "probability": 0.9808423519134521
+        },
+        {
+          "word": " no",
+          "start": 17.08,
+          "end": 17.78,
+          "probability": 0.9671697020530701
+        },
+        {
+          "word": " resources.",
+          "start": 17.78,
+          "end": 18.44,
+          "probability": 0.997992992401123
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 18.96,
+      "end": 20.6,
+      "text": " The world was pretty much down.",
+      "tokens": [
+        51312,
+        440,
+        1002,
+        390,
+        1238,
+        709,
+        760,
+        13,
+        51398
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1932580178244072,
+      "compression_ratio": 1.570469798657718,
+      "no_speech_prob": 2.1174739479185023e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 18.96,
+          "end": 19.16,
+          "probability": 0.9971703886985779
+        },
+        {
+          "word": " world",
+          "start": 19.16,
+          "end": 19.46,
+          "probability": 0.9986500144004822
+        },
+        {
+          "word": " was",
+          "start": 19.46,
+          "end": 19.72,
+          "probability": 0.9991427659988403
+        },
+        {
+          "word": " pretty",
+          "start": 19.72,
+          "end": 19.96,
+          "probability": 0.9997273087501526
+        },
+        {
+          "word": " much",
+          "start": 19.96,
+          "end": 20.18,
+          "probability": 0.9997125267982483
+        },
+        {
+          "word": " down.",
+          "start": 20.18,
+          "end": 20.6,
+          "probability": 0.9994169473648071
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.96,
+      "end": 23.28,
+      "text": " There was nobody out here really to help us.",
+      "tokens": [
+        51417,
+        821,
+        390,
+        5079,
+        484,
+        510,
+        534,
+        281,
+        854,
+        505,
+        13,
+        51530
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1932580178244072,
+      "compression_ratio": 1.570469798657718,
+      "no_speech_prob": 2.1174739479185023e-12,
+      "words": [
+        {
+          "word": " There",
+          "start": 20.96,
+          "end": 21.18,
+          "probability": 0.9529135823249817
+        },
+        {
+          "word": " was",
+          "start": 21.18,
+          "end": 21.42,
+          "probability": 0.9996154308319092
+        },
+        {
+          "word": " nobody",
+          "start": 21.42,
+          "end": 21.84,
+          "probability": 0.99517422914505
+        },
+        {
+          "word": " out",
+          "start": 21.84,
+          "end": 22.22,
+          "probability": 0.9980764389038086
+        },
+        {
+          "word": " here",
+          "start": 22.22,
+          "end": 22.4,
+          "probability": 0.9897940158843994
+        },
+        {
+          "word": " really",
+          "start": 22.4,
+          "end": 22.62,
+          "probability": 0.9641188383102417
+        },
+        {
+          "word": " to",
+          "start": 22.62,
+          "end": 22.8,
+          "probability": 0.9965478777885437
+        },
+        {
+          "word": " help",
+          "start": 22.8,
+          "end": 23.02,
+          "probability": 0.9997932314872742
+        },
+        {
+          "word": " us.",
+          "start": 23.02,
+          "end": 23.28,
+          "probability": 0.9992720484733582
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 23.44,
+      "end": 28.34,
+      "text": " And I called every agency in the world to seek some support, resources, capital and direction.",
+      "tokens": [
+        51530,
+        400,
+        286,
+        1219,
+        633,
+        7934,
+        294,
+        264,
+        1002,
+        281,
+        8075,
+        512,
+        1406,
+        11,
+        3593,
+        11,
+        4238,
+        293,
+        3513,
+        13,
+        51784
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1932580178244072,
+      "compression_ratio": 1.570469798657718,
+      "no_speech_prob": 2.1174739479185023e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 23.44,
+          "end": 23.58,
+          "probability": 0.9893137812614441
+        },
+        {
+          "word": " I",
+          "start": 23.58,
+          "end": 23.8,
+          "probability": 0.9981306195259094
+        },
+        {
+          "word": " called",
+          "start": 23.8,
+          "end": 24.06,
+          "probability": 0.8008407354354858
+        },
+        {
+          "word": " every",
+          "start": 24.06,
+          "end": 24.3,
+          "probability": 0.9994385838508606
+        },
+        {
+          "word": " agency",
+          "start": 24.3,
+          "end": 24.74,
+          "probability": 0.9994722008705139
+        },
+        {
+          "word": " in",
+          "start": 24.74,
+          "end": 24.94,
+          "probability": 0.9974206686019897
+        },
+        {
+          "word": " the",
+          "start": 24.94,
+          "end": 25.02,
+          "probability": 0.9997349381446838
+        },
+        {
+          "word": " world",
+          "start": 25.02,
+          "end": 25.22,
+          "probability": 0.9993917942047119
+        },
+        {
+          "word": " to",
+          "start": 25.22,
+          "end": 25.42,
+          "probability": 0.9984966516494751
+        },
+        {
+          "word": " seek",
+          "start": 25.42,
+          "end": 25.68,
+          "probability": 0.9183589220046997
+        },
+        {
+          "word": " some",
+          "start": 25.68,
+          "end": 26.08,
+          "probability": 0.9915931224822998
+        },
+        {
+          "word": " support,",
+          "start": 26.08,
+          "end": 26.54,
+          "probability": 0.9984124898910522
+        },
+        {
+          "word": " resources,",
+          "start": 26.58,
+          "end": 27.06,
+          "probability": 0.9963382482528687
+        },
+        {
+          "word": " capital",
+          "start": 27.32,
+          "end": 27.62,
+          "probability": 0.996886670589447
+        },
+        {
+          "word": " and",
+          "start": 27.62,
+          "end": 27.9,
+          "probability": 0.6112375855445862
+        },
+        {
+          "word": " direction.",
+          "start": 27.9,
+          "end": 28.34,
+          "probability": 0.9992450475692749
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2834,
+      "start": 28.34,
+      "end": 29.96,
+      "text": " And that did not exist.",
+      "tokens": [
+        50365,
+        400,
+        300,
+        630,
+        406,
+        2514,
+        13,
+        50450
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2837030264047476,
+      "compression_ratio": 1.4472049689440993,
+      "no_speech_prob": 1.1831236945009094e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 28.34,
+          "end": 28.98,
+          "probability": 0.172569140791893
+        },
+        {
+          "word": " that",
+          "start": 28.98,
+          "end": 29.18,
+          "probability": 0.9952399730682373
+        },
+        {
+          "word": " did",
+          "start": 29.18,
+          "end": 29.38,
+          "probability": 0.9992074370384216
+        },
+        {
+          "word": " not",
+          "start": 29.38,
+          "end": 29.54,
+          "probability": 0.9997574687004089
+        },
+        {
+          "word": " exist.",
+          "start": 29.54,
+          "end": 29.96,
+          "probability": 0.9993662238121033
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2834,
+      "start": 30.24,
+      "end": 36.62,
+      "text": " And so I did everything ground up grassroots on my own with my husband and my children, just trying to figure things out.",
+      "tokens": [
+        50468,
+        400,
+        370,
+        286,
+        630,
+        1203,
+        2727,
+        493,
+        39522,
+        322,
+        452,
+        1065,
+        365,
+        452,
+        5213,
+        293,
+        452,
+        2227,
+        11,
+        445,
+        1382,
+        281,
+        2573,
+        721,
+        484,
+        13,
+        50781
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2837030264047476,
+      "compression_ratio": 1.4472049689440993,
+      "no_speech_prob": 1.1831236945009094e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 30.24,
+          "end": 30.48,
+          "probability": 0.981282114982605
+        },
+        {
+          "word": " so",
+          "start": 30.48,
+          "end": 30.6,
+          "probability": 0.999248206615448
+        },
+        {
+          "word": " I",
+          "start": 30.6,
+          "end": 30.72,
+          "probability": 0.9586551189422607
+        },
+        {
+          "word": " did",
+          "start": 30.72,
+          "end": 30.86,
+          "probability": 0.9999322891235352
+        },
+        {
+          "word": " everything",
+          "start": 30.86,
+          "end": 31.36,
+          "probability": 0.9995049238204956
+        },
+        {
+          "word": " ground",
+          "start": 31.36,
+          "end": 31.8,
+          "probability": 0.6473481059074402
+        },
+        {
+          "word": " up",
+          "start": 31.8,
+          "end": 32.08,
+          "probability": 0.9816077947616577
+        },
+        {
+          "word": " grassroots",
+          "start": 32.08,
+          "end": 32.6,
+          "probability": 0.20217359066009521
+        },
+        {
+          "word": " on",
+          "start": 32.6,
+          "end": 33.06,
+          "probability": 0.899860143661499
+        },
+        {
+          "word": " my",
+          "start": 33.06,
+          "end": 33.24,
+          "probability": 0.9999344348907471
+        },
+        {
+          "word": " own",
+          "start": 33.24,
+          "end": 33.44,
+          "probability": 0.9992651343345642
+        },
+        {
+          "word": " with",
+          "start": 33.44,
+          "end": 33.66,
+          "probability": 0.9896450042724609
+        },
+        {
+          "word": " my",
+          "start": 33.66,
+          "end": 33.82,
+          "probability": 0.999942421913147
+        },
+        {
+          "word": " husband",
+          "start": 33.82,
+          "end": 34.14,
+          "probability": 0.9998007416725159
+        },
+        {
+          "word": " and",
+          "start": 34.14,
+          "end": 34.3,
+          "probability": 0.9991752505302429
+        },
+        {
+          "word": " my",
+          "start": 34.3,
+          "end": 34.4,
+          "probability": 0.9997087121009827
+        },
+        {
+          "word": " children,",
+          "start": 34.4,
+          "end": 34.74,
+          "probability": 0.9994262456893921
+        },
+        {
+          "word": " just",
+          "start": 35.02,
+          "end": 35.32,
+          "probability": 0.99969482421875
+        },
+        {
+          "word": " trying",
+          "start": 35.32,
+          "end": 35.56,
+          "probability": 0.9999351501464844
+        },
+        {
+          "word": " to",
+          "start": 35.56,
+          "end": 35.74,
+          "probability": 0.9999889135360718
+        },
+        {
+          "word": " figure",
+          "start": 35.74,
+          "end": 35.98,
+          "probability": 0.9998456239700317
+        },
+        {
+          "word": " things",
+          "start": 35.98,
+          "end": 36.36,
+          "probability": 0.9996693134307861
+        },
+        {
+          "word": " out.",
+          "start": 36.36,
+          "end": 36.62,
+          "probability": 0.9999727010726929
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2834,
+      "start": 36.78,
+      "end": 38.56,
+      "text": " And that's how this kitchen came about.",
+      "tokens": [
+        50789,
+        400,
+        300,
+        311,
+        577,
+        341,
+        6525,
+        1361,
+        466,
+        13,
+        50878
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2837030264047476,
+      "compression_ratio": 1.4472049689440993,
+      "no_speech_prob": 1.1831236945009094e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 36.78,
+          "end": 37.08,
+          "probability": 0.9997202754020691
+        },
+        {
+          "word": " that's",
+          "start": 37.08,
+          "end": 37.32,
+          "probability": 0.9998877644538879
+        },
+        {
+          "word": " how",
+          "start": 37.32,
+          "end": 37.42,
+          "probability": 0.9998776912689209
+        },
+        {
+          "word": " this",
+          "start": 37.42,
+          "end": 37.6,
+          "probability": 0.9860082268714905
+        },
+        {
+          "word": " kitchen",
+          "start": 37.6,
+          "end": 37.94,
+          "probability": 0.9790400266647339
+        },
+        {
+          "word": " came",
+          "start": 37.94,
+          "end": 38.24,
+          "probability": 0.999491810798645
+        },
+        {
+          "word": " about.",
+          "start": 38.24,
+          "end": 38.56,
+          "probability": 0.9991169571876526
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2834,
+      "start": 38.9,
+      "end": 39.92,
+      "text": " Thank you so much.",
+      "tokens": [
+        50905,
+        1044,
+        291,
+        370,
+        709,
+        13,
+        50945
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2837030264047476,
+      "compression_ratio": 1.4472049689440993,
+      "no_speech_prob": 1.1831236945009094e-12,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 38.9,
+          "end": 39.42,
+          "probability": 0.9882296323776245
+        },
+        {
+          "word": " you",
+          "start": 39.42,
+          "end": 39.56,
+          "probability": 0.9999607801437378
+        },
+        {
+          "word": " so",
+          "start": 39.56,
+          "end": 39.68,
+          "probability": 0.99562007188797
+        },
+        {
+          "word": " much.",
+          "start": 39.68,
+          "end": 39.92,
+          "probability": 0.9999837875366211
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2834,
+      "start": 40.02,
+      "end": 40.52,
+      "text": " Thank you.",
+      "tokens": [
+        50950,
+        1044,
+        291,
+        13,
+        50973
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2837030264047476,
+      "compression_ratio": 1.4472049689440993,
+      "no_speech_prob": 1.1831236945009094e-12,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 40.02,
+          "end": 40.16,
+          "probability": 0.6444123983383179
+        },
+        {
+          "word": " you.",
+          "start": 40.16,
+          "end": 40.52,
+          "probability": 0.9998714923858643
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2834,
+      "start": 40.9,
+      "end": 42.24,
+      "text": " I appreciate you.",
+      "tokens": [
+        50992,
+        286,
+        4449,
+        291,
+        13,
+        51060
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2837030264047476,
+      "compression_ratio": 1.4472049689440993,
+      "no_speech_prob": 1.1831236945009094e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 40.9,
+          "end": 41.42,
+          "probability": 0.905101478099823
+        },
+        {
+          "word": " appreciate",
+          "start": 41.42,
+          "end": 41.8,
+          "probability": 0.9989309906959534
+        },
+        {
+          "word": " you.",
+          "start": 41.8,
+          "end": 42.24,
+          "probability": 0.883750855922699
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

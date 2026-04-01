@@ -1,0 +1,406 @@
+{
+  "text": " playut nuevo un grupo mas can lecture natu es cierto que cada uno que ha perdido quarta v Australia We're spirits! We'll be right back. We'll be right back.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.96,
+      "text": " playut nuevo",
+      "tokens": [
+        50375,
+        862,
+        325,
+        18591,
+        50465
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " playut",
+          "start": 0.0,
+          "end": 1.82,
+          "probability": 1.0492881187929015e-05
+        },
+        {
+          "word": " nuevo",
+          "start": 1.82,
+          "end": 1.96,
+          "probability": 2.5635541533119977e-05
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.96,
+      "end": 4.8,
+      "text": " un grupo mas",
+      "tokens": [
+        50465,
+        517,
+        20190,
+        2300,
+        50605
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " un",
+          "start": 1.96,
+          "end": 3.06,
+          "probability": 0.011892605572938919
+        },
+        {
+          "word": " grupo",
+          "start": 3.06,
+          "end": 3.06,
+          "probability": 0.017628485336899757
+        },
+        {
+          "word": " mas",
+          "start": 3.06,
+          "end": 4.8,
+          "probability": 0.002388005144894123
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 19.22,
+      "end": 19.4,
+      "text": " can lecture",
+      "tokens": [
+        50605,
+        393,
+        7991,
+        50709
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " can",
+          "start": 19.22,
+          "end": 19.26,
+          "probability": 0.00212202244438231
+        },
+        {
+          "word": " lecture",
+          "start": 19.26,
+          "end": 19.4,
+          "probability": 2.1449936866702046e-06
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.4,
+      "end": 20.4,
+      "text": " natu es cierto",
+      "tokens": [
+        50709,
+        2249,
+        84,
+        785,
+        28558,
+        50765
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " natu",
+          "start": 19.4,
+          "end": 19.4,
+          "probability": 0.008489836487569846
+        },
+        {
+          "word": " es",
+          "start": 19.4,
+          "end": 19.98,
+          "probability": 0.0024501539301127195
+        },
+        {
+          "word": " cierto",
+          "start": 19.98,
+          "end": 20.4,
+          "probability": 0.0012132712872698903
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 20.4,
+      "end": 27.92,
+      "text": " que cada uno que ha perdido",
+      "tokens": [
+        50765,
+        631,
+        8411,
+        8526,
+        631,
+        324,
+        12611,
+        2925,
+        50849
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " que",
+          "start": 20.4,
+          "end": 20.76,
+          "probability": 0.4039779305458069
+        },
+        {
+          "word": " cada",
+          "start": 20.76,
+          "end": 20.76,
+          "probability": 0.0011821296066045761
+        },
+        {
+          "word": " uno",
+          "start": 20.76,
+          "end": 22.4,
+          "probability": 0.2351212203502655
+        },
+        {
+          "word": " que",
+          "start": 22.4,
+          "end": 27.92,
+          "probability": 0.16359910368919373
+        },
+        {
+          "word": " ha",
+          "start": 27.92,
+          "end": 27.92,
+          "probability": 0.029575582593679428
+        },
+        {
+          "word": " perdido",
+          "start": 27.92,
+          "end": 27.92,
+          "probability": 0.49781263730255887
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 27.92,
+      "end": 28.64,
+      "text": " quarta",
+      "tokens": [
+        50849,
+        421,
+        19061,
+        50878
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " quarta",
+          "start": 27.92,
+          "end": 28.64,
+          "probability": 0.004658321391616482
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 28.64,
+      "end": 28.72,
+      "text": " v",
+      "tokens": [
+        50878,
+        371,
+        51758
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " v",
+          "start": 28.64,
+          "end": 28.72,
+          "probability": 0.0018562417244538665
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 28.72,
+      "end": 28.78,
+      "text": " Australia",
+      "tokens": [
+        51758,
+        7060,
+        51802
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.8102833817644814,
+      "compression_ratio": 1.2222222222222223,
+      "no_speech_prob": 2.7712224875964253e-11,
+      "words": [
+        {
+          "word": " Australia",
+          "start": 28.72,
+          "end": 28.78,
+          "probability": 3.270397428423166e-05
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2878,
+      "start": 28.78,
+      "end": 38.76,
+      "text": " We're spirits!",
+      "tokens": [
+        50365,
+        492,
+        434,
+        16388,
+        0,
+        51515
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -3.1500403881073,
+      "compression_ratio": 0.6363636363636364,
+      "no_speech_prob": 1.693616948073018e-11,
+      "words": [
+        {
+          "word": " We're",
+          "start": 28.78,
+          "end": 29.66,
+          "probability": 0.13683125004172325
+        },
+        {
+          "word": " spirits!",
+          "start": 29.66,
+          "end": 38.76,
+          "probability": 6.0930806284886785e-06
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 3876,
+      "start": 45.66,
+      "end": 46.7,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.5194565455118815,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 3.531100412068611e-11,
+      "words": [
+        {
+          "word": " We'll",
+          "start": 45.66,
+          "end": 46.18,
+          "probability": 0.28376652766019106
+        },
+        {
+          "word": " be",
+          "start": 46.18,
+          "end": 46.18,
+          "probability": 0.8179904222488403
+        },
+        {
+          "word": " right",
+          "start": 46.18,
+          "end": 46.52,
+          "probability": 0.8870108723640442
+        },
+        {
+          "word": " back.",
+          "start": 46.52,
+          "end": 46.7,
+          "probability": 0.9904314875602722
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6876,
+      "start": 69.62,
+      "end": 71.8,
+      "text": " We'll be right back.",
+      "tokens": [
+        50365,
+        492,
+        603,
+        312,
+        558,
+        646,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13469743728637695,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 9.746154404355334e-12,
+      "words": [
+        {
+          "word": " We'll",
+          "start": 69.62,
+          "end": 70.7,
+          "probability": 0.3071207944303751
+        },
+        {
+          "word": " be",
+          "start": 70.7,
+          "end": 71.64,
+          "probability": 0.562080979347229
+        },
+        {
+          "word": " right",
+          "start": 71.64,
+          "end": 71.66,
+          "probability": 0.8369964957237244
+        },
+        {
+          "word": " back.",
+          "start": 71.66,
+          "end": 71.8,
+          "probability": 0.9943923354148865
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

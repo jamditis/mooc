@@ -1,0 +1,30 @@
+{
+  "text": " Intro",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.2,
+      "text": " Intro",
+      "tokens": [
+        50365,
+        47406,
+        50866
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.7698129415512085,
+      "compression_ratio": 0.38461538461538464,
+      "no_speech_prob": 2.3672511173522537e-10,
+      "words": [
+        {
+          "word": " Intro",
+          "start": 0.0,
+          "end": 1.2,
+          "probability": 0.005555117968469858
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,749 @@
+{
+  "text": " How are you? Thank you for coming. Please begin right now. So one thing I can tell my landlord? Consider the fact that we are human beings. Our building is falling apart. You know we don't have working elevators consistently and I have like multiple disabled neighbors on my floor and so it's really difficult for them. I feel that the landlords are using institutional guarantors to discriminate against gig workers, people who don't have traditional jobs. Someone needs a sticker for the people and that's why I'm here.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 6.12,
+      "text": " How are you? Thank you for coming. Please begin right now. So one thing I can tell my landlord?",
+      "tokens": [
+        50365,
+        1012,
+        366,
+        291,
+        30,
+        1044,
+        291,
+        337,
+        1348,
+        13,
+        2555,
+        1841,
+        558,
+        586,
+        13,
+        407,
+        472,
+        551,
+        286,
+        393,
+        980,
+        452,
+        32654,
+        30,
+        50669
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08921366875324774,
+      "compression_ratio": 1.6220735785953178,
+      "no_speech_prob": 2.004529788685039e-12,
+      "words": [
+        {
+          "word": " How",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.7105795741081238
+        },
+        {
+          "word": " are",
+          "start": 0.22,
+          "end": 0.38,
+          "probability": 0.9981216788291931
+        },
+        {
+          "word": " you?",
+          "start": 0.38,
+          "end": 0.58,
+          "probability": 0.9988352656364441
+        },
+        {
+          "word": " Thank",
+          "start": 1.6,
+          "end": 1.92,
+          "probability": 0.976869523525238
+        },
+        {
+          "word": " you",
+          "start": 1.92,
+          "end": 2.06,
+          "probability": 0.9993896484375
+        },
+        {
+          "word": " for",
+          "start": 2.06,
+          "end": 2.2,
+          "probability": 0.9792361855506897
+        },
+        {
+          "word": " coming.",
+          "start": 2.2,
+          "end": 2.46,
+          "probability": 0.9925118684768677
+        },
+        {
+          "word": " Please",
+          "start": 2.94,
+          "end": 3.24,
+          "probability": 0.896087646484375
+        },
+        {
+          "word": " begin",
+          "start": 3.24,
+          "end": 3.5,
+          "probability": 0.7475107312202454
+        },
+        {
+          "word": " right",
+          "start": 3.5,
+          "end": 3.7,
+          "probability": 0.9993671774864197
+        },
+        {
+          "word": " now.",
+          "start": 3.7,
+          "end": 3.94,
+          "probability": 0.9997805953025818
+        },
+        {
+          "word": " So",
+          "start": 4.1,
+          "end": 4.34,
+          "probability": 0.9922671914100647
+        },
+        {
+          "word": " one",
+          "start": 4.34,
+          "end": 4.8,
+          "probability": 0.63736492395401
+        },
+        {
+          "word": " thing",
+          "start": 4.8,
+          "end": 5.02,
+          "probability": 0.9998379945755005
+        },
+        {
+          "word": " I",
+          "start": 5.02,
+          "end": 5.16,
+          "probability": 0.9977149963378906
+        },
+        {
+          "word": " can",
+          "start": 5.16,
+          "end": 5.28,
+          "probability": 0.8917496800422668
+        },
+        {
+          "word": " tell",
+          "start": 5.28,
+          "end": 5.46,
+          "probability": 0.9998799562454224
+        },
+        {
+          "word": " my",
+          "start": 5.46,
+          "end": 5.66,
+          "probability": 0.9994646906852722
+        },
+        {
+          "word": " landlord?",
+          "start": 5.66,
+          "end": 6.12,
+          "probability": 0.9667791128158569
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 6.3,
+      "end": 11.04,
+      "text": " Consider the fact that we are human beings. Our building is falling apart. You know we don't have",
+      "tokens": [
+        50684,
+        17416,
+        264,
+        1186,
+        300,
+        321,
+        366,
+        1952,
+        8958,
+        13,
+        2621,
+        2390,
+        307,
+        7440,
+        4936,
+        13,
+        509,
+        458,
+        321,
+        500,
+        380,
+        362,
+        50918
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08921366875324774,
+      "compression_ratio": 1.6220735785953178,
+      "no_speech_prob": 2.004529788685039e-12,
+      "words": [
+        {
+          "word": " Consider",
+          "start": 6.3,
+          "end": 6.72,
+          "probability": 0.9949000477790833
+        },
+        {
+          "word": " the",
+          "start": 6.72,
+          "end": 6.94,
+          "probability": 0.9991601705551147
+        },
+        {
+          "word": " fact",
+          "start": 6.94,
+          "end": 7.16,
+          "probability": 0.9998114705085754
+        },
+        {
+          "word": " that",
+          "start": 7.16,
+          "end": 7.34,
+          "probability": 0.9997605681419373
+        },
+        {
+          "word": " we",
+          "start": 7.34,
+          "end": 7.56,
+          "probability": 0.9998264908790588
+        },
+        {
+          "word": " are",
+          "start": 7.56,
+          "end": 7.84,
+          "probability": 0.9995991587638855
+        },
+        {
+          "word": " human",
+          "start": 7.84,
+          "end": 8.18,
+          "probability": 0.9795712232589722
+        },
+        {
+          "word": " beings.",
+          "start": 8.18,
+          "end": 8.46,
+          "probability": 0.9961584210395813
+        },
+        {
+          "word": " Our",
+          "start": 8.8,
+          "end": 8.98,
+          "probability": 0.9974314570426941
+        },
+        {
+          "word": " building",
+          "start": 8.98,
+          "end": 9.34,
+          "probability": 0.9973383545875549
+        },
+        {
+          "word": " is",
+          "start": 9.34,
+          "end": 9.52,
+          "probability": 0.9988160133361816
+        },
+        {
+          "word": " falling",
+          "start": 9.52,
+          "end": 9.8,
+          "probability": 0.9995711445808411
+        },
+        {
+          "word": " apart.",
+          "start": 9.8,
+          "end": 10.26,
+          "probability": 0.9999853372573853
+        },
+        {
+          "word": " You",
+          "start": 10.44,
+          "end": 10.6,
+          "probability": 0.8501396775245667
+        },
+        {
+          "word": " know",
+          "start": 10.6,
+          "end": 10.62,
+          "probability": 0.9999574422836304
+        },
+        {
+          "word": " we",
+          "start": 10.62,
+          "end": 10.74,
+          "probability": 0.12591053545475006
+        },
+        {
+          "word": " don't",
+          "start": 10.74,
+          "end": 10.88,
+          "probability": 0.9993694722652435
+        },
+        {
+          "word": " have",
+          "start": 10.88,
+          "end": 11.04,
+          "probability": 0.9997376799583435
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.04,
+      "end": 16.66,
+      "text": " working elevators consistently and I have like multiple disabled neighbors on my floor and so",
+      "tokens": [
+        50918,
+        1364,
+        7701,
+        3391,
+        14961,
+        293,
+        286,
+        362,
+        411,
+        3866,
+        15191,
+        12512,
+        322,
+        452,
+        4123,
+        293,
+        370,
+        51199
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08921366875324774,
+      "compression_ratio": 1.6220735785953178,
+      "no_speech_prob": 2.004529788685039e-12,
+      "words": [
+        {
+          "word": " working",
+          "start": 11.04,
+          "end": 11.34,
+          "probability": 0.9986608028411865
+        },
+        {
+          "word": " elevators",
+          "start": 11.34,
+          "end": 11.92,
+          "probability": 0.9994104504585266
+        },
+        {
+          "word": " consistently",
+          "start": 11.92,
+          "end": 12.46,
+          "probability": 0.9944887161254883
+        },
+        {
+          "word": " and",
+          "start": 12.46,
+          "end": 12.86,
+          "probability": 0.9108287692070007
+        },
+        {
+          "word": " I",
+          "start": 12.86,
+          "end": 12.98,
+          "probability": 0.9826631546020508
+        },
+        {
+          "word": " have",
+          "start": 12.98,
+          "end": 13.2,
+          "probability": 0.9992849230766296
+        },
+        {
+          "word": " like",
+          "start": 13.2,
+          "end": 13.4,
+          "probability": 0.9602552056312561
+        },
+        {
+          "word": " multiple",
+          "start": 13.4,
+          "end": 13.9,
+          "probability": 0.982989490032196
+        },
+        {
+          "word": " disabled",
+          "start": 13.9,
+          "end": 14.56,
+          "probability": 0.9912473559379578
+        },
+        {
+          "word": " neighbors",
+          "start": 14.56,
+          "end": 15.74,
+          "probability": 0.9674573540687561
+        },
+        {
+          "word": " on",
+          "start": 15.74,
+          "end": 15.98,
+          "probability": 0.9990690350532532
+        },
+        {
+          "word": " my",
+          "start": 15.98,
+          "end": 16.12,
+          "probability": 0.999213695526123
+        },
+        {
+          "word": " floor",
+          "start": 16.12,
+          "end": 16.4,
+          "probability": 0.9995323419570923
+        },
+        {
+          "word": " and",
+          "start": 16.4,
+          "end": 16.6,
+          "probability": 0.5462479591369629
+        },
+        {
+          "word": " so",
+          "start": 16.6,
+          "end": 16.66,
+          "probability": 0.9929395914077759
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.66,
+      "end": 21.06,
+      "text": " it's really difficult for them. I feel that the landlords are using institutional guarantors to",
+      "tokens": [
+        51199,
+        309,
+        311,
+        534,
+        2252,
+        337,
+        552,
+        13,
+        286,
+        841,
+        300,
+        264,
+        48787,
+        366,
+        1228,
+        18391,
+        7498,
+        394,
+        830,
+        281,
+        51421
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08921366875324774,
+      "compression_ratio": 1.6220735785953178,
+      "no_speech_prob": 2.004529788685039e-12,
+      "words": [
+        {
+          "word": " it's",
+          "start": 16.66,
+          "end": 16.78,
+          "probability": 0.9967447221279144
+        },
+        {
+          "word": " really",
+          "start": 16.78,
+          "end": 16.96,
+          "probability": 0.9996665716171265
+        },
+        {
+          "word": " difficult",
+          "start": 16.96,
+          "end": 17.3,
+          "probability": 0.9997318387031555
+        },
+        {
+          "word": " for",
+          "start": 17.3,
+          "end": 17.56,
+          "probability": 0.9990100860595703
+        },
+        {
+          "word": " them.",
+          "start": 17.56,
+          "end": 17.72,
+          "probability": 0.9997997879981995
+        },
+        {
+          "word": " I",
+          "start": 17.84,
+          "end": 17.96,
+          "probability": 0.9992052912712097
+        },
+        {
+          "word": " feel",
+          "start": 17.96,
+          "end": 18.22,
+          "probability": 0.9997492432594299
+        },
+        {
+          "word": " that",
+          "start": 18.22,
+          "end": 18.4,
+          "probability": 0.9894421100616455
+        },
+        {
+          "word": " the",
+          "start": 18.4,
+          "end": 18.56,
+          "probability": 0.9985289573669434
+        },
+        {
+          "word": " landlords",
+          "start": 18.56,
+          "end": 18.96,
+          "probability": 0.997314989566803
+        },
+        {
+          "word": " are",
+          "start": 18.96,
+          "end": 19.2,
+          "probability": 0.9990156888961792
+        },
+        {
+          "word": " using",
+          "start": 19.2,
+          "end": 19.5,
+          "probability": 0.9736086130142212
+        },
+        {
+          "word": " institutional",
+          "start": 19.5,
+          "end": 20.3,
+          "probability": 0.9960364699363708
+        },
+        {
+          "word": " guarantors",
+          "start": 20.3,
+          "end": 20.86,
+          "probability": 0.949751079082489
+        },
+        {
+          "word": " to",
+          "start": 20.86,
+          "end": 21.06,
+          "probability": 0.9974799752235413
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 21.06,
+      "end": 27.08,
+      "text": " discriminate against gig workers, people who don't have traditional jobs. Someone needs a sticker for",
+      "tokens": [
+        51421,
+        47833,
+        1970,
+        8741,
+        5600,
+        11,
+        561,
+        567,
+        500,
+        380,
+        362,
+        5164,
+        4782,
+        13,
+        8734,
+        2203,
+        257,
+        20400,
+        337,
+        51723
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.08921366875324774,
+      "compression_ratio": 1.6220735785953178,
+      "no_speech_prob": 2.004529788685039e-12,
+      "words": [
+        {
+          "word": " discriminate",
+          "start": 21.06,
+          "end": 21.62,
+          "probability": 0.9989404082298279
+        },
+        {
+          "word": " against",
+          "start": 21.62,
+          "end": 22.4,
+          "probability": 0.9972688555717468
+        },
+        {
+          "word": " gig",
+          "start": 22.4,
+          "end": 22.72,
+          "probability": 0.994017481803894
+        },
+        {
+          "word": " workers,",
+          "start": 22.72,
+          "end": 23.18,
+          "probability": 0.9996519088745117
+        },
+        {
+          "word": " people",
+          "start": 23.48,
+          "end": 23.9,
+          "probability": 0.9380685091018677
+        },
+        {
+          "word": " who",
+          "start": 23.9,
+          "end": 24.12,
+          "probability": 0.9992305040359497
+        },
+        {
+          "word": " don't",
+          "start": 24.12,
+          "end": 24.4,
+          "probability": 0.9996521174907684
+        },
+        {
+          "word": " have",
+          "start": 24.4,
+          "end": 24.64,
+          "probability": 0.9998000264167786
+        },
+        {
+          "word": " traditional",
+          "start": 24.64,
+          "end": 25.16,
+          "probability": 0.9810086488723755
+        },
+        {
+          "word": " jobs.",
+          "start": 25.16,
+          "end": 25.7,
+          "probability": 0.997500479221344
+        },
+        {
+          "word": " Someone",
+          "start": 25.86,
+          "end": 26.12,
+          "probability": 0.9952247142791748
+        },
+        {
+          "word": " needs",
+          "start": 26.12,
+          "end": 26.4,
+          "probability": 0.9989812970161438
+        },
+        {
+          "word": " a",
+          "start": 26.4,
+          "end": 26.52,
+          "probability": 0.771981418132782
+        },
+        {
+          "word": " sticker",
+          "start": 26.52,
+          "end": 26.8,
+          "probability": 0.9829970598220825
+        },
+        {
+          "word": " for",
+          "start": 26.8,
+          "end": 27.08,
+          "probability": 0.9996047616004944
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2708,
+      "start": 27.08,
+      "end": 28.78,
+      "text": " the people and that's why I'm here.",
+      "tokens": [
+        50365,
+        264,
+        561,
+        293,
+        300,
+        311,
+        983,
+        286,
+        478,
+        510,
+        13,
+        50451
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.02379330534201402,
+      "compression_ratio": 0.813953488372093,
+      "no_speech_prob": 2.7790345979300524e-12,
+      "words": [
+        {
+          "word": " the",
+          "start": 27.08,
+          "end": 27.46,
+          "probability": 0.8659296631813049
+        },
+        {
+          "word": " people",
+          "start": 27.46,
+          "end": 27.76,
+          "probability": 0.997873067855835
+        },
+        {
+          "word": " and",
+          "start": 27.76,
+          "end": 27.98,
+          "probability": 0.5380398035049438
+        },
+        {
+          "word": " that's",
+          "start": 27.98,
+          "end": 28.24,
+          "probability": 0.9979488551616669
+        },
+        {
+          "word": " why",
+          "start": 28.24,
+          "end": 28.36,
+          "probability": 0.9994826316833496
+        },
+        {
+          "word": " I'm",
+          "start": 28.36,
+          "end": 28.52,
+          "probability": 0.9468076825141907
+        },
+        {
+          "word": " here.",
+          "start": 28.52,
+          "end": 28.78,
+          "probability": 0.9997022747993469
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

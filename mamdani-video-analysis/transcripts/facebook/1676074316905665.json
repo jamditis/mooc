@@ -1,0 +1,2873 @@
+{
+  "text": " There are over 1 million rent-stabilized apartments in New York City. Have you ever wondered how those rents get raised and why? Well, here's what you should know. Here in New York City, we have something called the Rent Guidelines Board. This board, it's not a game. It's how rents get decided for more than 2 million New Yorkers. I appointed six members of the Rent Guidelines Board earlier this year. They're an independent body that considers the evidence when they make their decision. This week, the RGB will start hearing from a range of experts, dig into the data, and begin forming their preliminary recommendation. They'll look at factors like cost of living, cost of operating housing, insurance, and interest rates. This process started today with their first report, which showed that buildings with rent-stabilized apartments saw their revenue increase by more than 6% last year. Then, on May 7th, they'll vote on a range of possible changes to your rent. But that's only the first move. Now it's your turn. Soon, the RGB will hold public hearings, and they want to hear from both tenants and landlords. If you're a tenant, it's important the RGB hears from you on how a rent hike, or lack thereof, would affect you. And if you're a landlord, the RGB wants to know the costs that go into owning or operating a rent-stabilized building, such as insurance, maintenance, or anything else. After that, they'll hold hearings across the city in June. And in a few weeks, they'll announce the dates and locations of these hearings at nyc.gov forward slash RGB. Lastly, early this summer, the RGB will release its official and binding rent adjustment for rent-stabilized units for next year. You probably know how I feel about what should happen to the rent, but this is a chance to have your voices heard by the people who make the final decision. Your turn, New York City. All right.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.02,
+      "text": " There are over 1 million rent-stabilized apartments in New York City.",
+      "tokens": [
+        50365,
+        821,
+        366,
+        670,
+        502,
+        2459,
+        6214,
+        12,
+        372,
+        5177,
+        1602,
+        29056,
+        294,
+        1873,
+        3609,
+        4392,
+        13,
+        50517
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " There",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.8877798914909363
+        },
+        {
+          "word": " are",
+          "start": 0.28,
+          "end": 0.42,
+          "probability": 0.9866407513618469
+        },
+        {
+          "word": " over",
+          "start": 0.42,
+          "end": 0.6,
+          "probability": 0.9717442989349365
+        },
+        {
+          "word": " 1",
+          "start": 0.6,
+          "end": 0.98,
+          "probability": 0.6272016763687134
+        },
+        {
+          "word": " million",
+          "start": 0.98,
+          "end": 1.34,
+          "probability": 0.9587017893791199
+        },
+        {
+          "word": " rent",
+          "start": 1.34,
+          "end": 1.56,
+          "probability": 0.9751904606819153
+        },
+        {
+          "word": "-stabilized",
+          "start": 1.56,
+          "end": 2.04,
+          "probability": 0.9079420417547226
+        },
+        {
+          "word": " apartments",
+          "start": 2.04,
+          "end": 2.34,
+          "probability": 0.8469391465187073
+        },
+        {
+          "word": " in",
+          "start": 2.34,
+          "end": 2.58,
+          "probability": 0.9951836466789246
+        },
+        {
+          "word": " New",
+          "start": 2.58,
+          "end": 2.7,
+          "probability": 0.8188572525978088
+        },
+        {
+          "word": " York",
+          "start": 2.7,
+          "end": 2.8,
+          "probability": 0.9990257024765015
+        },
+        {
+          "word": " City.",
+          "start": 2.8,
+          "end": 3.02,
+          "probability": 0.992335855960846
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.26,
+      "end": 5.72,
+      "text": " Have you ever wondered how those rents get raised and why?",
+      "tokens": [
+        50534,
+        3560,
+        291,
+        1562,
+        17055,
+        577,
+        729,
+        6214,
+        82,
+        483,
+        6005,
+        293,
+        983,
+        30,
+        50652
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " Have",
+          "start": 3.26,
+          "end": 3.52,
+          "probability": 0.988102376461029
+        },
+        {
+          "word": " you",
+          "start": 3.52,
+          "end": 3.58,
+          "probability": 0.99912029504776
+        },
+        {
+          "word": " ever",
+          "start": 3.58,
+          "end": 3.74,
+          "probability": 0.9922401905059814
+        },
+        {
+          "word": " wondered",
+          "start": 3.74,
+          "end": 4.04,
+          "probability": 0.9984261989593506
+        },
+        {
+          "word": " how",
+          "start": 4.04,
+          "end": 4.24,
+          "probability": 0.9843669533729553
+        },
+        {
+          "word": " those",
+          "start": 4.24,
+          "end": 4.46,
+          "probability": 0.9495807886123657
+        },
+        {
+          "word": " rents",
+          "start": 4.46,
+          "end": 4.74,
+          "probability": 0.9980892241001129
+        },
+        {
+          "word": " get",
+          "start": 4.74,
+          "end": 4.86,
+          "probability": 0.995078444480896
+        },
+        {
+          "word": " raised",
+          "start": 4.86,
+          "end": 5.22,
+          "probability": 0.996791422367096
+        },
+        {
+          "word": " and",
+          "start": 5.22,
+          "end": 5.48,
+          "probability": 0.6994757056236267
+        },
+        {
+          "word": " why?",
+          "start": 5.48,
+          "end": 5.72,
+          "probability": 0.997523844242096
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.98,
+      "end": 6.98,
+      "text": " Well, here's what you should know.",
+      "tokens": [
+        50669,
+        1042,
+        11,
+        510,
+        311,
+        437,
+        291,
+        820,
+        458,
+        13,
+        50716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " Well,",
+          "start": 5.98,
+          "end": 6.24,
+          "probability": 0.8545182943344116
+        },
+        {
+          "word": " here's",
+          "start": 6.32,
+          "end": 6.46,
+          "probability": 0.9829145073890686
+        },
+        {
+          "word": " what",
+          "start": 6.46,
+          "end": 6.56,
+          "probability": 0.9982643723487854
+        },
+        {
+          "word": " you",
+          "start": 6.56,
+          "end": 6.66,
+          "probability": 0.9992527365684509
+        },
+        {
+          "word": " should",
+          "start": 6.66,
+          "end": 6.8,
+          "probability": 0.9987092018127441
+        },
+        {
+          "word": " know.",
+          "start": 6.8,
+          "end": 6.98,
+          "probability": 0.998984158039093
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 7.24,
+      "end": 10.06,
+      "text": " Here in New York City, we have something called the Rent Guidelines Board.",
+      "tokens": [
+        50728,
+        1692,
+        294,
+        1873,
+        3609,
+        4392,
+        11,
+        321,
+        362,
+        746,
+        1219,
+        264,
+        42743,
+        49036,
+        9173,
+        10008,
+        13,
+        50870
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " Here",
+          "start": 7.24,
+          "end": 7.46,
+          "probability": 0.9953336119651794
+        },
+        {
+          "word": " in",
+          "start": 7.46,
+          "end": 7.6,
+          "probability": 0.9623967409133911
+        },
+        {
+          "word": " New",
+          "start": 7.6,
+          "end": 7.72,
+          "probability": 0.9861077070236206
+        },
+        {
+          "word": " York",
+          "start": 7.72,
+          "end": 7.84,
+          "probability": 0.9992297887802124
+        },
+        {
+          "word": " City,",
+          "start": 7.84,
+          "end": 8.06,
+          "probability": 0.9949626922607422
+        },
+        {
+          "word": " we",
+          "start": 8.14,
+          "end": 8.28,
+          "probability": 0.99604731798172
+        },
+        {
+          "word": " have",
+          "start": 8.28,
+          "end": 8.42,
+          "probability": 0.9989721775054932
+        },
+        {
+          "word": " something",
+          "start": 8.42,
+          "end": 8.6,
+          "probability": 0.9988309741020203
+        },
+        {
+          "word": " called",
+          "start": 8.6,
+          "end": 8.8,
+          "probability": 0.9991027116775513
+        },
+        {
+          "word": " the",
+          "start": 8.8,
+          "end": 8.98,
+          "probability": 0.9779053330421448
+        },
+        {
+          "word": " Rent",
+          "start": 8.98,
+          "end": 9.24,
+          "probability": 0.8481664657592773
+        },
+        {
+          "word": " Guidelines",
+          "start": 9.24,
+          "end": 9.84,
+          "probability": 0.9912580847740173
+        },
+        {
+          "word": " Board.",
+          "start": 9.84,
+          "end": 10.06,
+          "probability": 0.971068799495697
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.36,
+      "end": 11.88,
+      "text": " This board, it's not a game.",
+      "tokens": [
+        50890,
+        639,
+        3150,
+        11,
+        309,
+        311,
+        406,
+        257,
+        1216,
+        13,
+        50960
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " This",
+          "start": 10.36,
+          "end": 10.68,
+          "probability": 0.9968822002410889
+        },
+        {
+          "word": " board,",
+          "start": 10.68,
+          "end": 10.92,
+          "probability": 0.9826165437698364
+        },
+        {
+          "word": " it's",
+          "start": 11.08,
+          "end": 11.48,
+          "probability": 0.99199378490448
+        },
+        {
+          "word": " not",
+          "start": 11.48,
+          "end": 11.58,
+          "probability": 0.9994413256645203
+        },
+        {
+          "word": " a",
+          "start": 11.58,
+          "end": 11.7,
+          "probability": 0.9989520311355591
+        },
+        {
+          "word": " game.",
+          "start": 11.7,
+          "end": 11.88,
+          "probability": 0.9992825388908386
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 12.08,
+      "end": 15.22,
+      "text": " It's how rents get decided for more than 2 million New Yorkers.",
+      "tokens": [
+        50981,
+        467,
+        311,
+        577,
+        6214,
+        82,
+        483,
+        3047,
+        337,
+        544,
+        813,
+        568,
+        2459,
+        1873,
+        3609,
+        433,
+        13,
+        51128
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 12.08,
+          "end": 12.44,
+          "probability": 0.9986902177333832
+        },
+        {
+          "word": " how",
+          "start": 12.44,
+          "end": 12.54,
+          "probability": 0.9993651509284973
+        },
+        {
+          "word": " rents",
+          "start": 12.54,
+          "end": 12.88,
+          "probability": 0.9986416101455688
+        },
+        {
+          "word": " get",
+          "start": 12.88,
+          "end": 13.0,
+          "probability": 0.9958129525184631
+        },
+        {
+          "word": " decided",
+          "start": 13.0,
+          "end": 13.38,
+          "probability": 0.9991188645362854
+        },
+        {
+          "word": " for",
+          "start": 13.38,
+          "end": 13.6,
+          "probability": 0.9596686959266663
+        },
+        {
+          "word": " more",
+          "start": 13.6,
+          "end": 13.74,
+          "probability": 0.9993359446525574
+        },
+        {
+          "word": " than",
+          "start": 13.74,
+          "end": 13.86,
+          "probability": 0.9992579817771912
+        },
+        {
+          "word": " 2",
+          "start": 13.86,
+          "end": 14.18,
+          "probability": 0.8606407642364502
+        },
+        {
+          "word": " million",
+          "start": 14.18,
+          "end": 14.6,
+          "probability": 0.9931939840316772
+        },
+        {
+          "word": " New",
+          "start": 14.6,
+          "end": 14.8,
+          "probability": 0.996852695941925
+        },
+        {
+          "word": " Yorkers.",
+          "start": 14.8,
+          "end": 15.22,
+          "probability": 0.9967763721942902
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 15.44,
+      "end": 18.9,
+      "text": " I appointed six members of the Rent Guidelines Board earlier this year.",
+      "tokens": [
+        51146,
+        286,
+        17653,
+        2309,
+        2679,
+        295,
+        264,
+        42743,
+        49036,
+        9173,
+        10008,
+        3071,
+        341,
+        1064,
+        13,
+        51311
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 15.44,
+          "end": 15.72,
+          "probability": 0.99791020154953
+        },
+        {
+          "word": " appointed",
+          "start": 15.72,
+          "end": 16.04,
+          "probability": 0.9984989166259766
+        },
+        {
+          "word": " six",
+          "start": 16.04,
+          "end": 16.58,
+          "probability": 0.7826115489006042
+        },
+        {
+          "word": " members",
+          "start": 16.58,
+          "end": 16.94,
+          "probability": 0.9984917640686035
+        },
+        {
+          "word": " of",
+          "start": 16.94,
+          "end": 17.24,
+          "probability": 0.9988873600959778
+        },
+        {
+          "word": " the",
+          "start": 17.24,
+          "end": 17.34,
+          "probability": 0.9982907176017761
+        },
+        {
+          "word": " Rent",
+          "start": 17.34,
+          "end": 17.48,
+          "probability": 0.9901012182235718
+        },
+        {
+          "word": " Guidelines",
+          "start": 17.48,
+          "end": 17.9,
+          "probability": 0.9983961880207062
+        },
+        {
+          "word": " Board",
+          "start": 17.9,
+          "end": 18.08,
+          "probability": 0.947440505027771
+        },
+        {
+          "word": " earlier",
+          "start": 18.08,
+          "end": 18.46,
+          "probability": 0.9969615340232849
+        },
+        {
+          "word": " this",
+          "start": 18.46,
+          "end": 18.7,
+          "probability": 0.998902440071106
+        },
+        {
+          "word": " year.",
+          "start": 18.7,
+          "end": 18.9,
+          "probability": 0.9998980760574341
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.06,
+      "end": 21.8,
+      "text": " They're an independent body that considers the evidence when they make their decision.",
+      "tokens": [
+        51320,
+        814,
+        434,
+        364,
+        6695,
+        1772,
+        300,
+        33095,
+        264,
+        4467,
+        562,
+        436,
+        652,
+        641,
+        3537,
+        13,
+        51456
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " They're",
+          "start": 19.06,
+          "end": 19.2,
+          "probability": 0.9964669644832611
+        },
+        {
+          "word": " an",
+          "start": 19.2,
+          "end": 19.3,
+          "probability": 0.9988935589790344
+        },
+        {
+          "word": " independent",
+          "start": 19.3,
+          "end": 19.62,
+          "probability": 0.9996980428695679
+        },
+        {
+          "word": " body",
+          "start": 19.62,
+          "end": 19.94,
+          "probability": 0.999312162399292
+        },
+        {
+          "word": " that",
+          "start": 19.94,
+          "end": 20.08,
+          "probability": 0.9949647188186646
+        },
+        {
+          "word": " considers",
+          "start": 20.08,
+          "end": 20.42,
+          "probability": 0.999396800994873
+        },
+        {
+          "word": " the",
+          "start": 20.42,
+          "end": 20.58,
+          "probability": 0.9986398816108704
+        },
+        {
+          "word": " evidence",
+          "start": 20.58,
+          "end": 20.92,
+          "probability": 0.9992438554763794
+        },
+        {
+          "word": " when",
+          "start": 20.92,
+          "end": 21.1,
+          "probability": 0.9991164803504944
+        },
+        {
+          "word": " they",
+          "start": 21.1,
+          "end": 21.2,
+          "probability": 0.9995304346084595
+        },
+        {
+          "word": " make",
+          "start": 21.2,
+          "end": 21.36,
+          "probability": 0.9994791150093079
+        },
+        {
+          "word": " their",
+          "start": 21.36,
+          "end": 21.5,
+          "probability": 0.9983940720558167
+        },
+        {
+          "word": " decision.",
+          "start": 21.5,
+          "end": 21.8,
+          "probability": 0.9709455966949463
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 22.0,
+      "end": 24.62,
+      "text": " This week, the RGB will start hearing from a range of experts,",
+      "tokens": [
+        51469,
+        639,
+        1243,
+        11,
+        264,
+        31231,
+        486,
+        722,
+        4763,
+        490,
+        257,
+        3613,
+        295,
+        8572,
+        11,
+        51596
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " This",
+          "start": 22.0,
+          "end": 22.28,
+          "probability": 0.9989885687828064
+        },
+        {
+          "word": " week,",
+          "start": 22.28,
+          "end": 22.48,
+          "probability": 0.9996920824050903
+        },
+        {
+          "word": " the",
+          "start": 22.58,
+          "end": 22.66,
+          "probability": 0.998185932636261
+        },
+        {
+          "word": " RGB",
+          "start": 22.66,
+          "end": 22.96,
+          "probability": 0.8391270637512207
+        },
+        {
+          "word": " will",
+          "start": 22.96,
+          "end": 23.18,
+          "probability": 0.9982713460922241
+        },
+        {
+          "word": " start",
+          "start": 23.18,
+          "end": 23.36,
+          "probability": 0.999313235282898
+        },
+        {
+          "word": " hearing",
+          "start": 23.36,
+          "end": 23.56,
+          "probability": 0.9996359348297119
+        },
+        {
+          "word": " from",
+          "start": 23.56,
+          "end": 23.72,
+          "probability": 0.9997319579124451
+        },
+        {
+          "word": " a",
+          "start": 23.72,
+          "end": 23.88,
+          "probability": 0.9996719360351562
+        },
+        {
+          "word": " range",
+          "start": 23.88,
+          "end": 24.1,
+          "probability": 0.9992160797119141
+        },
+        {
+          "word": " of",
+          "start": 24.1,
+          "end": 24.24,
+          "probability": 0.9991944432258606
+        },
+        {
+          "word": " experts,",
+          "start": 24.24,
+          "end": 24.62,
+          "probability": 0.9990801811218262
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 24.76,
+      "end": 27.6,
+      "text": " dig into the data, and begin forming their preliminary recommendation.",
+      "tokens": [
+        51608,
+        2528,
+        666,
+        264,
+        1412,
+        11,
+        293,
+        1841,
+        15745,
+        641,
+        28817,
+        11879,
+        13,
+        51749
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.10999071903717823,
+      "compression_ratio": 1.6819407008086253,
+      "no_speech_prob": 3.774282102131377e-12,
+      "words": [
+        {
+          "word": " dig",
+          "start": 24.76,
+          "end": 24.98,
+          "probability": 0.9874790906906128
+        },
+        {
+          "word": " into",
+          "start": 24.98,
+          "end": 25.12,
+          "probability": 0.9972642660140991
+        },
+        {
+          "word": " the",
+          "start": 25.12,
+          "end": 25.26,
+          "probability": 0.9983332753181458
+        },
+        {
+          "word": " data,",
+          "start": 25.26,
+          "end": 25.52,
+          "probability": 0.999413251876831
+        },
+        {
+          "word": " and",
+          "start": 25.66,
+          "end": 25.94,
+          "probability": 0.9995248317718506
+        },
+        {
+          "word": " begin",
+          "start": 25.94,
+          "end": 26.14,
+          "probability": 0.9991862177848816
+        },
+        {
+          "word": " forming",
+          "start": 26.14,
+          "end": 26.46,
+          "probability": 0.9982929825782776
+        },
+        {
+          "word": " their",
+          "start": 26.46,
+          "end": 26.62,
+          "probability": 0.9984765648841858
+        },
+        {
+          "word": " preliminary",
+          "start": 26.62,
+          "end": 27.02,
+          "probability": 0.9975283741950989
+        },
+        {
+          "word": " recommendation.",
+          "start": 27.02,
+          "end": 27.6,
+          "probability": 0.9258691668510437
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2760,
+      "start": 28.599999999999998,
+      "end": 33.38,
+      "text": " They'll look at factors like cost of living, cost of operating housing, insurance, and interest rates.",
+      "tokens": [
+        50365,
+        814,
+        603,
+        574,
+        412,
+        6771,
+        411,
+        2063,
+        295,
+        2647,
+        11,
+        2063,
+        295,
+        7447,
+        6849,
+        11,
+        7214,
+        11,
+        293,
+        1179,
+        6846,
+        13,
+        50657
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " They'll",
+          "start": 28.599999999999998,
+          "end": 29.04,
+          "probability": 0.7798658311367035
+        },
+        {
+          "word": " look",
+          "start": 29.04,
+          "end": 29.18,
+          "probability": 0.9844724535942078
+        },
+        {
+          "word": " at",
+          "start": 29.18,
+          "end": 29.28,
+          "probability": 0.9953534603118896
+        },
+        {
+          "word": " factors",
+          "start": 29.28,
+          "end": 29.68,
+          "probability": 0.9725149869918823
+        },
+        {
+          "word": " like",
+          "start": 29.68,
+          "end": 29.9,
+          "probability": 0.9891998767852783
+        },
+        {
+          "word": " cost",
+          "start": 29.9,
+          "end": 30.18,
+          "probability": 0.9378482699394226
+        },
+        {
+          "word": " of",
+          "start": 30.18,
+          "end": 30.3,
+          "probability": 0.9085593819618225
+        },
+        {
+          "word": " living,",
+          "start": 30.3,
+          "end": 30.5,
+          "probability": 0.9977942705154419
+        },
+        {
+          "word": " cost",
+          "start": 30.78,
+          "end": 30.92,
+          "probability": 0.9666210412979126
+        },
+        {
+          "word": " of",
+          "start": 30.92,
+          "end": 31.06,
+          "probability": 0.9958136677742004
+        },
+        {
+          "word": " operating",
+          "start": 31.06,
+          "end": 31.36,
+          "probability": 0.9975810050964355
+        },
+        {
+          "word": " housing,",
+          "start": 31.36,
+          "end": 31.72,
+          "probability": 0.995010256767273
+        },
+        {
+          "word": " insurance,",
+          "start": 31.94,
+          "end": 32.48,
+          "probability": 0.9932382106781006
+        },
+        {
+          "word": " and",
+          "start": 32.74,
+          "end": 32.88,
+          "probability": 0.9973427653312683
+        },
+        {
+          "word": " interest",
+          "start": 32.88,
+          "end": 33.08,
+          "probability": 0.9953759908676147
+        },
+        {
+          "word": " rates.",
+          "start": 33.08,
+          "end": 33.38,
+          "probability": 0.9989873766899109
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2760,
+      "start": 33.6,
+      "end": 35.72,
+      "text": " This process started today with their first report,",
+      "tokens": [
+        50667,
+        639,
+        1399,
+        1409,
+        965,
+        365,
+        641,
+        700,
+        2275,
+        11,
+        50771
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " This",
+          "start": 33.6,
+          "end": 33.78,
+          "probability": 0.9610285758972168
+        },
+        {
+          "word": " process",
+          "start": 33.78,
+          "end": 34.08,
+          "probability": 0.9976018071174622
+        },
+        {
+          "word": " started",
+          "start": 34.08,
+          "end": 34.36,
+          "probability": 0.995913565158844
+        },
+        {
+          "word": " today",
+          "start": 34.36,
+          "end": 34.66,
+          "probability": 0.9926884770393372
+        },
+        {
+          "word": " with",
+          "start": 34.66,
+          "end": 34.98,
+          "probability": 0.7953862547874451
+        },
+        {
+          "word": " their",
+          "start": 34.98,
+          "end": 35.1,
+          "probability": 0.994566798210144
+        },
+        {
+          "word": " first",
+          "start": 35.1,
+          "end": 35.34,
+          "probability": 0.9915837049484253
+        },
+        {
+          "word": " report,",
+          "start": 35.34,
+          "end": 35.72,
+          "probability": 0.9885725975036621
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2760,
+      "start": 35.84,
+      "end": 40.7,
+      "text": " which showed that buildings with rent-stabilized apartments saw their revenue increase by more than 6% last year.",
+      "tokens": [
+        50786,
+        597,
+        4712,
+        300,
+        7446,
+        365,
+        6214,
+        12,
+        372,
+        5177,
+        1602,
+        29056,
+        1866,
+        641,
+        9324,
+        3488,
+        538,
+        544,
+        813,
+        1386,
+        4,
+        1036,
+        1064,
+        13,
+        51022
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " which",
+          "start": 35.84,
+          "end": 36.14,
+          "probability": 0.9926468133926392
+        },
+        {
+          "word": " showed",
+          "start": 36.14,
+          "end": 36.36,
+          "probability": 0.9873321652412415
+        },
+        {
+          "word": " that",
+          "start": 36.36,
+          "end": 36.5,
+          "probability": 0.9682307839393616
+        },
+        {
+          "word": " buildings",
+          "start": 36.5,
+          "end": 36.86,
+          "probability": 0.9814742207527161
+        },
+        {
+          "word": " with",
+          "start": 36.86,
+          "end": 37.02,
+          "probability": 0.9981624484062195
+        },
+        {
+          "word": " rent",
+          "start": 37.02,
+          "end": 37.2,
+          "probability": 0.976468563079834
+        },
+        {
+          "word": "-stabilized",
+          "start": 37.2,
+          "end": 37.66,
+          "probability": 0.9163041710853577
+        },
+        {
+          "word": " apartments",
+          "start": 37.66,
+          "end": 38.0,
+          "probability": 0.9962182641029358
+        },
+        {
+          "word": " saw",
+          "start": 38.0,
+          "end": 38.28,
+          "probability": 0.9951872825622559
+        },
+        {
+          "word": " their",
+          "start": 38.28,
+          "end": 38.42,
+          "probability": 0.9808357954025269
+        },
+        {
+          "word": " revenue",
+          "start": 38.42,
+          "end": 38.72,
+          "probability": 0.9909058809280396
+        },
+        {
+          "word": " increase",
+          "start": 38.72,
+          "end": 39.06,
+          "probability": 0.969547688961029
+        },
+        {
+          "word": " by",
+          "start": 39.06,
+          "end": 39.34,
+          "probability": 0.9957858920097351
+        },
+        {
+          "word": " more",
+          "start": 39.34,
+          "end": 39.5,
+          "probability": 0.9936404824256897
+        },
+        {
+          "word": " than",
+          "start": 39.5,
+          "end": 39.6,
+          "probability": 0.9981735944747925
+        },
+        {
+          "word": " 6",
+          "start": 39.6,
+          "end": 39.9,
+          "probability": 0.8759021759033203
+        },
+        {
+          "word": "%",
+          "start": 39.9,
+          "end": 40.18,
+          "probability": 0.8318476676940918
+        },
+        {
+          "word": " last",
+          "start": 40.18,
+          "end": 40.48,
+          "probability": 0.995072066783905
+        },
+        {
+          "word": " year.",
+          "start": 40.48,
+          "end": 40.7,
+          "probability": 0.9995005130767822
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2760,
+      "start": 40.92,
+      "end": 44.22,
+      "text": " Then, on May 7th, they'll vote on a range of possible changes to your rent.",
+      "tokens": [
+        51037,
+        1396,
+        11,
+        322,
+        1891,
+        1614,
+        392,
+        11,
+        436,
+        603,
+        4740,
+        322,
+        257,
+        3613,
+        295,
+        1944,
+        2962,
+        281,
+        428,
+        6214,
+        13,
+        51196
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " Then,",
+          "start": 40.92,
+          "end": 41.22,
+          "probability": 0.988910436630249
+        },
+        {
+          "word": " on",
+          "start": 41.38,
+          "end": 41.46,
+          "probability": 0.9963309168815613
+        },
+        {
+          "word": " May",
+          "start": 41.46,
+          "end": 41.58,
+          "probability": 0.9958643913269043
+        },
+        {
+          "word": " 7th,",
+          "start": 41.58,
+          "end": 41.96,
+          "probability": 0.8603416383266449
+        },
+        {
+          "word": " they'll",
+          "start": 42.04,
+          "end": 42.18,
+          "probability": 0.9910594820976257
+        },
+        {
+          "word": " vote",
+          "start": 42.18,
+          "end": 42.36,
+          "probability": 0.9975733160972595
+        },
+        {
+          "word": " on",
+          "start": 42.36,
+          "end": 42.46,
+          "probability": 0.9972745776176453
+        },
+        {
+          "word": " a",
+          "start": 42.46,
+          "end": 42.58,
+          "probability": 0.9980301260948181
+        },
+        {
+          "word": " range",
+          "start": 42.58,
+          "end": 42.82,
+          "probability": 0.9970766305923462
+        },
+        {
+          "word": " of",
+          "start": 42.82,
+          "end": 43.04,
+          "probability": 0.9973505735397339
+        },
+        {
+          "word": " possible",
+          "start": 43.04,
+          "end": 43.36,
+          "probability": 0.989464282989502
+        },
+        {
+          "word": " changes",
+          "start": 43.36,
+          "end": 43.66,
+          "probability": 0.9962612986564636
+        },
+        {
+          "word": " to",
+          "start": 43.66,
+          "end": 43.86,
+          "probability": 0.9973747730255127
+        },
+        {
+          "word": " your",
+          "start": 43.86,
+          "end": 43.96,
+          "probability": 0.9917032122612
+        },
+        {
+          "word": " rent.",
+          "start": 43.96,
+          "end": 44.22,
+          "probability": 0.9991558790206909
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2760,
+      "start": 45.7,
+      "end": 47.14,
+      "text": " But that's only the first move.",
+      "tokens": [
+        51271,
+        583,
+        300,
+        311,
+        787,
+        264,
+        700,
+        1286,
+        13,
+        51345
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " But",
+          "start": 45.7,
+          "end": 46.14,
+          "probability": 0.967734158039093
+        },
+        {
+          "word": " that's",
+          "start": 46.14,
+          "end": 46.34,
+          "probability": 0.9866872131824493
+        },
+        {
+          "word": " only",
+          "start": 46.34,
+          "end": 46.48,
+          "probability": 0.9958456158638
+        },
+        {
+          "word": " the",
+          "start": 46.48,
+          "end": 46.62,
+          "probability": 0.9963405728340149
+        },
+        {
+          "word": " first",
+          "start": 46.62,
+          "end": 46.82,
+          "probability": 0.9970580339431763
+        },
+        {
+          "word": " move.",
+          "start": 46.82,
+          "end": 47.14,
+          "probability": 0.9987804293632507
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2760,
+      "start": 48.52,
+      "end": 49.48,
+      "text": " Now it's your turn.",
+      "tokens": [
+        51413,
+        823,
+        309,
+        311,
+        428,
+        1261,
+        13,
+        51460
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " Now",
+          "start": 48.52,
+          "end": 48.96,
+          "probability": 0.9849633574485779
+        },
+        {
+          "word": " it's",
+          "start": 48.96,
+          "end": 49.12,
+          "probability": 0.9641250371932983
+        },
+        {
+          "word": " your",
+          "start": 49.12,
+          "end": 49.24,
+          "probability": 0.994797945022583
+        },
+        {
+          "word": " turn.",
+          "start": 49.24,
+          "end": 49.48,
+          "probability": 0.9704886674880981
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2760,
+      "start": 49.8,
+      "end": 54.6,
+      "text": " Soon, the RGB will hold public hearings, and they want to hear from both tenants and landlords.",
+      "tokens": [
+        51483,
+        17610,
+        11,
+        264,
+        31231,
+        486,
+        1797,
+        1908,
+        34052,
+        11,
+        293,
+        436,
+        528,
+        281,
+        1568,
+        490,
+        1293,
+        31216,
+        293,
+        48787,
+        13,
+        51716
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14097666546581236,
+      "compression_ratio": 1.607843137254902,
+      "no_speech_prob": 1.854214047927738e-12,
+      "words": [
+        {
+          "word": " Soon,",
+          "start": 49.8,
+          "end": 50.16,
+          "probability": 0.9891373515129089
+        },
+        {
+          "word": " the",
+          "start": 50.3,
+          "end": 50.32,
+          "probability": 0.9949382543563843
+        },
+        {
+          "word": " RGB",
+          "start": 50.32,
+          "end": 50.6,
+          "probability": 0.8258061408996582
+        },
+        {
+          "word": " will",
+          "start": 50.6,
+          "end": 50.88,
+          "probability": 0.9795494675636292
+        },
+        {
+          "word": " hold",
+          "start": 50.88,
+          "end": 51.02,
+          "probability": 0.997087299823761
+        },
+        {
+          "word": " public",
+          "start": 51.02,
+          "end": 51.32,
+          "probability": 0.9971275925636292
+        },
+        {
+          "word": " hearings,",
+          "start": 51.32,
+          "end": 51.64,
+          "probability": 0.9972001314163208
+        },
+        {
+          "word": " and",
+          "start": 51.8,
+          "end": 52.02,
+          "probability": 0.9968848824501038
+        },
+        {
+          "word": " they",
+          "start": 52.02,
+          "end": 52.1,
+          "probability": 0.9972104430198669
+        },
+        {
+          "word": " want",
+          "start": 52.1,
+          "end": 52.2,
+          "probability": 0.9460124969482422
+        },
+        {
+          "word": " to",
+          "start": 52.2,
+          "end": 52.28,
+          "probability": 0.9980968832969666
+        },
+        {
+          "word": " hear",
+          "start": 52.28,
+          "end": 52.38,
+          "probability": 0.9989796280860901
+        },
+        {
+          "word": " from",
+          "start": 52.38,
+          "end": 52.54,
+          "probability": 0.9955477714538574
+        },
+        {
+          "word": " both",
+          "start": 52.54,
+          "end": 52.7,
+          "probability": 0.986756443977356
+        },
+        {
+          "word": " tenants",
+          "start": 52.7,
+          "end": 53.24,
+          "probability": 0.9602578282356262
+        },
+        {
+          "word": " and",
+          "start": 53.24,
+          "end": 54.22,
+          "probability": 0.9247622489929199
+        },
+        {
+          "word": " landlords.",
+          "start": 54.22,
+          "end": 54.6,
+          "probability": 0.9977641105651855
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 5460,
+      "start": 54.6,
+      "end": 59.66,
+      "text": " If you're a tenant, it's important the RGB hears from you on how a rent hike, or lack thereof, would affect you.",
+      "tokens": [
+        50365,
+        759,
+        291,
+        434,
+        257,
+        31000,
+        11,
+        309,
+        311,
+        1021,
+        264,
+        31231,
+        25688,
+        490,
+        291,
+        322,
+        577,
+        257,
+        6214,
+        23282,
+        11,
+        420,
+        5011,
+        456,
+        2670,
+        11,
+        576,
+        3345,
+        291,
+        13,
+        50620
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1120756589449369,
+      "compression_ratio": 1.6691449814126393,
+      "no_speech_prob": 2.184819382702874e-12,
+      "words": [
+        {
+          "word": " If",
+          "start": 54.6,
+          "end": 55.18,
+          "probability": 0.7968162894248962
+        },
+        {
+          "word": " you're",
+          "start": 55.18,
+          "end": 55.34,
+          "probability": 0.9226875305175781
+        },
+        {
+          "word": " a",
+          "start": 55.34,
+          "end": 55.4,
+          "probability": 0.9949775338172913
+        },
+        {
+          "word": " tenant,",
+          "start": 55.4,
+          "end": 55.6,
+          "probability": 0.9925098419189453
+        },
+        {
+          "word": " it's",
+          "start": 55.96,
+          "end": 56.02,
+          "probability": 0.9744148850440979
+        },
+        {
+          "word": " important",
+          "start": 56.02,
+          "end": 56.3,
+          "probability": 0.9976463913917542
+        },
+        {
+          "word": " the",
+          "start": 56.3,
+          "end": 56.46,
+          "probability": 0.9129102230072021
+        },
+        {
+          "word": " RGB",
+          "start": 56.46,
+          "end": 56.74,
+          "probability": 0.7994573712348938
+        },
+        {
+          "word": " hears",
+          "start": 56.74,
+          "end": 57.0,
+          "probability": 0.9889839291572571
+        },
+        {
+          "word": " from",
+          "start": 57.0,
+          "end": 57.2,
+          "probability": 0.9966427087783813
+        },
+        {
+          "word": " you",
+          "start": 57.2,
+          "end": 57.32,
+          "probability": 0.9967741370201111
+        },
+        {
+          "word": " on",
+          "start": 57.32,
+          "end": 57.48,
+          "probability": 0.9590713977813721
+        },
+        {
+          "word": " how",
+          "start": 57.48,
+          "end": 57.58,
+          "probability": 0.9982351064682007
+        },
+        {
+          "word": " a",
+          "start": 57.58,
+          "end": 57.72,
+          "probability": 0.9376665949821472
+        },
+        {
+          "word": " rent",
+          "start": 57.72,
+          "end": 57.88,
+          "probability": 0.9678470492362976
+        },
+        {
+          "word": " hike,",
+          "start": 57.88,
+          "end": 58.12,
+          "probability": 0.9966666102409363
+        },
+        {
+          "word": " or",
+          "start": 58.14,
+          "end": 58.36,
+          "probability": 0.9977097511291504
+        },
+        {
+          "word": " lack",
+          "start": 58.36,
+          "end": 58.58,
+          "probability": 0.935377836227417
+        },
+        {
+          "word": " thereof,",
+          "start": 58.58,
+          "end": 58.96,
+          "probability": 0.9909190535545349
+        },
+        {
+          "word": " would",
+          "start": 59.08,
+          "end": 59.24,
+          "probability": 0.9939217567443848
+        },
+        {
+          "word": " affect",
+          "start": 59.24,
+          "end": 59.44,
+          "probability": 0.9545701742172241
+        },
+        {
+          "word": " you.",
+          "start": 59.44,
+          "end": 59.66,
+          "probability": 0.9982132911682129
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5460,
+      "start": 59.82,
+      "end": 64.42,
+      "text": " And if you're a landlord, the RGB wants to know the costs that go into owning or operating a rent-stabilized building,",
+      "tokens": [
+        50631,
+        400,
+        498,
+        291,
+        434,
+        257,
+        32654,
+        11,
+        264,
+        31231,
+        2738,
+        281,
+        458,
+        264,
+        5497,
+        300,
+        352,
+        666,
+        29820,
+        420,
+        7447,
+        257,
+        6214,
+        12,
+        372,
+        5177,
+        1602,
+        2390,
+        11,
+        50857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1120756589449369,
+      "compression_ratio": 1.6691449814126393,
+      "no_speech_prob": 2.184819382702874e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 59.82,
+          "end": 60.02,
+          "probability": 0.9453566670417786
+        },
+        {
+          "word": " if",
+          "start": 60.02,
+          "end": 60.1,
+          "probability": 0.9655200242996216
+        },
+        {
+          "word": " you're",
+          "start": 60.1,
+          "end": 60.22,
+          "probability": 0.9909784197807312
+        },
+        {
+          "word": " a",
+          "start": 60.22,
+          "end": 60.28,
+          "probability": 0.992324709892273
+        },
+        {
+          "word": " landlord,",
+          "start": 60.28,
+          "end": 60.64,
+          "probability": 0.9852149486541748
+        },
+        {
+          "word": " the",
+          "start": 60.88,
+          "end": 60.94,
+          "probability": 0.9963797926902771
+        },
+        {
+          "word": " RGB",
+          "start": 60.94,
+          "end": 61.22,
+          "probability": 0.9979154467582703
+        },
+        {
+          "word": " wants",
+          "start": 61.22,
+          "end": 61.5,
+          "probability": 0.982332170009613
+        },
+        {
+          "word": " to",
+          "start": 61.5,
+          "end": 61.62,
+          "probability": 0.9978467226028442
+        },
+        {
+          "word": " know",
+          "start": 61.62,
+          "end": 61.74,
+          "probability": 0.998076319694519
+        },
+        {
+          "word": " the",
+          "start": 61.74,
+          "end": 61.86,
+          "probability": 0.9823784232139587
+        },
+        {
+          "word": " costs",
+          "start": 61.86,
+          "end": 62.18,
+          "probability": 0.6395704746246338
+        },
+        {
+          "word": " that",
+          "start": 62.18,
+          "end": 62.32,
+          "probability": 0.6321843862533569
+        },
+        {
+          "word": " go",
+          "start": 62.32,
+          "end": 62.46,
+          "probability": 0.9944623112678528
+        },
+        {
+          "word": " into",
+          "start": 62.46,
+          "end": 62.62,
+          "probability": 0.9895716905593872
+        },
+        {
+          "word": " owning",
+          "start": 62.62,
+          "end": 62.9,
+          "probability": 0.9953632354736328
+        },
+        {
+          "word": " or",
+          "start": 62.9,
+          "end": 63.1,
+          "probability": 0.964870274066925
+        },
+        {
+          "word": " operating",
+          "start": 63.1,
+          "end": 63.46,
+          "probability": 0.9983643889427185
+        },
+        {
+          "word": " a",
+          "start": 63.46,
+          "end": 63.62,
+          "probability": 0.9883059859275818
+        },
+        {
+          "word": " rent",
+          "start": 63.62,
+          "end": 63.74,
+          "probability": 0.9656638503074646
+        },
+        {
+          "word": "-stabilized",
+          "start": 63.74,
+          "end": 64.16,
+          "probability": 0.9278045743703842
+        },
+        {
+          "word": " building,",
+          "start": 64.16,
+          "end": 64.42,
+          "probability": 0.9934252500534058
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5460,
+      "start": 64.52,
+      "end": 66.76,
+      "text": " such as insurance, maintenance, or anything else.",
+      "tokens": [
+        50865,
+        1270,
+        382,
+        7214,
+        11,
+        11258,
+        11,
+        420,
+        1340,
+        1646,
+        13,
+        50974
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1120756589449369,
+      "compression_ratio": 1.6691449814126393,
+      "no_speech_prob": 2.184819382702874e-12,
+      "words": [
+        {
+          "word": " such",
+          "start": 64.52,
+          "end": 64.76,
+          "probability": 0.9812321662902832
+        },
+        {
+          "word": " as",
+          "start": 64.76,
+          "end": 64.86,
+          "probability": 0.9991559982299805
+        },
+        {
+          "word": " insurance,",
+          "start": 64.86,
+          "end": 65.28,
+          "probability": 0.9937331080436707
+        },
+        {
+          "word": " maintenance,",
+          "start": 65.5,
+          "end": 65.82,
+          "probability": 0.9983503818511963
+        },
+        {
+          "word": " or",
+          "start": 66.06,
+          "end": 66.24,
+          "probability": 0.9968247413635254
+        },
+        {
+          "word": " anything",
+          "start": 66.24,
+          "end": 66.46,
+          "probability": 0.9984183311462402
+        },
+        {
+          "word": " else.",
+          "start": 66.46,
+          "end": 66.76,
+          "probability": 0.9992305040359497
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5460,
+      "start": 68.34,
+      "end": 70.74,
+      "text": " After that, they'll hold hearings across the city in June.",
+      "tokens": [
+        51053,
+        2381,
+        300,
+        11,
+        436,
+        603,
+        1797,
+        34052,
+        2108,
+        264,
+        2307,
+        294,
+        6928,
+        13,
+        51173
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1120756589449369,
+      "compression_ratio": 1.6691449814126393,
+      "no_speech_prob": 2.184819382702874e-12,
+      "words": [
+        {
+          "word": " After",
+          "start": 68.34,
+          "end": 68.74,
+          "probability": 0.9883509874343872
+        },
+        {
+          "word": " that,",
+          "start": 68.74,
+          "end": 68.92,
+          "probability": 0.9988865256309509
+        },
+        {
+          "word": " they'll",
+          "start": 69.06,
+          "end": 69.24,
+          "probability": 0.9932088255882263
+        },
+        {
+          "word": " hold",
+          "start": 69.24,
+          "end": 69.42,
+          "probability": 0.9990488886833191
+        },
+        {
+          "word": " hearings",
+          "start": 69.42,
+          "end": 69.72,
+          "probability": 0.9911779761314392
+        },
+        {
+          "word": " across",
+          "start": 69.72,
+          "end": 69.96,
+          "probability": 0.9967215657234192
+        },
+        {
+          "word": " the",
+          "start": 69.96,
+          "end": 70.16,
+          "probability": 0.998322069644928
+        },
+        {
+          "word": " city",
+          "start": 70.16,
+          "end": 70.32,
+          "probability": 0.9601648449897766
+        },
+        {
+          "word": " in",
+          "start": 70.32,
+          "end": 70.52,
+          "probability": 0.9974337220191956
+        },
+        {
+          "word": " June.",
+          "start": 70.52,
+          "end": 70.74,
+          "probability": 0.9992530941963196
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5460,
+      "start": 70.88,
+      "end": 75.64,
+      "text": " And in a few weeks, they'll announce the dates and locations of these hearings at nyc.gov forward slash RGB.",
+      "tokens": [
+        51181,
+        400,
+        294,
+        257,
+        1326,
+        3259,
+        11,
+        436,
+        603,
+        7478,
+        264,
+        11691,
+        293,
+        9253,
+        295,
+        613,
+        34052,
+        412,
+        18052,
+        66,
+        13,
+        16089,
+        2128,
+        17330,
+        31231,
+        13,
+        51417
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1120756589449369,
+      "compression_ratio": 1.6691449814126393,
+      "no_speech_prob": 2.184819382702874e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 70.88,
+          "end": 71.04,
+          "probability": 0.9873112440109253
+        },
+        {
+          "word": " in",
+          "start": 71.04,
+          "end": 71.14,
+          "probability": 0.9739949107170105
+        },
+        {
+          "word": " a",
+          "start": 71.14,
+          "end": 71.24,
+          "probability": 0.9983639121055603
+        },
+        {
+          "word": " few",
+          "start": 71.24,
+          "end": 71.36,
+          "probability": 0.9991794228553772
+        },
+        {
+          "word": " weeks,",
+          "start": 71.36,
+          "end": 71.58,
+          "probability": 0.9997538924217224
+        },
+        {
+          "word": " they'll",
+          "start": 71.7,
+          "end": 71.8,
+          "probability": 0.9989562630653381
+        },
+        {
+          "word": " announce",
+          "start": 71.8,
+          "end": 72.04,
+          "probability": 0.9983165264129639
+        },
+        {
+          "word": " the",
+          "start": 72.04,
+          "end": 72.16,
+          "probability": 0.9972553849220276
+        },
+        {
+          "word": " dates",
+          "start": 72.16,
+          "end": 72.4,
+          "probability": 0.9989842772483826
+        },
+        {
+          "word": " and",
+          "start": 72.4,
+          "end": 72.56,
+          "probability": 0.9991967082023621
+        },
+        {
+          "word": " locations",
+          "start": 72.56,
+          "end": 72.94,
+          "probability": 0.9965081810951233
+        },
+        {
+          "word": " of",
+          "start": 72.94,
+          "end": 73.12,
+          "probability": 0.9967061877250671
+        },
+        {
+          "word": " these",
+          "start": 73.12,
+          "end": 73.22,
+          "probability": 0.9966939687728882
+        },
+        {
+          "word": " hearings",
+          "start": 73.22,
+          "end": 73.52,
+          "probability": 0.998879611492157
+        },
+        {
+          "word": " at",
+          "start": 73.52,
+          "end": 73.82,
+          "probability": 0.9823567867279053
+        },
+        {
+          "word": " nyc",
+          "start": 73.82,
+          "end": 74.26,
+          "probability": 0.9605233669281006
+        },
+        {
+          "word": ".gov",
+          "start": 74.26,
+          "end": 74.7,
+          "probability": 0.9984304010868073
+        },
+        {
+          "word": " forward",
+          "start": 74.7,
+          "end": 75.02,
+          "probability": 0.028887202963232994
+        },
+        {
+          "word": " slash",
+          "start": 75.02,
+          "end": 75.28,
+          "probability": 0.9896934628486633
+        },
+        {
+          "word": " RGB.",
+          "start": 75.28,
+          "end": 75.64,
+          "probability": 0.6864244937896729
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 7564,
+      "start": 75.64,
+      "end": 82.4,
+      "text": " Lastly, early this summer, the RGB will release its official and binding rent adjustment for rent-stabilized units for next year.",
+      "tokens": [
+        50365,
+        18072,
+        11,
+        2440,
+        341,
+        4266,
+        11,
+        264,
+        31231,
+        486,
+        4374,
+        1080,
+        4783,
+        293,
+        17359,
+        6214,
+        17132,
+        337,
+        6214,
+        12,
+        372,
+        5177,
+        1602,
+        6815,
+        337,
+        958,
+        1064,
+        13,
+        50704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1415782036719384,
+      "compression_ratio": 1.4377880184331797,
+      "no_speech_prob": 2.1588150104362436e-12,
+      "words": [
+        {
+          "word": " Lastly,",
+          "start": 75.64,
+          "end": 76.38,
+          "probability": 0.8986392021179199
+        },
+        {
+          "word": " early",
+          "start": 76.66,
+          "end": 77.0,
+          "probability": 0.9839349389076233
+        },
+        {
+          "word": " this",
+          "start": 77.0,
+          "end": 77.2,
+          "probability": 0.9908847212791443
+        },
+        {
+          "word": " summer,",
+          "start": 77.2,
+          "end": 77.46,
+          "probability": 0.988840639591217
+        },
+        {
+          "word": " the",
+          "start": 77.6,
+          "end": 77.62,
+          "probability": 0.9926055669784546
+        },
+        {
+          "word": " RGB",
+          "start": 77.62,
+          "end": 77.94,
+          "probability": 0.9662917852401733
+        },
+        {
+          "word": " will",
+          "start": 77.94,
+          "end": 78.2,
+          "probability": 0.9896001815795898
+        },
+        {
+          "word": " release",
+          "start": 78.2,
+          "end": 78.48,
+          "probability": 0.9978027939796448
+        },
+        {
+          "word": " its",
+          "start": 78.48,
+          "end": 78.62,
+          "probability": 0.9733917117118835
+        },
+        {
+          "word": " official",
+          "start": 78.62,
+          "end": 79.1,
+          "probability": 0.9919543862342834
+        },
+        {
+          "word": " and",
+          "start": 79.1,
+          "end": 79.48,
+          "probability": 0.6720248460769653
+        },
+        {
+          "word": " binding",
+          "start": 79.48,
+          "end": 79.92,
+          "probability": 0.9963944554328918
+        },
+        {
+          "word": " rent",
+          "start": 79.92,
+          "end": 80.24,
+          "probability": 0.9426500797271729
+        },
+        {
+          "word": " adjustment",
+          "start": 80.24,
+          "end": 80.64,
+          "probability": 0.9785768985748291
+        },
+        {
+          "word": " for",
+          "start": 80.64,
+          "end": 80.9,
+          "probability": 0.9975268244743347
+        },
+        {
+          "word": " rent",
+          "start": 80.9,
+          "end": 81.06,
+          "probability": 0.9663088321685791
+        },
+        {
+          "word": "-stabilized",
+          "start": 81.06,
+          "end": 81.6,
+          "probability": 0.9005927890539169
+        },
+        {
+          "word": " units",
+          "start": 81.6,
+          "end": 81.84,
+          "probability": 0.9982492923736572
+        },
+        {
+          "word": " for",
+          "start": 81.84,
+          "end": 82.0,
+          "probability": 0.9945070147514343
+        },
+        {
+          "word": " next",
+          "start": 82.0,
+          "end": 82.18,
+          "probability": 0.9971343278884888
+        },
+        {
+          "word": " year.",
+          "start": 82.18,
+          "end": 82.4,
+          "probability": 0.9996993541717529
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 7564,
+      "start": 82.6,
+      "end": 85.04,
+      "text": " You probably know how I feel about what should happen to the rent,",
+      "tokens": [
+        50718,
+        509,
+        1391,
+        458,
+        577,
+        286,
+        841,
+        466,
+        437,
+        820,
+        1051,
+        281,
+        264,
+        6214,
+        11,
+        50836
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1415782036719384,
+      "compression_ratio": 1.4377880184331797,
+      "no_speech_prob": 2.1588150104362436e-12,
+      "words": [
+        {
+          "word": " You",
+          "start": 82.6,
+          "end": 82.84,
+          "probability": 0.9951867461204529
+        },
+        {
+          "word": " probably",
+          "start": 82.84,
+          "end": 83.08,
+          "probability": 0.9983665347099304
+        },
+        {
+          "word": " know",
+          "start": 83.08,
+          "end": 83.28,
+          "probability": 0.9990050196647644
+        },
+        {
+          "word": " how",
+          "start": 83.28,
+          "end": 83.42,
+          "probability": 0.9988001585006714
+        },
+        {
+          "word": " I",
+          "start": 83.42,
+          "end": 83.6,
+          "probability": 0.998242974281311
+        },
+        {
+          "word": " feel",
+          "start": 83.6,
+          "end": 83.86,
+          "probability": 0.999426007270813
+        },
+        {
+          "word": " about",
+          "start": 83.86,
+          "end": 84.16,
+          "probability": 0.9981227517127991
+        },
+        {
+          "word": " what",
+          "start": 84.16,
+          "end": 84.34,
+          "probability": 0.9989019632339478
+        },
+        {
+          "word": " should",
+          "start": 84.34,
+          "end": 84.46,
+          "probability": 0.9989641904830933
+        },
+        {
+          "word": " happen",
+          "start": 84.46,
+          "end": 84.66,
+          "probability": 0.9991065859794617
+        },
+        {
+          "word": " to",
+          "start": 84.66,
+          "end": 84.78,
+          "probability": 0.9976745247840881
+        },
+        {
+          "word": " the",
+          "start": 84.78,
+          "end": 84.86,
+          "probability": 0.9972659349441528
+        },
+        {
+          "word": " rent,",
+          "start": 84.86,
+          "end": 85.04,
+          "probability": 0.9963665008544922
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 7564,
+      "start": 85.14,
+      "end": 88.58,
+      "text": " but this is a chance to have your voices heard by the people who make the final decision.",
+      "tokens": [
+        50846,
+        457,
+        341,
+        307,
+        257,
+        2931,
+        281,
+        362,
+        428,
+        9802,
+        2198,
+        538,
+        264,
+        561,
+        567,
+        652,
+        264,
+        2572,
+        3537,
+        13,
+        51014
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1415782036719384,
+      "compression_ratio": 1.4377880184331797,
+      "no_speech_prob": 2.1588150104362436e-12,
+      "words": [
+        {
+          "word": " but",
+          "start": 85.14,
+          "end": 85.4,
+          "probability": 0.9982544779777527
+        },
+        {
+          "word": " this",
+          "start": 85.4,
+          "end": 85.54,
+          "probability": 0.999135434627533
+        },
+        {
+          "word": " is",
+          "start": 85.54,
+          "end": 85.64,
+          "probability": 0.998062789440155
+        },
+        {
+          "word": " a",
+          "start": 85.64,
+          "end": 85.74,
+          "probability": 0.858856201171875
+        },
+        {
+          "word": " chance",
+          "start": 85.74,
+          "end": 85.96,
+          "probability": 0.9992121458053589
+        },
+        {
+          "word": " to",
+          "start": 85.96,
+          "end": 86.12,
+          "probability": 0.999442994594574
+        },
+        {
+          "word": " have",
+          "start": 86.12,
+          "end": 86.22,
+          "probability": 0.9990253448486328
+        },
+        {
+          "word": " your",
+          "start": 86.22,
+          "end": 86.34,
+          "probability": 0.9984686970710754
+        },
+        {
+          "word": " voices",
+          "start": 86.34,
+          "end": 86.68,
+          "probability": 0.9963812232017517
+        },
+        {
+          "word": " heard",
+          "start": 86.68,
+          "end": 87.02,
+          "probability": 0.9996058344841003
+        },
+        {
+          "word": " by",
+          "start": 87.02,
+          "end": 87.28,
+          "probability": 0.9980046153068542
+        },
+        {
+          "word": " the",
+          "start": 87.28,
+          "end": 87.36,
+          "probability": 0.9940008521080017
+        },
+        {
+          "word": " people",
+          "start": 87.36,
+          "end": 87.52,
+          "probability": 0.9994615912437439
+        },
+        {
+          "word": " who",
+          "start": 87.52,
+          "end": 87.64,
+          "probability": 0.9959976673126221
+        },
+        {
+          "word": " make",
+          "start": 87.64,
+          "end": 87.76,
+          "probability": 0.9851440787315369
+        },
+        {
+          "word": " the",
+          "start": 87.76,
+          "end": 87.88,
+          "probability": 0.9979096055030823
+        },
+        {
+          "word": " final",
+          "start": 87.88,
+          "end": 88.18,
+          "probability": 0.9981746673583984
+        },
+        {
+          "word": " decision.",
+          "start": 88.18,
+          "end": 88.58,
+          "probability": 0.996383547782898
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 7564,
+      "start": 89.04,
+      "end": 90.2,
+      "text": " Your turn, New York City.",
+      "tokens": [
+        51036,
+        2260,
+        1261,
+        11,
+        1873,
+        3609,
+        4392,
+        13,
+        51094
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1415782036719384,
+      "compression_ratio": 1.4377880184331797,
+      "no_speech_prob": 2.1588150104362436e-12,
+      "words": [
+        {
+          "word": " Your",
+          "start": 89.04,
+          "end": 89.46,
+          "probability": 0.9875543713569641
+        },
+        {
+          "word": " turn,",
+          "start": 89.46,
+          "end": 89.7,
+          "probability": 0.9991918206214905
+        },
+        {
+          "word": " New",
+          "start": 89.8,
+          "end": 89.86,
+          "probability": 0.983244001865387
+        },
+        {
+          "word": " York",
+          "start": 89.86,
+          "end": 89.98,
+          "probability": 0.9994097948074341
+        },
+        {
+          "word": " City.",
+          "start": 89.98,
+          "end": 90.2,
+          "probability": 0.9985871315002441
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 9020,
+      "start": 90.2,
+      "end": 94.16,
+      "text": " All right.",
+      "tokens": [
+        50365,
+        1057,
+        558,
+        13,
+        50367
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.3072253068288167,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.611358442510369e-11,
+      "words": [
+        {
+          "word": " All",
+          "start": 90.2,
+          "end": 90.7,
+          "probability": 0.0073139602318406105
+        },
+        {
+          "word": " right.",
+          "start": 90.7,
+          "end": 94.16,
+          "probability": 0.9290177226066589
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

@@ -1,0 +1,2740 @@
+{
+  "text": " What's our wages? Our wages! Contracts! No pockets! I don't know, but I've been told! Bosses' pockets are lined with gold! Bosses' pockets are lined with gold! Lies and tricks will not divide! Our district will not divide! They've stalled on negotiations. They won't agree to the last portion of our contract, which is liberal wage increases, better staffing. And there's a lot of unfair labor practice in advance. There's 700 pending, 400 LAD files. The most in any corporation. Which is quite astonishing. And you were talking about they're changing your hours without notice. Yeah, scheduling, predictability, there's none of that. I mean, for a company to have a record number of unfair labor practices is quite striking. They've been trying to stop us at every turn and changing our hours of operation. They've been closing hundreds of stores down with no notice. We're understaffed. We're doing the work of like two or more people. It's workers like us who kind of fuel other workers with the drinks that we make and the coffee that we provide. Yes, I couldn't function without your coffee. Agreed. Thank you. Really. It's about labor being treated fairly. It's about workers being treated fairly. And it's about affordability. And it's about supporting workers. It's a privilege actually to be with you and to listen to you and to be part of your fight. Right now. No contract, No Coffee. No contract, No coffee. No contract, No coffee. No contract, No coffee. No contract, No coffee. No contract, No contract, No coffee. I",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.26,
+      "text": " What's our wages?",
+      "tokens": [
+        50365,
+        708,
+        311,
+        527,
+        20097,
+        30,
+        50439
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " What's",
+          "start": 0.0,
+          "end": 0.42,
+          "probability": 0.45940993167459965
+        },
+        {
+          "word": " our",
+          "start": 0.42,
+          "end": 0.66,
+          "probability": 0.489626944065094
+        },
+        {
+          "word": " wages?",
+          "start": 0.66,
+          "end": 1.26,
+          "probability": 0.9852402210235596
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.5,
+      "end": 2.1,
+      "text": " Our wages!",
+      "tokens": [
+        50439,
+        2621,
+        20097,
+        0,
+        50505
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " Our",
+          "start": 1.5,
+          "end": 1.76,
+          "probability": 0.4502990245819092
+        },
+        {
+          "word": " wages!",
+          "start": 1.76,
+          "end": 2.1,
+          "probability": 0.04552976414561272
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.14,
+      "end": 3.7,
+      "text": " Contracts!",
+      "tokens": [
+        50505,
+        44659,
+        82,
+        0,
+        50551
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " Contracts!",
+          "start": 3.14,
+          "end": 3.7,
+          "probability": 0.5394708216190338
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.7,
+      "end": 4.52,
+      "text": " No pockets!",
+      "tokens": [
+        50551,
+        883,
+        16491,
+        0,
+        50603
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 3.7,
+          "end": 3.96,
+          "probability": 0.38290488719940186
+        },
+        {
+          "word": " pockets!",
+          "start": 3.96,
+          "end": 4.52,
+          "probability": 0.7754888534545898
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 5.28,
+      "end": 7.66,
+      "text": " I don't know, but I've been told!",
+      "tokens": [
+        50603,
+        286,
+        500,
+        380,
+        458,
+        11,
+        457,
+        286,
+        600,
+        668,
+        1907,
+        0,
+        50759
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 5.28,
+          "end": 5.64,
+          "probability": 0.5641284584999084
+        },
+        {
+          "word": " don't",
+          "start": 5.64,
+          "end": 6.02,
+          "probability": 0.9911360740661621
+        },
+        {
+          "word": " know,",
+          "start": 6.02,
+          "end": 6.42,
+          "probability": 0.996525228023529
+        },
+        {
+          "word": " but",
+          "start": 6.5,
+          "end": 6.72,
+          "probability": 0.9862834215164185
+        },
+        {
+          "word": " I've",
+          "start": 6.72,
+          "end": 7.1,
+          "probability": 0.9696910679340363
+        },
+        {
+          "word": " been",
+          "start": 7.1,
+          "end": 7.28,
+          "probability": 0.9981775283813477
+        },
+        {
+          "word": " told!",
+          "start": 7.28,
+          "end": 7.66,
+          "probability": 0.9661739468574524
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 7.92,
+      "end": 10.22,
+      "text": " Bosses' pockets are lined with gold!",
+      "tokens": [
+        50759,
+        15215,
+        279,
+        6,
+        16491,
+        366,
+        17189,
+        365,
+        3821,
+        0,
+        50885
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " Bosses'",
+          "start": 7.92,
+          "end": 8.48,
+          "probability": 0.8304194808006287
+        },
+        {
+          "word": " pockets",
+          "start": 8.58,
+          "end": 8.82,
+          "probability": 0.9844455122947693
+        },
+        {
+          "word": " are",
+          "start": 8.82,
+          "end": 9.2,
+          "probability": 0.9913382530212402
+        },
+        {
+          "word": " lined",
+          "start": 9.2,
+          "end": 9.48,
+          "probability": 0.7322500944137573
+        },
+        {
+          "word": " with",
+          "start": 9.48,
+          "end": 9.82,
+          "probability": 0.998785674571991
+        },
+        {
+          "word": " gold!",
+          "start": 9.82,
+          "end": 10.22,
+          "probability": 0.804713785648346
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 10.44,
+      "end": 12.66,
+      "text": " Bosses' pockets are lined with gold!",
+      "tokens": [
+        50885,
+        15215,
+        279,
+        6,
+        16491,
+        366,
+        17189,
+        365,
+        3821,
+        0,
+        51009
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " Bosses'",
+          "start": 10.44,
+          "end": 10.96,
+          "probability": 0.994208574295044
+        },
+        {
+          "word": " pockets",
+          "start": 11.1,
+          "end": 11.3,
+          "probability": 0.9947499632835388
+        },
+        {
+          "word": " are",
+          "start": 11.3,
+          "end": 11.66,
+          "probability": 0.998761773109436
+        },
+        {
+          "word": " lined",
+          "start": 11.66,
+          "end": 11.96,
+          "probability": 0.9975528120994568
+        },
+        {
+          "word": " with",
+          "start": 11.96,
+          "end": 12.32,
+          "probability": 0.9974107146263123
+        },
+        {
+          "word": " gold!",
+          "start": 12.32,
+          "end": 12.66,
+          "probability": 0.9997144341468811
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 12.82,
+      "end": 14.98,
+      "text": " Lies and tricks will not divide!",
+      "tokens": [
+        51009,
+        441,
+        530,
+        293,
+        11733,
+        486,
+        406,
+        9845,
+        0,
+        51141
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " Lies",
+          "start": 12.82,
+          "end": 13.3,
+          "probability": 0.9412685036659241
+        },
+        {
+          "word": " and",
+          "start": 13.3,
+          "end": 13.52,
+          "probability": 0.9927102327346802
+        },
+        {
+          "word": " tricks",
+          "start": 13.52,
+          "end": 13.76,
+          "probability": 0.9212026596069336
+        },
+        {
+          "word": " will",
+          "start": 13.76,
+          "end": 14.1,
+          "probability": 0.9888672232627869
+        },
+        {
+          "word": " not",
+          "start": 14.1,
+          "end": 14.44,
+          "probability": 0.998873770236969
+        },
+        {
+          "word": " divide!",
+          "start": 14.44,
+          "end": 14.98,
+          "probability": 0.9586338400840759
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 15.54,
+      "end": 16.76,
+      "text": " Our district will not divide!",
+      "tokens": [
+        51141,
+        2621,
+        6566,
+        486,
+        406,
+        9845,
+        0,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " Our",
+          "start": 15.54,
+          "end": 15.7,
+          "probability": 0.06397436559200287
+        },
+        {
+          "word": " district",
+          "start": 15.7,
+          "end": 16.04,
+          "probability": 0.15457269549369812
+        },
+        {
+          "word": " will",
+          "start": 16.04,
+          "end": 16.5,
+          "probability": 0.3773346543312073
+        },
+        {
+          "word": " not",
+          "start": 16.5,
+          "end": 16.76,
+          "probability": 0.16136498749256134
+        },
+        {
+          "word": " divide!",
+          "start": 16.76,
+          "end": 16.76,
+          "probability": 0.6651425361633301
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 16.9,
+      "end": 18.26,
+      "text": " They've stalled on negotiations.",
+      "tokens": [
+        51215,
+        814,
+        600,
+        342,
+        8907,
+        322,
+        20476,
+        13,
+        51301
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " They've",
+          "start": 16.9,
+          "end": 17.28,
+          "probability": 0.8950353264808655
+        },
+        {
+          "word": " stalled",
+          "start": 17.28,
+          "end": 17.5,
+          "probability": 0.9815543591976166
+        },
+        {
+          "word": " on",
+          "start": 17.5,
+          "end": 17.64,
+          "probability": 0.9485024809837341
+        },
+        {
+          "word": " negotiations.",
+          "start": 17.64,
+          "end": 18.26,
+          "probability": 0.9776526689529419
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 18.36,
+      "end": 21.0,
+      "text": " They won't agree to the last portion of our contract,",
+      "tokens": [
+        51301,
+        814,
+        1582,
+        380,
+        3986,
+        281,
+        264,
+        1036,
+        8044,
+        295,
+        527,
+        4364,
+        11,
+        51427
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " They",
+          "start": 18.36,
+          "end": 18.92,
+          "probability": 0.8883247375488281
+        },
+        {
+          "word": " won't",
+          "start": 18.92,
+          "end": 19.2,
+          "probability": 0.9959321916103363
+        },
+        {
+          "word": " agree",
+          "start": 19.2,
+          "end": 19.48,
+          "probability": 0.992176353931427
+        },
+        {
+          "word": " to",
+          "start": 19.48,
+          "end": 19.6,
+          "probability": 0.9933746457099915
+        },
+        {
+          "word": " the",
+          "start": 19.6,
+          "end": 19.72,
+          "probability": 0.9933063387870789
+        },
+        {
+          "word": " last",
+          "start": 19.72,
+          "end": 19.96,
+          "probability": 0.9990181922912598
+        },
+        {
+          "word": " portion",
+          "start": 19.96,
+          "end": 20.3,
+          "probability": 0.9951317310333252
+        },
+        {
+          "word": " of",
+          "start": 20.3,
+          "end": 20.46,
+          "probability": 0.9990445971488953
+        },
+        {
+          "word": " our",
+          "start": 20.46,
+          "end": 20.56,
+          "probability": 0.9983885288238525
+        },
+        {
+          "word": " contract,",
+          "start": 20.56,
+          "end": 21.0,
+          "probability": 0.9939862489700317
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 21.26,
+      "end": 23.64,
+      "text": " which is liberal wage increases, better staffing.",
+      "tokens": [
+        51427,
+        597,
+        307,
+        13767,
+        15444,
+        8637,
+        11,
+        1101,
+        38918,
+        13,
+        51561
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " which",
+          "start": 21.26,
+          "end": 21.38,
+          "probability": 0.9960786700248718
+        },
+        {
+          "word": " is",
+          "start": 21.38,
+          "end": 21.5,
+          "probability": 0.9958415627479553
+        },
+        {
+          "word": " liberal",
+          "start": 21.5,
+          "end": 21.82,
+          "probability": 0.2828406095504761
+        },
+        {
+          "word": " wage",
+          "start": 21.82,
+          "end": 22.26,
+          "probability": 0.9668160080909729
+        },
+        {
+          "word": " increases,",
+          "start": 22.26,
+          "end": 22.72,
+          "probability": 0.9947214126586914
+        },
+        {
+          "word": " better",
+          "start": 22.94,
+          "end": 23.1,
+          "probability": 0.99623042345047
+        },
+        {
+          "word": " staffing.",
+          "start": 23.1,
+          "end": 23.64,
+          "probability": 0.9987102746963501
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 23.92,
+      "end": 26.2,
+      "text": " And there's a lot of unfair labor practice in advance.",
+      "tokens": [
+        51561,
+        400,
+        456,
+        311,
+        257,
+        688,
+        295,
+        17019,
+        5938,
+        3124,
+        294,
+        7295,
+        13,
+        51689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 23.92,
+          "end": 24.08,
+          "probability": 0.4266711473464966
+        },
+        {
+          "word": " there's",
+          "start": 24.08,
+          "end": 24.28,
+          "probability": 0.9946602582931519
+        },
+        {
+          "word": " a",
+          "start": 24.28,
+          "end": 24.38,
+          "probability": 0.9987542629241943
+        },
+        {
+          "word": " lot",
+          "start": 24.38,
+          "end": 24.46,
+          "probability": 0.9997633099555969
+        },
+        {
+          "word": " of",
+          "start": 24.46,
+          "end": 24.58,
+          "probability": 0.99613356590271
+        },
+        {
+          "word": " unfair",
+          "start": 24.58,
+          "end": 24.88,
+          "probability": 0.9974333643913269
+        },
+        {
+          "word": " labor",
+          "start": 24.88,
+          "end": 25.14,
+          "probability": 0.9021314978599548
+        },
+        {
+          "word": " practice",
+          "start": 25.14,
+          "end": 25.56,
+          "probability": 0.8437281847000122
+        },
+        {
+          "word": " in",
+          "start": 25.56,
+          "end": 25.82,
+          "probability": 0.7170549035072327
+        },
+        {
+          "word": " advance.",
+          "start": 25.82,
+          "end": 26.2,
+          "probability": 0.8126400709152222
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 0,
+      "start": 26.52,
+      "end": 28.64,
+      "text": " There's 700 pending, 400 LAD files.",
+      "tokens": [
+        51689,
+        821,
+        311,
+        15204,
+        32110,
+        11,
+        8423,
+        441,
+        6112,
+        7098,
+        13,
+        51805
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.4098597895489992,
+      "compression_ratio": 1.6853932584269662,
+      "no_speech_prob": 1.4897511392900076e-12,
+      "words": [
+        {
+          "word": " There's",
+          "start": 26.52,
+          "end": 26.72,
+          "probability": 0.8435845375061035
+        },
+        {
+          "word": " 700",
+          "start": 26.72,
+          "end": 26.94,
+          "probability": 0.9003089666366577
+        },
+        {
+          "word": " pending,",
+          "start": 26.94,
+          "end": 27.42,
+          "probability": 0.9551306962966919
+        },
+        {
+          "word": " 400",
+          "start": 27.6,
+          "end": 27.94,
+          "probability": 0.9757871627807617
+        },
+        {
+          "word": " LAD",
+          "start": 27.94,
+          "end": 28.28,
+          "probability": 0.27158618718385696
+        },
+        {
+          "word": " files.",
+          "start": 28.28,
+          "end": 28.64,
+          "probability": 0.7722160816192627
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2864,
+      "start": 28.64,
+      "end": 30.52,
+      "text": " The most in any corporation.",
+      "tokens": [
+        50365,
+        440,
+        881,
+        294,
+        604,
+        22197,
+        13,
+        50471
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 28.64,
+          "end": 28.94,
+          "probability": 0.28202787041664124
+        },
+        {
+          "word": " most",
+          "start": 28.94,
+          "end": 29.2,
+          "probability": 0.996921956539154
+        },
+        {
+          "word": " in",
+          "start": 29.2,
+          "end": 29.46,
+          "probability": 0.6727336645126343
+        },
+        {
+          "word": " any",
+          "start": 29.46,
+          "end": 30.04,
+          "probability": 0.4666113257408142
+        },
+        {
+          "word": " corporation.",
+          "start": 30.04,
+          "end": 30.52,
+          "probability": 0.9725614190101624
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2864,
+      "start": 30.82,
+      "end": 32.54,
+      "text": " Which is quite astonishing.",
+      "tokens": [
+        50471,
+        3013,
+        307,
+        1596,
+        35264,
+        13,
+        50579
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " Which",
+          "start": 30.82,
+          "end": 31.0,
+          "probability": 0.73695307970047
+        },
+        {
+          "word": " is",
+          "start": 31.0,
+          "end": 31.16,
+          "probability": 0.9947167038917542
+        },
+        {
+          "word": " quite",
+          "start": 31.16,
+          "end": 31.54,
+          "probability": 0.9951289892196655
+        },
+        {
+          "word": " astonishing.",
+          "start": 31.54,
+          "end": 32.54,
+          "probability": 0.9894577264785767
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2864,
+      "start": 33.0,
+      "end": 36.06,
+      "text": " And you were talking about they're changing your hours without notice.",
+      "tokens": [
+        50579,
+        400,
+        291,
+        645,
+        1417,
+        466,
+        436,
+        434,
+        4473,
+        428,
+        2496,
+        1553,
+        3449,
+        13,
+        50755
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 33.0,
+          "end": 33.14,
+          "probability": 0.4685176908969879
+        },
+        {
+          "word": " you",
+          "start": 33.14,
+          "end": 33.24,
+          "probability": 0.9871138334274292
+        },
+        {
+          "word": " were",
+          "start": 33.24,
+          "end": 33.4,
+          "probability": 0.9965887069702148
+        },
+        {
+          "word": " talking",
+          "start": 33.4,
+          "end": 33.66,
+          "probability": 0.9983710646629333
+        },
+        {
+          "word": " about",
+          "start": 33.66,
+          "end": 33.92,
+          "probability": 0.9976378679275513
+        },
+        {
+          "word": " they're",
+          "start": 33.92,
+          "end": 34.14,
+          "probability": 0.6764728277921677
+        },
+        {
+          "word": " changing",
+          "start": 34.14,
+          "end": 34.52,
+          "probability": 0.9985854625701904
+        },
+        {
+          "word": " your",
+          "start": 34.52,
+          "end": 34.82,
+          "probability": 0.9881688952445984
+        },
+        {
+          "word": " hours",
+          "start": 34.82,
+          "end": 35.2,
+          "probability": 0.9987103939056396
+        },
+        {
+          "word": " without",
+          "start": 35.2,
+          "end": 35.54,
+          "probability": 0.9692903757095337
+        },
+        {
+          "word": " notice.",
+          "start": 35.54,
+          "end": 36.06,
+          "probability": 0.9975960850715637
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2864,
+      "start": 36.44,
+      "end": 38.84,
+      "text": " Yeah, scheduling, predictability, there's none of that.",
+      "tokens": [
+        50755,
+        865,
+        11,
+        29055,
+        11,
+        6069,
+        2310,
+        11,
+        456,
+        311,
+        6022,
+        295,
+        300,
+        13,
+        50887
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 36.44,
+          "end": 36.76,
+          "probability": 0.896281361579895
+        },
+        {
+          "word": " scheduling,",
+          "start": 36.92,
+          "end": 37.26,
+          "probability": 0.9879527688026428
+        },
+        {
+          "word": " predictability,",
+          "start": 37.42,
+          "end": 38.0,
+          "probability": 0.9969895780086517
+        },
+        {
+          "word": " there's",
+          "start": 38.2,
+          "end": 38.34,
+          "probability": 0.9955805540084839
+        },
+        {
+          "word": " none",
+          "start": 38.34,
+          "end": 38.44,
+          "probability": 0.9950834512710571
+        },
+        {
+          "word": " of",
+          "start": 38.44,
+          "end": 38.6,
+          "probability": 0.9997381567955017
+        },
+        {
+          "word": " that.",
+          "start": 38.6,
+          "end": 38.84,
+          "probability": 0.9998114705085754
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2864,
+      "start": 39.12,
+      "end": 44.08,
+      "text": " I mean, for a company to have a record number of unfair labor practices is quite striking.",
+      "tokens": [
+        50887,
+        286,
+        914,
+        11,
+        337,
+        257,
+        2237,
+        281,
+        362,
+        257,
+        2136,
+        1230,
+        295,
+        17019,
+        5938,
+        7525,
+        307,
+        1596,
+        18559,
+        13,
+        51149
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " I",
+          "start": 39.12,
+          "end": 39.32,
+          "probability": 0.947158932685852
+        },
+        {
+          "word": " mean,",
+          "start": 39.32,
+          "end": 39.44,
+          "probability": 0.9991989731788635
+        },
+        {
+          "word": " for",
+          "start": 39.54,
+          "end": 39.6,
+          "probability": 0.9990611672401428
+        },
+        {
+          "word": " a",
+          "start": 39.6,
+          "end": 39.7,
+          "probability": 0.998868465423584
+        },
+        {
+          "word": " company",
+          "start": 39.7,
+          "end": 40.04,
+          "probability": 0.9997798800468445
+        },
+        {
+          "word": " to",
+          "start": 40.04,
+          "end": 40.2,
+          "probability": 0.9976206421852112
+        },
+        {
+          "word": " have",
+          "start": 40.2,
+          "end": 40.38,
+          "probability": 0.9996272325515747
+        },
+        {
+          "word": " a",
+          "start": 40.38,
+          "end": 40.54,
+          "probability": 0.9954741597175598
+        },
+        {
+          "word": " record",
+          "start": 40.54,
+          "end": 40.86,
+          "probability": 0.998965859413147
+        },
+        {
+          "word": " number",
+          "start": 40.86,
+          "end": 41.58,
+          "probability": 0.9973304271697998
+        },
+        {
+          "word": " of",
+          "start": 41.58,
+          "end": 41.84,
+          "probability": 0.9986072182655334
+        },
+        {
+          "word": " unfair",
+          "start": 41.84,
+          "end": 42.22,
+          "probability": 0.998914361000061
+        },
+        {
+          "word": " labor",
+          "start": 42.22,
+          "end": 42.5,
+          "probability": 0.9816741943359375
+        },
+        {
+          "word": " practices",
+          "start": 42.5,
+          "end": 43.04,
+          "probability": 0.998108983039856
+        },
+        {
+          "word": " is",
+          "start": 43.04,
+          "end": 43.32,
+          "probability": 0.9737672805786133
+        },
+        {
+          "word": " quite",
+          "start": 43.32,
+          "end": 43.54,
+          "probability": 0.9992650151252747
+        },
+        {
+          "word": " striking.",
+          "start": 43.54,
+          "end": 44.08,
+          "probability": 0.9998800754547119
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2864,
+      "start": 44.3,
+      "end": 48.86,
+      "text": " They've been trying to stop us at every turn and changing our hours of operation.",
+      "tokens": [
+        51149,
+        814,
+        600,
+        668,
+        1382,
+        281,
+        1590,
+        505,
+        412,
+        633,
+        1261,
+        293,
+        4473,
+        527,
+        2496,
+        295,
+        6916,
+        13,
+        51381
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " They've",
+          "start": 44.3,
+          "end": 44.62,
+          "probability": 0.9733652770519257
+        },
+        {
+          "word": " been",
+          "start": 44.62,
+          "end": 44.74,
+          "probability": 0.9994242191314697
+        },
+        {
+          "word": " trying",
+          "start": 44.74,
+          "end": 45.04,
+          "probability": 0.9996150732040405
+        },
+        {
+          "word": " to",
+          "start": 45.04,
+          "end": 45.38,
+          "probability": 0.9995524287223816
+        },
+        {
+          "word": " stop",
+          "start": 45.38,
+          "end": 45.9,
+          "probability": 0.998842179775238
+        },
+        {
+          "word": " us",
+          "start": 45.9,
+          "end": 46.1,
+          "probability": 0.9993522763252258
+        },
+        {
+          "word": " at",
+          "start": 46.1,
+          "end": 46.24,
+          "probability": 0.9960338473320007
+        },
+        {
+          "word": " every",
+          "start": 46.24,
+          "end": 46.42,
+          "probability": 0.9988526105880737
+        },
+        {
+          "word": " turn",
+          "start": 46.42,
+          "end": 46.74,
+          "probability": 0.9989631175994873
+        },
+        {
+          "word": " and",
+          "start": 46.74,
+          "end": 46.96,
+          "probability": 0.7723438739776611
+        },
+        {
+          "word": " changing",
+          "start": 46.96,
+          "end": 47.64,
+          "probability": 0.9960596561431885
+        },
+        {
+          "word": " our",
+          "start": 47.64,
+          "end": 47.92,
+          "probability": 0.9977896213531494
+        },
+        {
+          "word": " hours",
+          "start": 47.92,
+          "end": 48.26,
+          "probability": 0.9994400143623352
+        },
+        {
+          "word": " of",
+          "start": 48.26,
+          "end": 48.4,
+          "probability": 0.9994437098503113
+        },
+        {
+          "word": " operation.",
+          "start": 48.4,
+          "end": 48.86,
+          "probability": 0.9786714315414429
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2864,
+      "start": 49.1,
+      "end": 52.48,
+      "text": " They've been closing hundreds of stores down with no notice.",
+      "tokens": [
+        51381,
+        814,
+        600,
+        668,
+        10377,
+        6779,
+        295,
+        9512,
+        760,
+        365,
+        572,
+        3449,
+        13,
+        51571
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " They've",
+          "start": 49.1,
+          "end": 49.26,
+          "probability": 0.9987984299659729
+        },
+        {
+          "word": " been",
+          "start": 49.26,
+          "end": 49.36,
+          "probability": 0.9991245865821838
+        },
+        {
+          "word": " closing",
+          "start": 49.36,
+          "end": 49.78,
+          "probability": 0.9994727969169617
+        },
+        {
+          "word": " hundreds",
+          "start": 49.78,
+          "end": 50.34,
+          "probability": 0.9942027926445007
+        },
+        {
+          "word": " of",
+          "start": 50.34,
+          "end": 50.6,
+          "probability": 0.9996659755706787
+        },
+        {
+          "word": " stores",
+          "start": 50.6,
+          "end": 50.9,
+          "probability": 0.9993420243263245
+        },
+        {
+          "word": " down",
+          "start": 50.9,
+          "end": 51.28,
+          "probability": 0.9995777010917664
+        },
+        {
+          "word": " with",
+          "start": 51.28,
+          "end": 51.64,
+          "probability": 0.9902094602584839
+        },
+        {
+          "word": " no",
+          "start": 51.64,
+          "end": 52.04,
+          "probability": 0.999056875705719
+        },
+        {
+          "word": " notice.",
+          "start": 52.04,
+          "end": 52.48,
+          "probability": 0.9994863271713257
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2864,
+      "start": 52.78,
+      "end": 55.34,
+      "text": " We're understaffed. We're doing the work of like two or more people.",
+      "tokens": [
+        51571,
+        492,
+        434,
+        833,
+        372,
+        2518,
+        292,
+        13,
+        492,
+        434,
+        884,
+        264,
+        589,
+        295,
+        411,
+        732,
+        420,
+        544,
+        561,
+        13,
+        51711
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.17178461981601403,
+      "compression_ratio": 1.6701030927835052,
+      "no_speech_prob": 2.219178400070243e-12,
+      "words": [
+        {
+          "word": " We're",
+          "start": 52.78,
+          "end": 53.02,
+          "probability": 0.9972528517246246
+        },
+        {
+          "word": " understaffed.",
+          "start": 53.02,
+          "end": 53.6,
+          "probability": 0.9870778173208237
+        },
+        {
+          "word": " We're",
+          "start": 53.64,
+          "end": 53.7,
+          "probability": 0.9993563592433929
+        },
+        {
+          "word": " doing",
+          "start": 53.7,
+          "end": 53.82,
+          "probability": 0.9991588592529297
+        },
+        {
+          "word": " the",
+          "start": 53.82,
+          "end": 53.94,
+          "probability": 0.9982563853263855
+        },
+        {
+          "word": " work",
+          "start": 53.94,
+          "end": 54.14,
+          "probability": 0.9997767806053162
+        },
+        {
+          "word": " of",
+          "start": 54.14,
+          "end": 54.32,
+          "probability": 0.9987088441848755
+        },
+        {
+          "word": " like",
+          "start": 54.32,
+          "end": 54.5,
+          "probability": 0.5197619199752808
+        },
+        {
+          "word": " two",
+          "start": 54.5,
+          "end": 54.7,
+          "probability": 0.9442453980445862
+        },
+        {
+          "word": " or",
+          "start": 54.7,
+          "end": 54.86,
+          "probability": 0.9987024068832397
+        },
+        {
+          "word": " more",
+          "start": 54.86,
+          "end": 55.02,
+          "probability": 0.999840259552002
+        },
+        {
+          "word": " people.",
+          "start": 55.02,
+          "end": 55.34,
+          "probability": 0.9996371269226074
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5534,
+      "start": 55.34,
+      "end": 61.44,
+      "text": " It's workers like us who kind of fuel other workers with the drinks that we make and the coffee that we provide.",
+      "tokens": [
+        50365,
+        467,
+        311,
+        5600,
+        411,
+        505,
+        567,
+        733,
+        295,
+        6616,
+        661,
+        5600,
+        365,
+        264,
+        12142,
+        300,
+        321,
+        652,
+        293,
+        264,
+        4982,
+        300,
+        321,
+        2893,
+        13,
+        50679
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 55.34,
+          "end": 55.86,
+          "probability": 0.9253546297550201
+        },
+        {
+          "word": " workers",
+          "start": 55.86,
+          "end": 56.14,
+          "probability": 0.996724545955658
+        },
+        {
+          "word": " like",
+          "start": 56.14,
+          "end": 56.38,
+          "probability": 0.9955600500106812
+        },
+        {
+          "word": " us",
+          "start": 56.38,
+          "end": 56.82,
+          "probability": 0.9991310238838196
+        },
+        {
+          "word": " who",
+          "start": 56.82,
+          "end": 57.18,
+          "probability": 0.9312670826911926
+        },
+        {
+          "word": " kind",
+          "start": 57.18,
+          "end": 57.58,
+          "probability": 0.8823934197425842
+        },
+        {
+          "word": " of",
+          "start": 57.58,
+          "end": 57.74,
+          "probability": 0.9982182383537292
+        },
+        {
+          "word": " fuel",
+          "start": 57.74,
+          "end": 58.12,
+          "probability": 0.9976170659065247
+        },
+        {
+          "word": " other",
+          "start": 58.12,
+          "end": 58.48,
+          "probability": 0.9986608028411865
+        },
+        {
+          "word": " workers",
+          "start": 58.48,
+          "end": 58.9,
+          "probability": 0.999200165271759
+        },
+        {
+          "word": " with",
+          "start": 58.9,
+          "end": 59.28,
+          "probability": 0.9560708999633789
+        },
+        {
+          "word": " the",
+          "start": 59.28,
+          "end": 59.44,
+          "probability": 0.99858558177948
+        },
+        {
+          "word": " drinks",
+          "start": 59.44,
+          "end": 59.66,
+          "probability": 0.9989044666290283
+        },
+        {
+          "word": " that",
+          "start": 59.66,
+          "end": 59.82,
+          "probability": 0.989858090877533
+        },
+        {
+          "word": " we",
+          "start": 59.82,
+          "end": 59.96,
+          "probability": 0.9994131326675415
+        },
+        {
+          "word": " make",
+          "start": 59.96,
+          "end": 60.18,
+          "probability": 0.9984294772148132
+        },
+        {
+          "word": " and",
+          "start": 60.18,
+          "end": 60.34,
+          "probability": 0.9119704365730286
+        },
+        {
+          "word": " the",
+          "start": 60.34,
+          "end": 60.46,
+          "probability": 0.9908891320228577
+        },
+        {
+          "word": " coffee",
+          "start": 60.46,
+          "end": 60.76,
+          "probability": 0.9989838004112244
+        },
+        {
+          "word": " that",
+          "start": 60.76,
+          "end": 60.92,
+          "probability": 0.9972769618034363
+        },
+        {
+          "word": " we",
+          "start": 60.92,
+          "end": 61.02,
+          "probability": 0.9983875751495361
+        },
+        {
+          "word": " provide.",
+          "start": 61.02,
+          "end": 61.44,
+          "probability": 0.997236967086792
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5534,
+      "start": 61.62,
+      "end": 63.78,
+      "text": " Yes, I couldn't function without your coffee.",
+      "tokens": [
+        50679,
+        1079,
+        11,
+        286,
+        2809,
+        380,
+        2445,
+        1553,
+        428,
+        4982,
+        13,
+        50781
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 61.62,
+          "end": 61.88,
+          "probability": 0.7462447285652161
+        },
+        {
+          "word": " I",
+          "start": 62.08,
+          "end": 62.22,
+          "probability": 0.9945998191833496
+        },
+        {
+          "word": " couldn't",
+          "start": 62.22,
+          "end": 62.4,
+          "probability": 0.990195631980896
+        },
+        {
+          "word": " function",
+          "start": 62.4,
+          "end": 62.86,
+          "probability": 0.9983851909637451
+        },
+        {
+          "word": " without",
+          "start": 62.86,
+          "end": 63.16,
+          "probability": 0.9971143007278442
+        },
+        {
+          "word": " your",
+          "start": 63.16,
+          "end": 63.42,
+          "probability": 0.996451735496521
+        },
+        {
+          "word": " coffee.",
+          "start": 63.42,
+          "end": 63.78,
+          "probability": 0.9967111349105835
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 5534,
+      "start": 63.98,
+      "end": 64.24,
+      "text": " Agreed.",
+      "tokens": [
+        50781,
+        29324,
+        292,
+        13,
+        50823
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " Agreed.",
+          "start": 63.98,
+          "end": 64.24,
+          "probability": 0.5970237925648689
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 5534,
+      "start": 64.64,
+      "end": 65.78,
+      "text": " Thank you. Really.",
+      "tokens": [
+        50823,
+        1044,
+        291,
+        13,
+        4083,
+        13,
+        50901
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 64.64,
+          "end": 64.78,
+          "probability": 0.9878084659576416
+        },
+        {
+          "word": " you.",
+          "start": 64.78,
+          "end": 65.0,
+          "probability": 0.9992942810058594
+        },
+        {
+          "word": " Really.",
+          "start": 65.36,
+          "end": 65.78,
+          "probability": 0.9078028202056885
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5534,
+      "start": 66.02,
+      "end": 68.36,
+      "text": " It's about labor being treated fairly.",
+      "tokens": [
+        50901,
+        467,
+        311,
+        466,
+        5938,
+        885,
+        8668,
+        6457,
+        13,
+        51019
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 66.02,
+          "end": 66.36,
+          "probability": 0.9968007802963257
+        },
+        {
+          "word": " about",
+          "start": 66.36,
+          "end": 66.58,
+          "probability": 0.9994219541549683
+        },
+        {
+          "word": " labor",
+          "start": 66.58,
+          "end": 67.22,
+          "probability": 0.9833328723907471
+        },
+        {
+          "word": " being",
+          "start": 67.22,
+          "end": 67.52,
+          "probability": 0.9996390342712402
+        },
+        {
+          "word": " treated",
+          "start": 67.52,
+          "end": 67.92,
+          "probability": 0.9998278617858887
+        },
+        {
+          "word": " fairly.",
+          "start": 67.92,
+          "end": 68.36,
+          "probability": 0.9989656209945679
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5534,
+      "start": 68.54,
+      "end": 70.42,
+      "text": " It's about workers being treated fairly.",
+      "tokens": [
+        51019,
+        467,
+        311,
+        466,
+        5600,
+        885,
+        8668,
+        6457,
+        13,
+        51121
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 68.54,
+          "end": 68.62,
+          "probability": 0.9997046291828156
+        },
+        {
+          "word": " about",
+          "start": 68.62,
+          "end": 68.8,
+          "probability": 0.9997988343238831
+        },
+        {
+          "word": " workers",
+          "start": 68.8,
+          "end": 69.24,
+          "probability": 0.9997816681861877
+        },
+        {
+          "word": " being",
+          "start": 69.24,
+          "end": 69.56,
+          "probability": 0.9996715784072876
+        },
+        {
+          "word": " treated",
+          "start": 69.56,
+          "end": 69.96,
+          "probability": 0.999845027923584
+        },
+        {
+          "word": " fairly.",
+          "start": 69.96,
+          "end": 70.42,
+          "probability": 0.9994089603424072
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5534,
+      "start": 70.48,
+      "end": 72.24,
+      "text": " And it's about affordability.",
+      "tokens": [
+        51121,
+        400,
+        309,
+        311,
+        466,
+        6157,
+        2310,
+        13,
+        51211
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 70.48,
+          "end": 71.0,
+          "probability": 0.9851772785186768
+        },
+        {
+          "word": " it's",
+          "start": 71.0,
+          "end": 71.26,
+          "probability": 0.9981987178325653
+        },
+        {
+          "word": " about",
+          "start": 71.26,
+          "end": 71.46,
+          "probability": 0.9998001456260681
+        },
+        {
+          "word": " affordability.",
+          "start": 71.46,
+          "end": 72.24,
+          "probability": 0.9998244345188141
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 5534,
+      "start": 72.24,
+      "end": 74.1,
+      "text": " And it's about supporting workers.",
+      "tokens": [
+        51211,
+        400,
+        309,
+        311,
+        466,
+        7231,
+        5600,
+        13,
+        51321
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 72.24,
+          "end": 72.48,
+          "probability": 0.9649980068206787
+        },
+        {
+          "word": " it's",
+          "start": 72.48,
+          "end": 72.8,
+          "probability": 0.9999160170555115
+        },
+        {
+          "word": " about",
+          "start": 72.8,
+          "end": 73.06,
+          "probability": 0.9998558759689331
+        },
+        {
+          "word": " supporting",
+          "start": 73.06,
+          "end": 73.7,
+          "probability": 0.9990286827087402
+        },
+        {
+          "word": " workers.",
+          "start": 73.7,
+          "end": 74.1,
+          "probability": 0.9914544820785522
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 5534,
+      "start": 74.44,
+      "end": 79.96,
+      "text": " It's a privilege actually to be with you and to listen to you and to be part of your fight.",
+      "tokens": [
+        51321,
+        467,
+        311,
+        257,
+        12122,
+        767,
+        281,
+        312,
+        365,
+        291,
+        293,
+        281,
+        2140,
+        281,
+        291,
+        293,
+        281,
+        312,
+        644,
+        295,
+        428,
+        2092,
+        13,
+        51595
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.24957635109884696,
+      "compression_ratio": 1.8347826086956522,
+      "no_speech_prob": 5.552497264055267e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 74.44,
+          "end": 74.76,
+          "probability": 0.9985271990299225
+        },
+        {
+          "word": " a",
+          "start": 74.76,
+          "end": 74.88,
+          "probability": 0.9571577310562134
+        },
+        {
+          "word": " privilege",
+          "start": 74.88,
+          "end": 75.18,
+          "probability": 0.9987305998802185
+        },
+        {
+          "word": " actually",
+          "start": 75.18,
+          "end": 75.6,
+          "probability": 0.2907664179801941
+        },
+        {
+          "word": " to",
+          "start": 75.6,
+          "end": 75.86,
+          "probability": 0.9929952025413513
+        },
+        {
+          "word": " be",
+          "start": 75.86,
+          "end": 76.02,
+          "probability": 0.9999526739120483
+        },
+        {
+          "word": " with",
+          "start": 76.02,
+          "end": 76.22,
+          "probability": 0.999914288520813
+        },
+        {
+          "word": " you",
+          "start": 76.22,
+          "end": 76.42,
+          "probability": 0.9999006986618042
+        },
+        {
+          "word": " and",
+          "start": 76.42,
+          "end": 76.7,
+          "probability": 0.9056771397590637
+        },
+        {
+          "word": " to",
+          "start": 76.7,
+          "end": 76.94,
+          "probability": 0.9996569156646729
+        },
+        {
+          "word": " listen",
+          "start": 76.94,
+          "end": 77.36,
+          "probability": 0.9997618794441223
+        },
+        {
+          "word": " to",
+          "start": 77.36,
+          "end": 77.6,
+          "probability": 0.9998456239700317
+        },
+        {
+          "word": " you",
+          "start": 77.6,
+          "end": 77.76,
+          "probability": 0.9996238946914673
+        },
+        {
+          "word": " and",
+          "start": 77.76,
+          "end": 78.02,
+          "probability": 0.9722251892089844
+        },
+        {
+          "word": " to",
+          "start": 78.02,
+          "end": 78.24,
+          "probability": 0.9988526105880737
+        },
+        {
+          "word": " be",
+          "start": 78.24,
+          "end": 78.44,
+          "probability": 0.9996170997619629
+        },
+        {
+          "word": " part",
+          "start": 78.44,
+          "end": 79.38,
+          "probability": 0.8169468641281128
+        },
+        {
+          "word": " of",
+          "start": 79.38,
+          "end": 79.5,
+          "probability": 0.9999420642852783
+        },
+        {
+          "word": " your",
+          "start": 79.5,
+          "end": 79.68,
+          "probability": 0.9995575547218323
+        },
+        {
+          "word": " fight.",
+          "start": 79.68,
+          "end": 79.96,
+          "probability": 0.9870540499687195
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 7996,
+      "start": 79.96,
+      "end": 80.12,
+      "text": " Right now.",
+      "tokens": [
+        50365,
+        1779,
+        586,
+        13,
+        50629
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " Right",
+          "start": 79.96,
+          "end": 79.96,
+          "probability": 2.5804965844145045e-05
+        },
+        {
+          "word": " now.",
+          "start": 79.96,
+          "end": 80.12,
+          "probability": 0.045887965708971024
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 7996,
+      "start": 80.14,
+      "end": 82.36,
+      "text": " No contract, No Coffee.",
+      "tokens": [
+        50629,
+        883,
+        4364,
+        11,
+        883,
+        25481,
+        13,
+        50709
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 80.14,
+          "end": 80.62,
+          "probability": 0.5355618596076965
+        },
+        {
+          "word": " contract,",
+          "start": 80.62,
+          "end": 81.2,
+          "probability": 0.7620914578437805
+        },
+        {
+          "word": " No",
+          "start": 81.56,
+          "end": 81.76,
+          "probability": 0.10483954101800919
+        },
+        {
+          "word": " Coffee.",
+          "start": 81.76,
+          "end": 82.36,
+          "probability": 0.11340735107660294
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 7996,
+      "start": 82.6,
+      "end": 83.74,
+      "text": " No contract, No coffee.",
+      "tokens": [
+        50709,
+        883,
+        4364,
+        11,
+        883,
+        4982,
+        13,
+        50720
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 82.6,
+          "end": 82.82,
+          "probability": 0.9552075862884521
+        },
+        {
+          "word": " contract,",
+          "start": 82.82,
+          "end": 83.32,
+          "probability": 0.8751670122146606
+        },
+        {
+          "word": " No",
+          "start": 83.66,
+          "end": 83.74,
+          "probability": 0.9830313920974731
+        },
+        {
+          "word": " coffee.",
+          "start": 83.74,
+          "end": 83.74,
+          "probability": 0.03230716660618782
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 35,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 36,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 37,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 38,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 39,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 40,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 41,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.74,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 42,
+      "seek": 7996,
+      "start": 83.74,
+      "end": 83.9,
+      "text": " No contract, No coffee.",
+      "tokens": [
+        51046,
+        883,
+        4364,
+        11,
+        883,
+        4982,
+        13,
+        51094
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 83.74,
+          "end": 83.74,
+          "probability": 0.955451250076294
+        },
+        {
+          "word": " contract,",
+          "start": 83.74,
+          "end": 83.74,
+          "probability": 0.9737246632575989
+        },
+        {
+          "word": " No",
+          "start": 83.74,
+          "end": 83.9,
+          "probability": 0.9944243431091309
+        },
+        {
+          "word": " coffee.",
+          "start": 83.9,
+          "end": 83.9,
+          "probability": 0.9552587866783142
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "seek": 7996,
+      "start": 83.9,
+      "end": 84.12,
+      "text": " No contract, No coffee.",
+      "tokens": [
+        51094,
+        883,
+        4364,
+        11,
+        883,
+        4982,
+        13,
+        51165
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 83.9,
+          "end": 83.9,
+          "probability": 0.9458653926849365
+        },
+        {
+          "word": " contract,",
+          "start": 83.9,
+          "end": 83.9,
+          "probability": 0.9486446976661682
+        },
+        {
+          "word": " No",
+          "start": 83.9,
+          "end": 83.92,
+          "probability": 0.9938615560531616
+        },
+        {
+          "word": " coffee.",
+          "start": 83.92,
+          "end": 84.12,
+          "probability": 0.9653792381286621
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "seek": 7996,
+      "start": 84.12,
+      "end": 84.12,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 45,
+      "seek": 7996,
+      "start": 84.12,
+      "end": 84.36,
+      "text": " No contract, No coffee.",
+      "tokens": [
+        51270,
+        883,
+        4364,
+        11,
+        883,
+        4982,
+        13,
+        51323
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 84.12,
+          "end": 84.12,
+          "probability": 0.9192097783088684
+        },
+        {
+          "word": " contract,",
+          "start": 84.12,
+          "end": 84.12,
+          "probability": 0.8222030401229858
+        },
+        {
+          "word": " No",
+          "start": 84.12,
+          "end": 84.12,
+          "probability": 0.9913081526756287
+        },
+        {
+          "word": " coffee.",
+          "start": 84.12,
+          "end": 84.36,
+          "probability": 0.9733325242996216
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "seek": 7996,
+      "start": 84.36,
+      "end": 84.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 47,
+      "seek": 7996,
+      "start": 84.36,
+      "end": 84.36,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 48,
+      "seek": 7996,
+      "start": 84.6,
+      "end": 84.6,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 49,
+      "seek": 7996,
+      "start": 84.92,
+      "end": 85.4,
+      "text": " No contract, No contract, No coffee.",
+      "tokens": [
+        51634,
+        883,
+        4364,
+        11,
+        883,
+        4364,
+        11,
+        883,
+        4982,
+        13,
+        51713
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": [
+        {
+          "word": " No",
+          "start": 84.92,
+          "end": 85.4,
+          "probability": 0.8088940382003784
+        },
+        {
+          "word": " contract,",
+          "start": 85.4,
+          "end": 85.4,
+          "probability": 0.8017354607582092
+        },
+        {
+          "word": " No",
+          "start": 85.4,
+          "end": 85.4,
+          "probability": 0.9829010367393494
+        },
+        {
+          "word": " contract,",
+          "start": 85.4,
+          "end": 85.4,
+          "probability": 0.008983753621578217
+        },
+        {
+          "word": " No",
+          "start": 85.4,
+          "end": 85.4,
+          "probability": 0.9854442477226257
+        },
+        {
+          "word": " coffee.",
+          "start": 85.4,
+          "end": 85.4,
+          "probability": 0.939105749130249
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "seek": 7996,
+      "start": 85.4,
+      "end": 85.4,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -1.1522352335839299,
+      "compression_ratio": 5.652631578947369,
+      "no_speech_prob": 4.695057710668582e-12,
+      "words": []
+    },
+    {
+      "id": 51,
+      "seek": 8540,
+      "start": 85.4,
+      "end": 85.42,
+      "text": " I",
+      "tokens": [
+        50365,
+        286,
+        50465
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.3288921117782593,
+      "compression_ratio": 0.1111111111111111,
+      "no_speech_prob": 1.76053990830205e-10,
+      "words": [
+        {
+          "word": " I",
+          "start": 85.4,
+          "end": 85.42,
+          "probability": 0.018001817166805267
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}
