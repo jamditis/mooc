@@ -998,8 +998,43 @@ async function loadAllData() {
   ]);
 
   STATE.metadata = metadata;
+  /* Normalize field names: analysis script uses overall/per_video/per_platform,
+     dashboard expects frequencies/by_video/by_platform */
+  if (topics) {
+    topics.frequencies = topics.frequencies || topics.overall;
+    topics.by_video = topics.by_video || topics.per_video;
+    topics.by_platform = topics.by_platform || topics.per_platform;
+  }
   STATE.topics = topics;
+  if (sentiment) {
+    /* Build an overall aggregate from per_video data */
+    if (!sentiment.overall && sentiment.per_video) {
+      var totals = { positive: 0, negative: 0, urgent: 0 };
+      Object.values(sentiment.per_video).forEach(function(v) {
+        totals.positive += (v.raw_counts && v.raw_counts.positive) || 0;
+        totals.negative += (v.raw_counts && v.raw_counts.negative) || 0;
+        totals.urgent += (v.raw_counts && v.raw_counts.urgent) || 0;
+      });
+      sentiment.overall = totals;
+    }
+    sentiment.by_platform = sentiment.by_platform || sentiment.per_platform;
+  }
   STATE.sentiment = sentiment;
+  /* Normalize cross-platform field names */
+  if (crossPlatform && crossPlatform.platforms) {
+    Object.keys(crossPlatform.platforms).forEach(function(p) {
+      var info = crossPlatform.platforms[p];
+      info.count = info.count || info.video_count;
+      info.avg_duration = info.avg_duration || info.avg_duration_seconds;
+      info.avg_words = info.avg_words || info.avg_words_per_video;
+      /* Convert top_words from {word: count} object to [{word, count}] array */
+      if (info.top_words && !Array.isArray(info.top_words)) {
+        info.top_words = Object.entries(info.top_words).map(function(e) {
+          return { word: e[0], count: e[1] };
+        });
+      }
+    });
+  }
   STATE.crossPlatform = crossPlatform;
   STATE.summary = summary;
 
