@@ -3,28 +3,25 @@
   "total_duration_seconds": 18426.519,
   "total_duration_minutes": 307.1,
   "platforms": [
-    "youtube",
     "twitter",
     "instagram",
+    "youtube",
     "facebook",
     "tiktok"
   ],
   "platform_count": 5,
   "top_topics": [
-    "governance",
-    "economy",
-    "housing",
     "budget",
-    "immigration"
+    "housing",
+    "immigration",
+    "health",
+    "governance"
   ],
   "dominant_tone_distribution": {
-    "persuasive": 22,
-    "informative": 11,
-    "celebratory": 30,
-    "positive": 6,
-    "negative": 1,
-    "neutral": 1,
-    "urgent": 1
+    "neutral": 13,
+    "negative": 9,
+    "urgent": 30,
+    "positive": 24
   },
   "videos_per_platform": {
     "instagram": 15,
@@ -32,6 +29,5 @@
     "tiktok": 15,
     "twitter": 16,
     "youtube": 15
-  },
-  "total_words": 47448
+  }
 }

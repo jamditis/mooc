@@ -13,5 +13,8 @@ mamdani-video-analysis/frame-grids/
 # Screenshots in repo root (working artifacts)
 /*.png
 
+# Google Drive sync folder (outputs uploaded here)
+upload/
+
 # Windows metadata
 desktop.ini

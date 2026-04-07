@@ -1,0 +1,108 @@
+# Mamdani Video Analysis - Daily Update & Dashboard Deploy
+#
+# This workflow does three things:
+# 1. Checks YouTube and TikTok for new Mamdani videos (metadata only, no downloads)
+# 2. Rebuilds the keyword-based content analysis from existing transcripts
+# 3. Deploys the interactive dashboard to GitHub Pages
+#
+# The dashboard is then live at: https://jamditis.github.io/mooc/web/index.html
+#
+# Transcription (Whisper) is NOT done here — it requires a GPU.
+# Run transcription locally on the Legion workstation, push the transcripts,
+# and this Action will pick them up on the next run.
+
+name: Update dashboard
+
+on:
+  # Run daily at 12:17 PM UTC (about 8:17 AM Eastern)
+  schedule:
+    - cron: '17 12 * * *'
+
+  # Also run when analysis files or dashboard code changes
+  push:
+    branches: [master]
+    paths:
+      - 'mamdani-video-analysis/**'
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+# Only allow one deploy at a time to avoid conflicts
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+# Permissions needed for GitHub Pages deployment
+permissions:
+  contents: write    # to commit metadata updates
+  pages: write       # to deploy to Pages
+  id-token: write    # for Pages authentication
+
+jobs:
+  # ── Job 1: Check for new videos and rebuild analysis ──
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
+      - name: Check for new videos (metadata only)
+        run: python mamdani-video-analysis/scripts/check-new-videos.py
+
+      - name: Rebuild content analysis
+        run: python mamdani-video-analysis/scripts/04-build-analysis.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add mamdani-video-analysis/metadata.json mamdani-video-analysis/analysis/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "auto: update video metadata and analysis $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+  # ── Job 2: Deploy dashboard to GitHub Pages ──
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+
+    # Only deploy from master branch
+    if: github.ref == 'refs/heads/master'
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          # Pull the latest commit (including any changes from the update job)
+          ref: master
+
+      - name: Set up Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload dashboard to Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Deploy the mamdani-video-analysis directory as the site root.
+          # This preserves the relative path structure the dashboard expects:
+          #   /web/index.html loads ../analysis/topics.json -> /analysis/topics.json
+          path: mamdani-video-analysis
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
