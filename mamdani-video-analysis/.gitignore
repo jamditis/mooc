@@ -2,6 +2,9 @@
 downloads/
 frames/
 
+# Pipeline run logs
+logs/
+
 # OS files
 desktop.ini
 Thumbs.db

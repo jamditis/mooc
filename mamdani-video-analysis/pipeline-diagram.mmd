@@ -1,0 +1,84 @@
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#1a1a2e', 'primaryTextColor': '#e0e0e0', 'primaryBorderColor': '#4a4a6a', 'lineColor': '#6c63ff', 'secondaryColor': '#16213e', 'tertiaryColor': '#0f3460', 'fontFamily': 'monospace'}}}%%
+
+flowchart TB
+    subgraph CLOUD["Anthropic Cloud (daily at 8:07 AM)"]
+        direction TB
+        TRIGGER["Remote Trigger\nmamdani-video-monitor"]
+        FETCH_YT["WebFetch\nYouTube channel page"]
+        FETCH_TT["WebFetch\nTikTok profile page"]
+        COMPARE["Compare against\nknown video IDs"]
+        REPORT["Write monitoring report\nmonitoring/latest-check.json"]
+        PUSH["Git commit + push"]
+
+        TRIGGER --> FETCH_YT & FETCH_TT
+        FETCH_YT & FETCH_TT --> COMPARE
+        COMPARE --> REPORT --> PUSH
+    end
+
+    subgraph LOCAL["Local Machine - Legion 2025 (on demand or scheduled)"]
+        direction TB
+
+        subgraph DOWNLOAD["Step 1: Download"]
+            DL["01-download.py\nyt-dlp"]
+            DL_YT["YouTube\n@ZohranforNYC"]
+            DL_TT["TikTok\n@zohran_k_mamdani"]
+            DL --> DL_YT & DL_TT
+        end
+
+        META["metadata.json\n(master index)"]
+
+        subgraph TRANSCRIBE["Step 2: Transcribe"]
+            TR["02-transcribe.py\nWhisper turbo"]
+            GPU["NVIDIA RTX 4080 Super\n16GB VRAM / CUDA"]
+            TR --> GPU
+        end
+
+        subgraph FRAMES["Step 3: Extract frames"]
+            FR["03-extract-frames.py\nffmpeg"]
+            INTERVAL["1 frame per 3 seconds\nscaled to max 1920px"]
+            FR --> INTERVAL
+        end
+
+        subgraph ANALYSIS["Step 4: Rebuild analysis"]
+            AN["04-build-analysis.py"]
+            TOPICS["topics.json"]
+            SENTIMENT["sentiment.json"]
+            CROSSPLAT["cross-platform.json"]
+            SUMMARY["summary.json"]
+            AN --> TOPICS & SENTIMENT & CROSSPLAT & SUMMARY
+        end
+
+        subgraph UPLOAD["Step 5: Upload"]
+            COPY["Copy to upload/"]
+            GDRIVE["Google Drive Desktop\nauto-sync to cloud"]
+            COPY --> GDRIVE
+        end
+
+        DOWNLOAD --> META
+        META --> TRANSCRIBE
+        TRANSCRIBE --> FRAMES
+        FRAMES --> ANALYSIS
+        ANALYSIS --> UPLOAD
+    end
+
+    subgraph OUTPUTS["Outputs"]
+        direction LR
+        DRIVE["Google Drive folder\nanalysis + logs + metadata"]
+        DASH["Web dashboard\nweb/index.html"]
+        LOGS["Local logs\nlogs/YYYY-MM-DD_HHMMSS.log"]
+    end
+
+    PUSH -->|"git pull"| LOCAL
+    UPLOAD --> DRIVE
+    ANALYSIS --> DASH
+    LOCAL --> LOGS
+
+    subgraph ORCHESTRATION["Orchestration"]
+        direction LR
+        WRAPPER["update-pipeline.py\n(chains steps 1-5)"]
+        BAT["run-update.bat"]
+        SCHED["Windows Task Scheduler\n(optional daily)"]
+        SCHED --> BAT --> WRAPPER
+    end
+
+    WRAPPER -.->|"runs"| DOWNLOAD

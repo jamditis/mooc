@@ -214,6 +214,11 @@ def build_summary(topics: dict, sentiment: dict, cross_platform: dict, metadata:
     for vid_data in sentiment.get("per_video", {}).values():
         tone_counts[vid_data["dominant_tone"]] += 1
 
+    # Sum word counts from cross-platform analysis
+    total_words = sum(
+        p.get("total_words", 0) for p in cross_platform.get("platforms", {}).values()
+    )
+
     return {
         "total_videos": total_videos,
         "total_duration_seconds": total_duration,
@@ -223,6 +228,7 @@ def build_summary(topics: dict, sentiment: dict, cross_platform: dict, metadata:
         "top_topics": top_topics,
         "dominant_tone_distribution": dict(tone_counts),
         "videos_per_platform": dict(Counter(v["platform"] for v in metadata["videos"])),
+        "total_words": total_words,
     }
 
 
