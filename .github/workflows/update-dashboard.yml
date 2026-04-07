@@ -18,11 +18,9 @@ on:
   schedule:
     - cron: '17 12 * * *'
 
-  # Also run when analysis files or dashboard code changes
+  # Also run on pushes to master (deploys current dashboard state)
   push:
     branches: [master]
-    paths:
-      - 'mamdani-video-analysis/**'
 
   # Allow manual trigger from the Actions tab
   workflow_dispatch:
