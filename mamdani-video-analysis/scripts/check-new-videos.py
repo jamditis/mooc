@@ -69,11 +69,20 @@ def check_platform(platform: str, url: str) -> list[dict]:
 
         videos = []
         for entry in entries:
+            # Flat-playlist mode provides limited fields.
+            # upload_date may be missing — format it if present (YYYYMMDD -> YYYY-MM-DD).
+            raw_date = entry.get("upload_date", "")
+            if raw_date and len(raw_date) == 8:
+                upload_date = f"{raw_date[:4]}-{raw_date[4:6]}-{raw_date[6:8]}"
+            else:
+                upload_date = ""
+
             videos.append({
                 "id": str(entry.get("id", "")),
                 "title": entry.get("title", ""),
                 "url": entry.get("url", entry.get("webpage_url", "")),
                 "duration": entry.get("duration") or 0,
+                "upload_date": upload_date,
             })
 
         print(f"  Found {len(videos)} videos listed on {platform}")
@@ -85,13 +94,6 @@ def check_platform(platform: str, url: str) -> list[dict]:
     except (json.JSONDecodeError, KeyError) as e:
         print(f"  ERROR: Failed to parse {platform} response: {e}")
         return []
-
-
-def format_date(date_str: str) -> str:
-    """Convert yt-dlp date (YYYYMMDD) to ISO 8601."""
-    if date_str and len(date_str) == 8:
-        return f"{date_str[:4]}-{date_str[4:6]}-{date_str[6:8]}"
-    return date_str or datetime.now().strftime("%Y-%m-%d")
 
 
 def main():
@@ -115,7 +117,7 @@ def main():
                 new_videos.append({
                     "id": v["id"],
                     "title": v["title"],
-                    "upload_date": datetime.now().strftime("%Y-%m-%d"),
+                    "upload_date": v.get("upload_date") or datetime.now().strftime("%Y-%m-%d"),
                     "duration": v["duration"],
                     "source_url": v["url"],
                     "platform": platform,

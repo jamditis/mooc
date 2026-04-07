@@ -112,7 +112,9 @@ def run_script(script_name: str, args: list[str] | None = None) -> subprocess.Co
                 logging.warning(f"  STDERR: {line}")
 
     if result.returncode != 0:
-        logging.warning(f"  Exit code: {result.returncode}")
+        logging.error(f"  Exit code: {result.returncode}")
+        logging.info("")
+        raise SystemExit(f"{script_name} failed with exit code {result.returncode}")
 
     logging.info("")
     return result

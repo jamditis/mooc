@@ -3,11 +3,11 @@
   "total_duration_seconds": 18426.519,
   "total_duration_minutes": 307.1,
   "platforms": [
-    "twitter",
+    "tiktok",
+    "facebook",
     "instagram",
     "youtube",
-    "facebook",
-    "tiktok"
+    "twitter"
   ],
   "platform_count": 5,
   "top_topics": [
@@ -29,5 +29,6 @@
     "tiktok": 15,
     "twitter": 16,
     "youtube": 15
-  }
+  },
+  "total_words": 47454
 }

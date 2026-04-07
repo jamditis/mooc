@@ -42,6 +42,8 @@ jobs:
   # ── Job 1: Check for new videos and rebuild analysis ──
   update:
     runs-on: ubuntu-latest
+    # Skip if this push was made by the bot (prevents self-trigger loops)
+    if: github.actor != 'github-actions[bot]'
 
     steps:
       - name: Check out repository
