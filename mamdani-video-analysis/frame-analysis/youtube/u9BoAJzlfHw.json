@@ -1,0 +1,66 @@
+{
+  "video_id": "u9BoAJzlfHw",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "I'm coming to you quick.",
+        "I'm about to meet with more than 400 of the best New Yorkers that money can't...",
+        "I've entrusted these people with a huge responsibility.",
+        "to provide the policy and legislat... recommendations our transition team",
+        "will use to staff up.",
+        "our City not administrative",
+        "are gifted public servants, artists, heads of nonprofits, organizers"
+      ],
+      "setting": "Mix of indoor community or government building exterior/stairwell area (candidate in suit speaking to camera) and a large indoor auditorium or ballroom with rows of audience members; bright indoor lighting",
+      "visual_elements": [
+        "Candidate in suit at what appears to be a building exterior stairwell/alcove",
+        "Crowd of 400+ seated attendees in a large formal venue (auditorium or ballroom)",
+        "Woman speaking at a podium to the audience",
+        "Check-in/registration table visible",
+        "White subtitle captions",
+        "Diverse audience of attendees",
+        "Indoor event production setup"
+      ],
+      "presentation_style": "Transition team announcement video; candidate addresses camera directly in a candid hallway setting while referencing a large ongoing event; cuts to event footage of the 400+ transition committee members assembled"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-end",
+      "on_screen_text": [
+        "We've assembled them into...",
+        "17 transition committees based on subject area expertise.",
+        "17 transition committees based on subject area experts.",
+        "Each committee will be supervised by one of our incredible transition chairs.",
+        "a NEW ERA for NYC"
+      ],
+      "setting": "Exterior building setting (brick walls, iron staircase/fire escape); candidate speaking directly to camera outdoors; small graphic cards showing portraits of transition chair appointees appear as overlays",
+      "visual_elements": [
+        "Candidate in suit outdoors, speaking to camera",
+        "Candidate gesturing with hands (counting transition committees)",
+        "Small profile photo cards with names overlaid (transition chairs)",
+        "Campaign brand card: 'a NEW ERA for NYC' on black background in red/white",
+        "Brick wall and metal fire escape as backdrop",
+        "Natural daylight"
+      ],
+      "presentation_style": "Campaign announcement content with on-screen graphic cards naming transition chairs; candidate explains the transition structure directly to camera; ends with campaign branding"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Large indoor auditorium (transition team assembly) and exterior building stairwell/brick backdrop",
+    "text_overlay_types": [
+      "White subtitle captions (speech transcription)",
+      "Transition chair portrait cards with names",
+      "Campaign slogan outro card ('a NEW ERA for NYC')"
+    ],
+    "visual_themes": [
+      "Transition team formation announcement",
+      "Large civic assembly of 400+ appointees",
+      "Candidate as organizer and administrator",
+      "Named transition chairs with headshots",
+      "Policy committee structure communication"
+    ]
+  }
+}

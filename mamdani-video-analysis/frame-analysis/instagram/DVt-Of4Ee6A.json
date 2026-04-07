@@ -1,0 +1,87 @@
+{
+  "video_id": "DVt-Of4Ee6A",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "All that time, my child",
+        "I would like her to go to daycare before I come here to work.",
+        "We have been here for many years to come",
+        "我有幸代表CAAAN在中国城。/ I have the offices of CAAAN here in Chinatown.",
+        "Julia Ba, Deputy Mayor for Economic Justice (lower-third name tag)",
+        "劳动者和中国城居民的声音 / raise up the voices of working people and residents of Chinatown.",
+        "Coalition Against Anti-Asian Violence (CAAV) (visible on banner/signage)"
+      ],
+      "setting": "Chinatown, NYC. Outdoor street corner with street signs visible. Group of community members including masked individuals in winter coats. Interior event space with red decorations and banners. Julia Ba (Deputy Mayor) visible with name tag.",
+      "visual_elements": [
+        "Chinatown street signs and building facades",
+        "masked community members in winter coats",
+        "Coalition Against Anti-Asian Violence (CAAV) branding on banner",
+        "bilingual Chinese and English subtitle captions in yellow",
+        "Julia Ba lower-third name tag (Deputy Mayor for Economic Justice)",
+        "red decorative banners/event space",
+        "group gathering in indoor event space"
+      ],
+      "presentation_style": "Documentary-style community visit to Chinatown. Bilingual Chinese/English captions. Features Deputy Mayor Julia Ba with community members. Focused on working-class immigrant experience."
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-0:36",
+      "on_screen_text": [
+        "一整天在服装厂工作，就付几美元 / A single day at the garment factory would net for hours",
+        "在服装厂工作，日薪 / working at a restaurant or a garment",
+        "衣物和食品 / Food, clothing.",
+        "基本上我们有这句说法 / Basically we have this old saying:",
+        "基本上，每个住户 / Basically, among every living expense",
+        "租金是最大的负担 / rent is the biggest burden.",
+        "我们生活非常节省。 / We live very frugally."
+      ],
+      "setting": "Chinatown street-level footage — produce vendors, building facades, garment worker interviews. Older Chinese women speaking on camera about their lives. Chinatown storefronts and outdoor market.",
+      "visual_elements": [
+        "Chinatown produce market with vegetable stalls",
+        "older Chinese women in winter coats (interview subjects)",
+        "garment factory/restaurant reference",
+        "Chinatown building facades and signage",
+        "bilingual yellow subtitle captions",
+        "outdoor winter street setting"
+      ],
+      "presentation_style": "Street-level documentary. Focus on working-class Chinatown residents' economic pressures. Bilingual captions continue. Personal financial testimony from older immigrant women."
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "0:54-1:03",
+      "on_screen_text": [
+        "在我们今后的所有工作中，你们至关重要 / And you matter in everything we're going to do moving forward.",
+        "谢谢大家。/ So, thank you."
+      ],
+      "setting": "Final frames: Chinese woman speaking in a warm indoor setting (appears to be a community meeting room). Right-side panels show a mostly white/gray frame (possible fade to white endcard) and a light gray slate.",
+      "visual_elements": [
+        "Chinese woman in warm indoor meeting room",
+        "red element visible in background",
+        "bilingual yellow captions",
+        "white/gray fade endcard (no visible mayoral seal on final panels)",
+        "intimate interview framing"
+      ],
+      "presentation_style": "Closing community testimony. Warmer tone. Ends with partial fade to white rather than a typical branded endcard — possibly the video ends before a full endcard appears in this frame range."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Chinatown, NYC — street-level outdoor footage and indoor community event spaces",
+    "text_overlay_types": [
+      "bilingual Chinese (Traditional) and English subtitle captions in yellow",
+      "lower-third name tag (Julia Ba, Deputy Mayor for Economic Justice)",
+      "Coalition Against Anti-Asian Violence (CAAV) banner signage"
+    ],
+    "visual_themes": [
+      "Chinatown community engagement",
+      "working-class immigrant economic pressures",
+      "bilingual outreach content (Chinese/English)",
+      "garment workers and restaurant workers",
+      "rent burden and frugality in immigrant communities",
+      "Deputy Mayor community visit",
+      "CAAV partnership"
+    ]
+  }
+}

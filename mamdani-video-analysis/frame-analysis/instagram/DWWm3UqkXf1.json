@@ -1,0 +1,94 @@
+{
+  "video_id": "DWWm3UqkXf1",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "There are over one million rent stabilized",
+        "I'm repent, it's not a game",
+        "They're an independent body that considers the evidence",
+        "Have you ever wondered how those rents?",
+        "It's how rents get decided for more than 2 million New Yorkers",
+        "I appointed six members",
+        "a range of experts dig into the data",
+        "This week, the RGB will start hearing from"
+      ],
+      "setting": "Mamdani in formal attire (suit, light blue tie) speaking to camera in a formal interior — American flag visible, ornate office background. Mid-video a Monopoly-style game board prop appears on a table, with 'TENANTS' and 'LANDLORDS' Monopoly-card style pieces.",
+      "visual_elements": [
+        "American flag in background",
+        "ornate formal office/reception room",
+        "Monopoly game board prop on table",
+        "'TENANTS' green Monopoly-card prop",
+        "'LANDLORDS' red Monopoly-card prop",
+        "toy buildings (Monopoly pieces)",
+        "white subtitle captions",
+        "light blue tie"
+      ],
+      "presentation_style": "Explainer video using Monopoly game as visual metaphor for rent stabilization system. Mix of talking-head and staged prop-based sequences. Educational and creative framing."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "If you're a tenant, it's important the RGB hears from you",
+        "that go into owning or operating a rent stabilized building.",
+        "hearings",
+        "on how a rent freeze or lack thereof would affect you.",
+        "and pointing out the RGB is able to know the costs",
+        "After that, they'll hold hearings across the City in June",
+        "or lack thereof, would affect you.",
+        "and public hearing. The RGB will announce official",
+        "Lastly, early this summer, the RGB will release its official",
+        "and binding rent adjustment/rent rent"
+      ],
+      "setting": "Same formal office/reception room. Mamdani at table with Monopoly board, interacting with pieces (moving a miniature car token, handling property cards). Some frames show him seated at desk gesturing.",
+      "visual_elements": [
+        "Monopoly board close-up",
+        "miniature car/token on board",
+        "Mamdani handling game pieces",
+        "'TENANTS' card close-up",
+        "toy building props",
+        "white subtitle captions",
+        "American flag in background"
+      ],
+      "presentation_style": "Continues Monopoly metaphor explainer. Close-up of game pieces to illustrate rent board process. Playful visual metaphor sustains throughout."
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-0:36",
+      "on_screen_text": [
+        "You probably know how I feel about what should happen",
+        "to the rent, but this is a chance to have your voices heard",
+        "by the people who make the final decision.",
+        "Your turn New York City.",
+        "NYC mayoral seal on blue background (endcard)"
+      ],
+      "setting": "Mamdani near full-scale toy building props. Final frame: NYC mayoral seal on solid blue background as endcard.",
+      "visual_elements": [
+        "Mamdani standing near large toy building prop",
+        "toy buildings/blocks as NYC skyline metaphor",
+        "NYC mayoral seal on blue endcard",
+        "white subtitle captions",
+        "formal office room with portrait painting"
+      ],
+      "presentation_style": "Closing call to action for public testimony. Concludes with NYC mayoral seal endcard. Warm, direct appeal to viewers."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Formal ornate office/reception room with American flag and Monopoly game board prop on table",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "NYC mayoral seal endcard on blue background"
+    ],
+    "visual_themes": [
+      "rent stabilization policy explainer",
+      "Rent Guidelines Board (RGB) civic education",
+      "Monopoly game as visual metaphor for housing system",
+      "tenant vs. landlord framing",
+      "call to public testimony",
+      "formal government setting"
+    ]
+  }
+}

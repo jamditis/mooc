@@ -1,0 +1,948 @@
+{
+  "overall": {
+    "governance": 4115,
+    "economy": 1925,
+    "housing": 1830,
+    "budget": 1035,
+    "immigration": 930,
+    "transit": 630,
+    "community_engagement": 630,
+    "health": 620,
+    "public_safety": 565,
+    "childcare": 450,
+    "community": 440,
+    "labor_rights": 430,
+    "education": 420,
+    "elections": 390,
+    "cultural_celebration": 370,
+    "religion": 275,
+    "small_business": 275,
+    "community_relations": 270,
+    "environment": 245,
+    "infrastructure": 240,
+    "public_service": 235,
+    "campaign_endorsement": 190,
+    "jewish_community": 190,
+    "religion_and_culture": 185,
+    "cultural_identity": 185,
+    "international_solidarity": 185,
+    "colonialism": 180,
+    "progressive_politics": 175,
+    "representation": 170,
+    "civic_engagement": 155,
+    "sports": 150,
+    "campaign_finance": 140,
+    "grassroots_organizing": 140,
+    "black_history": 140,
+    "food_access": 115,
+    "labor": 100,
+    "campaign_fundraising": 100,
+    "campaign": 100,
+    "child_care": 95,
+    "cycling_infrastructure": 90,
+    "endorsement": 90,
+    "political_campaigns": 90,
+    "grassroots_campaigning": 90,
+    "inauguration": 90,
+    "public_engagement": 85,
+    "community_representation": 85,
+    "world_cup": 80,
+    "civic_participation": 80,
+    "iran_crisis": 80,
+    "jewish_heritage": 80,
+    "interfaith_engagement": 80,
+    "civil_rights": 80,
+    "human_rights": 70,
+    "disability_rights": 70,
+    "civic_identity": 70,
+    "leadership": 70,
+    "culture": 60,
+    "gig_economy": 60,
+    "staten_island_community": 60,
+    "food": 50,
+    "technology": 40,
+    "arts_and_culture": 40
+  },
+  "per_platform": {
+    "instagram": {
+      "governance": 650,
+      "housing": 380,
+      "economy": 375,
+      "education": 220,
+      "budget": 195,
+      "immigration": 190,
+      "community_engagement": 150,
+      "cultural_celebration": 95,
+      "religion_and_culture": 95,
+      "international_solidarity": 95,
+      "small_business": 95,
+      "cultural_identity": 90,
+      "religion": 90,
+      "colonialism": 90,
+      "civic_engagement": 85,
+      "community_representation": 85,
+      "sports": 80,
+      "infrastructure": 70,
+      "human_rights": 70,
+      "labor_rights": 70,
+      "disability_rights": 70,
+      "culture": 60,
+      "community": 60,
+      "gig_economy": 60,
+      "food": 50,
+      "health": 20
+    },
+    "facebook": {
+      "governance": 820,
+      "budget": 580,
+      "economy": 350,
+      "housing": 295,
+      "immigration": 220,
+      "public_safety": 210,
+      "religion": 185,
+      "infrastructure": 170,
+      "community": 160,
+      "transit": 135,
+      "childcare": 100,
+      "child_care": 95,
+      "environment": 95,
+      "cultural_celebration": 95,
+      "cultural_identity": 95,
+      "cycling_infrastructure": 90,
+      "international_solidarity": 90,
+      "colonialism": 90,
+      "public_engagement": 85,
+      "world_cup": 80,
+      "civic_participation": 80,
+      "iran_crisis": 80,
+      "health": 75,
+      "sports": 70,
+      "education": 60,
+      "labor": 60,
+      "labor_rights": 60,
+      "technology": 40
+    },
+    "tiktok": {
+      "governance": 835,
+      "housing": 365,
+      "economy": 360,
+      "community_engagement": 230,
+      "health": 195,
+      "elections": 190,
+      "transit": 145,
+      "immigration": 120,
+      "campaign_fundraising": 100,
+      "childcare": 100,
+      "campaign_endorsement": 95,
+      "jewish_community": 95,
+      "grassroots_campaigning": 90,
+      "small_business": 90,
+      "inauguration": 90,
+      "cultural_celebration": 90,
+      "community_relations": 90,
+      "progressive_politics": 85,
+      "public_safety": 85,
+      "representation": 80,
+      "jewish_heritage": 80,
+      "grassroots_organizing": 70,
+      "black_history": 70,
+      "public_service": 70,
+      "leadership": 70,
+      "staten_island_community": 60,
+      "environment": 50,
+      "education": 50
+    },
+    "twitter": {
+      "governance": 825,
+      "economy": 485,
+      "housing": 415,
+      "health": 190,
+      "immigration": 170,
+      "community_engagement": 160,
+      "transit": 140,
+      "community": 140,
+      "public_safety": 110,
+      "elections": 100,
+      "childcare": 100,
+      "labor_rights": 100,
+      "campaign_endorsement": 95,
+      "jewish_community": 95,
+      "progressive_politics": 90,
+      "endorsement": 90,
+      "political_campaigns": 90,
+      "representation": 90,
+      "small_business": 90,
+      "cultural_celebration": 90,
+      "community_relations": 90,
+      "public_service": 85,
+      "black_history": 70,
+      "civic_engagement": 70,
+      "budget": 70,
+      "food_access": 65,
+      "campaign_finance": 60,
+      "environment": 60
+    },
+    "youtube": {
+      "governance": 985,
+      "housing": 375,
+      "economy": 355,
+      "immigration": 230,
+      "transit": 210,
+      "labor_rights": 200,
+      "budget": 190,
+      "public_safety": 160,
+      "childcare": 150,
+      "health": 140,
+      "elections": 100,
+      "campaign": 100,
+      "education": 90,
+      "community_engagement": 90,
+      "religion_and_culture": 90,
+      "community_relations": 90,
+      "community": 80,
+      "public_service": 80,
+      "interfaith_engagement": 80,
+      "civil_rights": 80,
+      "campaign_finance": 80,
+      "grassroots_organizing": 70,
+      "civic_identity": 70,
+      "food_access": 50,
+      "environment": 40,
+      "labor": 40,
+      "arts_and_culture": 40
+    }
+  },
+  "per_video": {
+    "DWmWUe3EZ1V": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "budget": 100,
+        "economy": 80,
+        "governance": 70,
+        "education": 30
+      }
+    },
+    "1238505278271315": {
+      "title": "Mayor Mamdani Holds Press Conference to Make a Child Care Announcement",
+      "platform": "facebook",
+      "topics": {
+        "child_care": 95,
+        "budget": 85,
+        "governance": 75,
+        "public_safety": 20,
+        "economy": 50,
+        "education": 30,
+        "technology": 40
+      }
+    },
+    "992279556558448": {
+      "title": "147K views \u00b7 933 reactions | What New Yorkers should know about the budget proposal that New York City Council released today. | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "topics": {
+        "budget": 100,
+        "economy": 70,
+        "governance": 70,
+        "education": 30
+      }
+    },
+    "1860854987947164": {
+      "title": "Mayor Mamdani Holds Press Conference to Make an Infrastructure Improvement Announcement",
+      "platform": "facebook",
+      "topics": {
+        "infrastructure": 100,
+        "environment": 85,
+        "budget": 70,
+        "transit": 40,
+        "governance": 50,
+        "public_safety": 30
+      }
+    },
+    "DWgwSVekTpF": {
+      "title": "Video by bambambaklava",
+      "platform": "instagram",
+      "topics": {
+        "community_engagement": 70,
+        "culture": 60,
+        "food": 50
+      }
+    },
+    "2119360418822675": {
+      "title": "Mayor Zohran Mamdani Holds Press Conference to Make a Child Care Announcement",
+      "platform": "facebook",
+      "topics": {
+        "childcare": 100,
+        "governance": 80,
+        "economy": 70,
+        "budget": 70,
+        "labor": 60,
+        "housing": 30,
+        "public_safety": 20
+      }
+    },
+    "DWY__3qEYTQ": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "governance": 90,
+        "civic_engagement": 85,
+        "infrastructure": 70
+      }
+    },
+    "793203993833857": {
+      "title": "865K views \u00b7 16K reactions | New Yorkers, join us in the first ever Mayor\u2019s Municipal Madness: a competition of city fixes where everyone wins. City workers fix thousands of tiny annoyances every year",
+      "platform": "facebook",
+      "topics": {
+        "governance": 90,
+        "public_engagement": 85,
+        "infrastructure": 70
+      }
+    },
+    "939283565126763": {
+      "title": "Mayor Mamdani Holds a Press Conference to Make a Street Safety Announcement",
+      "platform": "facebook",
+      "topics": {
+        "transit": 95,
+        "cycling_infrastructure": 90,
+        "world_cup": 80,
+        "budget": 60,
+        "immigration": 50,
+        "governance": 50,
+        "public_safety": 40
+      }
+    },
+    "DWWm3UqkXf1": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "housing": 100,
+        "governance": 70,
+        "economy": 50
+      }
+    },
+    "1676074316905665": {
+      "title": "241K views \u00b7 3.5K reactions | Who decides whether or not stabilized rents are raised? Meet the Rent Guidelines Board. Here\u2019s what you should know about the board and how to make your voice heard. | Ma",
+      "platform": "facebook",
+      "topics": {
+        "housing": 100,
+        "governance": 70,
+        "civic_participation": 80
+      }
+    },
+    "DWSYw_SEfNe": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "immigration": 70,
+        "governance": 50,
+        "cultural_celebration": 95,
+        "human_rights": 70
+      }
+    },
+    "DWTz5zIkRLY": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "budget": 95,
+        "governance": 90,
+        "economy": 70,
+        "housing": 30,
+        "health": 20
+      }
+    },
+    "1427791955119421": {
+      "title": "475K views \u00b7 9.4K reactions | Government must deliver for working people\u2014and every dollar in our budget should work as hard as they do. That\u2019s why I directed every agency to cut waste and help close o",
+      "platform": "facebook",
+      "topics": {
+        "budget": 95,
+        "governance": 90,
+        "economy": 70,
+        "housing": 20
+      }
+    },
+    "3334870776684027": {
+      "title": "1.4M views \u00b7 14K reactions | Happy Nowruz, New York City.\ufffd\ufffdAs Persian and other communities welcome the new year, I joined some members of our team to learn the about the Haft-seen table \u2014 a tradition",
+      "platform": "facebook",
+      "topics": {
+        "immigration": 70,
+        "governance": 50,
+        "cultural_celebration": 95,
+        "iran_crisis": 80
+      }
+    },
+    "3963158093976580": {
+      "title": "Mayor Mamdani Holds Press Conference to Make an Affordable Housing Announcement",
+      "platform": "facebook",
+      "topics": {
+        "housing": 100,
+        "budget": 70,
+        "governance": 60,
+        "economy": 50,
+        "environment": 10
+      }
+    },
+    "DWGubHPkWC5": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "religion_and_culture": 95,
+        "governance": 50,
+        "immigration": 30,
+        "community": 60
+      }
+    },
+    "1515680729887629": {
+      "title": "666K views \u00b7 15K reactions | Eid Mubarak, New York. Watch the full documentary short at YouTube.com/nycmayorsoffice | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "topics": {
+        "cultural_identity": 95,
+        "religion": 95,
+        "governance": 50,
+        "community": 70
+      }
+    },
+    "26023158683974073": {
+      "title": "Mayor Mamdani Holds Press Conference to Make an Announcement",
+      "platform": "facebook",
+      "topics": {
+        "public_safety": 100,
+        "governance": 85,
+        "health": 75,
+        "budget": 30,
+        "housing": 15
+      }
+    },
+    "DWCi_70EVza": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "cultural_identity": 90,
+        "religion": 90,
+        "sports": 80,
+        "community_representation": 85
+      }
+    },
+    "1250618806654589": {
+      "title": "371K views \u00b7 6.3K reactions | Harlem night with Mo Diawara. New York Forever. | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "topics": {
+        "community": 90,
+        "religion": 90,
+        "sports": 70,
+        "immigration": 30
+      }
+    },
+    "DV_c5ZJETpW": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "international_solidarity": 95,
+        "colonialism": 90,
+        "labor_rights": 70,
+        "immigration": 50,
+        "housing": 30,
+        "economy": 30
+      }
+    },
+    "DV_JL69ES1I": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "economy": 95,
+        "small_business": 95,
+        "governance": 50
+      }
+    },
+    "1614085309624677": {
+      "title": "1.7M views \u00b7 61K reactions | Happy St. Patrick\u2019s Day, New York. | Mayor Zohran Kwame Mamdani",
+      "platform": "facebook",
+      "topics": {
+        "immigration": 70,
+        "housing": 30,
+        "economy": 40,
+        "international_solidarity": 90,
+        "colonialism": 90,
+        "labor_rights": 60
+      }
+    },
+    "DVzkigfEZLt": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "housing": 100,
+        "disability_rights": 70,
+        "gig_economy": 60,
+        "governance": 40
+      }
+    },
+    "DVwFzoPkYOT": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "education": 90,
+        "governance": 30
+      }
+    },
+    "DVt-Of4Ee6A": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "housing": 90,
+        "governance": 70,
+        "community_engagement": 80,
+        "immigration": 40
+      }
+    },
+    "DVrokd0EaPs": {
+      "title": "Video by nycmayor",
+      "platform": "instagram",
+      "topics": {
+        "education": 100,
+        "economy": 50,
+        "housing": 30,
+        "governance": 40
+      }
+    },
+    "7610918633673379103": {
+      "title": "I\u2019m proud to be supporting my friend Brad Lander for Congress.\u00a0 @Brad...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 70,
+        "elections": 90,
+        "progressive_politics": 85,
+        "campaign_endorsement": 95
+      }
+    },
+    "2026771477794574337": {
+      "title": "Zohran Kwame Mamdani - I\u2019m proud to be supporting my friend Brad Lander for Congress.\u00a0  @Bra...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 70,
+        "campaign_endorsement": 95,
+        "progressive_politics": 90,
+        "campaign_finance": 60
+      }
+    },
+    "7600042219541761311": {
+      "title": "Friends, I'm once again asking you to donate \u2014 but not to me! @claire...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 80,
+        "housing": 70,
+        "health": 60,
+        "economy": 60,
+        "campaign_fundraising": 100
+      }
+    },
+    "2016154867815866368": {
+      "title": "Zohran Kwame Mamdani - Friends, I\u2019m once again asking you to donate. But not to me!   @clair...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 80,
+        "housing": 70,
+        "health": 60,
+        "economy": 60,
+        "endorsement": 90
+      }
+    },
+    "7597265072708177182": {
+      "title": "\ud83c\uddf2\ud83c\udde6\ud83d\uddfd\ud83c\uddf8\ud83c\uddf3",
+      "platform": "tiktok",
+      "topics": {
+        "immigration": 70,
+        "community_engagement": 60
+      }
+    },
+    "s_hR4A1_sew": {
+      "title": "Revisiting Election Night",
+      "platform": "youtube",
+      "topics": {
+        "governance": 90,
+        "elections": 100,
+        "grassroots_organizing": 70,
+        "transit": 20
+      }
+    },
+    "7590188347398573343": {
+      "title": "Before the victory speech and celebrations on November 4, there were ...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 90,
+        "elections": 100,
+        "grassroots_organizing": 70
+      }
+    },
+    "2006527914976624640": {
+      "title": "Zohran Kwame Mamdani - Before the victory speech and celebrations on November 4, there were ...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 90,
+        "elections": 100,
+        "political_campaigns": 90
+      }
+    },
+    "xj89tYvwr6k": {
+      "title": "THE MAYOR IS LISTENING",
+      "platform": "youtube",
+      "topics": {
+        "housing": 90,
+        "immigration": 90,
+        "transit": 70,
+        "health": 70,
+        "public_safety": 60,
+        "economy": 60,
+        "childcare": 50,
+        "food_access": 50,
+        "environment": 40,
+        "education": 30,
+        "governance": 70,
+        "budget": 50
+      }
+    },
+    "7590114344952778015": {
+      "title": "On December 14th, I sat across from 142 New Yorkers as they shared th...",
+      "platform": "tiktok",
+      "topics": {
+        "housing": 95,
+        "transit": 75,
+        "economy": 80,
+        "health": 65,
+        "environment": 50,
+        "governance": 60,
+        "public_safety": 35
+      }
+    },
+    "2006456525590560768": {
+      "title": "Zohran Kwame Mamdani - On December 14th, I sat across from 142 New Yorkers as they shared th...",
+      "platform": "twitter",
+      "topics": {
+        "housing": 95,
+        "transit": 80,
+        "health": 70,
+        "economy": 75,
+        "environment": 60,
+        "governance": 50,
+        "food_access": 65
+      }
+    },
+    "LaZ2hNDZjFc": {
+      "title": "\"I Want To Do Something About It\" - Concerns From a Young New Yorker",
+      "platform": "youtube",
+      "topics": {
+        "housing": 95,
+        "public_safety": 50,
+        "transit": 70,
+        "health": 70,
+        "community": 80
+      }
+    },
+    "7588968577248627998": {
+      "title": "Two weeks ago I spent the whole day at Museum of the Moving Image to ...",
+      "platform": "tiktok",
+      "topics": {
+        "housing": 90,
+        "public_safety": 50,
+        "transit": 70,
+        "health": 70,
+        "governance": 40
+      }
+    },
+    "2005339405079257088": {
+      "title": "Zohran Kwame Mamdani - Two weeks ago I spent the whole day at @MovingImageNYC to listen to N...",
+      "platform": "twitter",
+      "topics": {
+        "housing": 90,
+        "public_safety": 50,
+        "transit": 60,
+        "health": 60,
+        "community_engagement": 80
+      }
+    },
+    "onvdHISKzAU": {
+      "title": "My #1 Canvasser: My Mother",
+      "platform": "youtube",
+      "topics": {
+        "governance": 70,
+        "economy": 50,
+        "immigration": 40,
+        "campaign": 100
+      }
+    },
+    "7588235919799422239": {
+      "title": "In less than a week, I will be sworn in as the next mayor of New York...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 80,
+        "immigration": 50,
+        "economy": 60,
+        "grassroots_campaigning": 90,
+        "representation": 80
+      }
+    },
+    "2004621971980533760": {
+      "title": "Zohran Kwame Mamdani - In less than a week, I will be sworn in as the next mayor of New York...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 80,
+        "immigration": 70,
+        "economy": 50,
+        "representation": 90
+      }
+    },
+    "ayG-4CPpI0w": {
+      "title": "Most New Yorkers Can't Afford Childcare",
+      "platform": "youtube",
+      "topics": {
+        "childcare": 100,
+        "economy": 80,
+        "education": 60,
+        "housing": 50,
+        "governance": 40
+      }
+    },
+    "7587933046901361934": {
+      "title": "A big thank you to Shaw-nae for warmly welcoming us, sharing her hist...",
+      "platform": "tiktok",
+      "topics": {
+        "economy": 80,
+        "small_business": 90,
+        "black_history": 70,
+        "housing": 30,
+        "staten_island_community": 60
+      }
+    },
+    "7587616948700171550": {
+      "title": "Most New Yorkers can\u2019t afford childcare.",
+      "platform": "tiktok",
+      "topics": {
+        "childcare": 100,
+        "economy": 80,
+        "education": 50,
+        "housing": 40,
+        "governance": 40
+      }
+    },
+    "2003979931135492097": {
+      "title": "Zohran Kwame Mamdani - Most New Yorkers can't afford childcare.",
+      "platform": "twitter",
+      "topics": {
+        "childcare": 100,
+        "economy": 80,
+        "housing": 50,
+        "governance": 40
+      }
+    },
+    "2004324954913808384": {
+      "title": "Zohran Kwame Mamdani - A big thank you to Shaw-nae for warmly welcoming us, sharing her hist...",
+      "platform": "twitter",
+      "topics": {
+        "economy": 80,
+        "small_business": 90,
+        "black_history": 70,
+        "housing": 30,
+        "community": 60
+      }
+    },
+    "Atlw-hdpha4": {
+      "title": "The Inauguration of a New Era",
+      "platform": "youtube",
+      "topics": {
+        "governance": 90,
+        "public_service": 80,
+        "civic_identity": 70
+      }
+    },
+    "7586328185348934943": {
+      "title": "New York, this moment belongs to you. Please join us for the Inaugura...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 95,
+        "inauguration": 90,
+        "public_service": 70
+      }
+    },
+    "2002759156156026880": {
+      "title": "Zohran Kwame Mamdani - New York, this moment belongs to you. Please join us for the Inaugura...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 95,
+        "community": 80,
+        "public_service": 85
+      }
+    },
+    "KIxAKyioXng": {
+      "title": "Happy Hanukkah",
+      "platform": "youtube",
+      "topics": {
+        "governance": 50,
+        "community_engagement": 90,
+        "religion_and_culture": 90
+      }
+    },
+    "7585930626700709150": {
+      "title": "It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 50,
+        "community_engagement": 90,
+        "cultural_celebration": 90,
+        "jewish_heritage": 80
+      }
+    },
+    "2002370607917199361": {
+      "title": "Zohran Kwame Mamdani - It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 40,
+        "cultural_celebration": 90,
+        "community_engagement": 80
+      }
+    },
+    "qZdCGroDHHo": {
+      "title": "Mayor for 8,478,000 New Yorkers",
+      "platform": "youtube",
+      "topics": {
+        "governance": 90
+      }
+    },
+    "7584631558447926541": {
+      "title": "This past Sunday, from 8am to 8pm, New Yorkers from every corner of o...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 70,
+        "community_engagement": 80
+      }
+    },
+    "2001097538137444355": {
+      "title": "Zohran Kwame Mamdani - This past Sunday, from 8am to 8pm, New Yorkers from every corner of o...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 60,
+        "civic_engagement": 70
+      }
+    },
+    "XuD40RSFhl4": {
+      "title": "Kuf Alef Kislev",
+      "platform": "youtube",
+      "topics": {
+        "governance": 70,
+        "community_relations": 90,
+        "interfaith_engagement": 80
+      }
+    },
+    "7582732952430234910": {
+      "title": "Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar...",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 80,
+        "community_relations": 90,
+        "jewish_community": 95
+      }
+    },
+    "7582675039246454071": {
+      "title": "Meet my new bosses.",
+      "platform": "tiktok",
+      "topics": {
+        "governance": 80,
+        "housing": 40,
+        "leadership": 70
+      }
+    },
+    "1999245343456653313": {
+      "title": "Zohran Kwame Mamdani - Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar...",
+      "platform": "twitter",
+      "topics": {
+        "governance": 80,
+        "community_relations": 90,
+        "jewish_community": 95
+      }
+    },
+    "6q500M3Qqfc": {
+      "title": "I'm Asking For Your Donations One More Time",
+      "platform": "youtube",
+      "topics": {
+        "governance": 90,
+        "budget": 70,
+        "housing": 30
+      }
+    },
+    "1998422900349501440": {
+      "title": "Zohran Kwame Mamdani - One last time.",
+      "platform": "twitter",
+      "topics": {
+        "governance": 90,
+        "budget": 70,
+        "housing": 50,
+        "economy": 50
+      }
+    },
+    "Tq-KqQXy4LE": {
+      "title": "Know Your Rights When Dealing With ICE",
+      "platform": "youtube",
+      "topics": {
+        "immigration": 100,
+        "public_safety": 50,
+        "governance": 60,
+        "civil_rights": 80
+      }
+    },
+    "1997711472353214464": {
+      "title": "Zohran Kwame Mamdani - Know your rights. Protect your neighbors.  New York is \u2014 and always w...",
+      "platform": "twitter",
+      "topics": {
+        "immigration": 100,
+        "public_safety": 60,
+        "governance": 50
+      }
+    },
+    "fXRso8vCfcA": {
+      "title": "Starbucks on Strike! With Bernie Sanders",
+      "platform": "youtube",
+      "topics": {
+        "economy": 95,
+        "labor_rights": 100,
+        "housing": 30,
+        "governance": 40
+      }
+    },
+    "1996610139332247552": {
+      "title": "Zohran Kwame Mamdani - More than 2,500 Starbucks workers are on strike. They\u2019re demanding di...",
+      "platform": "twitter",
+      "topics": {
+        "economy": 90,
+        "labor_rights": 100,
+        "housing": 30
+      }
+    },
+    "CXnfID1Lw0c": {
+      "title": "No Contract? No Coffee!",
+      "platform": "youtube",
+      "topics": {
+        "labor_rights": 100,
+        "economy": 70,
+        "governance": 30
+      }
+    },
+    "u9BoAJzlfHw": {
+      "title": "Getting the Team Together",
+      "platform": "youtube",
+      "topics": {
+        "governance": 100,
+        "housing": 50,
+        "transit": 50,
+        "labor": 40,
+        "arts_and_culture": 40
+      }
+    },
+    "h-hmxt6NdMg": {
+      "title": "We need your help! But let me explain why.",
+      "platform": "youtube",
+      "topics": {
+        "governance": 95,
+        "budget": 70,
+        "campaign_finance": 80,
+        "housing": 30
+      }
+    }
+  }
+}

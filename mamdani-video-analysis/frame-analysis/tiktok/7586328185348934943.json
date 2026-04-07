@@ -1,0 +1,73 @@
+{
+  "video_id": "7586328185348934943",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "New York City",
+        "It is the leading city",
+        "it is at the height",
+        "to its people",
+        "It is a privilege",
+        "of a community",
+        "It was the spirit of",
+        "And they dared to believe",
+        "must prevail over..."
+      ],
+      "setting": "Black-and-white archival footage of New York City — skyline, street scenes, political rallies, historical figures",
+      "visual_elements": [
+        "Grainy black-and-white film footage of 20th-century NYC",
+        "Historical political figures at podiums",
+        "Crowds in period clothing",
+        "Iconic NYC buildings and skyline from past decades",
+        "Documentary/archival montage style"
+      ],
+      "presentation_style": "Archival documentary montage; voiceover narration with subtitle captions; historical and inspirational framing"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "demands solidarity.",
+        "demands hope.",
+        "if this campaign",
+        "has demonstrated anything,",
+        "can become reality."
+      ],
+      "setting": "Modern campaign event footage — rally crowds, Mamdani walking and engaging supporters; outdoor and indoor venues",
+      "visual_elements": [
+        "Campaign rally crowd",
+        "Mamdani walking through a crowd outdoors",
+        "Supporters holding Zohran/campaign signs",
+        "Mamdani embracing supporters",
+        "Split-frame with blurred close-ups between action shots",
+        "Mamdani at outdoor/indoor public appearance with attendees"
+      ],
+      "presentation_style": "Campaign closing montage with emotional captions; transitioning from archival footage to modern campaign scenes"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "This is not my victory.",
+        "N.Y.C. INAUGURATION 2026",
+        "NYC INAUGURATION 2026"
+      ],
+      "setting": "Outdoor park or plaza (blurry); then white graphic cards with NYC Inauguration 2026 badge/logo",
+      "visual_elements": [
+        "Small card/flyer visible: 'This is not my victory' caption",
+        "NYC Inauguration 2026 official badge (apple shaped logo with red/blue/white branding)",
+        "Badge shown at small and large scale",
+        "Official inaugural branding"
+      ],
+      "presentation_style": "Victory speech video transitioning to official inaugural branding; clean white graphic cards at end"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Mix of archival black-and-white NYC footage and modern campaign rally footage; ends with inauguration branding",
+    "text_overlay_types": ["voiceover subtitles", "inspirational speech captions", "official inauguration logo/badge"],
+    "visual_themes": ["historical NYC legacy", "campaign victory", "solidarity and hope", "inauguration announcement", "archival to modern transition"]
+  }
+}

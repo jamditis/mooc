@@ -1,0 +1,435 @@
+{
+  "text": " Thank you. Thank you. Thank you. Is that a good word? It is, I mean. But I love these notes. They just take me back to people. Are you going to do it now? To type it up.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 0.36,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.2658127347628276,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.5016941856682564e-10,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 0.0,
+          "end": 0.36,
+          "probability": 0.22191578149795532
+        },
+        {
+          "word": " you.",
+          "start": 0.36,
+          "end": 0.36,
+          "probability": 0.9984127283096313
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 3000,
+      "start": 30.0,
+      "end": 30.36,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0731998085975647,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.4924094945967248e-11,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 30.0,
+          "end": 30.36,
+          "probability": 0.22191578149795532
+        },
+        {
+          "word": " you.",
+          "start": 30.36,
+          "end": 30.36,
+          "probability": 0.9984127283096313
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 6000,
+      "start": 63.1,
+      "end": 63.42,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        50465
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 63.1,
+          "end": 63.42,
+          "probability": 0.0011166157200932503
+        },
+        {
+          "word": " you.",
+          "start": 63.42,
+          "end": 63.42,
+          "probability": 0.9163367748260498
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 6000,
+      "start": 63.42,
+      "end": 63.96,
+      "text": " Is that a good word?",
+      "tokens": [
+        50526,
+        1119,
+        300,
+        257,
+        665,
+        1349,
+        30,
+        50565
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " Is",
+          "start": 63.42,
+          "end": 63.42,
+          "probability": 0.14332495629787445
+        },
+        {
+          "word": " that",
+          "start": 63.42,
+          "end": 63.52,
+          "probability": 0.9904723167419434
+        },
+        {
+          "word": " a",
+          "start": 63.52,
+          "end": 63.64,
+          "probability": 0.5711272358894348
+        },
+        {
+          "word": " good",
+          "start": 63.64,
+          "end": 63.74,
+          "probability": 0.6096411347389221
+        },
+        {
+          "word": " word?",
+          "start": 63.74,
+          "end": 63.96,
+          "probability": 0.23912963271141052
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 6000,
+      "start": 65.4,
+      "end": 66.14,
+      "text": " It is, I mean.",
+      "tokens": [
+        50631,
+        467,
+        307,
+        11,
+        286,
+        914,
+        13,
+        50674
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 65.4,
+          "end": 65.72,
+          "probability": 0.9198977947235107
+        },
+        {
+          "word": " is,",
+          "start": 65.72,
+          "end": 65.9,
+          "probability": 0.9939298629760742
+        },
+        {
+          "word": " I",
+          "start": 65.96,
+          "end": 66.02,
+          "probability": 0.7706196308135986
+        },
+        {
+          "word": " mean.",
+          "start": 66.02,
+          "end": 66.14,
+          "probability": 0.9947651624679565
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 6000,
+      "start": 66.52,
+      "end": 67.48,
+      "text": " But I love these notes.",
+      "tokens": [
+        50690,
+        583,
+        286,
+        959,
+        613,
+        5570,
+        13,
+        50740
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " But",
+          "start": 66.52,
+          "end": 66.7,
+          "probability": 0.9573050737380981
+        },
+        {
+          "word": " I",
+          "start": 66.7,
+          "end": 66.8,
+          "probability": 0.9682878851890564
+        },
+        {
+          "word": " love",
+          "start": 66.8,
+          "end": 67.0,
+          "probability": 0.9928325414657593
+        },
+        {
+          "word": " these",
+          "start": 67.0,
+          "end": 67.24,
+          "probability": 0.9882062077522278
+        },
+        {
+          "word": " notes.",
+          "start": 67.24,
+          "end": 67.48,
+          "probability": 0.9649702310562134
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 6000,
+      "start": 67.58,
+      "end": 68.68,
+      "text": " They just take me back to people.",
+      "tokens": [
+        50745,
+        814,
+        445,
+        747,
+        385,
+        646,
+        281,
+        561,
+        13,
+        50800
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " They",
+          "start": 67.58,
+          "end": 67.64,
+          "probability": 0.9843090772628784
+        },
+        {
+          "word": " just",
+          "start": 67.64,
+          "end": 67.8,
+          "probability": 0.9884825348854065
+        },
+        {
+          "word": " take",
+          "start": 67.8,
+          "end": 67.96,
+          "probability": 0.9959350824356079
+        },
+        {
+          "word": " me",
+          "start": 67.96,
+          "end": 68.08,
+          "probability": 0.9968557357788086
+        },
+        {
+          "word": " back",
+          "start": 68.08,
+          "end": 68.28,
+          "probability": 0.9982450008392334
+        },
+        {
+          "word": " to",
+          "start": 68.28,
+          "end": 68.42,
+          "probability": 0.993180513381958
+        },
+        {
+          "word": " people.",
+          "start": 68.42,
+          "end": 68.68,
+          "probability": 0.9909136295318604
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 6000,
+      "start": 69.22,
+      "end": 70.0,
+      "text": " Are you going to do it now?",
+      "tokens": [
+        50829,
+        2014,
+        291,
+        516,
+        281,
+        360,
+        309,
+        586,
+        30,
+        50866
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " Are",
+          "start": 69.22,
+          "end": 69.36,
+          "probability": 0.3541603982448578
+        },
+        {
+          "word": " you",
+          "start": 69.36,
+          "end": 69.46,
+          "probability": 0.9953483939170837
+        },
+        {
+          "word": " going",
+          "start": 69.46,
+          "end": 69.6,
+          "probability": 0.6915447115898132
+        },
+        {
+          "word": " to",
+          "start": 69.6,
+          "end": 69.62,
+          "probability": 0.9962334036827087
+        },
+        {
+          "word": " do",
+          "start": 69.62,
+          "end": 69.7,
+          "probability": 0.8950444459915161
+        },
+        {
+          "word": " it",
+          "start": 69.7,
+          "end": 69.8,
+          "probability": 0.7648879289627075
+        },
+        {
+          "word": " now?",
+          "start": 69.8,
+          "end": 70.0,
+          "probability": 0.7755419015884399
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6000,
+      "start": 71.9,
+      "end": 72.66,
+      "text": " To type it up.",
+      "tokens": [
+        50960,
+        1407,
+        2010,
+        309,
+        493,
+        13,
+        51003
+      ],
+      "temperature": 0.4,
+      "avg_logprob": -0.44179849457322506,
+      "compression_ratio": 1.225,
+      "no_speech_prob": 2.201643598334635e-12,
+      "words": [
+        {
+          "word": " To",
+          "start": 71.9,
+          "end": 72.22,
+          "probability": 0.15776483714580536
+        },
+        {
+          "word": " type",
+          "start": 72.22,
+          "end": 72.42,
+          "probability": 0.9774249792098999
+        },
+        {
+          "word": " it",
+          "start": 72.42,
+          "end": 72.52,
+          "probability": 0.6343560814857483
+        },
+        {
+          "word": " up.",
+          "start": 72.52,
+          "end": 72.66,
+          "probability": 0.7362419962882996
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

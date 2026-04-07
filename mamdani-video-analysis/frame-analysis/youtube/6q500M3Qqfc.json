@@ -1,0 +1,73 @@
+{
+  "video_id": "6q500M3Qqfc",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Outdoor urban setting under an elevated train structure or overpass; brick and stone architecture; bare winter trees; daytime, natural light; location appears to be a NYC neighborhood",
+      "visual_elements": [
+        "Candidate in dark coat walking toward camera",
+        "Elevated rail structure overhead",
+        "Brick archways and columns",
+        "Autumn or winter bare trees",
+        "Wide open outdoor space with benches visible",
+        "Multiple angles of the candidate walking and speaking directly to camera"
+      ],
+      "presentation_style": "Direct-to-camera fundraising appeal filmed outdoors; casual and accessible tone; candidate speaks while walking in the neighborhood; no text overlays in these frames"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [],
+      "setting": "Same outdoor location under elevated structure; candidate continues walking and addressing camera directly; additional outdoor NYC street settings with brick buildings",
+      "visual_elements": [
+        "Candidate in dark coat with thumbs up gesture",
+        "Wide shots of urban outdoor space",
+        "Brick building with graffiti visible in background",
+        "Candidate jumping playfully in one frame",
+        "Bus shelter visible",
+        "Natural winter daylight"
+      ],
+      "presentation_style": "Energetic and playful direct-to-camera appeal; candidate jumps and gestures; casual and informal fundraising video"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-end",
+      "on_screen_text": [
+        "TRANSITION2025.COM",
+        "TO BE CONTINUED...",
+        "A NEW ERA",
+        "NEW YORK CITY",
+        "TO BE CONTINUED...",
+        "A NEW ERA",
+        "NEW YORK CITY"
+      ],
+      "setting": "Outdoor continued; final frames show campaign outro cards with a colorful static/grain texture background for 'TO BE CONTINUED...' and then campaign branding",
+      "visual_elements": [
+        "Candidate seated outdoors at what appears to be a park table",
+        "Text overlay: 'TRANSITION2025.COM' in yellow/gold",
+        "Static/noise texture background for 'TO BE CONTINUED...' card",
+        "Campaign brand card: 'A NEW ERA for NEW YORK CITY' in red/white/blue",
+        "Transition website URL prominently displayed"
+      ],
+      "presentation_style": "Closes with a call to action URL (transition2025.com) and a 'to be continued' teaser; serial campaign content format implied"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor urban space under an elevated train structure in a NYC neighborhood",
+    "text_overlay_types": [
+      "Website URL overlay ('TRANSITION2025.COM')",
+      "'TO BE CONTINUED...' outro card with static texture",
+      "Campaign slogan outro card ('A NEW ERA for NEW YORK CITY')"
+    ],
+    "visual_themes": [
+      "Direct-to-camera fundraising appeal",
+      "Casual outdoor walking-and-talking format",
+      "Playful and energetic candidate persona",
+      "Transition website CTA",
+      "Serial content structure implied by 'to be continued'"
+    ]
+  }
+}

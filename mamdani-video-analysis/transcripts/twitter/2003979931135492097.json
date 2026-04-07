@@ -1,0 +1,3412 @@
+{
+  "text": " The holidays are about being with family. For some, it's a welcome break from work or school. Yet for many, the struggle to afford childcare continues all the same. Here's the reality for a family in New York. Affording childcare requires you to make more than $330,000 a year. And that's just for a single toddler. After rent, it's the biggest cost burden on working families with kids. And these are some of the only options they have. Option one, a parent leaves their job. In 2022, we lost $23 billion in economic activity because parents quit or had to cut hours to take care of their kids. Option two, families leave New York entirely. Households with young children are twice as likely to move. Option three, families go into debt because they have no choice but to pay these prices. Prices which force them to make impossible trade-offs. This is the affordability crisis in action. That's why universal childcare is a priority for me when I take office. The good news is there's a consensus. We need to act. The goal is universal, no-cost childcare for every family in New York City. We can expand 3K and pre-K to the youngest children, but it only works if we build it right. Over the next few months, we'll be speaking with families and childcare workers about what this needs to look like. Because with universal childcare, more families can afford to stay. More babies are born in New York City. More kids raised as New Yorkers. We stop losing the next generation and start building the city they deserve. That's the New York we're fighting for. Happy holidays. More to come in the new year. Happy holidays. fond come to check.いじらっきょっと Fortこの章が嫌な Ald Motors. Fortniaみな카 τηςテ勢 heter大学生愛だ episodes Do you know or child、nat 먹는 Maybe you have an amist, Maặ с wiret.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.64,
+      "text": " The holidays are about being with family.",
+      "tokens": [
+        50365,
+        440,
+        15734,
+        366,
+        466,
+        885,
+        365,
+        1605,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 0.0,
+          "end": 0.28,
+          "probability": 0.7141146659851074
+        },
+        {
+          "word": " holidays",
+          "start": 0.28,
+          "end": 0.62,
+          "probability": 0.9881340861320496
+        },
+        {
+          "word": " are",
+          "start": 0.62,
+          "end": 0.84,
+          "probability": 0.9977534413337708
+        },
+        {
+          "word": " about",
+          "start": 0.84,
+          "end": 0.96,
+          "probability": 0.9967076778411865
+        },
+        {
+          "word": " being",
+          "start": 0.96,
+          "end": 1.16,
+          "probability": 0.9979588985443115
+        },
+        {
+          "word": " with",
+          "start": 1.16,
+          "end": 1.32,
+          "probability": 0.9982841610908508
+        },
+        {
+          "word": " family.",
+          "start": 1.32,
+          "end": 1.64,
+          "probability": 0.8905738592147827
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 2.0,
+      "end": 4.32,
+      "text": " For some, it's a welcome break from work or school.",
+      "tokens": [
+        50465,
+        1171,
+        512,
+        11,
+        309,
+        311,
+        257,
+        2928,
+        1821,
+        490,
+        589,
+        420,
+        1395,
+        13,
+        50595
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " For",
+          "start": 2.0,
+          "end": 2.12,
+          "probability": 0.9975987076759338
+        },
+        {
+          "word": " some,",
+          "start": 2.12,
+          "end": 2.4,
+          "probability": 0.9991428852081299
+        },
+        {
+          "word": " it's",
+          "start": 2.6,
+          "end": 2.8,
+          "probability": 0.9910724759101868
+        },
+        {
+          "word": " a",
+          "start": 2.8,
+          "end": 2.82,
+          "probability": 0.9957538843154907
+        },
+        {
+          "word": " welcome",
+          "start": 2.82,
+          "end": 3.1,
+          "probability": 0.9922623634338379
+        },
+        {
+          "word": " break",
+          "start": 3.1,
+          "end": 3.38,
+          "probability": 0.9968094229698181
+        },
+        {
+          "word": " from",
+          "start": 3.38,
+          "end": 3.64,
+          "probability": 0.9955339431762695
+        },
+        {
+          "word": " work",
+          "start": 3.64,
+          "end": 3.9,
+          "probability": 0.99733966588974
+        },
+        {
+          "word": " or",
+          "start": 3.9,
+          "end": 4.06,
+          "probability": 0.9938649535179138
+        },
+        {
+          "word": " school.",
+          "start": 4.06,
+          "end": 4.32,
+          "probability": 0.9988418221473694
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.58,
+      "end": 6.7,
+      "text": " Yet for many, the struggle to afford childcare",
+      "tokens": [
+        50595,
+        10890,
+        337,
+        867,
+        11,
+        264,
+        7799,
+        281,
+        6157,
+        35330,
+        50713
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " Yet",
+          "start": 4.58,
+          "end": 4.74,
+          "probability": 0.9931607246398926
+        },
+        {
+          "word": " for",
+          "start": 4.74,
+          "end": 4.88,
+          "probability": 0.814052164554596
+        },
+        {
+          "word": " many,",
+          "start": 4.88,
+          "end": 5.1,
+          "probability": 0.998588502407074
+        },
+        {
+          "word": " the",
+          "start": 5.32,
+          "end": 5.64,
+          "probability": 0.9968845248222351
+        },
+        {
+          "word": " struggle",
+          "start": 5.64,
+          "end": 5.88,
+          "probability": 0.9986263513565063
+        },
+        {
+          "word": " to",
+          "start": 5.88,
+          "end": 6.02,
+          "probability": 0.9976145029067993
+        },
+        {
+          "word": " afford",
+          "start": 6.02,
+          "end": 6.3,
+          "probability": 0.9993792772293091
+        },
+        {
+          "word": " childcare",
+          "start": 6.3,
+          "end": 6.7,
+          "probability": 0.5445334315299988
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.7,
+      "end": 7.98,
+      "text": " continues all the same.",
+      "tokens": [
+        50713,
+        6515,
+        439,
+        264,
+        912,
+        13,
+        50793
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " continues",
+          "start": 6.7,
+          "end": 7.24,
+          "probability": 0.9953175783157349
+        },
+        {
+          "word": " all",
+          "start": 7.24,
+          "end": 7.58,
+          "probability": 0.9963594079017639
+        },
+        {
+          "word": " the",
+          "start": 7.58,
+          "end": 7.76,
+          "probability": 0.9982549548149109
+        },
+        {
+          "word": " same.",
+          "start": 7.76,
+          "end": 7.98,
+          "probability": 0.9997760653495789
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 8.4,
+      "end": 10.28,
+      "text": " Here's the reality for a family in New York.",
+      "tokens": [
+        50793,
+        1692,
+        311,
+        264,
+        4103,
+        337,
+        257,
+        1605,
+        294,
+        1873,
+        3609,
+        13,
+        50897
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " Here's",
+          "start": 8.4,
+          "end": 8.8,
+          "probability": 0.984656035900116
+        },
+        {
+          "word": " the",
+          "start": 8.8,
+          "end": 8.88,
+          "probability": 0.9949446320533752
+        },
+        {
+          "word": " reality",
+          "start": 8.88,
+          "end": 9.24,
+          "probability": 0.99972003698349
+        },
+        {
+          "word": " for",
+          "start": 9.24,
+          "end": 9.44,
+          "probability": 0.9851733446121216
+        },
+        {
+          "word": " a",
+          "start": 9.44,
+          "end": 9.54,
+          "probability": 0.9877481460571289
+        },
+        {
+          "word": " family",
+          "start": 9.54,
+          "end": 9.78,
+          "probability": 0.9995852112770081
+        },
+        {
+          "word": " in",
+          "start": 9.78,
+          "end": 9.92,
+          "probability": 0.9978431463241577
+        },
+        {
+          "word": " New",
+          "start": 9.92,
+          "end": 10.04,
+          "probability": 0.9975851774215698
+        },
+        {
+          "word": " York.",
+          "start": 10.04,
+          "end": 10.28,
+          "probability": 0.9993174076080322
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 10.62,
+      "end": 12.4,
+      "text": " Affording childcare requires you to make",
+      "tokens": [
+        50897,
+        12840,
+        3357,
+        35330,
+        7029,
+        291,
+        281,
+        652,
+        50987
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " Affording",
+          "start": 10.62,
+          "end": 11.02,
+          "probability": 0.9949868619441986
+        },
+        {
+          "word": " childcare",
+          "start": 11.02,
+          "end": 11.42,
+          "probability": 0.9824333190917969
+        },
+        {
+          "word": " requires",
+          "start": 11.42,
+          "end": 11.98,
+          "probability": 0.9947829842567444
+        },
+        {
+          "word": " you",
+          "start": 11.98,
+          "end": 12.12,
+          "probability": 0.9983925223350525
+        },
+        {
+          "word": " to",
+          "start": 12.12,
+          "end": 12.2,
+          "probability": 0.9976444840431213
+        },
+        {
+          "word": " make",
+          "start": 12.2,
+          "end": 12.4,
+          "probability": 0.9975658655166626
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 12.4,
+      "end": 15.26,
+      "text": " more than $330,000 a year.",
+      "tokens": [
+        50987,
+        544,
+        813,
+        1848,
+        18,
+        3446,
+        11,
+        1360,
+        257,
+        1064,
+        13,
+        51139
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " more",
+          "start": 12.4,
+          "end": 12.56,
+          "probability": 0.994809627532959
+        },
+        {
+          "word": " than",
+          "start": 12.56,
+          "end": 12.72,
+          "probability": 0.9948771595954895
+        },
+        {
+          "word": " $330",
+          "start": 12.72,
+          "end": 13.7,
+          "probability": 0.971302310625712
+        },
+        {
+          "word": ",000",
+          "start": 13.7,
+          "end": 14.2,
+          "probability": 0.9873600006103516
+        },
+        {
+          "word": " a",
+          "start": 14.2,
+          "end": 14.92,
+          "probability": 0.959791362285614
+        },
+        {
+          "word": " year.",
+          "start": 14.92,
+          "end": 15.26,
+          "probability": 0.9994027614593506
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 15.42,
+      "end": 16.94,
+      "text": " And that's just for a single toddler.",
+      "tokens": [
+        51139,
+        400,
+        300,
+        311,
+        445,
+        337,
+        257,
+        2167,
+        44348,
+        13,
+        51231
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 15.42,
+          "end": 15.58,
+          "probability": 0.9798797965049744
+        },
+        {
+          "word": " that's",
+          "start": 15.58,
+          "end": 15.86,
+          "probability": 0.9951897859573364
+        },
+        {
+          "word": " just",
+          "start": 15.86,
+          "end": 15.94,
+          "probability": 0.9949600696563721
+        },
+        {
+          "word": " for",
+          "start": 15.94,
+          "end": 16.1,
+          "probability": 0.9990212917327881
+        },
+        {
+          "word": " a",
+          "start": 16.1,
+          "end": 16.26,
+          "probability": 0.9981158971786499
+        },
+        {
+          "word": " single",
+          "start": 16.26,
+          "end": 16.54,
+          "probability": 0.9992464780807495
+        },
+        {
+          "word": " toddler.",
+          "start": 16.54,
+          "end": 16.94,
+          "probability": 0.9950254559516907
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 17.32,
+      "end": 19.5,
+      "text": " After rent, it's the biggest cost burden",
+      "tokens": [
+        51231,
+        2381,
+        6214,
+        11,
+        309,
+        311,
+        264,
+        3880,
+        2063,
+        12578,
+        51345
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " After",
+          "start": 17.32,
+          "end": 17.6,
+          "probability": 0.9974599480628967
+        },
+        {
+          "word": " rent,",
+          "start": 17.6,
+          "end": 17.88,
+          "probability": 0.9897763729095459
+        },
+        {
+          "word": " it's",
+          "start": 18.06,
+          "end": 18.42,
+          "probability": 0.9962016344070435
+        },
+        {
+          "word": " the",
+          "start": 18.42,
+          "end": 18.54,
+          "probability": 0.9982549548149109
+        },
+        {
+          "word": " biggest",
+          "start": 18.54,
+          "end": 18.88,
+          "probability": 0.9991138577461243
+        },
+        {
+          "word": " cost",
+          "start": 18.88,
+          "end": 19.24,
+          "probability": 0.9950568675994873
+        },
+        {
+          "word": " burden",
+          "start": 19.24,
+          "end": 19.5,
+          "probability": 0.9820830821990967
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 19.5,
+      "end": 20.74,
+      "text": " on working families with kids.",
+      "tokens": [
+        51345,
+        322,
+        1364,
+        4466,
+        365,
+        2301,
+        13,
+        51415
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " on",
+          "start": 19.5,
+          "end": 19.68,
+          "probability": 0.9984893798828125
+        },
+        {
+          "word": " working",
+          "start": 19.68,
+          "end": 19.94,
+          "probability": 0.9989909529685974
+        },
+        {
+          "word": " families",
+          "start": 19.94,
+          "end": 20.3,
+          "probability": 0.9955723285675049
+        },
+        {
+          "word": " with",
+          "start": 20.3,
+          "end": 20.46,
+          "probability": 0.9995606541633606
+        },
+        {
+          "word": " kids.",
+          "start": 20.46,
+          "end": 20.74,
+          "probability": 0.9990187883377075
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 0,
+      "start": 20.9,
+      "end": 22.8,
+      "text": " And these are some of the only options they have.",
+      "tokens": [
+        51415,
+        400,
+        613,
+        366,
+        512,
+        295,
+        264,
+        787,
+        3956,
+        436,
+        362,
+        13,
+        51519
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 20.9,
+          "end": 21.12,
+          "probability": 0.9921547770500183
+        },
+        {
+          "word": " these",
+          "start": 21.12,
+          "end": 21.36,
+          "probability": 0.9980005621910095
+        },
+        {
+          "word": " are",
+          "start": 21.36,
+          "end": 21.5,
+          "probability": 0.9996033310890198
+        },
+        {
+          "word": " some",
+          "start": 21.5,
+          "end": 21.64,
+          "probability": 0.9949591159820557
+        },
+        {
+          "word": " of",
+          "start": 21.64,
+          "end": 21.74,
+          "probability": 0.9988957643508911
+        },
+        {
+          "word": " the",
+          "start": 21.74,
+          "end": 21.84,
+          "probability": 0.9987371563911438
+        },
+        {
+          "word": " only",
+          "start": 21.84,
+          "end": 22.02,
+          "probability": 0.9955543875694275
+        },
+        {
+          "word": " options",
+          "start": 22.02,
+          "end": 22.4,
+          "probability": 0.9991525411605835
+        },
+        {
+          "word": " they",
+          "start": 22.4,
+          "end": 22.58,
+          "probability": 0.9977431297302246
+        },
+        {
+          "word": " have.",
+          "start": 22.58,
+          "end": 22.8,
+          "probability": 0.9896793365478516
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 0,
+      "start": 23.12,
+      "end": 24.92,
+      "text": " Option one, a parent leaves their job.",
+      "tokens": [
+        51519,
+        29284,
+        472,
+        11,
+        257,
+        2596,
+        5510,
+        641,
+        1691,
+        13,
+        51631
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " Option",
+          "start": 23.12,
+          "end": 23.34,
+          "probability": 0.7238082885742188
+        },
+        {
+          "word": " one,",
+          "start": 23.34,
+          "end": 23.6,
+          "probability": 0.7755400538444519
+        },
+        {
+          "word": " a",
+          "start": 23.8,
+          "end": 24.02,
+          "probability": 0.9942710399627686
+        },
+        {
+          "word": " parent",
+          "start": 24.02,
+          "end": 24.24,
+          "probability": 0.9989839196205139
+        },
+        {
+          "word": " leaves",
+          "start": 24.24,
+          "end": 24.5,
+          "probability": 0.9977881908416748
+        },
+        {
+          "word": " their",
+          "start": 24.5,
+          "end": 24.66,
+          "probability": 0.9982966780662537
+        },
+        {
+          "word": " job.",
+          "start": 24.66,
+          "end": 24.92,
+          "probability": 0.9990023970603943
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 0,
+      "start": 25.16,
+      "end": 28.82,
+      "text": " In 2022, we lost $23 billion in economic activity",
+      "tokens": [
+        51631,
+        682,
+        20229,
+        11,
+        321,
+        2731,
+        1848,
+        9356,
+        5218,
+        294,
+        4836,
+        5191,
+        51827
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.09920486685347883,
+      "compression_ratio": 1.6085626911314985,
+      "no_speech_prob": 1.7554605772490683e-12,
+      "words": [
+        {
+          "word": " In",
+          "start": 25.16,
+          "end": 25.42,
+          "probability": 0.9965062737464905
+        },
+        {
+          "word": " 2022,",
+          "start": 25.42,
+          "end": 25.92,
+          "probability": 0.9949224591255188
+        },
+        {
+          "word": " we",
+          "start": 25.94,
+          "end": 26.34,
+          "probability": 0.9989159107208252
+        },
+        {
+          "word": " lost",
+          "start": 26.34,
+          "end": 26.56,
+          "probability": 0.9944186210632324
+        },
+        {
+          "word": " $23",
+          "start": 26.56,
+          "end": 27.1,
+          "probability": 0.9850987493991852
+        },
+        {
+          "word": " billion",
+          "start": 27.1,
+          "end": 27.62,
+          "probability": 0.9912925362586975
+        },
+        {
+          "word": " in",
+          "start": 27.62,
+          "end": 28.1,
+          "probability": 0.9821198582649231
+        },
+        {
+          "word": " economic",
+          "start": 28.1,
+          "end": 28.36,
+          "probability": 0.998513400554657
+        },
+        {
+          "word": " activity",
+          "start": 28.36,
+          "end": 28.82,
+          "probability": 0.9977973699569702
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2882,
+      "start": 28.82,
+      "end": 31.24,
+      "text": " because parents quit or had to cut hours",
+      "tokens": [
+        50365,
+        570,
+        3152,
+        10366,
+        420,
+        632,
+        281,
+        1723,
+        2496,
+        50493
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " because",
+          "start": 28.82,
+          "end": 29.38,
+          "probability": 0.8173167109489441
+        },
+        {
+          "word": " parents",
+          "start": 29.38,
+          "end": 29.74,
+          "probability": 0.9980126619338989
+        },
+        {
+          "word": " quit",
+          "start": 29.74,
+          "end": 30.12,
+          "probability": 0.9978669881820679
+        },
+        {
+          "word": " or",
+          "start": 30.12,
+          "end": 30.54,
+          "probability": 0.9812335968017578
+        },
+        {
+          "word": " had",
+          "start": 30.54,
+          "end": 30.6,
+          "probability": 0.9479389190673828
+        },
+        {
+          "word": " to",
+          "start": 30.6,
+          "end": 30.72,
+          "probability": 0.9982282519340515
+        },
+        {
+          "word": " cut",
+          "start": 30.72,
+          "end": 30.92,
+          "probability": 0.9982874989509583
+        },
+        {
+          "word": " hours",
+          "start": 30.92,
+          "end": 31.24,
+          "probability": 0.9978564381599426
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2882,
+      "start": 31.24,
+      "end": 32.26,
+      "text": " to take care of their kids.",
+      "tokens": [
+        50493,
+        281,
+        747,
+        1127,
+        295,
+        641,
+        2301,
+        13,
+        50569
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " to",
+          "start": 31.24,
+          "end": 31.44,
+          "probability": 0.9994701743125916
+        },
+        {
+          "word": " take",
+          "start": 31.44,
+          "end": 31.62,
+          "probability": 0.9982220530509949
+        },
+        {
+          "word": " care",
+          "start": 31.62,
+          "end": 31.76,
+          "probability": 0.9989056587219238
+        },
+        {
+          "word": " of",
+          "start": 31.76,
+          "end": 31.86,
+          "probability": 0.9996709823608398
+        },
+        {
+          "word": " their",
+          "start": 31.86,
+          "end": 31.94,
+          "probability": 0.9983481168746948
+        },
+        {
+          "word": " kids.",
+          "start": 31.94,
+          "end": 32.26,
+          "probability": 0.9989778995513916
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2882,
+      "start": 32.62,
+      "end": 35.26,
+      "text": " Option two, families leave New York entirely.",
+      "tokens": [
+        50569,
+        29284,
+        732,
+        11,
+        4466,
+        1856,
+        1873,
+        3609,
+        7696,
+        13,
+        50709
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " Option",
+          "start": 32.62,
+          "end": 33.14,
+          "probability": 0.894720733165741
+        },
+        {
+          "word": " two,",
+          "start": 33.14,
+          "end": 33.42,
+          "probability": 0.8093920350074768
+        },
+        {
+          "word": " families",
+          "start": 33.68,
+          "end": 34.12,
+          "probability": 0.9882921576499939
+        },
+        {
+          "word": " leave",
+          "start": 34.12,
+          "end": 34.36,
+          "probability": 0.9995218515396118
+        },
+        {
+          "word": " New",
+          "start": 34.36,
+          "end": 34.5,
+          "probability": 0.9996258020401001
+        },
+        {
+          "word": " York",
+          "start": 34.5,
+          "end": 34.7,
+          "probability": 0.999835729598999
+        },
+        {
+          "word": " entirely.",
+          "start": 34.7,
+          "end": 35.26,
+          "probability": 0.9992768168449402
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 2882,
+      "start": 35.74,
+      "end": 38.04,
+      "text": " Households with young children are twice as likely to move.",
+      "tokens": [
+        50709,
+        4928,
+        4104,
+        82,
+        365,
+        2037,
+        2227,
+        366,
+        6091,
+        382,
+        3700,
+        281,
+        1286,
+        13,
+        50853
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " Households",
+          "start": 35.74,
+          "end": 36.1,
+          "probability": 0.9973422686258951
+        },
+        {
+          "word": " with",
+          "start": 36.1,
+          "end": 36.22,
+          "probability": 0.9997623562812805
+        },
+        {
+          "word": " young",
+          "start": 36.22,
+          "end": 36.38,
+          "probability": 0.999637246131897
+        },
+        {
+          "word": " children",
+          "start": 36.38,
+          "end": 36.68,
+          "probability": 0.9998358488082886
+        },
+        {
+          "word": " are",
+          "start": 36.68,
+          "end": 36.9,
+          "probability": 0.9998210072517395
+        },
+        {
+          "word": " twice",
+          "start": 36.9,
+          "end": 37.24,
+          "probability": 0.9998873472213745
+        },
+        {
+          "word": " as",
+          "start": 37.24,
+          "end": 37.46,
+          "probability": 0.9998179078102112
+        },
+        {
+          "word": " likely",
+          "start": 37.46,
+          "end": 37.66,
+          "probability": 0.9998743534088135
+        },
+        {
+          "word": " to",
+          "start": 37.66,
+          "end": 37.8,
+          "probability": 0.9996943473815918
+        },
+        {
+          "word": " move.",
+          "start": 37.8,
+          "end": 38.04,
+          "probability": 0.9991998076438904
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 2882,
+      "start": 38.54,
+      "end": 40.52,
+      "text": " Option three, families go into debt",
+      "tokens": [
+        50853,
+        29284,
+        1045,
+        11,
+        4466,
+        352,
+        666,
+        7831,
+        50961
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " Option",
+          "start": 38.54,
+          "end": 38.84,
+          "probability": 0.998047947883606
+        },
+        {
+          "word": " three,",
+          "start": 38.84,
+          "end": 39.12,
+          "probability": 0.9998853206634521
+        },
+        {
+          "word": " families",
+          "start": 39.46,
+          "end": 39.92,
+          "probability": 0.9970756769180298
+        },
+        {
+          "word": " go",
+          "start": 39.92,
+          "end": 40.12,
+          "probability": 0.9956050515174866
+        },
+        {
+          "word": " into",
+          "start": 40.12,
+          "end": 40.26,
+          "probability": 0.9993908405303955
+        },
+        {
+          "word": " debt",
+          "start": 40.26,
+          "end": 40.52,
+          "probability": 0.9999562501907349
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 2882,
+      "start": 40.52,
+      "end": 42.68,
+      "text": " because they have no choice but to pay these prices.",
+      "tokens": [
+        50961,
+        570,
+        436,
+        362,
+        572,
+        3922,
+        457,
+        281,
+        1689,
+        613,
+        7901,
+        13,
+        51077
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " because",
+          "start": 40.52,
+          "end": 40.86,
+          "probability": 0.989821195602417
+        },
+        {
+          "word": " they",
+          "start": 40.86,
+          "end": 41.0,
+          "probability": 0.9999188184738159
+        },
+        {
+          "word": " have",
+          "start": 41.0,
+          "end": 41.12,
+          "probability": 0.9999428987503052
+        },
+        {
+          "word": " no",
+          "start": 41.12,
+          "end": 41.36,
+          "probability": 0.9998018145561218
+        },
+        {
+          "word": " choice",
+          "start": 41.36,
+          "end": 41.72,
+          "probability": 0.9998196959495544
+        },
+        {
+          "word": " but",
+          "start": 41.72,
+          "end": 41.86,
+          "probability": 0.9969413876533508
+        },
+        {
+          "word": " to",
+          "start": 41.86,
+          "end": 41.98,
+          "probability": 0.9993599057197571
+        },
+        {
+          "word": " pay",
+          "start": 41.98,
+          "end": 42.1,
+          "probability": 0.9998549222946167
+        },
+        {
+          "word": " these",
+          "start": 42.1,
+          "end": 42.28,
+          "probability": 0.9998980760574341
+        },
+        {
+          "word": " prices.",
+          "start": 42.28,
+          "end": 42.68,
+          "probability": 0.9998286962509155
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 2882,
+      "start": 42.98,
+      "end": 45.66,
+      "text": " Prices which force them to make impossible trade-offs.",
+      "tokens": [
+        51077,
+        430,
+        24373,
+        597,
+        3464,
+        552,
+        281,
+        652,
+        6243,
+        4923,
+        12,
+        19231,
+        13,
+        51227
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " Prices",
+          "start": 42.98,
+          "end": 43.36,
+          "probability": 0.9977671205997467
+        },
+        {
+          "word": " which",
+          "start": 43.36,
+          "end": 43.9,
+          "probability": 0.9639194011688232
+        },
+        {
+          "word": " force",
+          "start": 43.9,
+          "end": 44.12,
+          "probability": 0.9737381339073181
+        },
+        {
+          "word": " them",
+          "start": 44.12,
+          "end": 44.24,
+          "probability": 0.9999771118164062
+        },
+        {
+          "word": " to",
+          "start": 44.24,
+          "end": 44.34,
+          "probability": 0.999946117401123
+        },
+        {
+          "word": " make",
+          "start": 44.34,
+          "end": 44.48,
+          "probability": 0.999679684638977
+        },
+        {
+          "word": " impossible",
+          "start": 44.48,
+          "end": 45.16,
+          "probability": 0.9996293783187866
+        },
+        {
+          "word": " trade",
+          "start": 45.16,
+          "end": 45.44,
+          "probability": 0.9998548030853271
+        },
+        {
+          "word": "-offs.",
+          "start": 45.44,
+          "end": 45.66,
+          "probability": 0.9222081005573273
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 2882,
+      "start": 45.94,
+      "end": 48.14,
+      "text": " This is the affordability crisis in action.",
+      "tokens": [
+        51227,
+        639,
+        307,
+        264,
+        6157,
+        2310,
+        5869,
+        294,
+        3069,
+        13,
+        51355
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " This",
+          "start": 45.94,
+          "end": 46.22,
+          "probability": 0.9981645941734314
+        },
+        {
+          "word": " is",
+          "start": 46.22,
+          "end": 46.32,
+          "probability": 0.99977046251297
+        },
+        {
+          "word": " the",
+          "start": 46.32,
+          "end": 46.44,
+          "probability": 0.9996516704559326
+        },
+        {
+          "word": " affordability",
+          "start": 46.44,
+          "end": 47.08,
+          "probability": 0.9991225302219391
+        },
+        {
+          "word": " crisis",
+          "start": 47.08,
+          "end": 47.48,
+          "probability": 0.9998067021369934
+        },
+        {
+          "word": " in",
+          "start": 47.48,
+          "end": 47.88,
+          "probability": 0.9995802044868469
+        },
+        {
+          "word": " action.",
+          "start": 47.88,
+          "end": 48.14,
+          "probability": 0.9973118305206299
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 2882,
+      "start": 48.48,
+      "end": 51.06,
+      "text": " That's why universal childcare is a priority for me",
+      "tokens": [
+        51355,
+        663,
+        311,
+        983,
+        11455,
+        35330,
+        307,
+        257,
+        9365,
+        337,
+        385,
+        51485
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " That's",
+          "start": 48.48,
+          "end": 48.82,
+          "probability": 0.9996873140335083
+        },
+        {
+          "word": " why",
+          "start": 48.82,
+          "end": 48.94,
+          "probability": 0.9997902512550354
+        },
+        {
+          "word": " universal",
+          "start": 48.94,
+          "end": 49.36,
+          "probability": 0.9971363544464111
+        },
+        {
+          "word": " childcare",
+          "start": 49.36,
+          "end": 49.74,
+          "probability": 0.8049541711807251
+        },
+        {
+          "word": " is",
+          "start": 49.74,
+          "end": 50.04,
+          "probability": 0.9999047517776489
+        },
+        {
+          "word": " a",
+          "start": 50.04,
+          "end": 50.18,
+          "probability": 0.9998513460159302
+        },
+        {
+          "word": " priority",
+          "start": 50.18,
+          "end": 50.68,
+          "probability": 0.9999239444732666
+        },
+        {
+          "word": " for",
+          "start": 50.68,
+          "end": 50.92,
+          "probability": 0.9996300935745239
+        },
+        {
+          "word": " me",
+          "start": 50.92,
+          "end": 51.06,
+          "probability": 0.9999188184738159
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 2882,
+      "start": 51.06,
+      "end": 51.88,
+      "text": " when I take office.",
+      "tokens": [
+        51485,
+        562,
+        286,
+        747,
+        3398,
+        13,
+        51533
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " when",
+          "start": 51.06,
+          "end": 51.3,
+          "probability": 0.9964989423751831
+        },
+        {
+          "word": " I",
+          "start": 51.3,
+          "end": 51.38,
+          "probability": 0.9998337030410767
+        },
+        {
+          "word": " take",
+          "start": 51.38,
+          "end": 51.56,
+          "probability": 0.9997847676277161
+        },
+        {
+          "word": " office.",
+          "start": 51.56,
+          "end": 51.88,
+          "probability": 0.9998263716697693
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 2882,
+      "start": 52.08,
+      "end": 53.56,
+      "text": " The good news is there's a consensus.",
+      "tokens": [
+        51533,
+        440,
+        665,
+        2583,
+        307,
+        456,
+        311,
+        257,
+        19115,
+        13,
+        51621
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " The",
+          "start": 52.08,
+          "end": 52.3,
+          "probability": 0.9995033740997314
+        },
+        {
+          "word": " good",
+          "start": 52.3,
+          "end": 52.48,
+          "probability": 0.9998866319656372
+        },
+        {
+          "word": " news",
+          "start": 52.48,
+          "end": 52.7,
+          "probability": 0.9998904466629028
+        },
+        {
+          "word": " is",
+          "start": 52.7,
+          "end": 52.84,
+          "probability": 0.9998859167098999
+        },
+        {
+          "word": " there's",
+          "start": 52.84,
+          "end": 53.04,
+          "probability": 0.9953016936779022
+        },
+        {
+          "word": " a",
+          "start": 53.04,
+          "end": 53.12,
+          "probability": 0.9995515942573547
+        },
+        {
+          "word": " consensus.",
+          "start": 53.12,
+          "end": 53.56,
+          "probability": 0.9997640252113342
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "seek": 2882,
+      "start": 53.86,
+      "end": 54.98,
+      "text": " We need to act.",
+      "tokens": [
+        51621,
+        492,
+        643,
+        281,
+        605,
+        13,
+        51699
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " We",
+          "start": 53.86,
+          "end": 54.12,
+          "probability": 0.9997760653495789
+        },
+        {
+          "word": " need",
+          "start": 54.12,
+          "end": 54.42,
+          "probability": 0.9994878768920898
+        },
+        {
+          "word": " to",
+          "start": 54.42,
+          "end": 54.66,
+          "probability": 0.9999799728393555
+        },
+        {
+          "word": " act.",
+          "start": 54.66,
+          "end": 54.98,
+          "probability": 0.9995961785316467
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "seek": 2882,
+      "start": 55.16,
+      "end": 57.96,
+      "text": " The goal is universal, no-cost childcare",
+      "tokens": [
+        51699,
+        440,
+        3387,
+        307,
+        11455,
+        11,
+        572,
+        12,
+        27718,
+        35330,
+        51833
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07840597125845895,
+      "compression_ratio": 1.6955128205128205,
+      "no_speech_prob": 7.347277625711912e-13,
+      "words": [
+        {
+          "word": " The",
+          "start": 55.16,
+          "end": 55.6,
+          "probability": 0.9986289739608765
+        },
+        {
+          "word": " goal",
+          "start": 55.6,
+          "end": 55.88,
+          "probability": 0.9995567202568054
+        },
+        {
+          "word": " is",
+          "start": 55.88,
+          "end": 56.34,
+          "probability": 0.9987320303916931
+        },
+        {
+          "word": " universal,",
+          "start": 56.34,
+          "end": 56.98,
+          "probability": 0.9898473620414734
+        },
+        {
+          "word": " no",
+          "start": 56.98,
+          "end": 57.32,
+          "probability": 0.9983533620834351
+        },
+        {
+          "word": "-cost",
+          "start": 57.32,
+          "end": 57.58,
+          "probability": 0.9732878804206848
+        },
+        {
+          "word": " childcare",
+          "start": 57.58,
+          "end": 57.96,
+          "probability": 0.957286536693573
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "seek": 5796,
+      "start": 57.96,
+      "end": 59.62,
+      "text": " for every family in New York City.",
+      "tokens": [
+        50365,
+        337,
+        633,
+        1605,
+        294,
+        1873,
+        3609,
+        4392,
+        13,
+        50457
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " for",
+          "start": 57.96,
+          "end": 58.26,
+          "probability": 0.6854055523872375
+        },
+        {
+          "word": " every",
+          "start": 58.26,
+          "end": 58.68,
+          "probability": 0.9943337440490723
+        },
+        {
+          "word": " family",
+          "start": 58.68,
+          "end": 59.06,
+          "probability": 0.9978904128074646
+        },
+        {
+          "word": " in",
+          "start": 59.06,
+          "end": 59.22,
+          "probability": 0.9930709004402161
+        },
+        {
+          "word": " New",
+          "start": 59.22,
+          "end": 59.34,
+          "probability": 0.9836787581443787
+        },
+        {
+          "word": " York",
+          "start": 59.34,
+          "end": 59.44,
+          "probability": 0.9990561604499817
+        },
+        {
+          "word": " City.",
+          "start": 59.44,
+          "end": 59.62,
+          "probability": 0.9784948825836182
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "seek": 5796,
+      "start": 59.76,
+      "end": 62.72,
+      "text": " We can expand 3K and pre-K to the youngest children,",
+      "tokens": [
+        50457,
+        492,
+        393,
+        5268,
+        805,
+        42,
+        293,
+        659,
+        12,
+        42,
+        281,
+        264,
+        17747,
+        2227,
+        11,
+        50621
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 59.76,
+          "end": 59.96,
+          "probability": 0.9957401752471924
+        },
+        {
+          "word": " can",
+          "start": 59.96,
+          "end": 60.1,
+          "probability": 0.9989033937454224
+        },
+        {
+          "word": " expand",
+          "start": 60.1,
+          "end": 60.48,
+          "probability": 0.9973790645599365
+        },
+        {
+          "word": " 3K",
+          "start": 60.48,
+          "end": 61.0,
+          "probability": 0.9336201846599579
+        },
+        {
+          "word": " and",
+          "start": 61.0,
+          "end": 61.24,
+          "probability": 0.9923589825630188
+        },
+        {
+          "word": " pre",
+          "start": 61.24,
+          "end": 61.46,
+          "probability": 0.6625323295593262
+        },
+        {
+          "word": "-K",
+          "start": 61.46,
+          "end": 61.62,
+          "probability": 0.9275080263614655
+        },
+        {
+          "word": " to",
+          "start": 61.62,
+          "end": 61.78,
+          "probability": 0.995692789554596
+        },
+        {
+          "word": " the",
+          "start": 61.78,
+          "end": 61.9,
+          "probability": 0.9978544116020203
+        },
+        {
+          "word": " youngest",
+          "start": 61.9,
+          "end": 62.28,
+          "probability": 0.9954034090042114
+        },
+        {
+          "word": " children,",
+          "start": 62.28,
+          "end": 62.72,
+          "probability": 0.9982709884643555
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "seek": 5796,
+      "start": 62.78,
+      "end": 64.82,
+      "text": " but it only works if we build it right.",
+      "tokens": [
+        50621,
+        457,
+        309,
+        787,
+        1985,
+        498,
+        321,
+        1322,
+        309,
+        558,
+        13,
+        50721
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " but",
+          "start": 62.78,
+          "end": 63.22,
+          "probability": 0.9974644184112549
+        },
+        {
+          "word": " it",
+          "start": 63.22,
+          "end": 63.32,
+          "probability": 0.997714638710022
+        },
+        {
+          "word": " only",
+          "start": 63.32,
+          "end": 63.66,
+          "probability": 0.9981108903884888
+        },
+        {
+          "word": " works",
+          "start": 63.66,
+          "end": 64.02,
+          "probability": 0.9989008903503418
+        },
+        {
+          "word": " if",
+          "start": 64.02,
+          "end": 64.2,
+          "probability": 0.9982165694236755
+        },
+        {
+          "word": " we",
+          "start": 64.2,
+          "end": 64.3,
+          "probability": 0.9994217157363892
+        },
+        {
+          "word": " build",
+          "start": 64.3,
+          "end": 64.52,
+          "probability": 0.9938799142837524
+        },
+        {
+          "word": " it",
+          "start": 64.52,
+          "end": 64.64,
+          "probability": 0.9992677569389343
+        },
+        {
+          "word": " right.",
+          "start": 64.64,
+          "end": 64.82,
+          "probability": 0.998854398727417
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "seek": 5796,
+      "start": 65.02,
+      "end": 67.16,
+      "text": " Over the next few months, we'll be speaking with families",
+      "tokens": [
+        50721,
+        4886,
+        264,
+        958,
+        1326,
+        2493,
+        11,
+        321,
+        603,
+        312,
+        4124,
+        365,
+        4466,
+        50829
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " Over",
+          "start": 65.02,
+          "end": 65.28,
+          "probability": 0.9981600642204285
+        },
+        {
+          "word": " the",
+          "start": 65.28,
+          "end": 65.4,
+          "probability": 0.999599039554596
+        },
+        {
+          "word": " next",
+          "start": 65.4,
+          "end": 65.6,
+          "probability": 0.9984673857688904
+        },
+        {
+          "word": " few",
+          "start": 65.6,
+          "end": 65.78,
+          "probability": 0.9985211491584778
+        },
+        {
+          "word": " months,",
+          "start": 65.78,
+          "end": 66.02,
+          "probability": 0.9994833469390869
+        },
+        {
+          "word": " we'll",
+          "start": 66.04,
+          "end": 66.18,
+          "probability": 0.9947456121444702
+        },
+        {
+          "word": " be",
+          "start": 66.18,
+          "end": 66.26,
+          "probability": 0.9978012442588806
+        },
+        {
+          "word": " speaking",
+          "start": 66.26,
+          "end": 66.52,
+          "probability": 0.9992784857749939
+        },
+        {
+          "word": " with",
+          "start": 66.52,
+          "end": 66.7,
+          "probability": 0.9983407258987427
+        },
+        {
+          "word": " families",
+          "start": 66.7,
+          "end": 67.16,
+          "probability": 0.9979344606399536
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "seek": 5796,
+      "start": 67.16,
+      "end": 69.52,
+      "text": " and childcare workers about what this needs to look like.",
+      "tokens": [
+        50829,
+        293,
+        35330,
+        5600,
+        466,
+        437,
+        341,
+        2203,
+        281,
+        574,
+        411,
+        13,
+        50955
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " and",
+          "start": 67.16,
+          "end": 67.38,
+          "probability": 0.9963817596435547
+        },
+        {
+          "word": " childcare",
+          "start": 67.38,
+          "end": 67.72,
+          "probability": 0.7232584953308105
+        },
+        {
+          "word": " workers",
+          "start": 67.72,
+          "end": 68.1,
+          "probability": 0.9996371269226074
+        },
+        {
+          "word": " about",
+          "start": 68.1,
+          "end": 68.32,
+          "probability": 0.9947136044502258
+        },
+        {
+          "word": " what",
+          "start": 68.32,
+          "end": 68.54,
+          "probability": 0.9992159605026245
+        },
+        {
+          "word": " this",
+          "start": 68.54,
+          "end": 68.78,
+          "probability": 0.9978983402252197
+        },
+        {
+          "word": " needs",
+          "start": 68.78,
+          "end": 68.96,
+          "probability": 0.9963275790214539
+        },
+        {
+          "word": " to",
+          "start": 68.96,
+          "end": 69.1,
+          "probability": 0.998715877532959
+        },
+        {
+          "word": " look",
+          "start": 69.1,
+          "end": 69.24,
+          "probability": 0.9994252920150757
+        },
+        {
+          "word": " like.",
+          "start": 69.24,
+          "end": 69.52,
+          "probability": 0.9996079802513123
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "seek": 5796,
+      "start": 69.64,
+      "end": 70.98,
+      "text": " Because with universal childcare,",
+      "tokens": [
+        50955,
+        1436,
+        365,
+        11455,
+        35330,
+        11,
+        51031
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " Because",
+          "start": 69.64,
+          "end": 69.96,
+          "probability": 0.9947486519813538
+        },
+        {
+          "word": " with",
+          "start": 69.96,
+          "end": 70.08,
+          "probability": 0.9849328398704529
+        },
+        {
+          "word": " universal",
+          "start": 70.08,
+          "end": 70.58,
+          "probability": 0.9911354780197144
+        },
+        {
+          "word": " childcare,",
+          "start": 70.58,
+          "end": 70.98,
+          "probability": 0.9794201254844666
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "seek": 5796,
+      "start": 71.24,
+      "end": 72.62,
+      "text": " more families can afford to stay.",
+      "tokens": [
+        51031,
+        544,
+        4466,
+        393,
+        6157,
+        281,
+        1754,
+        13,
+        51119
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " more",
+          "start": 71.24,
+          "end": 71.5,
+          "probability": 0.9991521835327148
+        },
+        {
+          "word": " families",
+          "start": 71.5,
+          "end": 71.9,
+          "probability": 0.9995055198669434
+        },
+        {
+          "word": " can",
+          "start": 71.9,
+          "end": 72.02,
+          "probability": 0.9993797540664673
+        },
+        {
+          "word": " afford",
+          "start": 72.02,
+          "end": 72.26,
+          "probability": 0.9995530247688293
+        },
+        {
+          "word": " to",
+          "start": 72.26,
+          "end": 72.4,
+          "probability": 0.9996144771575928
+        },
+        {
+          "word": " stay.",
+          "start": 72.4,
+          "end": 72.62,
+          "probability": 0.9997064471244812
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "seek": 5796,
+      "start": 72.84,
+      "end": 74.46,
+      "text": " More babies are born in New York City.",
+      "tokens": [
+        51119,
+        5048,
+        10917,
+        366,
+        4232,
+        294,
+        1873,
+        3609,
+        4392,
+        13,
+        51207
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " More",
+          "start": 72.84,
+          "end": 73.24,
+          "probability": 0.9976608753204346
+        },
+        {
+          "word": " babies",
+          "start": 73.24,
+          "end": 73.58,
+          "probability": 0.999338686466217
+        },
+        {
+          "word": " are",
+          "start": 73.58,
+          "end": 73.74,
+          "probability": 0.9955857992172241
+        },
+        {
+          "word": " born",
+          "start": 73.74,
+          "end": 73.9,
+          "probability": 0.9995319843292236
+        },
+        {
+          "word": " in",
+          "start": 73.9,
+          "end": 74.0,
+          "probability": 0.9990814924240112
+        },
+        {
+          "word": " New",
+          "start": 74.0,
+          "end": 74.12,
+          "probability": 0.9974427223205566
+        },
+        {
+          "word": " York",
+          "start": 74.12,
+          "end": 74.22,
+          "probability": 0.9996321201324463
+        },
+        {
+          "word": " City.",
+          "start": 74.22,
+          "end": 74.46,
+          "probability": 0.981022298336029
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "seek": 5796,
+      "start": 74.6,
+      "end": 76.36,
+      "text": " More kids raised as New Yorkers.",
+      "tokens": [
+        51207,
+        5048,
+        2301,
+        6005,
+        382,
+        1873,
+        3609,
+        433,
+        13,
+        51301
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " More",
+          "start": 74.6,
+          "end": 75.0,
+          "probability": 0.9985800981521606
+        },
+        {
+          "word": " kids",
+          "start": 75.0,
+          "end": 75.28,
+          "probability": 0.998999297618866
+        },
+        {
+          "word": " raised",
+          "start": 75.28,
+          "end": 75.7,
+          "probability": 0.7362968921661377
+        },
+        {
+          "word": " as",
+          "start": 75.7,
+          "end": 75.88,
+          "probability": 0.9930859804153442
+        },
+        {
+          "word": " New",
+          "start": 75.88,
+          "end": 75.98,
+          "probability": 0.9915697574615479
+        },
+        {
+          "word": " Yorkers.",
+          "start": 75.98,
+          "end": 76.36,
+          "probability": 0.9982220232486725
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "seek": 5796,
+      "start": 76.54,
+      "end": 78.16,
+      "text": " We stop losing the next generation",
+      "tokens": [
+        51301,
+        492,
+        1590,
+        7027,
+        264,
+        958,
+        5125,
+        51385
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 76.54,
+          "end": 76.82,
+          "probability": 0.9948445558547974
+        },
+        {
+          "word": " stop",
+          "start": 76.82,
+          "end": 77.04,
+          "probability": 0.9515329599380493
+        },
+        {
+          "word": " losing",
+          "start": 77.04,
+          "end": 77.34,
+          "probability": 0.9983476400375366
+        },
+        {
+          "word": " the",
+          "start": 77.34,
+          "end": 77.52,
+          "probability": 0.9989131689071655
+        },
+        {
+          "word": " next",
+          "start": 77.52,
+          "end": 77.68,
+          "probability": 0.9987745881080627
+        },
+        {
+          "word": " generation",
+          "start": 77.68,
+          "end": 78.16,
+          "probability": 0.9993560910224915
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "seek": 5796,
+      "start": 78.16,
+      "end": 79.82,
+      "text": " and start building the city they deserve.",
+      "tokens": [
+        51385,
+        293,
+        722,
+        2390,
+        264,
+        2307,
+        436,
+        9948,
+        13,
+        51479
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " and",
+          "start": 78.16,
+          "end": 78.46,
+          "probability": 0.9352859854698181
+        },
+        {
+          "word": " start",
+          "start": 78.46,
+          "end": 78.64,
+          "probability": 0.9992208480834961
+        },
+        {
+          "word": " building",
+          "start": 78.64,
+          "end": 78.9,
+          "probability": 0.9993778467178345
+        },
+        {
+          "word": " the",
+          "start": 78.9,
+          "end": 79.08,
+          "probability": 0.9988468885421753
+        },
+        {
+          "word": " city",
+          "start": 79.08,
+          "end": 79.26,
+          "probability": 0.997136116027832
+        },
+        {
+          "word": " they",
+          "start": 79.26,
+          "end": 79.44,
+          "probability": 0.9971509575843811
+        },
+        {
+          "word": " deserve.",
+          "start": 79.44,
+          "end": 79.82,
+          "probability": 0.9988229870796204
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "seek": 5796,
+      "start": 80.12,
+      "end": 81.66,
+      "text": " That's the New York we're fighting for.",
+      "tokens": [
+        51479,
+        663,
+        311,
+        264,
+        1873,
+        3609,
+        321,
+        434,
+        5237,
+        337,
+        13,
+        51573
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " That's",
+          "start": 80.12,
+          "end": 80.56,
+          "probability": 0.9994371831417084
+        },
+        {
+          "word": " the",
+          "start": 80.56,
+          "end": 80.68,
+          "probability": 0.9961796998977661
+        },
+        {
+          "word": " New",
+          "start": 80.68,
+          "end": 80.82,
+          "probability": 0.996938943862915
+        },
+        {
+          "word": " York",
+          "start": 80.82,
+          "end": 80.98,
+          "probability": 0.9994528889656067
+        },
+        {
+          "word": " we're",
+          "start": 80.98,
+          "end": 81.18,
+          "probability": 0.9960816502571106
+        },
+        {
+          "word": " fighting",
+          "start": 81.18,
+          "end": 81.4,
+          "probability": 0.9987742304801941
+        },
+        {
+          "word": " for.",
+          "start": 81.4,
+          "end": 81.66,
+          "probability": 0.9994040727615356
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "seek": 5796,
+      "start": 81.94,
+      "end": 82.72,
+      "text": " Happy holidays.",
+      "tokens": [
+        51573,
+        8277,
+        15734,
+        13,
+        51621
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " Happy",
+          "start": 81.94,
+          "end": 82.34,
+          "probability": 0.9975619316101074
+        },
+        {
+          "word": " holidays.",
+          "start": 82.34,
+          "end": 82.72,
+          "probability": 0.7104908227920532
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "seek": 5796,
+      "start": 82.96,
+      "end": 83.98,
+      "text": " More to come in the new year.",
+      "tokens": [
+        51621,
+        5048,
+        281,
+        808,
+        294,
+        264,
+        777,
+        1064,
+        13,
+        51685
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.12642878455084725,
+      "compression_ratio": 1.7278481012658229,
+      "no_speech_prob": 2.0929119982221467e-12,
+      "words": [
+        {
+          "word": " More",
+          "start": 82.96,
+          "end": 83.24,
+          "probability": 0.9950036406517029
+        },
+        {
+          "word": " to",
+          "start": 83.24,
+          "end": 83.34,
+          "probability": 0.9982738494873047
+        },
+        {
+          "word": " come",
+          "start": 83.34,
+          "end": 83.5,
+          "probability": 0.9991212487220764
+        },
+        {
+          "word": " in",
+          "start": 83.5,
+          "end": 83.6,
+          "probability": 0.9962551593780518
+        },
+        {
+          "word": " the",
+          "start": 83.6,
+          "end": 83.68,
+          "probability": 0.9974898099899292
+        },
+        {
+          "word": " new",
+          "start": 83.68,
+          "end": 83.8,
+          "probability": 0.8983047008514404
+        },
+        {
+          "word": " year.",
+          "start": 83.8,
+          "end": 83.98,
+          "probability": 0.9996758699417114
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "seek": 8796,
+      "start": 87.96,
+      "end": 88.22,
+      "text": " Happy holidays.",
+      "tokens": [
+        50365,
+        8277,
+        15734,
+        13,
+        50427
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": [
+        {
+          "word": " Happy",
+          "start": 87.96,
+          "end": 88.22,
+          "probability": 0.00040558402542956173
+        },
+        {
+          "word": " holidays.",
+          "start": 88.22,
+          "end": 88.22,
+          "probability": 0.014610202983021736
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 42,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 43,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 44,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 45,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 46,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 47,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 48,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 49,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.22,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 50,
+      "seek": 8796,
+      "start": 88.22,
+      "end": 88.66,
+      "text": " fond come to check.",
+      "tokens": [
+        50793,
+        9557,
+        808,
+        281,
+        1520,
+        13,
+        50806
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": [
+        {
+          "word": " fond",
+          "start": 88.22,
+          "end": 88.22,
+          "probability": 3.9559386095788796e-06
+        },
+        {
+          "word": " come",
+          "start": 88.22,
+          "end": 88.22,
+          "probability": 5.874230919289403e-05
+        },
+        {
+          "word": " to",
+          "start": 88.22,
+          "end": 88.22,
+          "probability": 0.16090968251228333
+        },
+        {
+          "word": " check",
+          "start": 88.22,
+          "end": 88.22,
+          "probability": 0.0004846734809689224
+        },
+        {
+          "word": ".いじらっきょっとurofen",
+          "start": 88.22,
+          "end": 88.66,
+          "probability": 0.04344666027545827
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "seek": 8796,
+      "start": 88.66,
+      "end": 88.86,
+      "text": "いじらっきょっと",
+      "tokens": [
+        50806,
+        1764,
+        9257,
+        5154,
+        2970,
+        7016,
+        8744,
+        13137,
+        50928
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": [
+        {
+          "word": " et破壊",
+          "start": 88.66,
+          "end": 88.66,
+          "probability": 0.2513626187181899
+        },
+        {
+          "word": " awful.",
+          "start": 88.66,
+          "end": 88.72,
+          "probability": 6.573990845026856e-07
+        },
+        {
+          "word": " Fortこの章が嫌な",
+          "start": 88.72,
+          "end": 88.86,
+          "probability": 0.1384733597046761
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "seek": 8796,
+      "start": 88.86,
+      "end": 88.86,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 53,
+      "seek": 8796,
+      "start": 88.86,
+      "end": 88.92,
+      "text": " Fortこの章が嫌な Ald Motors.",
+      "tokens": [
+        51028,
+        11002,
+        13303,
+        11957,
+        254,
+        5142,
+        38291,
+        234,
+        3203,
+        24031,
+        40118,
+        13,
+        51063
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": [
+        {
+          "word": " τηςテ勢",
+          "start": 88.86,
+          "end": 88.86,
+          "probability": 0.13729683727478914
+        },
+        {
+          "word": " heter寄",
+          "start": 88.86,
+          "end": 88.86,
+          "probability": 0.05104666931219981
+        },
+        {
+          "word": " fois大学生愛だ",
+          "start": 88.86,
+          "end": 88.92,
+          "probability": 0.03847331676153468
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "seek": 8796,
+      "start": 88.92,
+      "end": 88.96,
+      "text": " Fortniaみな카 τηςテ勢 heter",
+      "tokens": [
+        51063,
+        11002,
+        12679,
+        11362,
+        3203,
+        30327,
+        22409,
+        22985,
+        7978,
+        95,
+        20789,
+        51096
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": [
+        {
+          "word": " episodes",
+          "start": 88.92,
+          "end": 88.92,
+          "probability": 2.7409989797888556e-06
+        },
+        {
+          "word": " you",
+          "start": 88.92,
+          "end": 88.92,
+          "probability": 0.0011468753218650818
+        },
+        {
+          "word": " also",
+          "start": 88.92,
+          "end": 88.96,
+          "probability": 0.0017373621230944991
+        },
+        {
+          "word": " have",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 0.13213278353214264
+        },
+        {
+          "word": " been",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 0.04095372557640076
+        },
+        {
+          "word": " a",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 0.089683398604393
+        },
+        {
+          "word": " man",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 0.002985072322189808
+        },
+        {
+          "word": " serviceandin",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 1.2831189081907723e-05
+        },
+        {
+          "word": " 21ko元",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 3.382785795717306e-05
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "seek": 8796,
+      "start": 88.96,
+      "end": 88.96,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 56,
+      "seek": 8796,
+      "start": 88.96,
+      "end": 89.2,
+      "text": "大学生愛だ episodes",
+      "tokens": [
+        51141,
+        3582,
+        29618,
+        8244,
+        15157,
+        5362,
+        9313,
+        51142
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": [
+        {
+          "word": " derive.",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 1.1925432090720278e-06
+        },
+        {
+          "word": " And",
+          "start": 88.96,
+          "end": 88.96,
+          "probability": 0.026576880365610123
+        },
+        {
+          "word": " to",
+          "start": 88.96,
+          "end": 89.2,
+          "probability": 0.005094624124467373
+        },
+        {
+          "word": " the",
+          "start": 89.2,
+          "end": 89.2,
+          "probability": 0.10430026054382324
+        },
+        {
+          "word": " rest,",
+          "start": 89.2,
+          "end": 89.2,
+          "probability": 0.0629834532737732
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "seek": 8796,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 58,
+      "seek": 8796,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 59,
+      "seek": 8796,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 60,
+      "seek": 8796,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 61,
+      "seek": 8796,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 62,
+      "seek": 8796,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 63,
+      "seek": 8796,
+      "start": 108.66,
+      "end": 109.19999999999999,
+      "text": " Do you know",
+      "tokens": [
+        51400,
+        1144,
+        291,
+        458,
+        51427
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 64,
+      "seek": 8796,
+      "start": 109.19999999999999,
+      "end": 112.11999999999999,
+      "text": " or child、",
+      "tokens": [
+        51427,
+        420,
+        1440,
+        1231,
+        51573
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 65,
+      "seek": 8796,
+      "start": 112.11999999999999,
+      "end": 114.33999999999999,
+      "text": "nat 먹는",
+      "tokens": [
+        51573,
+        12241,
+        30616,
+        51684
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 66,
+      "seek": 8796,
+      "start": 114.33999999999999,
+      "end": 115.44,
+      "text": " Maybe you have an amist,",
+      "tokens": [
+        51684,
+        2704,
+        291,
+        362,
+        364,
+        669,
+        468,
+        11,
+        51739
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 67,
+      "seek": 8796,
+      "start": 115.44,
+      "end": 116.28,
+      "text": " Maặ с wiret.",
+      "tokens": [
+        51739,
+        4042,
+        19118,
+        776,
+        6234,
+        83,
+        13,
+        51781
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.212367072177293,
+      "compression_ratio": 1.509433962264151,
+      "no_speech_prob": 8.821267501180063e-12,
+      "words": []
+    },
+    {
+      "id": 68,
+      "seek": 8920,
+      "start": 89.2,
+      "end": 89.2,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.7250558535257975,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.3559321720979511e-10,
+      "words": []
+    }
+  ],
+  "language": "en"
+}

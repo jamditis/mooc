@@ -1,0 +1,36 @@
+{
+  "video_id": "3963158093976580",
+  "platform": "facebook",
+  "title": "Press Conference - Affordable Housing",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Outdoor press conference at what appears to be a community or park area; buildings with visible graffiti in background; large group of approximately 15-20 officials and community members at podium",
+      "visual_elements": ["NYC official podium", "outdoor setting with urban neighborhood backdrop", "graffiti-marked walls behind speakers", "large diverse group of officials", "stairs/elevated platform", "winter clothing"],
+      "presentation_style": "Wide establishing shot of outdoor community press conference in urban neighborhood setting"
+    },
+    {
+      "grid": "grid_0261.jpg",
+      "timestamp_range": "approximately 1:27-1:36",
+      "on_screen_text": [],
+      "setting": "Same outdoor location; tighter group shot showing two men with sunglasses and formal attire at or near the podium; blue campaign/city pin badges visible",
+      "visual_elements": ["two men in suits wearing sunglasses", "blue pin badges", "outdoor winter setting", "urban neighborhood background", "NYC official podium visible"],
+      "presentation_style": "Medium close-up of officials; casual interaction shots"
+    },
+    {
+      "grid": "grid_0522.jpg",
+      "timestamp_range": "approximately 2:54-3:03",
+      "on_screen_text": ["0", "8", "2 (digit display/scoreboard visible in background)", "DAYS - NEW ERA (partial text on sign behind podium)"],
+      "setting": "Same outdoor location; speaker alone at podium reading remarks; final frames show audience seated and wider outdoor setting",
+      "visual_elements": ["NYC official podium", "digit display sign reading '082'", "DAYS - NEW ERA text (partial)", "speaker reading from documents", "audience visible in foreground", "outdoor neighborhood setting"],
+      "presentation_style": "Speaker solo at podium with day-count signage; final wide shot of event"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor neighborhood press conference with urban backdrop (graffiti, residential buildings)",
+    "text_overlay_types": ["numeric day-count display sign ('082')", "DAYS - NEW ERA partial sign text"],
+    "visual_themes": ["affordable housing announcement", "outdoor community press event", "urban neighborhood setting", "large coalition of officials and community members", "day-counter signage format"]
+  }
+}

@@ -1,0 +1,7 @@
+# Video files are too large for git
+downloads/
+frames/
+
+# OS files
+desktop.ini
+Thumbs.db

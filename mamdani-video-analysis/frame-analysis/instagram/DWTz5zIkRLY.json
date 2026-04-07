@@ -1,0 +1,87 @@
+{
+  "video_id": "DWTz5zIkRLY",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "in the responsibility of government",
+        "I also believe it's our responsibility",
+        "to deliver a government that's efficient",
+        "with every single dollar being put to the best possible use.",
+        "That's why two months ago, I asked agencies across city government",
+        "to find $1.7 billion in savings, without compromising essential services.",
+        "Even just by capping how much we spend on paper, pens and office supplies."
+      ],
+      "setting": "Mamdani in formal attire in two distinct settings: a bright open interior room (white walls, minimal decor), and a dark navy blue room with a portrait painting on the wall and a bookshelf (library-style). Both are interiors.",
+      "visual_elements": [
+        "talking-head medium shot",
+        "two distinct interior settings (light minimal room and dark navy library)",
+        "portrait painting on wall",
+        "bookshelf visible",
+        "white subtitle captions",
+        "suit and tie (dark suit, light tie)"
+      ],
+      "presentation_style": "Policy explainer monologue. Two-setting visual variety within same video. Direct-to-camera address. White captions. Formal and composed."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "A contract with Jack cheese at the Department of Social Services?",
+        "No more.",
+        "That's $9 million that we won't be spending next year.",
+        "The City rents lots of property it doesn't actually need.",
+        "So we're going to shrink our physical footprint",
+        "and save millions on leases.",
+        "And we want to make sure that the programs we're delivering to New Yorkers",
+        "So we're going to strengthen verification to ensure that homeowners"
+      ],
+      "setting": "Dark navy blue library/office room. Mamdani moves dynamically — standing, gesturing at a filing cabinet/drawers, holding cash, at a door. Theatrical staging with props.",
+      "visual_elements": [
+        "dark navy blue walls",
+        "portrait painting in background",
+        "Mamdani pulling open desk drawers",
+        "Mamdani holding cash bills",
+        "theatrical/performative staging",
+        "white subtitle captions",
+        "bookshelf visible",
+        "doorway used as staging element"
+      ],
+      "presentation_style": "Theatrical and performative fiscal accountability video. Props (cash, filing drawers) used to dramatize government waste elimination. More dynamic camera movement and staging than typical talking-head."
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "0:36-0:45",
+      "on_screen_text": [
+        "you have to first deliver public excellence.",
+        "NYC mayoral seal (close-up on physical ornamental seal in a decorative room)"
+      ],
+      "setting": "Final frames: Mamdani close-up in the dark blue library. Final two frames show a close-up of an ornate physical NYC mayoral seal mounted on a decorative surface in an ornate room.",
+      "visual_elements": [
+        "Mamdani in dark blue library close-up",
+        "physical NYC mayoral seal ornament (silver/metal, close-up)",
+        "ornate decorative room visible in background",
+        "white subtitle caption on first panel",
+        "remaining frames show seal only — no text"
+      ],
+      "presentation_style": "Closing statement followed by an unusual endcard: a close-up of the physical mayoral seal as an object (not the standard flat graphic). Cinematic and deliberate."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Dark navy blue library/office room with portrait painting — theatrical staging throughout",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "physical NYC mayoral seal as endcard object (close-up shot)"
+    ],
+    "visual_themes": [
+      "government efficiency / waste reduction messaging",
+      "theatrical fiscal accountability performance",
+      "props (cash, drawers) to dramatize cuts",
+      "$1.7 billion savings framing",
+      "dark moody interior aesthetic",
+      "formal government authority signaling"
+    ]
+  }
+}

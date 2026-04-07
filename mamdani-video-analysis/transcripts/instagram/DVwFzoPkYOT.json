@@ -1,0 +1,221 @@
+{
+  "text": " Good morning, Staten Island. L, C, S, T, R, C, K. More 3K is coming. It's a new game.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.28,
+      "text": " Good morning, Staten Island.",
+      "tokens": [
+        50365,
+        2205,
+        2446,
+        11,
+        745,
+        7186,
+        7637,
+        13,
+        50432
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6828074228195917,
+      "compression_ratio": 0.9770114942528736,
+      "no_speech_prob": 1.0801985391231672e-12,
+      "words": [
+        {
+          "word": " Good",
+          "start": 0.0,
+          "end": 0.18,
+          "probability": 0.7886698246002197
+        },
+        {
+          "word": " morning,",
+          "start": 0.18,
+          "end": 0.52,
+          "probability": 0.9314618110656738
+        },
+        {
+          "word": " Staten",
+          "start": 0.68,
+          "end": 1.0,
+          "probability": 0.9778108894824982
+        },
+        {
+          "word": " Island.",
+          "start": 1.0,
+          "end": 1.28,
+          "probability": 0.9957596659660339
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.42,
+      "end": 4.94,
+      "text": " L, C, S, T, R, C, K.",
+      "tokens": [
+        50432,
+        441,
+        11,
+        383,
+        11,
+        318,
+        11,
+        314,
+        11,
+        497,
+        11,
+        383,
+        11,
+        591,
+        13,
+        50619
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6828074228195917,
+      "compression_ratio": 0.9770114942528736,
+      "no_speech_prob": 1.0801985391231672e-12,
+      "words": [
+        {
+          "word": " L,",
+          "start": 1.42,
+          "end": 1.9,
+          "probability": 0.052639786154031754
+        },
+        {
+          "word": " C,",
+          "start": 2.04,
+          "end": 2.36,
+          "probability": 0.13488472998142242
+        },
+        {
+          "word": " S,",
+          "start": 2.58,
+          "end": 2.62,
+          "probability": 0.3692667782306671
+        },
+        {
+          "word": " T,",
+          "start": 3.0,
+          "end": 3.0,
+          "probability": 0.30460992455482483
+        },
+        {
+          "word": " R,",
+          "start": 3.3,
+          "end": 3.66,
+          "probability": 0.8833405375480652
+        },
+        {
+          "word": " C,",
+          "start": 3.88,
+          "end": 4.2,
+          "probability": 0.42859768867492676
+        },
+        {
+          "word": " K.",
+          "start": 4.46,
+          "end": 4.94,
+          "probability": 0.534040093421936
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 5.12,
+      "end": 6.5,
+      "text": " More 3K is coming.",
+      "tokens": [
+        50619,
+        5048,
+        805,
+        42,
+        307,
+        1348,
+        13,
+        50692
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6828074228195917,
+      "compression_ratio": 0.9770114942528736,
+      "no_speech_prob": 1.0801985391231672e-12,
+      "words": [
+        {
+          "word": " More",
+          "start": 5.12,
+          "end": 5.44,
+          "probability": 0.9747455716133118
+        },
+        {
+          "word": " 3K",
+          "start": 5.44,
+          "end": 5.92,
+          "probability": 0.9645319879055023
+        },
+        {
+          "word": " is",
+          "start": 5.92,
+          "end": 6.24,
+          "probability": 0.9957221746444702
+        },
+        {
+          "word": " coming.",
+          "start": 6.24,
+          "end": 6.5,
+          "probability": 0.9982402324676514
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.8,
+      "end": 8.04,
+      "text": " It's a new game.",
+      "tokens": [
+        50692,
+        467,
+        311,
+        257,
+        777,
+        1216,
+        13,
+        50802
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6828074228195917,
+      "compression_ratio": 0.9770114942528736,
+      "no_speech_prob": 1.0801985391231672e-12,
+      "words": [
+        {
+          "word": " It's",
+          "start": 6.8,
+          "end": 7.4,
+          "probability": 0.5678925439715385
+        },
+        {
+          "word": " a",
+          "start": 7.4,
+          "end": 7.48,
+          "probability": 0.2227616310119629
+        },
+        {
+          "word": " new",
+          "start": 7.48,
+          "end": 7.78,
+          "probability": 0.7620095610618591
+        },
+        {
+          "word": " game.",
+          "start": 7.78,
+          "end": 8.04,
+          "probability": 0.6021689772605896
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

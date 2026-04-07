@@ -1,0 +1,60 @@
+{
+  "video_id": "7584631558447926541",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "Mayor of the Future [partially visible on wall signage]"
+      ],
+      "setting": "Large open minimalist space — white walls, folding chairs arranged in a circle, high ceilings with black curtains; name badges visible on participants",
+      "visual_elements": [
+        "Diverse group of New Yorkers seated in chairs in a circle/session format",
+        "People wearing name badges",
+        "Very clean white studio/event space",
+        "Multiple attendees of different ages, races, backgrounds",
+        "Mamdani circulating or entering the space"
+      ],
+      "presentation_style": "Documentary footage of a structured community session; no text overlays in these frames"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [],
+      "setting": "Same large white event space; small group discussions and one-on-one conversations",
+      "visual_elements": [
+        "Woman in black coat with name badge speaking",
+        "Two men in conversation — one wearing a keffiyeh-patterned jacket",
+        "Man in teal seated",
+        "Mamdani in black and white photo (grainy/desaturated), writing at a desk",
+        "Mamdani close-up in color, looking intensely into camera",
+        "Empty white space/room shots between action"
+      ],
+      "presentation_style": "Cinema-verite documentary style; mix of color and black-and-white photography; no text overlays"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "Is it like a blur?",
+        "but I love these notes",
+        "Type 'em up.",
+        "a NEW ERA for NYC"
+      ],
+      "setting": "Same white event space; Mamdani reading handwritten notes; then campaign branding card",
+      "visual_elements": [
+        "Mamdani in suit reading pages of handwritten notes",
+        "Couple seated together at the session",
+        "Person walking through empty white space with folding chairs",
+        "Campaign logo: 'a NEW ERA for NYC' in red and black on white background"
+      ],
+      "presentation_style": "Reflective closing segment with Mamdani reviewing citizen input notes; ends with campaign branding card; subtitle captions"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Large minimalist white studio/event space hosting a structured community listening session",
+    "text_overlay_types": ["minimal dialogue subtitles", "campaign branding card ('a NEW ERA for NYC')"],
+    "visual_themes": ["142 New Yorkers listening session", "structured citizen engagement", "note-taking and policy input", "diverse community representation", "documentary cinema-verite style"]
+  }
+}

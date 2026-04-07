@@ -1,0 +1,84 @@
+{
+  "video_id": "KIxAKyioXng",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:36",
+      "on_screen_text": [
+        "Mom, Dad, someone's knocking at the door.",
+        "Who could it be? Hello!",
+        "It's the Mayor.",
+        "This is my mother's potato... Grandma Doralee's.",
+        "a Mandy Patinkin cookbook"
+      ],
+      "setting": "Warm, cozy home kitchen and living/dining area; older Jewish home aesthetic with wooden furniture, books, warm lamp lighting, cookbooks visible",
+      "visual_elements": [
+        "Book cover visible: 'Doralee, Kathryn, Zoey Patinkin' and 'Mandy Patinkin' (a cookbook)",
+        "Candidate hugging an older man at a front door",
+        "Potatoes on a kitchen counter",
+        "Warm tungsten indoor lighting",
+        "Candidate in an apron joining kitchen activity",
+        "Older couple (hosts) in casual home attire",
+        "White subtitle captions",
+        "Homey, lived-in decor"
+      ],
+      "presentation_style": "Warm, personal holiday visit narrative; candidate shown at a Jewish family's home helping cook for Hanukkah; conversational and intimate tone"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "0:36-1:03",
+      "on_screen_text": [
+        "Baruch Atah Adonai...",
+        "Shehecheyanu",
+        "v'giganu",
+        "la z'man ha zeh.",
+        "Amen.",
+        "You're up, tenure, or whatever it's called.",
+        "Amen, you've been blessed."
+      ],
+      "setting": "Same warm home dining room; group gathered around table for Hanukkah celebration; menorahs and candles visible; people in festive casual clothing",
+      "visual_elements": [
+        "Multiple generations seated at Hanukkah dinner table",
+        "Candidate in white dress shirt and red tie",
+        "Older bearded man leading blessings",
+        "Menorahs and candles on table",
+        "Books and art visible on walls",
+        "White subtitle captions for Hebrew prayers",
+        "Warm, golden candlelight"
+      ],
+      "presentation_style": "Authentic religious celebration footage; subtitles translate/transcribe Hebrew blessings; shows candidate participating genuinely in Jewish holiday traditions"
+    },
+    {
+      "grid": "grid_0063.jpg",
+      "timestamp_range": "1:03-end",
+      "on_screen_text": [
+        "A NEW ERA for NEW YORK CITY",
+        "HAPPY HANUKKAH!"
+      ],
+      "setting": "Final frame: campaign outro card on solid blue background with candidate laughing at dinner table in left panel; branding fills right panels",
+      "visual_elements": [
+        "Candidate laughing in warm candlelit setting",
+        "Campaign slogan: 'A NEW ERA for NEW YORK CITY' in red, white, and blue block letters on blue background",
+        "'HAPPY HANUKKAH!' in bold white text",
+        "Script-style 'for' in red italic",
+        "Bright, high-contrast brand card"
+      ],
+      "presentation_style": "Holiday greeting video closing with campaign branding; pairs personal warmth with political identity; blue background differs from black-background outros in other videos"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Warm residential home kitchen and dining room during Hanukkah celebration",
+    "text_overlay_types": [
+      "White subtitle captions (dialogue and Hebrew prayer transliterations)",
+      "Campaign holiday greeting outro card ('A NEW ERA for NEW YORK CITY / HAPPY HANUKKAH!')"
+    ],
+    "visual_themes": [
+      "Jewish holiday cultural engagement",
+      "Candidate as guest in a family home",
+      "Cooking and shared meal as community connection",
+      "Warm candlelit Hanukkah aesthetic",
+      "Campaign branding on holiday outro"
+    ]
+  }
+}

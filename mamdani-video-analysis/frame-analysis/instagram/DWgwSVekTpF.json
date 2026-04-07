@@ -1,0 +1,78 @@
+{
+  "video_id": "DWgwSVekTpF",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "Yo, what",
+        "What is this?",
+        "This is what we're doing, I mean",
+        "It's the breakfast",
+        "F*CK that's Delicious (logo partially visible in lower center)"
+      ],
+      "setting": "Restaurant interior. Mamdani and another man (large, bald, bearded) seated at a table covered with food — Turkish pide/lahmacun and other dishes. Warm restaurant lighting, colorful decor.",
+      "visual_elements": [
+        "overhead shot of Turkish flatbread/pide",
+        "close-up food shots",
+        "two men seated at restaurant table",
+        "white subtitle captions in lower third",
+        "partial 'F*CK that's Delicious' logo visible",
+        "warm ambient restaurant lighting"
+      ],
+      "presentation_style": "Casual food-focused vlog style. Mix of overhead food shots and two-shot conversation framing. Appears to be a collaboration with the show 'F*CK that's Delicious'."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "You can make one statement to save your life bring.",
+        "We're going to go to the Palace",
+        "this the magazine and greatest treasure, these, these",
+        "I like Guy Fieri",
+        "but this is where it's at."
+      ],
+      "setting": "Same restaurant. Two men in conversation at table with food spread. Casual dining atmosphere.",
+      "visual_elements": [
+        "two-shot conversation framing",
+        "restaurant table with food",
+        "white subtitle captions",
+        "colorful mural/artwork visible in background",
+        "casual attire on guest (blue hoodie)"
+      ],
+      "presentation_style": "Conversational vlog. Natural back-and-forth dialogue. Candid and relaxed."
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-0:36",
+      "on_screen_text": [
+        "but this is where it's at.",
+        "F*CK that's Delicious (full logo, red and white)",
+        "F*CK that's Delicious (second instance of logo)"
+      ],
+      "setting": "Closing frames: one frame shows Mamdani and host in profile conversation; two frames show the 'F*CK that's Delicious' title card (red and white logo on black).",
+      "visual_elements": [
+        "profile two-shot of Mamdani and host",
+        "white subtitle caption",
+        "'F*CK that's Delicious' branded title card (red bold sans-serif + cursive script)",
+        "black background on title cards"
+      ],
+      "presentation_style": "Branded show segment with title card endcard. Logo treatment uses red bold caps with cursive script. Clear third-party media collaboration."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Restaurant dining table — food spread in casual dining environment",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "branded show title card ('F*CK that's Delicious' logo)"
+    ],
+    "visual_themes": [
+      "food media collaboration",
+      "casual dining / cultural food experience",
+      "celebrity/media personality crossover",
+      "restaurant vlog format",
+      "non-governmental informal appearance"
+    ]
+  }
+}

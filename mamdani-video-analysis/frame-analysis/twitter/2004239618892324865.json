@@ -1,0 +1,35 @@
+{
+  "video_id": "2004239618892324865",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-end",
+      "on_screen_text": [
+        "Merry Christmas"
+      ],
+      "setting": "Two distinct visual scenes: NYC skyline with snow falling over Central Park area, and a holiday greeting graphic",
+      "visual_elements": [
+        "snowy NYC skyline with skyscrapers in blue tones",
+        "trees with bare winter branches in foreground",
+        "animated or stylized holiday greeting card graphic with a red cardinal bird in a green wreath",
+        "decorative script 'Merry Christmas' text with festive styling",
+        "red confetti or petals in background",
+        "only three frames visible with rest black"
+      ],
+      "presentation_style": "short holiday greeting video combining NYC skyline b-roll with a decorative animated Christmas card graphic"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "NYC skyline exterior and stylized holiday greeting card graphic",
+    "text_overlay_types": [
+      "holiday greeting text in decorative script"
+    ],
+    "visual_themes": [
+      "Christmas holiday greeting",
+      "NYC winter imagery",
+      "festive graphic design",
+      "short seasonal social media post"
+    ]
+  }
+}

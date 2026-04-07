@@ -1,0 +1,74 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e3]:
+        - generic [ref=e4]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e5] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=e6]:
+        - button "Skip to home timeline" [ref=e7] [cursor=pointer]
+        - button "Skip to trending" [ref=e9] [cursor=pointer]
+        - banner [ref=e11]:
+          - generic [ref=e13]:
+            - generic [ref=e14]:
+              - heading "X" [level=1] [ref=e16] [cursor=pointer]:
+                - link "X" [ref=e17]:
+                  - /url: /home
+                  - img [ref=e19]
+              - navigation "Primary" [ref=e23]:
+                - link "Home" [ref=e24] [cursor=pointer]:
+                  - /url: /home
+                  - img [ref=e27]
+                - link "Search and explore" [ref=e30] [cursor=pointer]:
+                  - /url: /explore
+                  - img [ref=e33]
+                - link "Notifications" [ref=e36] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e39]
+                - link "Direct Messages" [ref=e42] [cursor=pointer]:
+                  - /url: /i/chat
+                  - img [ref=e45]
+                - link "Grok" [ref=e48] [cursor=pointer]:
+                  - /url: /i/grok
+                  - img [ref=e51]
+                - link "Bookmarks" [ref=e54] [cursor=pointer]:
+                  - /url: /i/bookmarks
+                  - img [ref=e57]
+                - link "Creator Studio" [ref=e60] [cursor=pointer]:
+                  - /url: /i/jf/creators/studio
+                  - img [ref=e63]
+                - link "Premium" [ref=e66] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                  - img [ref=e69]
+                - link "Profile" [ref=e72] [cursor=pointer]:
+                  - /url: /jsamditis
+                  - img [ref=e75]
+                - button "More menu items" [ref=e78] [cursor=pointer]:
+                  - img [ref=e81]
+              - link "Post" [ref=e85] [cursor=pointer]:
+                - /url: /compose/post
+                - img [ref=e87]
+            - button "Account menu" [ref=e92] [cursor=pointer]:
+              - generic [ref=e100]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "Joe Amditis":
+                        - img "Joe Amditis"
+        - main [ref=e103]:
+          - generic "Home timeline" [ref=e108]:
+            - generic [ref=e109]:
+              - generic [ref=e115] [cursor=pointer]:
+                - button "Back" [ref=e117]:
+                  - img [ref=e119]
+                - heading "Profile" [level=2] [ref=e124]
+              - generic:
+                - generic:
+                  - status:
+                    - button:
+                      - generic:
+                        - img
+                        - generic: See new posts
+            - generic [ref=e135]:
+              - generic [ref=e136]: This account doesn’t exist
+              - generic [ref=e137]: Try searching for another.

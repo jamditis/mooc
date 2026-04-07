@@ -1,0 +1,36 @@
+{
+  "video_id": "939283565126763",
+  "platform": "facebook",
+  "title": "Press Conference - Street Safety",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Outdoor press conference on a waterfront or pier; Brooklyn Bridge and NYC skyline visible in background; large group of officials at podium",
+      "visual_elements": ["NYC official podium with city seal", "Brooklyn Bridge in background", "NYC skyline", "large group of officials (approximately 15-20 people)", "formal business attire", "outdoor natural light"],
+      "presentation_style": "Wide establishing shot of outdoor press conference with landmark NYC backdrop"
+    },
+    {
+      "grid": "grid_0225.jpg",
+      "timestamp_range": "approximately 1:15-1:24",
+      "on_screen_text": [],
+      "setting": "Same outdoor waterfront location; tighter group shot at and around the podium; Brooklyn Bridge still visible",
+      "visual_elements": ["NYC podium with seal", "green pin badges on some officials", "Brooklyn Bridge", "group of approximately 10 officials", "formal attire"],
+      "presentation_style": "Medium group shot at podium; officials with green pin badges suggesting affiliation or campaign"
+    },
+    {
+      "grid": "grid_0450.jpg",
+      "timestamp_range": "approximately 2:30-2:39",
+      "on_screen_text": [],
+      "setting": "Same outdoor waterfront; post-announcement scene with officials dispersing and interacting; wider shot showing audience seating area",
+      "visual_elements": ["NYC podium", "officials interacting informally", "blue audience seating area", "Brooklyn Bridge visible", "natural outdoor lighting"],
+      "presentation_style": "Wide and close-up shots of post-press-conference informal interactions"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor waterfront press conference with Brooklyn Bridge and NYC skyline backdrop",
+    "text_overlay_types": [],
+    "visual_themes": ["street safety announcement", "waterfront press event", "Brooklyn Bridge landmark backdrop", "large coalition of officials", "formal government press format"]
+  }
+}

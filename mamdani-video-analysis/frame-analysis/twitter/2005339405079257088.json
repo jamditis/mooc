@@ -1,0 +1,55 @@
+{
+  "video_id": "2005339405079257088",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-18s",
+      "on_screen_text": [],
+      "setting": "Bright white photo or film studio space with wood-grain rug, mid-century modern wooden dining table and chairs, small plant centerpiece",
+      "visual_elements": [
+        "man in dark suit bending down to greet a young child",
+        "woman in grey jacket and hat seated at table",
+        "young child in blue outfit",
+        "multiple camera angles of the same greeting scene",
+        "minimal white studio aesthetic"
+      ],
+      "presentation_style": "cinematic documentary footage of a one-on-one meeting or listening session, intimate and warm in tone despite minimal studio setting"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-27s",
+      "on_screen_text": [],
+      "setting": "Same white studio space with wooden table and rug",
+      "visual_elements": [
+        "man in suit shaking hands with woman",
+        "child running in foreground",
+        "handshake and goodbye moments",
+        "multiple participants wrapping up a meeting"
+      ],
+      "presentation_style": "documentary slice-of-life footage capturing the end of a community meeting or family interview"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "27s-end",
+      "on_screen_text": [],
+      "setting": "White studio, now mostly empty, showing just one person wrapping up at the table",
+      "visual_elements": [
+        "man leaning over the wooden table, writing or reviewing documents",
+        "minimal props on table",
+        "frame is mostly black indicating video end"
+      ],
+      "presentation_style": "quiet closing shot of a day at a community listening event"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Sparse white photo or film studio configured as a meeting room with a mid-century modern wooden table",
+    "text_overlay_types": [],
+    "visual_themes": [
+      "community listening sessions",
+      "family engagement",
+      "intimate documentary style",
+      "minimal production aesthetic"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "video_id": "7582732952430234910",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-only",
+      "on_screen_text": [
+        "It's our great honor to welcome",
+        "Zohran Mamdani",
+        "and especially the success",
+        "We welcome Mayor-elect Mamdani!",
+        "Jewish community of New York City",
+        "a NEW ERA for NYC"
+      ],
+      "setting": "Massive indoor arena packed with thousands of Hasidic Jewish men in black hats and coats; arena appears to be a convention center or sports arena",
+      "visual_elements": [
+        "Thousands of attendees in black hats and coats filling arena floor and balconies",
+        "Stage at front with speakers at podium",
+        "Overhead arena lighting",
+        "Mamdani visible being welcomed at the event",
+        "Campaign branding card: 'a NEW ERA for NYC'",
+        "Joyful atmosphere with applause and cheering"
+      ],
+      "presentation_style": "Event documentation of Mamdani's appearance at a large Chabad/Hasidic Jewish gathering (likely Kuf Alef Kislev celebration); subtitle captions; ends with campaign card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Large indoor arena hosting Kuf Alef Kislev Hasidic Jewish celebration with thousands in attendance",
+    "text_overlay_types": ["event announcement captions", "welcome text", "campaign branding card"],
+    "visual_themes": ["Hasidic Jewish community outreach", "Kuf Alef Kislev celebration", "interfaith and multicultural engagement", "large-scale community event", "mayor-elect welcome"]
+  }
+}

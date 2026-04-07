@@ -1,0 +1,63 @@
+{
+  "video_id": "1676074316905665",
+  "platform": "facebook",
+  "title": "Who decides whether stabilized rents are raised",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "There are over one million rent stabilized",
+        "TENANTS (stylized prop/sign)",
+        "Have you ever wondered how these rates",
+        "living in New York City.",
+        "Fair... it's not a game",
+        "It's how rents get decided for more than 2 million New Yorkers",
+        "They're an independent body that considers the evidence",
+        "LANDLORDS (stylized prop/sign)",
+        "This week, the RGB will start hearing from",
+        "I appointed six members",
+        "a range of experts dig into the data"
+      ],
+      "setting": "Mixed setting: Mayor speaking at a podium in an ornate government room with US and NYC flags; intercut with close-up shots of Monopoly-style board game props labeled 'TENANTS' and 'LANDLORDS'",
+      "visual_elements": ["US and NYC flags", "ornate government room decor", "Monopoly-style board game prop pieces", "miniature buildings (Monopoly pieces)", "blue suit and tie", "white subtitle captions", "vertical video format"],
+      "presentation_style": "Stylized explainer video mixing government office footage with playful Monopoly board game props as visual metaphor for rent policy"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "approximately 0:18-0:27",
+      "on_screen_text": [
+        "If you're a tenant it's important the RGB hear from you",
+        "TENANTS (prop held up)",
+        "on how a rent hike or lack thereof would affect you.",
+        "that go into operating a rent stabilized building.",
+        "hearings",
+        "If you're considering operating costs of stabilizing one building",
+        "After that, they'll hold hearings across the city in June",
+        "Lastly, early this summer, the RGB will release its official",
+        "and binding rent adjustments for rent"
+      ],
+      "setting": "Continuation of ornate government room with game props; also shows speaker at a desk surrounded by Monopoly miniature buildings and game board",
+      "visual_elements": ["Monopoly board game spread on desk", "miniature building pieces", "Monopoly-style community cards and properties", "ornate government room", "NYC and US flags", "white subtitle captions"],
+      "presentation_style": "Direct-to-camera with Monopoly board as prop; playful visual metaphor maintained throughout"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "approximately 0:27-0:36",
+      "on_screen_text": [
+        "You probably know how I feel about what should happen",
+        "to the rent, but this is a chance to have your voices heard",
+        "by the people who make the final decision.",
+        "Your turn New York City."
+      ],
+      "setting": "Final frames show speaker talking to camera, then cuts to NYC seal on blue background as closing card",
+      "visual_elements": ["ornate government office", "miniature building props", "NYC official seal closing card (blue background)", "white subtitle captions"],
+      "presentation_style": "Closing call-to-action segment; ends with NYC official seal card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Ornate government office / mayoral room with US and NYC flags",
+    "text_overlay_types": ["white subtitle captions throughout", "NYC seal closing card"],
+    "visual_themes": ["rent stabilization policy explainer", "Monopoly board game as rent policy metaphor", "Rent Guidelines Board (RGB) process", "tenant and landlord framing", "direct civic engagement call-to-action"]
+  }
+}

@@ -1,0 +1,357 @@
+- generic [active] [ref=e1]:
+  - navigation "Skip links":
+    - link "Skip to Content" [ref=e2] [cursor=pointer]:
+      - /url: "#primary"
+    - link "Skip to navigation" [ref=e3] [cursor=pointer]:
+      - /url: "#ut-mobile-nav"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic:
+        - generic:
+          - generic [ref=e7]:
+            - link "welcome to montclair state university" [ref=e8] [cursor=pointer]:
+              - /url: https://montclair.edu
+              - img "welcome to montclair state university" [ref=e10]
+            - link "Center for Cooperative Media" [ref=e12] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e13]: Center for Cooperative Media
+          - text: • • • • •
+          - generic [ref=e15] [cursor=pointer]:
+            - button "" [ref=e17]
+            - text: MENU
+  - heading "About the Center" [level=1] [ref=e25]
+  - generic [ref=e32]:
+    - heading "The mission of the Center for Cooperative Media is to grow and strengthen local journalism and support an informed society in New Jersey and beyond." [level=2] [ref=e39]
+    - generic [ref=e47]:
+      - heading "👋 Want to speak with someone at the Center directly?" [level=1] [ref=e48]:
+        - link "👋 Want to speak with someone at the Center directly?" [ref=e49] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/about/our-team/
+          - img "👋" [ref=e50]
+          - text: Want to speak with someone at the Center directly?
+      - link:
+        - /url: https://centerforcooperativemedia.org/about/our-team/
+      - heading "📅 Click here to choose a time and book a session!" [level=2] [ref=e51]:
+        - link "📅 Click here to choose a time and book a session!" [ref=e52] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/about/our-team/
+          - img "📅" [ref=e53]
+          - text: Click here to choose a time and book a session!
+    - generic [ref=e60]:
+      - heading "The Center was founded in 2012 in response to the downsizing of New Jersey news organizations and the changes in the ownership of regional public media. These shifts in the news and information landscape hurt the volume of local news available in a state that has historically had limited news coverage, due to its proximity to the major metropolitan areas of New York City and Philadelphia. With 564 municipalities packed into a densely populated state, New Jersey was—and is—ripe for innovation in local journalism." [level=3] [ref=e61]
+      - heading "The Center coordinates statewide and regional reporting, connecting more than 300 local news and information providers through its flagship project, the NJ News Commons. The Commons helps partners to share content and encourages them to collaborate and support one another. The Center also conducts and publishes research on emerging ideas and best practices, focusing on local journalism, business models, and ecosystem mapping. The Center convenes national programs, including an annual national summit for journalism organizations to foster the conditions, ideas, and practices that lead to stronger collaborative journalism across the U.S. The Center’s annual reports offer a detailed history of programs and their impact." [level=3] [ref=e62]:
+        - text: The Center coordinates statewide and regional reporting, connecting more than 300 local news and information providers through its flagship project, the
+        - link "NJ News Commons" [ref=e63] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/njnewscommons/
+        - text: . The Commons helps partners to share content and encourages them to collaborate and support one another. The Center also conducts and publishes research on emerging ideas and best practices, focusing on local journalism, business models, and ecosystem mapping. The Center convenes national programs, including an
+        - link "annual national summit" [ref=e64] [cursor=pointer]:
+          - /url: https://collaborativejournalism.org/summit
+        - text: for journalism organizations to foster the conditions, ideas, and practices that lead to stronger collaborative journalism across the U.S. The Center’s
+        - link "annual reports" [ref=e65] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/annual-reports/
+        - text: offer a detailed history of programs and their impact.
+      - heading "The Center is a grant-funded program within the College of Communication and Media at Montclair State University. Funding from the University supports the director’s salary and benefits, office space for the Center and its staff, and infrastructure support and shared services such as IT, development, marketing, and administrative assistance. The Center is supported with funding from Montclair State University, Robert Wood Johnson Foundation, Geraldine R. Dodge Foundation, Democracy Fund, the New Jersey Civic Information Consortium, the Independence Public Media Foundation, Rita Allen Foundation, Inasmuch Foundation, Google News Initiative, and John S. and James L. Knight Foundation. For more information, visit centerforcooperativemedia.org." [level=3] [ref=e66]:
+        - text: The Center is a grant-funded program within the
+        - link "College of Communication and Media at Montclair State University" [ref=e67] [cursor=pointer]:
+          - /url: https://www.montclair.edu/school-of-communication-and-media/
+        - text: . Funding from the University supports the director’s salary and benefits, office space for the Center and its staff, and infrastructure support and shared services such as IT, development, marketing, and administrative assistance. The Center is supported with funding from Montclair State University, Robert Wood Johnson Foundation, Geraldine R. Dodge Foundation, Democracy Fund, the New Jersey Civic Information Consortium, the Independence Public Media Foundation, Rita Allen Foundation, Inasmuch Foundation, Google News Initiative, and John S. and James L. Knight Foundation. For more information, visit centerforcooperativemedia.org.
+    - generic [ref=e68]:
+      - link "our-members-button-sq" [ref=e75] [cursor=pointer]:
+        - /url: https://centerforcooperativemedia.org/njnewscommons
+        - img "our-members-button-sq" [ref=e76]
+      - link "our-funders-buttons-sq" [ref=e83] [cursor=pointer]:
+        - /url: https://centerforcooperativemedia.org/about/funders/
+        - img "our-funders-buttons-sq" [ref=e84]
+      - link "our-team-buttons-sq" [ref=e91] [cursor=pointer]:
+        - /url: https://centerforcooperativemedia.org/about/our-team/
+        - img "our-team-buttons-sq" [ref=e92]
+      - link "our-history-buttons-sq" [ref=e99] [cursor=pointer]:
+        - /url: https://centerforcooperativemedia.org/about/history/
+        - img "our-history-buttons-sq" [ref=e100]
+    - generic [ref=e101]:
+      - generic [ref=e106]:
+        - generic:
+          - link "in-the-news-long":
+            - /url: https://centerforcooperativemedia.org/about/in-the-news/
+            - img "in-the-news-long"
+      - generic [ref=e111]:
+        - generic:
+          - link "annual-reports-long":
+            - /url: https://centerforcooperativemedia.org/annual-reports/
+            - img "annual-reports-long"
+      - generic [ref=e118]:
+        - heading "READ THIS REPORT:" [level=3] [ref=e119]:
+          - strong [ref=e120]: "READ THIS REPORT:"
+        - heading "How the Center for Cooperative Media has supported momentum in New Jersey’s local news and information ecosystem" [level=2] [ref=e121]:
+          - link "How the Center for Cooperative Media has supported momentum in New Jersey’s local news and information ecosystem" [ref=e122] [cursor=pointer]:
+            - /url: https://centerforcooperativemedia.org/wp-content/uploads/2021/05/CCM-Site-Report-FINAL-8.27.20.pdf
+    - generic [ref=e128]:
+      - heading "Read our ethics and corrections policy" [level=2] [ref=e131]:
+        - link "Read our ethics and corrections policy" [ref=e132] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/ethics/
+      - heading "Read our theory of change" [level=2] [ref=e135]:
+        - link "Read our theory of change" [ref=e136] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/toc
+    - link [ref=e147] [cursor=pointer]:
+      - /url: "#"
+      - img [ref=e148]
+      - generic [ref=e156]: 
+    - generic [ref=e160]:
+      - generic [ref=e162]:
+        - heading "Mission, vision and values" [level=2] [ref=e163]
+        - heading "As a program of the College of Communication within the broader scope of Montclair State University, the Center is situated within the University’s mission, vision and values. The University’s mission statement can be found here and its vision and values can be found here in its Project Soar 2025 strategic plan." [level=3] [ref=e164]:
+          - text: As a program of the College of Communication within the broader scope of Montclair State University, the Center is situated within the University’s mission, vision and values. The University’s
+          - link "mission statement can be found here" [ref=e165] [cursor=pointer]:
+            - /url: https://www.montclair.edu/president/mission-statement/
+          - text: and its vision and values
+          - link "can be found here in its Project Soar 2025 strategic plan." [ref=e166] [cursor=pointer]:
+            - /url: https://www.montclair.edu/strategic-plan/vision-and-values/
+        - heading "Therefore, it’s important to note the definition of the Center’s own vision and values should be seen through the narrower lens of the Center’s mission, which is tied to local news and information, and not outside the scope of the University’s overarching guidance. We found this exercise to be especially valuable to help us articulate our work to outsiders, especially funders, who seek to understand what the Center is working for while it sits within the broader context of a university setting." [level=3] [ref=e167]
+        - heading "MISSION" [level=2] [ref=e168]:
+          - strong [ref=e169]: MISSION
+        - heading "The mission of the Center for Cooperative Media is to grow and strengthen local journalism and support an informed society in New Jersey and beyond." [level=3] [ref=e170]
+        - heading "VISION" [level=2] [ref=e171]:
+          - strong [ref=e172]: VISION
+        - heading "The Center for Cooperative Media envisions a world where people work together to create the news and information needed to participate in society, tell stories that reflect true experiences, and live with dignity and purpose." [level=3] [ref=e173]
+        - heading "VALUES" [level=2] [ref=e174]:
+          - strong [ref=e175]: VALUES
+        - list [ref=e177]:
+          - listitem [ref=e178]:
+            - strong [ref=e179]: "Access to information:"
+            - text: People have universal critical information needs and we believe the work of providing for those critical information needs should be valued and promoted as a necessary public good.
+          - listitem [ref=e180]:
+            - strong [ref=e181]: "Collaboration:"
+            - text: We believe that by working together we can do better work than we can alone.
+          - listitem [ref=e182]:
+            - strong [ref=e183]: "Proaction:"
+            - text: We believe in taking steps as quickly as possible to respond to problems presented to us and test solutions.
+          - listitem [ref=e184]:
+            - strong [ref=e185]: "Community and inclusivity:"
+            - text: We believe it is critical to create a sense of community that is open and welcoming among the people we work with and for.
+          - listitem [ref=e186]:
+            - strong [ref=e187]: "Equity:"
+            - text: We believe that access to and distribution of power and resources should be determined using a lens of justice and fairness.
+          - listitem [ref=e188]:
+            - strong [ref=e189]: "Joy:"
+            - text: We believe that enjoying our work is essential to successful outcomes.
+      - heading "How we work" [level=2] [ref=e194]
+      - generic [ref=e196]:
+        - heading "Partnerships and programs We collaborate with dozens of news and information providers across the state of New Jersey, facilitating our flagship project, a statewide network known as the NJ News Commons." [level=3] [ref=e197]:
+          - strong [ref=e198]: Partnerships and programs
+          - text: We collaborate with dozens of news and information providers across the state of New Jersey, facilitating our flagship project, a statewide network known as the
+          - link "NJ News Commons" [ref=e199] [cursor=pointer]:
+            - /url: /njnewscommons/
+          - text: .
+        - heading "Collaborations We coordinate statewide and regional reporting projects and connect news partners with faculty and students at Montclair State University." [level=3] [ref=e200]:
+          - strong [ref=e201]: Collaborations
+          - text: We coordinate
+          - link "statewide" [ref=e202] [cursor=pointer]:
+            - /url: https://collaborativejournalism.org/wp-content/uploads/2020/09/NJ-Voting-Bock-report.pdf
+          - text: and
+          - link "regional" [ref=e203] [cursor=pointer]:
+            - /url: https://cfnj.org/shadowofliberty/
+          - text: reporting projects and connect news partners with faculty and students at Montclair State University.
+        - heading "Training & Development We offer innovative professional development seminars, with training sessions on topics such as data and investigative journalism, fact-checking, OPRA, podcasting, video production, digital sales, and business planning, among many others. We also offer one-on-one coaching. Click to see our full training schedule." [level=3] [ref=e204]:
+          - strong [ref=e205]: Training & Development
+          - text: We offer innovative professional development seminars, with training sessions on topics such as data and investigative journalism, fact-checking, OPRA, podcasting, video production, digital sales, and business planning, among many others. We also offer one-on-one coaching.
+          - link "Click to see our full training schedule" [ref=e206] [cursor=pointer]:
+            - /url: /training/
+          - text: .
+        - heading "Support for the NJ Civic Information Consortium We are proud to be the host institution for the NJ Civic Information Consortium." [level=3] [ref=e207]:
+          - strong [ref=e208]: Support for the NJ Civic Information Consortium
+          - text: We are proud to be the host institution for the
+          - link "NJ Civic Information Consortium" [ref=e209] [cursor=pointer]:
+            - /url: https://njcivicinfo.org/
+          - text: .
+        - heading "Communication We publish multiple newsletters, including a daily email rounding up the day’s top news stories as reported by our New Jersey news partners. We write about what’s happening in our news ecosystem and blog about industry trends. We also maintain listservs, Slack communities and publish on Medium and Substack." [level=3] [ref=e210]:
+          - strong [ref=e211]: Communication
+          - text: We publish
+          - link "multiple newsletters" [ref=e212] [cursor=pointer]:
+            - /url: https://centerforcooperativemedia.org/content/
+          - link "," [ref=e213] [cursor=pointer]:
+            - /url: http://bit.ly/ccmroundup
+          - text: including a daily email rounding up the day’s top news stories as reported by our New Jersey news partners. We write about what’s happening in our news ecosystem and blog about industry trends. We also maintain listservs, Slack communities and publish on Medium and Substack.
+        - heading "Research The Center’s research agenda is focused on issues impacting local journalism, especially collaboration and sustainability questions." [level=3] [ref=e214]:
+          - strong [ref=e215]: Research
+          - text: The Center’s
+          - link "research agenda" [ref=e216] [cursor=pointer]:
+            - /url: /research/
+          - text: is focused on issues impacting local journalism, especially collaboration and sustainability questions.
+        - heading "National conference We host an annual national conference about collaborative journalism, the Collaborative Journalism Summit." [level=3] [ref=e217]:
+          - strong [ref=e218]: National conference
+          - text: We host an annual national conference about collaborative journalism, the
+          - link "Collaborative Journalism Summit" [ref=e219] [cursor=pointer]:
+            - /url: http://collaborativejournalism.org/summit
+          - text: .
+        - heading "The Center is supported withwith funding from Robert Wood Johnson Foundation, Geraldine R. Dodge Foundation, Democracy Fund, the New Jersey Civic Information Consortium, the Independence Public Media Foundation, Rita Allen Foundation, Inasmuch Foundation, Google News Initiative, and John S. and James L. Knight Foundation." [level=3] [ref=e220]:
+          - text: The Center is supported withwith funding from
+          - link "Robert Wood Johnson Foundation" [ref=e221] [cursor=pointer]:
+            - /url: https://www.rwjf.org/
+          - text: ","
+          - link "Geraldine R. Dodge Foundation" [ref=e222] [cursor=pointer]:
+            - /url: http://grdodge.org/
+          - text: ","
+          - link "Democracy Fund" [ref=e223] [cursor=pointer]:
+            - /url: http://www.democracyfund.org/
+          - text: ", the"
+          - link "New Jersey Civic Information Consortium" [ref=e224] [cursor=pointer]:
+            - /url: https://njcivicinfo.org/
+          - text: ", the"
+          - link "Independence Public Media Foundation" [ref=e225] [cursor=pointer]:
+            - /url: https://www.independencemedia.org/
+          - text: ","
+          - link "Rita Allen Foundation" [ref=e226] [cursor=pointer]:
+            - /url: https://ritaallen.org/
+          - text: ","
+          - link "Inasmuch Foundation" [ref=e227] [cursor=pointer]:
+            - /url: https://inasmuchfoundation.org/
+          - text: ","
+          - link "Google News Initiative," [ref=e228] [cursor=pointer]:
+            - /url: https://newsinitiative.withgoogle.com/
+          - text: and
+          - link "John S. and James L. Knight Foundation" [ref=e229] [cursor=pointer]:
+            - /url: http://knightfoundation.org/
+          - text: .
+      - generic [ref=e231]:
+        - heading "Contact us" [level=2] [ref=e232]:
+          - strong [ref=e233]: Contact us
+        - heading "Contact us at info@centerforcooperativemedia.org." [level=3] [ref=e234]:
+          - text: Contact us at
+          - link "info@centerforcooperativemedia.org" [ref=e235] [cursor=pointer]:
+            - /url: mailto:info@centerforcooperativemedia.org
+          - text: .
+        - separator [ref=e236]
+      - generic [ref=e242]:
+        - heading "Download our logos" [level=2] [ref=e243]
+        - heading "Click the images below to download a copy of our logo:" [level=3] [ref=e244]
+      - generic [ref=e245]:
+        - generic [ref=e250]:
+          - generic:
+            - link "ccm-logo-iso-2025":
+              - /url: https://centerforcooperativemedia.org/wp-content/uploads/2025/07/ccm-logo-iso-2025.png
+              - img "ccm-logo-iso-2025"
+        - generic [ref=e255]:
+          - generic:
+            - link "ccm-banner-iso-2025":
+              - /url: https://centerforcooperativemedia.org/wp-content/uploads/2025/07/ccm-banner-iso-2025.png
+              - img "ccm-banner-iso-2025"
+      - generic [ref=e259]:
+        - heading "Support the Center" [level=1] [ref=e264]:
+          - link "Support the Center" [ref=e265] [cursor=pointer]:
+            - /url: https://crowdfund.montclair.edu/project/21427
+        - heading "Your donation will directly support the operations of the Center, enabling us to share vital information, research, resources and products to help sustain the future of local news and information. Click here to donate." [level=3] [ref=e268]:
+          - text: Your donation will directly support the operations of the Center, enabling us to share vital information, research, resources and products to help sustain the future of local news and information.
+          - link "Click here to donate." [ref=e269] [cursor=pointer]:
+            - /url: https://crowdfund.montclair.edu/project/21427
+  - contentinfo [ref=e270]:
+    - generic [ref=e272]:
+      - list [ref=e274]:
+        - listitem [ref=e275]:
+          - generic [ref=e276]:
+            - list [ref=e277]:
+              - listitem [ref=e278]:
+                - img "map marker" [ref=e279]
+                - 'link "Address: 1 Normal Avenue, Montclair, New Jersey 0 7 0 4 3" [ref=e280] [cursor=pointer]':
+                  - /url: http://www.montclair.edu/about-montclair/directions/
+                  - text: 1 Normal Ave. Montclair, NJ 07043
+              - listitem [ref=e281]:
+                - img "phone marker" [ref=e282]
+                - 'link "Phone number: 9 7 3 6 5 5 4000" [ref=e283] [cursor=pointer]':
+                  - /url: tel:9736554000
+                  - text: 973-655-4000
+              - listitem [ref=e284]:
+                - img "campus marker" [ref=e285]
+                - link "Campus Map" [ref=e286] [cursor=pointer]:
+                  - /url: http://www.montclair.edu/campus-map/
+            - list:
+              - listitem:
+                - link "twitter marker":
+                  - /url: https://twitter.com/montclairstateu
+                  - img "twitter marker" [ref=e287] [cursor=pointer]
+              - listitem:
+                - link "facebook marker":
+                  - /url: https://www.facebook.com/MontclairStateUniversity
+                  - img "facebook marker" [ref=e288] [cursor=pointer]
+              - listitem:
+                - link "youtube marker":
+                  - /url: https://www.youtube.com/montclairstate
+                  - img "youtube marker" [ref=e289] [cursor=pointer]
+      - list [ref=e291]:
+        - listitem [ref=e292]:
+          - generic [ref=e293]: School of Comm. and Media
+          - list [ref=e295]:
+            - listitem [ref=e296]:
+              - link "About Us" [ref=e297] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/about-us/
+            - listitem [ref=e298]:
+              - link "Degrees and Programs" [ref=e299] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/academic-programs/
+            - listitem [ref=e300]:
+              - link "Admission" [ref=e301] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/admission/
+            - listitem [ref=e302]:
+              - link "Center for Cooperative Media" [ref=e303] [cursor=pointer]:
+                - /url: https://centerforcooperativemedia.org/
+            - listitem [ref=e304]:
+              - link "Events" [ref=e305] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/events/
+            - listitem [ref=e306]:
+              - link "Facilities" [ref=e307] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/facilities/
+            - listitem [ref=e308]:
+              - link "Professional Development & Guides" [ref=e309] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/professional-development-and-guides/
+            - listitem [ref=e310]:
+              - link "Public Speaking Resource Center" [ref=e311] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/public-speaking-resource-center/
+            - listitem [ref=e312]:
+              - link "Alumni" [ref=e313] [cursor=pointer]:
+                - /url: https://www.montclair.edu/arts/alumni/
+      - list [ref=e315]:
+        - listitem [ref=e316]:
+          - generic [ref=e317]: Montclair State U.
+          - list [ref=e319]:
+            - listitem [ref=e320]:
+              - link "About Montclair" [ref=e321] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/
+            - listitem [ref=e322]:
+              - link "Academics" [ref=e323] [cursor=pointer]:
+                - /url: https://www.montclair.edu/academics/
+            - listitem [ref=e324]:
+              - link "Admissions" [ref=e325] [cursor=pointer]:
+                - /url: https://www.montclair.edu/university-admissions/
+            - listitem [ref=e326]:
+              - link "Athletics" [ref=e327] [cursor=pointer]:
+                - /url: https://montclairathletics.com/
+            - listitem [ref=e328]:
+              - link "Campus Life" [ref=e329] [cursor=pointer]:
+                - /url: https://www.montclair.edu/campus-life/
+            - listitem [ref=e330]:
+              - link "Giving" [ref=e331] [cursor=pointer]:
+                - /url: https://www.montclair.edu/giving/
+      - list [ref=e333]:
+        - listitem [ref=e334]:
+          - generic [ref=e335]: MSU Policies
+          - list [ref=e337]:
+            - listitem [ref=e338]:
+              - link "Copyright" [ref=e339] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/copyright-and-disclaimer/
+            - listitem [ref=e340]:
+              - link "Disclaimer" [ref=e341] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/copyright-and-disclaimer/
+            - listitem [ref=e342]:
+              - link "Title IX Information" [ref=e343] [cursor=pointer]:
+                - /url: https://www.montclair.edu/sexual-harassment/sexual-harassment-complaint-procedures-students/
+            - listitem [ref=e344]:
+              - link "Emergency / Plans" [ref=e345] [cursor=pointer]:
+                - /url: https://www.montclair.edu/emergency/
+            - listitem [ref=e346]:
+              - link "Notice of Non-Discrimination" [ref=e347] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/notice-of-non-discrimination/
+            - listitem [ref=e348]:
+              - link "Annual Security Report" [ref=e349] [cursor=pointer]:
+                - /url: https://www.montclair.edu/university-police/annual-security-report/
+            - listitem [ref=e350]:
+              - link "Middle States Accreditation" [ref=e351] [cursor=pointer]:
+                - /url: https://www.montclair.edu/middle-states/
+            - listitem [ref=e352]:
+              - link "Website Privacy Notice" [ref=e353] [cursor=pointer]:
+                - /url: https://www.montclair.edu/privacy-notice/

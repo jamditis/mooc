@@ -1,0 +1,83 @@
+{
+  "video_id": "DWCi_70EVza",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "I just knew I had been active",
+        "Mohamed Diallo's New York Knicks (lower-third name tag)",
+        "Everyone who I'm waking up,",
+        "I just love it, it's just a blessing and",
+        "I keep looking forward to doing it",
+        "I'm just happy about it, you know."
+      ],
+      "setting": "Outdoor basketball court at night. Mamdani and another man (Mohamed Diallo, New York Knicks) playing basketball under court lights. Also shows iftar dinner table setting (close-up of food/plate).",
+      "visual_elements": [
+        "outdoor basketball court at night",
+        "Mamdani holding basketball, casual clothes (varsity jacket)",
+        "Mohamed Diallo lower-third name tag",
+        "night basketball court with floodlights",
+        "motion-blurred basketball action shots",
+        "iftar dinner table with food close-up",
+        "white subtitle captions"
+      ],
+      "presentation_style": "Sports-lifestyle crossover. Mamdani playing basketball with a New York Knicks player during Ramadan. Iftar dinner component. Dynamic night basketball cinematography."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "And there are so many Muslims in the city",
+        "they don't get to have iftar, sitting down,",
+        "Right? They're having it while they're working.",
+        "When athletes speak the truth...",
+        "It carries a different kind of resonance.",
+        "And growing up, I know it means so much",
+        "to so many young Muslim kids in the city",
+        "to know that the very basketball team",
+        "that there's someone on that team"
+      ],
+      "setting": "Iftar dinner table setting — Mamdani and Diallo seated eating. Gallery wall visible (basketball-themed photos/artwork). Basketball court appears again.",
+      "visual_elements": [
+        "iftar dinner table with food",
+        "Mamdani and Mohamed Diallo seated together eating",
+        "gallery wall with framed basketball imagery",
+        "basketball rim/backboard visible from below",
+        "white subtitle captions",
+        "restaurant/event space interior"
+      ],
+      "presentation_style": "Intersects Ramadan fasting and basketball culture. Interview-style conversation between Mamdani and Diallo about Muslim identity in sports. Personal and community-focused."
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-0:36",
+      "on_screen_text": [],
+      "setting": "Final frames: outdoor basketball court celebration, NYC mayoral seal (in blue and orange color variants — small colored boxes suggesting an endcard with logo and possibly buttons), night court scene.",
+      "visual_elements": [
+        "outdoor night basketball celebration (fist bump/handshake with crowd)",
+        "NYC mayoral seal",
+        "blue and orange colored box elements (possible branded endcard)",
+        "night court atmosphere"
+      ],
+      "presentation_style": "Energetic close. Mayoral seal endcard with color-variant boxes. Celebratory basketball court ending."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor basketball court at night and iftar dinner table",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "lower-third name tag (Mohamed Diallo, New York Knicks)",
+      "NYC mayoral seal endcard"
+    ],
+    "visual_themes": [
+      "Ramadan and Muslim identity",
+      "basketball culture crossover",
+      "NYC Knicks player collaboration",
+      "iftar dinner community",
+      "Muslim athletes as cultural representation",
+      "night basketball court setting"
+    ]
+  }
+}

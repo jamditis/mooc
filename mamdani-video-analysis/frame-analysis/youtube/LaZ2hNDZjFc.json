@@ -1,0 +1,61 @@
+{
+  "video_id": "LaZ2hNDZjFc",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [],
+      "setting": "Minimalist white studio space with a wooden mid-century modern dining table, wooden chairs, and a jute rug; bright, even white background suggesting a photography or video studio setup",
+      "visual_elements": [
+        "White studio backdrop",
+        "Mid-century wooden table and chairs",
+        "Jute area rug",
+        "Small potted plant and glass on table",
+        "Candidate in dark suit and tie bending toward a seated woman and young child",
+        "Woman in grey top and young child in blue outfit",
+        "Repeated frames showing the same moment from same angle (sequential stills)"
+      ],
+      "presentation_style": "Scripted or staged scenario in a clean studio environment; no text overlays; focused on interpersonal interaction between candidate and family; very controlled visual setting"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [],
+      "setting": "Same white studio with wooden table and chairs; action progresses to handshakes and the child interacting more freely with the candidate",
+      "visual_elements": [
+        "Candidate shaking hands with the woman",
+        "Candidate crouching to child's level for handshake",
+        "Child in yellow cartoon-print shirt",
+        "Camera crew equipment partially visible in background",
+        "Bright, flat studio lighting",
+        "Multiple angles showing the scene"
+      ],
+      "presentation_style": "Warm, staged meeting scenario emphasizing approachability and connection with families; documentary-style coverage of scripted interaction"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-end",
+      "on_screen_text": [],
+      "setting": "Same white studio; final frame shows only one active panel (top-left) with candidate leaning over the table, rest of grid is black",
+      "visual_elements": [
+        "Single active frame among black panels indicating video end",
+        "Candidate in dark outfit bending over table",
+        "Studio equipment (cables, microphone stand) visible at edge of frame",
+        "Sparse, clean composition"
+      ],
+      "presentation_style": "Video trails off with final action frames; no closing graphic or text card in these frames; raw, unbranded ending visible in grid"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Minimalist white photography/video studio with mid-century furniture",
+    "text_overlay_types": [],
+    "visual_themes": [
+      "Staged family interaction scenario",
+      "Clean, minimalist studio aesthetic",
+      "Candidate approachability and warmth",
+      "No text graphics or branding visible",
+      "Controlled lighting and white background"
+    ]
+  }
+}

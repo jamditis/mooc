@@ -1,0 +1,87 @@
+{
+  "video_id": "h-hmxt6NdMg",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "50,900 Resumes",
+        "CNN SWEEP THREE MAJOR RACES IN NY, NJ, VA",
+        "DEMOCRATS SWEEP THREE MAJOR RACES IN NY, NJ, VA",
+        "CA POLLS CLOSE 11P ET 1:15:35",
+        "CAMPAIGN 2025 (CNN chyron)"
+      ],
+      "setting": "Mix of an orange-walled community space with donation boxes and bags, a childcare or school setting with colorful decorations, and a direct-to-camera seated interview on a bench; CNN election night broadcast visible on a screen",
+      "visual_elements": [
+        "CNN broadcast showing election night results ('DEMOCRATS SWEEP...')",
+        "Candidate seated in an orange-walled room surrounded by donation boxes and gift bags",
+        "Childcare center with children playing with colorful toys",
+        "Candidate in black coat seated on a metal bench for direct-to-camera delivery",
+        "White subtitle text",
+        "Stat overlay: '50,900 Resumes'"
+      ],
+      "presentation_style": "Fundraising or transition appeal video combining context-setting (election win, resume applications) with direct-to-camera candidate address; data overlay emphasizes scale of transition effort"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "$5,000,000",
+        "TRANSITION2025.COM",
+        "A NEW ERA for NEW YORK CITY",
+        "A NEW ERA",
+        "NEW YORK CITY"
+      ],
+      "setting": "Outdoor NYC neighborhood street; candidate in black coat speaking directly to camera while walking; public bus stops and buildings in background; ends with candidate at or near an electric bus",
+      "visual_elements": [
+        "Candidate walking and addressing camera outdoors in NYC neighborhood",
+        "Dollar amount overlay: '$5,000,000' (fundraising goal or achievement)",
+        "Website URL overlay: 'TRANSITION2025.COM'",
+        "Campaign outro cards: 'A NEW ERA for NEW YORK CITY' in red/white/blue",
+        "NYC streetscape with low-rise buildings",
+        "Electric bus visible in final frames",
+        "American flags on electric bus"
+      ],
+      "presentation_style": "Walking outdoor fundraising appeal with financial stat overlay and website CTA; ends with campaign branding on electric bus scene"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-end",
+      "on_screen_text": [
+        "A NEW ERA for NEW YORK CITY",
+        "ELECTRIC BUS",
+        "I LOVE NY",
+        "MAMDANI TRANSIT... (partial, website or reference)"
+      ],
+      "setting": "Candidate boarding or standing next to a blue electric MTA bus; American flags on the bus; QR code visible on the campaign card; bus signage reads 'ELECTRIC BUS' and 'I LOVE NY'",
+      "visual_elements": [
+        "Blue electric MTA bus with 'ELECTRIC BUS' and 'I LOVE NY' labels",
+        "Candidate in black coat waving from bus steps",
+        "American flags mounted on bus",
+        "Campaign card with QR code",
+        "Campaign brand: 'A NEW ERA for NEW YORK CITY'",
+        "Partially visible URL/website reference",
+        "Outdoor daylight"
+      ],
+      "presentation_style": "Campaign outro featuring an electric bus as a policy symbol; QR code for additional engagement; 'I LOVE NY' as NYC identity branding layered with campaign branding"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Community center/donation space, outdoor NYC street, and an electric MTA bus exterior",
+    "text_overlay_types": [
+      "Numeric stat overlays ('50,900 Resumes', '$5,000,000')",
+      "CNN broadcast chyron captured in-frame",
+      "Website URL ('TRANSITION2025.COM')",
+      "Campaign slogan outro card ('A NEW ERA for NEW YORK CITY')",
+      "QR code on campaign card"
+    ],
+    "visual_themes": [
+      "Post-election transition fundraising appeal",
+      "Scale of transition effort (resume volume, dollar goals)",
+      "Electric bus as transit policy symbol",
+      "Walking-and-talking outdoor delivery style",
+      "Multiple data points to establish credibility and urgency"
+    ]
+  }
+}

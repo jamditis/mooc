@@ -1,0 +1,1595 @@
+{
+  "text": " There was something that someone said at an iftar that we just hosted at City Hall. The other night, which really stayed with me though, is how Ramadan is also a lesson in the shallowness of instant gratification. Of how you spend all day craving food and craving water and anything you could fill yourself with. And then as soon as you break your fast, just a few minutes into eating, you already feel full. And it's as if you didn't spend that whole day dreaming of that very moment. We call it the city that never sleeps, but the atmosphere of New York City changes all of the sudden when Ramadan comes. All I think about is peace and quietness. Many ask me what it means to be the first Muslim mayor of our city. And in that question there is an assumption that I am introducing our faith to the city as a whole. When in reality, our faith has been a part of this city for generations. The question of whether it's been seen is another matter entirely. But Muslims and New York City, they are intertwined. MARCOFORD",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.88,
+      "text": " There was something that someone said at an iftar that we just hosted at City Hall.",
+      "tokens": [
+        50365,
+        821,
+        390,
+        746,
+        300,
+        1580,
+        848,
+        412,
+        364,
+        498,
+        23480,
+        300,
+        321,
+        445,
+        19204,
+        412,
+        4392,
+        5434,
+        13,
+        50615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14979896348776275,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 3.062836095857335e-11,
+      "words": [
+        {
+          "word": " There",
+          "start": 0.0,
+          "end": 0.8,
+          "probability": 0.8999496698379517
+        },
+        {
+          "word": " was",
+          "start": 0.8,
+          "end": 0.94,
+          "probability": 0.9798852205276489
+        },
+        {
+          "word": " something",
+          "start": 0.94,
+          "end": 1.22,
+          "probability": 0.9982537627220154
+        },
+        {
+          "word": " that",
+          "start": 1.22,
+          "end": 1.52,
+          "probability": 0.9810481071472168
+        },
+        {
+          "word": " someone",
+          "start": 1.52,
+          "end": 1.74,
+          "probability": 0.9965081810951233
+        },
+        {
+          "word": " said",
+          "start": 1.74,
+          "end": 1.98,
+          "probability": 0.9973166584968567
+        },
+        {
+          "word": " at",
+          "start": 1.98,
+          "end": 2.14,
+          "probability": 0.5716007947921753
+        },
+        {
+          "word": " an",
+          "start": 2.14,
+          "end": 2.22,
+          "probability": 0.7306094765663147
+        },
+        {
+          "word": " iftar",
+          "start": 2.22,
+          "end": 2.46,
+          "probability": 0.8303380906581879
+        },
+        {
+          "word": " that",
+          "start": 2.46,
+          "end": 2.64,
+          "probability": 0.9477244019508362
+        },
+        {
+          "word": " we",
+          "start": 2.64,
+          "end": 2.74,
+          "probability": 0.9985290765762329
+        },
+        {
+          "word": " just",
+          "start": 2.74,
+          "end": 2.92,
+          "probability": 0.997351884841919
+        },
+        {
+          "word": " hosted",
+          "start": 2.92,
+          "end": 3.28,
+          "probability": 0.9977783560752869
+        },
+        {
+          "word": " at",
+          "start": 3.28,
+          "end": 3.48,
+          "probability": 0.9194148778915405
+        },
+        {
+          "word": " City",
+          "start": 3.48,
+          "end": 3.62,
+          "probability": 0.9396610856056213
+        },
+        {
+          "word": " Hall.",
+          "start": 3.62,
+          "end": 3.88,
+          "probability": 0.9960135221481323
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.6000000000000005,
+      "end": 11.34,
+      "text": " The other night, which really stayed with me though, is how Ramadan is also a lesson in the shallowness of instant gratification.",
+      "tokens": [
+        50615,
+        440,
+        661,
+        1818,
+        11,
+        597,
+        534,
+        9181,
+        365,
+        385,
+        1673,
+        11,
+        307,
+        577,
+        39848,
+        307,
+        611,
+        257,
+        6898,
+        294,
+        264,
+        4393,
+        648,
+        442,
+        295,
+        9836,
+        10158,
+        3774,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14979896348776275,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 3.062836095857335e-11,
+      "words": [
+        {
+          "word": " The",
+          "start": 4.6000000000000005,
+          "end": 5.08,
+          "probability": 0.993548572063446
+        },
+        {
+          "word": " other",
+          "start": 5.08,
+          "end": 5.26,
+          "probability": 0.9991497993469238
+        },
+        {
+          "word": " night,",
+          "start": 5.26,
+          "end": 5.5,
+          "probability": 0.9993971586227417
+        },
+        {
+          "word": " which",
+          "start": 5.62,
+          "end": 5.78,
+          "probability": 0.9087395071983337
+        },
+        {
+          "word": " really",
+          "start": 5.78,
+          "end": 5.94,
+          "probability": 0.9937492609024048
+        },
+        {
+          "word": " stayed",
+          "start": 5.94,
+          "end": 6.18,
+          "probability": 0.9992232322692871
+        },
+        {
+          "word": " with",
+          "start": 6.18,
+          "end": 6.38,
+          "probability": 0.9994513392448425
+        },
+        {
+          "word": " me",
+          "start": 6.38,
+          "end": 6.56,
+          "probability": 0.9988538026809692
+        },
+        {
+          "word": " though,",
+          "start": 6.56,
+          "end": 6.72,
+          "probability": 0.587765097618103
+        },
+        {
+          "word": " is",
+          "start": 6.94,
+          "end": 7.08,
+          "probability": 0.9809367060661316
+        },
+        {
+          "word": " how",
+          "start": 7.08,
+          "end": 7.44,
+          "probability": 0.9803211688995361
+        },
+        {
+          "word": " Ramadan",
+          "start": 7.44,
+          "end": 7.76,
+          "probability": 0.9870243072509766
+        },
+        {
+          "word": " is",
+          "start": 7.76,
+          "end": 8.08,
+          "probability": 0.9979956150054932
+        },
+        {
+          "word": " also",
+          "start": 8.08,
+          "end": 8.44,
+          "probability": 0.99535071849823
+        },
+        {
+          "word": " a",
+          "start": 8.44,
+          "end": 8.8,
+          "probability": 0.9947277903556824
+        },
+        {
+          "word": " lesson",
+          "start": 8.8,
+          "end": 9.1,
+          "probability": 0.9984638690948486
+        },
+        {
+          "word": " in",
+          "start": 9.1,
+          "end": 9.36,
+          "probability": 0.9956759810447693
+        },
+        {
+          "word": " the",
+          "start": 9.36,
+          "end": 9.48,
+          "probability": 0.9987101554870605
+        },
+        {
+          "word": " shallowness",
+          "start": 9.48,
+          "end": 10.14,
+          "probability": 0.9980020523071289
+        },
+        {
+          "word": " of",
+          "start": 10.14,
+          "end": 10.3,
+          "probability": 0.9983919262886047
+        },
+        {
+          "word": " instant",
+          "start": 10.3,
+          "end": 10.6,
+          "probability": 0.9990936517715454
+        },
+        {
+          "word": " gratification.",
+          "start": 10.6,
+          "end": 11.34,
+          "probability": 0.9998624920845032
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 12.120000000000001,
+      "end": 19.78,
+      "text": " Of how you spend all day craving food and craving water and anything you could fill yourself with.",
+      "tokens": [
+        50965,
+        2720,
+        577,
+        291,
+        3496,
+        439,
+        786,
+        27320,
+        1755,
+        293,
+        27320,
+        1281,
+        293,
+        1340,
+        291,
+        727,
+        2836,
+        1803,
+        365,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14979896348776275,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 3.062836095857335e-11,
+      "words": [
+        {
+          "word": " Of",
+          "start": 12.120000000000001,
+          "end": 12.6,
+          "probability": 0.9573442339897156
+        },
+        {
+          "word": " how",
+          "start": 12.6,
+          "end": 12.7,
+          "probability": 0.9990725517272949
+        },
+        {
+          "word": " you",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.9991863369941711
+        },
+        {
+          "word": " spend",
+          "start": 12.92,
+          "end": 13.48,
+          "probability": 0.9900508522987366
+        },
+        {
+          "word": " all",
+          "start": 13.48,
+          "end": 13.78,
+          "probability": 0.9993809461593628
+        },
+        {
+          "word": " day",
+          "start": 13.78,
+          "end": 14.1,
+          "probability": 0.9971998929977417
+        },
+        {
+          "word": " craving",
+          "start": 14.1,
+          "end": 14.7,
+          "probability": 0.9976128339767456
+        },
+        {
+          "word": " food",
+          "start": 14.7,
+          "end": 16.14,
+          "probability": 0.9870455265045166
+        },
+        {
+          "word": " and",
+          "start": 16.14,
+          "end": 16.52,
+          "probability": 0.8386325836181641
+        },
+        {
+          "word": " craving",
+          "start": 16.52,
+          "end": 16.9,
+          "probability": 0.998678982257843
+        },
+        {
+          "word": " water",
+          "start": 16.9,
+          "end": 17.36,
+          "probability": 0.9990731477737427
+        },
+        {
+          "word": " and",
+          "start": 17.36,
+          "end": 17.76,
+          "probability": 0.5375283360481262
+        },
+        {
+          "word": " anything",
+          "start": 17.76,
+          "end": 18.32,
+          "probability": 0.9931095838546753
+        },
+        {
+          "word": " you",
+          "start": 18.32,
+          "end": 18.48,
+          "probability": 0.9943317174911499
+        },
+        {
+          "word": " could",
+          "start": 18.48,
+          "end": 18.66,
+          "probability": 0.9735020995140076
+        },
+        {
+          "word": " fill",
+          "start": 18.66,
+          "end": 19.1,
+          "probability": 0.993180513381958
+        },
+        {
+          "word": " yourself",
+          "start": 19.1,
+          "end": 19.42,
+          "probability": 0.9982905983924866
+        },
+        {
+          "word": " with.",
+          "start": 19.42,
+          "end": 19.78,
+          "probability": 0.99946528673172
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 19.98,
+      "end": 24.74,
+      "text": " And then as soon as you break your fast, just a few minutes into eating, you already feel full.",
+      "tokens": [
+        51365,
+        400,
+        550,
+        382,
+        2321,
+        382,
+        291,
+        1821,
+        428,
+        2370,
+        11,
+        445,
+        257,
+        1326,
+        2077,
+        666,
+        3936,
+        11,
+        291,
+        1217,
+        841,
+        1577,
+        13,
+        51615
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.14979896348776275,
+      "compression_ratio": 1.619047619047619,
+      "no_speech_prob": 3.062836095857335e-11,
+      "words": [
+        {
+          "word": " And",
+          "start": 19.98,
+          "end": 20.16,
+          "probability": 0.9741296172142029
+        },
+        {
+          "word": " then",
+          "start": 20.16,
+          "end": 20.28,
+          "probability": 0.7407678365707397
+        },
+        {
+          "word": " as",
+          "start": 20.28,
+          "end": 20.44,
+          "probability": 0.9656327366828918
+        },
+        {
+          "word": " soon",
+          "start": 20.44,
+          "end": 20.7,
+          "probability": 0.9989269375801086
+        },
+        {
+          "word": " as",
+          "start": 20.7,
+          "end": 20.86,
+          "probability": 0.998524010181427
+        },
+        {
+          "word": " you",
+          "start": 20.86,
+          "end": 20.98,
+          "probability": 0.9994888305664062
+        },
+        {
+          "word": " break",
+          "start": 20.98,
+          "end": 21.18,
+          "probability": 0.9993997812271118
+        },
+        {
+          "word": " your",
+          "start": 21.18,
+          "end": 21.36,
+          "probability": 0.9985881447792053
+        },
+        {
+          "word": " fast,",
+          "start": 21.36,
+          "end": 21.8,
+          "probability": 0.997456967830658
+        },
+        {
+          "word": " just",
+          "start": 21.94,
+          "end": 22.28,
+          "probability": 0.99739670753479
+        },
+        {
+          "word": " a",
+          "start": 22.28,
+          "end": 22.46,
+          "probability": 0.9995949864387512
+        },
+        {
+          "word": " few",
+          "start": 22.46,
+          "end": 22.66,
+          "probability": 0.9996795654296875
+        },
+        {
+          "word": " minutes",
+          "start": 22.66,
+          "end": 22.98,
+          "probability": 0.9991777539253235
+        },
+        {
+          "word": " into",
+          "start": 22.98,
+          "end": 23.2,
+          "probability": 0.998551070690155
+        },
+        {
+          "word": " eating,",
+          "start": 23.2,
+          "end": 23.56,
+          "probability": 0.9996100068092346
+        },
+        {
+          "word": " you",
+          "start": 23.9,
+          "end": 24.0,
+          "probability": 0.9386224746704102
+        },
+        {
+          "word": " already",
+          "start": 24.0,
+          "end": 24.24,
+          "probability": 0.9922939538955688
+        },
+        {
+          "word": " feel",
+          "start": 24.24,
+          "end": 24.54,
+          "probability": 0.999319314956665
+        },
+        {
+          "word": " full.",
+          "start": 24.54,
+          "end": 24.74,
+          "probability": 0.9909669756889343
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2474,
+      "start": 25.4,
+      "end": 29.96,
+      "text": " And it's as if you didn't spend that whole day dreaming of that very moment.",
+      "tokens": [
+        50365,
+        400,
+        309,
+        311,
+        382,
+        498,
+        291,
+        994,
+        380,
+        3496,
+        300,
+        1379,
+        786,
+        21475,
+        295,
+        300,
+        588,
+        1623,
+        13,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0741339333449738,
+      "compression_ratio": 1.4549763033175356,
+      "no_speech_prob": 2.142320392264918e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 25.4,
+          "end": 25.9,
+          "probability": 0.5989401936531067
+        },
+        {
+          "word": " it's",
+          "start": 25.9,
+          "end": 26.12,
+          "probability": 0.9872922599315643
+        },
+        {
+          "word": " as",
+          "start": 26.12,
+          "end": 26.24,
+          "probability": 0.9950575828552246
+        },
+        {
+          "word": " if",
+          "start": 26.24,
+          "end": 26.52,
+          "probability": 0.998980700969696
+        },
+        {
+          "word": " you",
+          "start": 26.52,
+          "end": 26.96,
+          "probability": 0.9604150652885437
+        },
+        {
+          "word": " didn't",
+          "start": 26.96,
+          "end": 27.26,
+          "probability": 0.9977506101131439
+        },
+        {
+          "word": " spend",
+          "start": 27.26,
+          "end": 27.48,
+          "probability": 0.9950525164604187
+        },
+        {
+          "word": " that",
+          "start": 27.48,
+          "end": 27.68,
+          "probability": 0.9877546429634094
+        },
+        {
+          "word": " whole",
+          "start": 27.68,
+          "end": 27.88,
+          "probability": 0.9955887794494629
+        },
+        {
+          "word": " day",
+          "start": 27.88,
+          "end": 28.18,
+          "probability": 0.998985230922699
+        },
+        {
+          "word": " dreaming",
+          "start": 28.18,
+          "end": 29.0,
+          "probability": 0.9363523125648499
+        },
+        {
+          "word": " of",
+          "start": 29.0,
+          "end": 29.2,
+          "probability": 0.9941778182983398
+        },
+        {
+          "word": " that",
+          "start": 29.2,
+          "end": 29.34,
+          "probability": 0.9974701404571533
+        },
+        {
+          "word": " very",
+          "start": 29.34,
+          "end": 29.6,
+          "probability": 0.9944836497306824
+        },
+        {
+          "word": " moment.",
+          "start": 29.6,
+          "end": 29.96,
+          "probability": 0.9996402263641357
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2474,
+      "start": 32.86,
+      "end": 41.46,
+      "text": " We call it the city that never sleeps, but the atmosphere of New York City changes all of the sudden when Ramadan comes.",
+      "tokens": [
+        50765,
+        492,
+        818,
+        309,
+        264,
+        2307,
+        300,
+        1128,
+        37991,
+        11,
+        457,
+        264,
+        8018,
+        295,
+        1873,
+        3609,
+        4392,
+        2962,
+        439,
+        295,
+        264,
+        3990,
+        562,
+        39848,
+        1487,
+        13,
+        51215
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0741339333449738,
+      "compression_ratio": 1.4549763033175356,
+      "no_speech_prob": 2.142320392264918e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 32.86,
+          "end": 33.36,
+          "probability": 0.8910744786262512
+        },
+        {
+          "word": " call",
+          "start": 33.36,
+          "end": 33.64,
+          "probability": 0.9956756234169006
+        },
+        {
+          "word": " it",
+          "start": 33.64,
+          "end": 33.8,
+          "probability": 0.995248019695282
+        },
+        {
+          "word": " the",
+          "start": 33.8,
+          "end": 33.98,
+          "probability": 0.8662941455841064
+        },
+        {
+          "word": " city",
+          "start": 33.98,
+          "end": 34.24,
+          "probability": 0.9506086707115173
+        },
+        {
+          "word": " that",
+          "start": 34.24,
+          "end": 34.46,
+          "probability": 0.9985577464103699
+        },
+        {
+          "word": " never",
+          "start": 34.46,
+          "end": 34.76,
+          "probability": 0.9988061189651489
+        },
+        {
+          "word": " sleeps,",
+          "start": 34.76,
+          "end": 35.34,
+          "probability": 0.9990407824516296
+        },
+        {
+          "word": " but",
+          "start": 35.56,
+          "end": 35.86,
+          "probability": 0.9941561222076416
+        },
+        {
+          "word": " the",
+          "start": 35.86,
+          "end": 36.38,
+          "probability": 0.9893413186073303
+        },
+        {
+          "word": " atmosphere",
+          "start": 36.38,
+          "end": 37.04,
+          "probability": 0.9989914298057556
+        },
+        {
+          "word": " of",
+          "start": 37.04,
+          "end": 37.32,
+          "probability": 0.9972094893455505
+        },
+        {
+          "word": " New",
+          "start": 37.32,
+          "end": 37.48,
+          "probability": 0.9926228523254395
+        },
+        {
+          "word": " York",
+          "start": 37.48,
+          "end": 37.68,
+          "probability": 0.9993901252746582
+        },
+        {
+          "word": " City",
+          "start": 37.68,
+          "end": 37.98,
+          "probability": 0.9757025837898254
+        },
+        {
+          "word": " changes",
+          "start": 37.98,
+          "end": 38.78,
+          "probability": 0.9923402070999146
+        },
+        {
+          "word": " all",
+          "start": 38.78,
+          "end": 39.34,
+          "probability": 0.9693339467048645
+        },
+        {
+          "word": " of",
+          "start": 39.34,
+          "end": 39.48,
+          "probability": 0.9984608888626099
+        },
+        {
+          "word": " the",
+          "start": 39.48,
+          "end": 39.6,
+          "probability": 0.7242011427879333
+        },
+        {
+          "word": " sudden",
+          "start": 39.6,
+          "end": 39.88,
+          "probability": 0.9996887445449829
+        },
+        {
+          "word": " when",
+          "start": 39.88,
+          "end": 40.2,
+          "probability": 0.9851980805397034
+        },
+        {
+          "word": " Ramadan",
+          "start": 40.2,
+          "end": 40.92,
+          "probability": 0.9203176498413086
+        },
+        {
+          "word": " comes.",
+          "start": 40.92,
+          "end": 41.46,
+          "probability": 0.9987736344337463
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2474,
+      "start": 41.72,
+      "end": 44.36,
+      "text": " All I think about is peace and quietness.",
+      "tokens": [
+        51215,
+        1057,
+        286,
+        519,
+        466,
+        307,
+        4336,
+        293,
+        5677,
+        1287,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0741339333449738,
+      "compression_ratio": 1.4549763033175356,
+      "no_speech_prob": 2.142320392264918e-12,
+      "words": [
+        {
+          "word": " All",
+          "start": 41.72,
+          "end": 41.96,
+          "probability": 0.9964025020599365
+        },
+        {
+          "word": " I",
+          "start": 41.96,
+          "end": 42.1,
+          "probability": 0.9986268281936646
+        },
+        {
+          "word": " think",
+          "start": 42.1,
+          "end": 42.3,
+          "probability": 0.9994637370109558
+        },
+        {
+          "word": " about",
+          "start": 42.3,
+          "end": 42.56,
+          "probability": 0.9980767965316772
+        },
+        {
+          "word": " is",
+          "start": 42.56,
+          "end": 42.78,
+          "probability": 0.9964500665664673
+        },
+        {
+          "word": " peace",
+          "start": 42.78,
+          "end": 43.12,
+          "probability": 0.9994999170303345
+        },
+        {
+          "word": " and",
+          "start": 43.12,
+          "end": 43.64,
+          "probability": 0.9542655944824219
+        },
+        {
+          "word": " quietness.",
+          "start": 43.64,
+          "end": 44.36,
+          "probability": 0.9983178079128265
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2474,
+      "start": 44.58,
+      "end": 47.62,
+      "text": " Many ask me what it means to be the first Muslim mayor of our city.",
+      "tokens": [
+        51365,
+        5126,
+        1029,
+        385,
+        437,
+        309,
+        1355,
+        281,
+        312,
+        264,
+        700,
+        8178,
+        10120,
+        295,
+        527,
+        2307,
+        13,
+        51515
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.0741339333449738,
+      "compression_ratio": 1.4549763033175356,
+      "no_speech_prob": 2.142320392264918e-12,
+      "words": [
+        {
+          "word": " Many",
+          "start": 44.58,
+          "end": 45.06,
+          "probability": 0.9874719977378845
+        },
+        {
+          "word": " ask",
+          "start": 45.06,
+          "end": 45.34,
+          "probability": 0.8239001035690308
+        },
+        {
+          "word": " me",
+          "start": 45.34,
+          "end": 45.48,
+          "probability": 0.9994117021560669
+        },
+        {
+          "word": " what",
+          "start": 45.48,
+          "end": 45.6,
+          "probability": 0.9996627569198608
+        },
+        {
+          "word": " it",
+          "start": 45.6,
+          "end": 45.7,
+          "probability": 0.9995427131652832
+        },
+        {
+          "word": " means",
+          "start": 45.7,
+          "end": 45.92,
+          "probability": 0.9995275735855103
+        },
+        {
+          "word": " to",
+          "start": 45.92,
+          "end": 46.1,
+          "probability": 0.9997674822807312
+        },
+        {
+          "word": " be",
+          "start": 46.1,
+          "end": 46.22,
+          "probability": 0.9995207786560059
+        },
+        {
+          "word": " the",
+          "start": 46.22,
+          "end": 46.32,
+          "probability": 0.999447762966156
+        },
+        {
+          "word": " first",
+          "start": 46.32,
+          "end": 46.52,
+          "probability": 0.9978991746902466
+        },
+        {
+          "word": " Muslim",
+          "start": 46.52,
+          "end": 46.9,
+          "probability": 0.9950435161590576
+        },
+        {
+          "word": " mayor",
+          "start": 46.9,
+          "end": 47.12,
+          "probability": 0.9265064597129822
+        },
+        {
+          "word": " of",
+          "start": 47.12,
+          "end": 47.28,
+          "probability": 0.9989759922027588
+        },
+        {
+          "word": " our",
+          "start": 47.28,
+          "end": 47.4,
+          "probability": 0.999448835849762
+        },
+        {
+          "word": " city.",
+          "start": 47.4,
+          "end": 47.62,
+          "probability": 0.999636173248291
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 4762,
+      "start": 47.62,
+      "end": 54.74,
+      "text": " And in that question there is an assumption that I am introducing our faith to the city as a whole.",
+      "tokens": [
+        50365,
+        400,
+        294,
+        300,
+        1168,
+        456,
+        307,
+        364,
+        15302,
+        300,
+        286,
+        669,
+        15424,
+        527,
+        4522,
+        281,
+        264,
+        2307,
+        382,
+        257,
+        1379,
+        13,
+        50715
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07028191619449192,
+      "compression_ratio": 1.5129533678756477,
+      "no_speech_prob": 6.858742306742327e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 47.62,
+          "end": 48.16,
+          "probability": 0.71849125623703
+        },
+        {
+          "word": " in",
+          "start": 48.16,
+          "end": 48.54,
+          "probability": 0.9547670483589172
+        },
+        {
+          "word": " that",
+          "start": 48.54,
+          "end": 48.76,
+          "probability": 0.9968851208686829
+        },
+        {
+          "word": " question",
+          "start": 48.76,
+          "end": 49.16,
+          "probability": 0.9982802867889404
+        },
+        {
+          "word": " there",
+          "start": 49.16,
+          "end": 49.42,
+          "probability": 0.5723747611045837
+        },
+        {
+          "word": " is",
+          "start": 49.42,
+          "end": 49.64,
+          "probability": 0.9582675695419312
+        },
+        {
+          "word": " an",
+          "start": 49.64,
+          "end": 49.8,
+          "probability": 0.9843697547912598
+        },
+        {
+          "word": " assumption",
+          "start": 49.8,
+          "end": 50.36,
+          "probability": 0.9972479939460754
+        },
+        {
+          "word": " that",
+          "start": 50.36,
+          "end": 51.22,
+          "probability": 0.9462599754333496
+        },
+        {
+          "word": " I",
+          "start": 51.22,
+          "end": 51.38,
+          "probability": 0.978065550327301
+        },
+        {
+          "word": " am",
+          "start": 51.38,
+          "end": 51.54,
+          "probability": 0.980608344078064
+        },
+        {
+          "word": " introducing",
+          "start": 51.54,
+          "end": 52.24,
+          "probability": 0.995517909526825
+        },
+        {
+          "word": " our",
+          "start": 52.24,
+          "end": 53.22,
+          "probability": 0.9844622611999512
+        },
+        {
+          "word": " faith",
+          "start": 53.22,
+          "end": 53.58,
+          "probability": 0.9919776916503906
+        },
+        {
+          "word": " to",
+          "start": 53.58,
+          "end": 53.78,
+          "probability": 0.9937487840652466
+        },
+        {
+          "word": " the",
+          "start": 53.78,
+          "end": 53.9,
+          "probability": 0.9818011522293091
+        },
+        {
+          "word": " city",
+          "start": 53.9,
+          "end": 54.14,
+          "probability": 0.9867254495620728
+        },
+        {
+          "word": " as",
+          "start": 54.14,
+          "end": 54.36,
+          "probability": 0.9962271451950073
+        },
+        {
+          "word": " a",
+          "start": 54.36,
+          "end": 54.46,
+          "probability": 0.9980871677398682
+        },
+        {
+          "word": " whole.",
+          "start": 54.46,
+          "end": 54.74,
+          "probability": 0.9995074272155762
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 4762,
+      "start": 55.08,
+      "end": 59.72,
+      "text": " When in reality, our faith has been a part of this city for generations.",
+      "tokens": [
+        50715,
+        1133,
+        294,
+        4103,
+        11,
+        527,
+        4522,
+        575,
+        668,
+        257,
+        644,
+        295,
+        341,
+        2307,
+        337,
+        10593,
+        13,
+        50965
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07028191619449192,
+      "compression_ratio": 1.5129533678756477,
+      "no_speech_prob": 6.858742306742327e-12,
+      "words": [
+        {
+          "word": " When",
+          "start": 55.08,
+          "end": 55.58,
+          "probability": 0.985548198223114
+        },
+        {
+          "word": " in",
+          "start": 55.58,
+          "end": 55.7,
+          "probability": 0.9730846881866455
+        },
+        {
+          "word": " reality,",
+          "start": 55.7,
+          "end": 56.2,
+          "probability": 0.9991353154182434
+        },
+        {
+          "word": " our",
+          "start": 56.58,
+          "end": 57.7,
+          "probability": 0.9854073524475098
+        },
+        {
+          "word": " faith",
+          "start": 57.7,
+          "end": 57.94,
+          "probability": 0.9966309666633606
+        },
+        {
+          "word": " has",
+          "start": 57.94,
+          "end": 58.1,
+          "probability": 0.9915084838867188
+        },
+        {
+          "word": " been",
+          "start": 58.1,
+          "end": 58.2,
+          "probability": 0.9992145299911499
+        },
+        {
+          "word": " a",
+          "start": 58.2,
+          "end": 58.32,
+          "probability": 0.9691159129142761
+        },
+        {
+          "word": " part",
+          "start": 58.32,
+          "end": 58.48,
+          "probability": 0.999407172203064
+        },
+        {
+          "word": " of",
+          "start": 58.48,
+          "end": 58.62,
+          "probability": 0.9993103742599487
+        },
+        {
+          "word": " this",
+          "start": 58.62,
+          "end": 58.78,
+          "probability": 0.9398635029792786
+        },
+        {
+          "word": " city",
+          "start": 58.78,
+          "end": 59.02,
+          "probability": 0.9968401193618774
+        },
+        {
+          "word": " for",
+          "start": 59.02,
+          "end": 59.2,
+          "probability": 0.9989678859710693
+        },
+        {
+          "word": " generations.",
+          "start": 59.2,
+          "end": 59.72,
+          "probability": 0.9986220598220825
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 4762,
+      "start": 60.18,
+      "end": 62.86,
+      "text": " The question of whether it's been seen is another matter entirely.",
+      "tokens": [
+        50965,
+        440,
+        1168,
+        295,
+        1968,
+        309,
+        311,
+        668,
+        1612,
+        307,
+        1071,
+        1871,
+        7696,
+        13,
+        51115
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07028191619449192,
+      "compression_ratio": 1.5129533678756477,
+      "no_speech_prob": 6.858742306742327e-12,
+      "words": [
+        {
+          "word": " The",
+          "start": 60.18,
+          "end": 60.38,
+          "probability": 0.9777154326438904
+        },
+        {
+          "word": " question",
+          "start": 60.38,
+          "end": 60.68,
+          "probability": 0.9980202913284302
+        },
+        {
+          "word": " of",
+          "start": 60.68,
+          "end": 60.82,
+          "probability": 0.9890748858451843
+        },
+        {
+          "word": " whether",
+          "start": 60.82,
+          "end": 61.0,
+          "probability": 0.994046688079834
+        },
+        {
+          "word": " it's",
+          "start": 61.0,
+          "end": 61.22,
+          "probability": 0.9430697858333588
+        },
+        {
+          "word": " been",
+          "start": 61.22,
+          "end": 61.34,
+          "probability": 0.9934743046760559
+        },
+        {
+          "word": " seen",
+          "start": 61.34,
+          "end": 61.62,
+          "probability": 0.998573899269104
+        },
+        {
+          "word": " is",
+          "start": 61.62,
+          "end": 61.8,
+          "probability": 0.962356686592102
+        },
+        {
+          "word": " another",
+          "start": 61.8,
+          "end": 62.06,
+          "probability": 0.9969208240509033
+        },
+        {
+          "word": " matter",
+          "start": 62.06,
+          "end": 62.38,
+          "probability": 0.9993316531181335
+        },
+        {
+          "word": " entirely.",
+          "start": 62.38,
+          "end": 62.86,
+          "probability": 0.9949095845222473
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 4762,
+      "start": 63.22,
+      "end": 67.44,
+      "text": " But Muslims and New York City, they are intertwined.",
+      "tokens": [
+        51115,
+        583,
+        14793,
+        293,
+        1873,
+        3609,
+        4392,
+        11,
+        436,
+        366,
+        44400,
+        2001,
+        13,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.07028191619449192,
+      "compression_ratio": 1.5129533678756477,
+      "no_speech_prob": 6.858742306742327e-12,
+      "words": [
+        {
+          "word": " But",
+          "start": 63.22,
+          "end": 63.62,
+          "probability": 0.9955344200134277
+        },
+        {
+          "word": " Muslims",
+          "start": 63.62,
+          "end": 64.38,
+          "probability": 0.9704797863960266
+        },
+        {
+          "word": " and",
+          "start": 64.38,
+          "end": 64.92,
+          "probability": 0.9329037666320801
+        },
+        {
+          "word": " New",
+          "start": 64.92,
+          "end": 65.12,
+          "probability": 0.9850013256072998
+        },
+        {
+          "word": " York",
+          "start": 65.12,
+          "end": 65.32,
+          "probability": 0.9985983967781067
+        },
+        {
+          "word": " City,",
+          "start": 65.32,
+          "end": 65.66,
+          "probability": 0.977397620677948
+        },
+        {
+          "word": " they",
+          "start": 65.98,
+          "end": 66.66,
+          "probability": 0.9978470802307129
+        },
+        {
+          "word": " are",
+          "start": 66.66,
+          "end": 66.78,
+          "probability": 0.993444561958313
+        },
+        {
+          "word": " intertwined.",
+          "start": 66.78,
+          "end": 67.44,
+          "probability": 0.98719322681427
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 6744,
+      "start": 69.91999999999999,
+      "end": 71.32,
+      "text": " MARCOFORD",
+      "tokens": [
+        50365,
+        6450,
+        12322,
+        37,
+        13748,
+        50874
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.7139892578125,
+      "compression_ratio": 0.5294117647058824,
+      "no_speech_prob": 8.334118985209304e-12,
+      "words": [
+        {
+          "word": " MARCOFORD",
+          "start": 69.91999999999999,
+          "end": 71.32,
+          "probability": 0.011682496387038555
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

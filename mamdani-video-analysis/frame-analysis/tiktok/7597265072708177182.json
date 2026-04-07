@@ -1,0 +1,54 @@
+{
+  "video_id": "7597265072708177182",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [],
+      "setting": "Large ornate indoor civic hall (appears to be Brooklyn Museum or similar Beaux-Arts building) packed with a crowd; live screen/projector visible",
+      "visual_elements": [
+        "Large jubilant crowd in holiday/festive attire",
+        "Moroccan flag (red with green star) visible",
+        "Red hats worn by attendees",
+        "Grand architectural arches and balconies",
+        "Large projection screen showing a soccer/football match",
+        "Stage at front with performers"
+      ],
+      "presentation_style": "Raw event footage, handheld camera, no text overlays, crowd POV"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [],
+      "setting": "Same large Beaux-Arts civic hall interior; staircase and balconies packed with people",
+      "visual_elements": [
+        "Figure in red cape with Moroccan royal emblem standing on stairs with back to camera",
+        "Mamdani visible kneeling to speak with a child",
+        "Dense crowds on all levels",
+        "Red flags and banners",
+        "Intimate moment amid large crowd"
+      ],
+      "presentation_style": "Observational documentary footage, no text overlays, handheld"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [],
+      "setting": "Same civic hall; food service area; crowd celebrating outside/inside",
+      "visual_elements": [
+        "Mamdani at a food/drink table with a woman in festive attire",
+        "Soccer match on large screen",
+        "Green-clad fans (Senegal colors)",
+        "Crowd waving flags and phones",
+        "Festive, celebratory energy"
+      ],
+      "presentation_style": "Observational footage of community celebration, no captions, handheld"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Large ornate civic hall hosting a Morocco/Senegal World Cup watch party or cultural celebration",
+    "text_overlay_types": [],
+    "visual_themes": ["community celebration", "African diaspora", "soccer/football", "cultural pride", "Moroccan and Senegalese flags", "mayor engaging with community"]
+  }
+}

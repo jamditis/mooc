@@ -1,0 +1,440 @@
+{
+  "text": " It's our great honor to welcome the Honorable Mayor-Elect Zoran Mamdani. We all hope and pray for his success and the success of the city of New York, and especially for success in staying a friend with the Jewish community of New York City. We welcome Mayor-Elect Mamdani.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.92,
+      "text": " It's our great honor to welcome the Honorable Mayor-Elect Zoran Mamdani.",
+      "tokens": [
+        50365,
+        467,
+        311,
+        527,
+        869,
+        5968,
+        281,
+        2928,
+        264,
+        6625,
+        15249,
+        13925,
+        12,
+        36,
+        1809,
+        1176,
+        284,
+        282,
+        19899,
+        67,
+        3782,
+        13,
+        50565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1980217742919922,
+      "compression_ratio": 1.5872093023255813,
+      "no_speech_prob": 0.18449562788009644,
+      "words": [
+        {
+          "word": " It's",
+          "start": 0.0,
+          "end": 0.24,
+          "probability": 0.8124445974826813
+        },
+        {
+          "word": " our",
+          "start": 0.24,
+          "end": 0.3,
+          "probability": 0.862053394317627
+        },
+        {
+          "word": " great",
+          "start": 0.3,
+          "end": 0.6,
+          "probability": 0.9977030158042908
+        },
+        {
+          "word": " honor",
+          "start": 0.6,
+          "end": 0.98,
+          "probability": 0.9716109037399292
+        },
+        {
+          "word": " to",
+          "start": 0.98,
+          "end": 1.22,
+          "probability": 0.9933971166610718
+        },
+        {
+          "word": " welcome",
+          "start": 1.22,
+          "end": 1.48,
+          "probability": 0.9949872493743896
+        },
+        {
+          "word": " the",
+          "start": 1.48,
+          "end": 1.72,
+          "probability": 0.9701557755470276
+        },
+        {
+          "word": " Honorable",
+          "start": 1.72,
+          "end": 2.1,
+          "probability": 0.6994622200727463
+        },
+        {
+          "word": " Mayor",
+          "start": 2.1,
+          "end": 2.48,
+          "probability": 0.9317787885665894
+        },
+        {
+          "word": "-Elect",
+          "start": 2.48,
+          "end": 2.9,
+          "probability": 0.8398192922274271
+        },
+        {
+          "word": " Zoran",
+          "start": 2.9,
+          "end": 3.4,
+          "probability": 0.8968196511268616
+        },
+        {
+          "word": " Mamdani.",
+          "start": 3.4,
+          "end": 3.92,
+          "probability": 0.9531646569569906
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.060000000000001,
+      "end": 11.72,
+      "text": " We all hope and pray for his success and the success of the city of New York,",
+      "tokens": [
+        50727,
+        492,
+        439,
+        1454,
+        293,
+        3690,
+        337,
+        702,
+        2245,
+        293,
+        264,
+        2245,
+        295,
+        264,
+        2307,
+        295,
+        1873,
+        3609,
+        11,
+        50955
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1980217742919922,
+      "compression_ratio": 1.5872093023255813,
+      "no_speech_prob": 0.18449562788009644,
+      "words": [
+        {
+          "word": " We",
+          "start": 7.060000000000001,
+          "end": 7.64,
+          "probability": 0.980600893497467
+        },
+        {
+          "word": " all",
+          "start": 7.64,
+          "end": 7.84,
+          "probability": 0.9857277274131775
+        },
+        {
+          "word": " hope",
+          "start": 7.84,
+          "end": 8.14,
+          "probability": 0.9964424967765808
+        },
+        {
+          "word": " and",
+          "start": 8.14,
+          "end": 8.24,
+          "probability": 0.9679394960403442
+        },
+        {
+          "word": " pray",
+          "start": 8.24,
+          "end": 8.5,
+          "probability": 0.9978169202804565
+        },
+        {
+          "word": " for",
+          "start": 8.5,
+          "end": 8.78,
+          "probability": 0.9972496628761292
+        },
+        {
+          "word": " his",
+          "start": 8.78,
+          "end": 8.96,
+          "probability": 0.9855579733848572
+        },
+        {
+          "word": " success",
+          "start": 8.96,
+          "end": 9.4,
+          "probability": 0.9975849390029907
+        },
+        {
+          "word": " and",
+          "start": 9.4,
+          "end": 10.04,
+          "probability": 0.7677773833274841
+        },
+        {
+          "word": " the",
+          "start": 10.04,
+          "end": 10.22,
+          "probability": 0.9842211008071899
+        },
+        {
+          "word": " success",
+          "start": 10.22,
+          "end": 10.52,
+          "probability": 0.9983140230178833
+        },
+        {
+          "word": " of",
+          "start": 10.52,
+          "end": 10.84,
+          "probability": 0.9930818676948547
+        },
+        {
+          "word": " the",
+          "start": 10.84,
+          "end": 10.96,
+          "probability": 0.9858653545379639
+        },
+        {
+          "word": " city",
+          "start": 10.96,
+          "end": 11.16,
+          "probability": 0.41224780678749084
+        },
+        {
+          "word": " of",
+          "start": 11.16,
+          "end": 11.3,
+          "probability": 0.9980231523513794
+        },
+        {
+          "word": " New",
+          "start": 11.3,
+          "end": 11.42,
+          "probability": 0.9954231381416321
+        },
+        {
+          "word": " York,",
+          "start": 11.42,
+          "end": 11.72,
+          "probability": 0.9986327290534973
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 11.8,
+      "end": 16.18,
+      "text": " and especially for success in staying a friend with the Jewish community of New York City.",
+      "tokens": [
+        50959,
+        293,
+        2318,
+        337,
+        2245,
+        294,
+        7939,
+        257,
+        1277,
+        365,
+        264,
+        9246,
+        1768,
+        295,
+        1873,
+        3609,
+        4392,
+        13,
+        51184
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1980217742919922,
+      "compression_ratio": 1.5872093023255813,
+      "no_speech_prob": 0.18449562788009644,
+      "words": [
+        {
+          "word": " and",
+          "start": 11.8,
+          "end": 11.9,
+          "probability": 0.9719966650009155
+        },
+        {
+          "word": " especially",
+          "start": 11.9,
+          "end": 12.22,
+          "probability": 0.9863185882568359
+        },
+        {
+          "word": " for",
+          "start": 12.22,
+          "end": 13.02,
+          "probability": 0.8772416114807129
+        },
+        {
+          "word": " success",
+          "start": 13.02,
+          "end": 13.4,
+          "probability": 0.970550537109375
+        },
+        {
+          "word": " in",
+          "start": 13.4,
+          "end": 13.78,
+          "probability": 0.7759209871292114
+        },
+        {
+          "word": " staying",
+          "start": 13.78,
+          "end": 14.08,
+          "probability": 0.9922603964805603
+        },
+        {
+          "word": " a",
+          "start": 14.08,
+          "end": 14.24,
+          "probability": 0.9749472737312317
+        },
+        {
+          "word": " friend",
+          "start": 14.24,
+          "end": 14.54,
+          "probability": 0.9953733086585999
+        },
+        {
+          "word": " with",
+          "start": 14.54,
+          "end": 14.72,
+          "probability": 0.8502075672149658
+        },
+        {
+          "word": " the",
+          "start": 14.72,
+          "end": 14.82,
+          "probability": 0.9904762506484985
+        },
+        {
+          "word": " Jewish",
+          "start": 14.82,
+          "end": 15.02,
+          "probability": 0.9975516200065613
+        },
+        {
+          "word": " community",
+          "start": 15.02,
+          "end": 15.42,
+          "probability": 0.9668370485305786
+        },
+        {
+          "word": " of",
+          "start": 15.42,
+          "end": 15.7,
+          "probability": 0.9932699799537659
+        },
+        {
+          "word": " New",
+          "start": 15.7,
+          "end": 15.78,
+          "probability": 0.97854083776474
+        },
+        {
+          "word": " York",
+          "start": 15.78,
+          "end": 16.0,
+          "probability": 0.9990795850753784
+        },
+        {
+          "word": " City.",
+          "start": 16.0,
+          "end": 16.18,
+          "probability": 0.9891052842140198
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 16.52,
+      "end": 19.02,
+      "text": " We welcome Mayor-Elect Mamdani.",
+      "tokens": [
+        51208,
+        492,
+        2928,
+        13925,
+        12,
+        36,
+        1809,
+        19899,
+        67,
+        3782,
+        13,
+        51323
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1980217742919922,
+      "compression_ratio": 1.5872093023255813,
+      "no_speech_prob": 0.18449562788009644,
+      "words": [
+        {
+          "word": " We",
+          "start": 16.52,
+          "end": 17.02,
+          "probability": 0.9954364895820618
+        },
+        {
+          "word": " welcome",
+          "start": 17.02,
+          "end": 17.38,
+          "probability": 0.9948699474334717
+        },
+        {
+          "word": " Mayor",
+          "start": 17.38,
+          "end": 17.96,
+          "probability": 0.8910096287727356
+        },
+        {
+          "word": "-Elect",
+          "start": 17.96,
+          "end": 18.5,
+          "probability": 0.9848178625106812
+        },
+        {
+          "word": " Mamdani.",
+          "start": 18.5,
+          "end": 19.02,
+          "probability": 0.9541616638501486
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

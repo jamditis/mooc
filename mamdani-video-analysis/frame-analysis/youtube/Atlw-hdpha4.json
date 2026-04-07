@@ -1,0 +1,92 @@
+{
+  "video_id": "Atlw-hdpha4",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "New York City.",
+        "It is the leading city",
+        "not in the height",
+        "to its people.",
+        "It is a privilege",
+        "of a community",
+        "It was the spirit of",
+        "And they dared to believe",
+        "must prevail over",
+        "Fiorello La Guardia",
+        "Robert F. Wagner"
+      ],
+      "setting": "Black-and-white archival footage of mid-20th century New York City; iconic skyline shots, crowds of people, political rallies, street scenes, and speeches",
+      "visual_elements": [
+        "Black-and-white archival film grain",
+        "Historical NYC skyline",
+        "Archival footage of Fiorello La Guardia and Robert F. Wagner (labeled with name chyrons)",
+        "Crowds and civic gatherings",
+        "White subtitle captions overlaid on archival footage",
+        "Dramatic civic imagery: marches, parades, storefronts"
+      ],
+      "presentation_style": "Historical montage with narration captions; invokes legacy of past NYC mayors to frame current political moment; cinematic and inspirational tone"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "demands hope.",
+        "demands solidarity.",
+        "if this campaign.",
+        "has demonstrated anything,",
+        "can become reality.",
+        "ZOHRAN MAMDANI (visible on campaign button/sign)"
+      ],
+      "setting": "Color campaign footage: outdoor street events, rallies, and crowd scenes; candidate greeting supporters; campaign signs visible; urban NYC settings at night and day",
+      "visual_elements": [
+        "Campaign rally crowd scenes",
+        "Candidate greeting and hugging supporters",
+        "Campaign buttons and signs with candidate's name",
+        "Diverse crowd of supporters",
+        "Nighttime rally lighting",
+        "White subtitle captions",
+        "An RSVP graphic card for the inauguration visible in one frame ('Join us January 1st, 2026 for the Inauguration of a New Era')"
+      ],
+      "presentation_style": "Inspirational campaign narrative shifting from archival history to present-day movement energy; rallies shown as civic continuation of historical legacy"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-end",
+      "on_screen_text": [
+        "N.Y.C. INAUGURATION 2026",
+        "Join us January 1st, 2026 for the Inauguration of a New Era.",
+        "RSVP at the link in bio.",
+        "This is not my victory.",
+        "N.Y.C. INAUGURATION 2026"
+      ],
+      "setting": "Outdoor shot of City Hall Plaza (visible behind the RSVP graphic); final frames show a designed seal/badge graphic on cream and white backgrounds",
+      "visual_elements": [
+        "NYC Inauguration 2026 badge: apple shape with 'N.Y.C. INAUGURATION 2026' in red and navy blue with gold border",
+        "City Hall building visible in background",
+        "White subtitle caption: 'This is not my victory.'",
+        "RSVP event card design with italic text",
+        "Clean, designed badge displayed prominently at end"
+      ],
+      "presentation_style": "Closes with a designed inauguration promotional graphic; combines personal humility statement with civic branding for a public event"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Archival black-and-white NYC footage transitioning to campaign rally scenes and City Hall exterior",
+    "text_overlay_types": [
+      "White subtitle captions",
+      "Historical name chyrons (La Guardia, Wagner)",
+      "RSVP event card (inauguration)",
+      "NYC Inauguration 2026 badge/seal graphic"
+    ],
+    "visual_themes": [
+      "Historical continuity with past NYC mayors",
+      "Civic legacy and democratic tradition",
+      "Campaign rally energy and crowd support",
+      "Inauguration branding and promotion",
+      "Archival-to-present visual narrative arc"
+    ]
+  }
+}

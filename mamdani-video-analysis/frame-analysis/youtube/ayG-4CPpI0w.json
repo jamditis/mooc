@@ -1,0 +1,88 @@
+{
+  "video_id": "ayG-4CPpI0w",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "The holidays are about being away from work or school.",
+        "from work or school.",
+        "childcare continues all the same.",
+        "Here's the reality for a family in New York.",
+        "$390,000 a year.",
+        "...and that's just for a single toddler.",
+        "After rent, it's the biggest cost burden.",
+        "there, they've...",
+        "In 2022, it cost $23 billion..."
+      ],
+      "setting": "Mix of an office or policy meeting room (white walls, natural light, candidate in suit at a table with papers and toys) and direct-to-camera interview setup with a dark teal curtain background",
+      "visual_elements": [
+        "Candidate in dark suit with mustache picking up colorful toy blocks",
+        "Policy-style infographic delivery (candidate speaking to camera)",
+        "Children playing with blocks nearby",
+        "White subtitle captions throughout",
+        "Office room with papers and coffee cups",
+        "Second presenter/speaker in suit (dark-skinned man with glasses) also appearing in some frames"
+      ],
+      "presentation_style": "Policy explainer video format; direct-to-camera delivery with subtitle captions; combines observational shots (candidate with children) with talking-head segments; factual and persuasive tone"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "The focus: universal, no-cost childcare",
+        "for every family.",
+        "and direct to the universal childcare...",
+        "But it only works if we build it right.",
+        "families and childcare workers.",
+        "Because with universal childcare,",
+        "More babies born in New York City,",
+        "more kids raised as New Yorkers,",
+        "they deserve."
+      ],
+      "setting": "Childcare center or school classroom; candidate interacting with children at tables with toys and educational materials; bright, colorful interior; second speaker also present; dark teal curtain background for talking-head segments",
+      "visual_elements": [
+        "Candidate in suit playing with blocks at children's height",
+        "Children in school uniforms",
+        "Classroom decor (signs, shelves with materials visible)",
+        "Two speakers alternating in talking-head format",
+        "White subtitle text",
+        "Colorful educational environment"
+      ],
+      "presentation_style": "Policy campaign video combining site visits with direct-to-camera narration; clear call-to-action structure; subtitle-heavy"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "0:27-end",
+      "on_screen_text": [
+        "Happy holidays,",
+        "A NEW ERA for NEW YORK CITY",
+        "A NEW ERA for NEW YORK CITY"
+      ],
+      "setting": "Final frames: candidate in suit on dark teal curtain background; campaign outro cards on black background",
+      "visual_elements": [
+        "Candidate smiling directly at camera against dark teal curtain",
+        "Campaign branding: 'A NEW ERA for NEW YORK CITY' in red, white, and blue block lettering with script 'for'",
+        "Dark/black background for brand card",
+        "Warm, personal closing tone"
+      ],
+      "presentation_style": "Policy video ending with campaign branding; holiday greeting integrates personal warmth with political brand"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Office meeting room and childcare classroom, with direct-to-camera talking-head setup (dark teal curtain)",
+    "text_overlay_types": [
+      "White subtitle captions (speech transcription)",
+      "Policy statistics as spoken text",
+      "Campaign slogan outro card ('A NEW ERA for NEW YORK CITY')"
+    ],
+    "visual_themes": [
+      "Universal childcare policy platform",
+      "Candidate with children in educational settings",
+      "Dual-speaker explainer format",
+      "Subtitle-heavy policy communication",
+      "Campaign branding on closing card"
+    ]
+  }
+}

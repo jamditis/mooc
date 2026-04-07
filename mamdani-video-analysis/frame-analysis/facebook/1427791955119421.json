@@ -1,0 +1,55 @@
+{
+  "video_id": "1427791955119421",
+  "platform": "facebook",
+  "title": "Government must deliver for working people",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "in the responsibility of government",
+        "I also believe it's our responsibility",
+        "to deliver a government that's efficient.",
+        "with every single dollar being put to the best possible use.",
+        "That's why two months ago, I asked agencies across city government",
+        "to find $1.7 billion in savings, without compromising essential services.",
+        "Even just by capping how much we spend on paper, pens and office supplies,"
+      ],
+      "setting": "Two settings: speaker seated in a dark leather chair in an office-style background (bookshelf visible), and speaker standing in a room with visible bookshelves and architectural detail",
+      "visual_elements": ["dark leather chair", "bookshelf background", "dark suit with light tie", "white subtitle captions", "vertical video format", "second setting with ornate room and bookshelves"],
+      "presentation_style": "Direct-to-camera talking head; two environments suggesting office and a more formal room; white subtitle captions"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "approximately 0:18-0:27",
+      "on_screen_text": [
+        "A contract with agencies at the Department of Social Services?",
+        "No more.",
+        "That's $9 million that we won't be spending next year.",
+        "The City rents lots of property it doesn't actually need.",
+        "So we're going to shrink our physical footprint",
+        "and save millions on leases.",
+        "And we want to make sure that the programs we're delivering to New Yorkers",
+        "So we're going to strengthen verification to ensure that homeowners"
+      ],
+      "setting": "Ornate government office or room with bookshelves and period-style decor; speaker at desk and standing; prop money visible in one frame",
+      "visual_elements": ["ornate room with bookshelves", "prop paper money (as visual joke/metaphor)", "dark suit with light tie", "desk and chair", "white subtitle captions"],
+      "presentation_style": "Continuation of direct-to-camera explainer with theatrical prop use (holding up money as metaphor for savings)"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "approximately 0:36-0:45",
+      "on_screen_text": [
+        "you have to first deliver public excellence."
+      ],
+      "setting": "Final frames: speaker talking to camera in ornate room, then cut to close-up of NYC official seal being held/displayed on a decorative object (appears to be a seal on leather or fabric)",
+      "visual_elements": ["NYC official seal close-up (on a raised/ornate surface)", "speaker in ornate room", "white subtitle captions"],
+      "presentation_style": "Closing segment; ends with a close-up of the NYC official seal as visual punctuation"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Ornate government office / formal room with bookshelves; also plain office setting",
+    "text_overlay_types": ["white subtitle captions throughout"],
+    "visual_themes": ["government efficiency / savings messaging", "budget accountability", "theatrical prop use (money)", "direct civic address", "NYC seal closing motif"]
+  }
+}

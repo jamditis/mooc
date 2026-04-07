@@ -1,0 +1,1752 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mamdani video analysis</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect x='10' y='60' width='15' height='30' fill='%23d4a853'/><rect x='30' y='40' width='15' height='50' fill='%23d4a853' opacity='.8'/><rect x='50' y='20' width='15' height='70' fill='%23d4a853' opacity='.6'/><rect x='70' y='10' width='15' height='80' fill='%23d4a853' opacity='.9'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&family=Newsreader:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+/* ========================================
+   CSS VARIABLES
+   ======================================== */
+:root {
+  --bg-primary: #0f1118;
+  --bg-card: #181b25;
+  --bg-card-hover: #1e2230;
+  --bg-elevated: #252836;
+  --text-primary: #e8e6e3;
+  --text-secondary: #8b8d94;
+  --text-dim: #55575e;
+  --accent-gold: #d4a853;
+  --accent-gold-dim: #d4a85333;
+  --accent-gold-bright: #e8c06a;
+  --border-subtle: #2a2d38;
+  --platform-twitter: #1da1f2;
+  --platform-tiktok: #fe2c55;
+  --platform-youtube: #ff0000;
+  --platform-instagram: #e1306c;
+  --platform-facebook: #1877f2;
+  --sentiment-positive: #4ade80;
+  --sentiment-negative: #f87171;
+  --sentiment-urgent: #fbbf24;
+  --font-headline: 'Newsreader', Georgia, serif;
+  --font-body: 'Instrument Sans', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+}
+
+/* ========================================
+   RESET AND BASE
+   ======================================== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+/* ========================================
+   LAYOUT
+   ======================================== */
+.section {
+  width: 100%;
+  padding: 70px 5%;
+}
+
+.section-inner {
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.section-header {
+  margin-bottom: 40px;
+  opacity: 0;
+  transform: translateY(24px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+.section-header.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.section-title {
+  font-family: var(--font-headline);
+  font-size: 2rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-bottom: 8px;
+}
+
+.section-subtitle {
+  font-size: 0.95rem;
+  color: var(--text-secondary);
+}
+
+.gold-rule {
+  width: 60px;
+  height: 2px;
+  background: var(--accent-gold);
+  margin-top: 16px;
+  border: none;
+}
+
+/* ========================================
+   HERO
+   ======================================== */
+#hero {
+  padding: 100px 5% 70px;
+  position: relative;
+  overflow: hidden;
+}
+
+#hero::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(ellipse 80% 60% at 20% 40%, #d4a85310 0%, transparent 70%),
+    radial-gradient(ellipse 60% 50% at 80% 60%, #1da1f208 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.hero-content {
+  max-width: 90%;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+.hero-title {
+  font-family: var(--font-headline);
+  font-style: italic;
+  font-size: clamp(2.8rem, 6vw, 5rem);
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+  letter-spacing: -0.02em;
+}
+
+.hero-title .gold {
+  color: var(--accent-gold);
+}
+
+.hero-scope {
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin-bottom: 48px;
+  max-width: 640px;
+}
+
+.hero-scope .date-range {
+  color: var(--accent-gold);
+  font-weight: 500;
+}
+
+.stat-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.stat-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 28px 24px;
+  position: relative;
+  overflow: hidden;
+}
+
+.stat-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--accent-gold);
+  opacity: 0.5;
+}
+
+.stat-number {
+  font-family: var(--font-mono);
+  font-size: clamp(2.4rem, 4vw, 3.2rem);
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1.1;
+  margin-bottom: 4px;
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 500;
+}
+
+/* ========================================
+   PLATFORM FILTER BUTTONS (shared)
+   ======================================== */
+.platform-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.platform-btn {
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 8px 16px;
+  border-radius: 6px;
+  border: 1px solid var(--border-subtle);
+  background: var(--bg-card);
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.platform-btn:hover {
+  background: var(--bg-card-hover);
+  color: var(--text-primary);
+}
+
+.platform-btn.active {
+  color: #fff;
+  border-color: transparent;
+}
+
+.platform-btn.active[data-platform="all"] { background: var(--accent-gold); color: #0f1118; }
+.platform-btn.active[data-platform="twitter"] { background: var(--platform-twitter); }
+.platform-btn.active[data-platform="tiktok"] { background: var(--platform-tiktok); }
+.platform-btn.active[data-platform="youtube"] { background: var(--platform-youtube); }
+.platform-btn.active[data-platform="instagram"] { background: var(--platform-instagram); }
+.platform-btn.active[data-platform="facebook"] { background: var(--platform-facebook); }
+
+.platform-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.platform-dot.twitter { background: var(--platform-twitter); }
+.platform-dot.tiktok { background: var(--platform-tiktok); }
+.platform-dot.youtube { background: var(--platform-youtube); }
+.platform-dot.instagram { background: var(--platform-instagram); }
+.platform-dot.facebook { background: var(--platform-facebook); }
+
+/* ========================================
+   VIDEO GRID
+   ======================================== */
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.video-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 20px;
+  border-left: 3px solid var(--border-subtle);
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+.video-card:hover {
+  background: var(--bg-card-hover);
+  transform: translateY(-2px);
+}
+
+.video-card.twitter { border-left-color: var(--platform-twitter); }
+.video-card.tiktok { border-left-color: var(--platform-tiktok); }
+.video-card.youtube { border-left-color: var(--platform-youtube); }
+.video-card.instagram { border-left-color: var(--platform-instagram); }
+.video-card.facebook { border-left-color: var(--platform-facebook); }
+
+.video-card-title {
+  font-family: var(--font-headline);
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  margin-bottom: 10px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.video-card-meta {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.video-card-platform {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-weight: 500;
+  text-transform: capitalize;
+}
+
+.video-card-duration {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+}
+
+.video-card .transcript-preview {
+  display: none;
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid var(--border-subtle);
+}
+
+.video-card.expanded .transcript-preview {
+  display: block;
+}
+
+.transcript-preview-text {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+  max-height: 300px;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  font-family: var(--font-body);
+}
+
+.transcript-preview-text::-webkit-scrollbar {
+  width: 4px;
+}
+
+.transcript-preview-text::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.transcript-preview-text::-webkit-scrollbar-thumb {
+  background: var(--border-subtle);
+  border-radius: 2px;
+}
+
+.transcript-loading {
+  color: var(--text-dim);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+.video-card-hidden {
+  display: none;
+}
+
+/* ========================================
+   TRANSCRIPT SEARCH
+   ======================================== */
+#search { background: var(--bg-card); }
+
+.search-input-wrap {
+  position: relative;
+  margin-bottom: 32px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 16px 20px 16px 48px;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: var(--text-primary);
+  background: var(--bg-primary);
+  border: 2px solid var(--border-subtle);
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s ease;
+}
+
+.search-input::placeholder {
+  color: var(--text-dim);
+}
+
+.search-input:focus {
+  border-color: var(--accent-gold);
+}
+
+.search-icon {
+  position: absolute;
+  left: 16px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-dim);
+  pointer-events: none;
+}
+
+.search-results {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.search-result-card {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.search-result-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+  font-size: 0.85rem;
+}
+
+.search-result-title {
+  font-family: var(--font-headline);
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.search-result-excerpt {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  line-height: 1.7;
+}
+
+.search-highlight {
+  background: var(--accent-gold-dim);
+  color: var(--accent-gold-bright);
+  padding: 1px 3px;
+  border-radius: 2px;
+}
+
+.search-status {
+  color: var(--text-dim);
+  font-size: 0.9rem;
+  text-align: center;
+  padding: 20px;
+}
+
+/* ========================================
+   CHARTS
+   ======================================== */
+.chart-container {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 32px;
+  position: relative;
+}
+
+.chart-wrap {
+  position: relative;
+  max-height: 500px;
+}
+
+/* ========================================
+   TOPIC PILLS
+   ======================================== */
+.topic-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 24px;
+}
+
+.topic-pill {
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border-radius: 100px;
+  border: 1px solid var(--accent-gold-dim);
+  background: transparent;
+  color: var(--accent-gold);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.topic-pill:hover,
+.topic-pill.active {
+  background: var(--accent-gold);
+  color: #0f1118;
+  border-color: var(--accent-gold);
+}
+
+/* ========================================
+   SENTIMENT
+   ======================================== */
+.sentiment-grid {
+  display: grid;
+  grid-template-columns: 300px 1fr;
+  gap: 32px;
+  align-items: start;
+}
+
+.sentiment-doughnut-wrap {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.sentiment-bars-wrap {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 32px;
+}
+
+.sentiment-bars-title {
+  font-family: var(--font-headline);
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: var(--text-primary);
+}
+
+.sentiment-platform-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.sentiment-platform-label {
+  width: 80px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-transform: capitalize;
+  flex-shrink: 0;
+}
+
+.sentiment-stacked-bar {
+  flex: 1;
+  height: 24px;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  background: var(--bg-primary);
+}
+
+.sentiment-bar-segment {
+  height: 100%;
+  transition: width 0.4s ease;
+}
+
+.sentiment-bar-segment.positive { background: var(--sentiment-positive); }
+.sentiment-bar-segment.negative { background: var(--sentiment-negative); }
+.sentiment-bar-segment.urgent { background: var(--sentiment-urgent); }
+
+/* ========================================
+   CROSS-PLATFORM
+   ======================================== */
+.cross-platform-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.cross-platform-panel {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.cross-platform-header {
+  padding: 16px 20px;
+  font-family: var(--font-headline);
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #fff;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cross-platform-header.twitter { background: var(--platform-twitter); }
+.cross-platform-header.tiktok { background: var(--platform-tiktok); }
+.cross-platform-header.youtube { background: var(--platform-youtube); }
+.cross-platform-header.instagram { background: var(--platform-instagram); }
+.cross-platform-header.facebook { background: var(--platform-facebook); }
+
+.cross-platform-body {
+  padding: 20px;
+}
+
+.cross-platform-stat {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.cross-platform-stat:last-of-type {
+  border-bottom: none;
+}
+
+.cross-platform-stat-label {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.cross-platform-stat-value {
+  font-family: var(--font-mono);
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.cross-platform-words-title {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-top: 16px;
+  margin-bottom: 8px;
+}
+
+.cross-platform-word-list {
+  list-style: none;
+}
+
+.cross-platform-word-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 4px 0;
+  font-size: 0.85rem;
+}
+
+.cross-platform-word-item .word {
+  color: var(--text-primary);
+}
+
+.cross-platform-word-item .count {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-dim);
+}
+
+/* ========================================
+   DATA UNAVAILABLE
+   ======================================== */
+.data-unavailable {
+  background: var(--bg-card);
+  border: 1px solid var(--border-subtle);
+  border-radius: 8px;
+  padding: 48px 32px;
+  text-align: center;
+  color: var(--text-dim);
+  font-size: 0.95rem;
+}
+
+/* ========================================
+   NAV
+   ======================================== */
+.nav-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background: rgba(15, 17, 24, 0.85);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border-subtle);
+  padding: 0 5%;
+  display: flex;
+  align-items: center;
+  height: 56px;
+  transition: transform 0.3s ease;
+}
+
+.nav-bar.hidden {
+  transform: translateY(-100%);
+}
+
+.nav-brand {
+  font-family: var(--font-headline);
+  font-style: italic;
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--accent-gold);
+  margin-right: auto;
+  white-space: nowrap;
+}
+
+.nav-links {
+  display: flex;
+  gap: 24px;
+}
+
+.nav-link {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: var(--text-primary);
+}
+
+/* ========================================
+   RESPONSIVE
+   ======================================== */
+@media (max-width: 1024px) {
+  .video-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .sentiment-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .section { padding: 48px 4%; }
+  #hero { padding: 80px 4% 48px; }
+  .section-inner { max-width: 100%; }
+  .hero-content { max-width: 100%; }
+  .video-grid {
+    grid-template-columns: 1fr;
+  }
+  .nav-links { display: none; }
+  .stat-cards {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .cross-platform-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+</head>
+<body>
+
+<!-- ========================================
+     NAV BAR
+     ======================================== -->
+<nav class="nav-bar" id="navBar">
+  <span class="nav-brand">Mamdani video analysis</span>
+  <div class="nav-links">
+    <a href="#videos" class="nav-link">Videos</a>
+    <a href="#search" class="nav-link">Search</a>
+    <a href="#topics" class="nav-link">Topics</a>
+    <a href="#sentiment" class="nav-link">Sentiment</a>
+    <a href="#cross-platform" class="nav-link">Platforms</a>
+  </div>
+</nav>
+
+<!-- ========================================
+     HERO
+     ======================================== -->
+<section id="hero" class="section">
+  <div class="hero-content">
+    <h1 class="hero-title">Mamdani <span class="gold">video</span> analysis</h1>
+    <p class="hero-scope">
+      An analysis of video content published by NYC Mayor Zohran Mamdani across five social platforms.
+      <span class="date-range" id="heroDateRange">Loading...</span>
+    </p>
+    <div class="stat-cards" id="heroStats">
+      <div class="stat-card">
+        <div class="stat-number" id="statVideos">--</div>
+        <div class="stat-label">Videos</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="statPlatforms">--</div>
+        <div class="stat-label">Platforms</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="statMinutes">--</div>
+        <div class="stat-label">Minutes</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number" id="statWords">--</div>
+        <div class="stat-label">Words transcribed</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========================================
+     VIDEO GRID
+     ======================================== -->
+<section id="videos" class="section">
+  <div class="section-inner">
+    <div class="section-header">
+      <h2 class="section-title">Video catalog</h2>
+      <p class="section-subtitle">Browse all collected videos. Click to expand and read the transcript.</p>
+      <hr class="gold-rule">
+    </div>
+    <div class="platform-filters" id="videoFilters"></div>
+    <div class="video-grid" id="videoGrid"></div>
+  </div>
+</section>
+
+<!-- ========================================
+     TRANSCRIPT SEARCH
+     ======================================== -->
+<section id="search" class="section">
+  <div class="section-inner">
+    <div class="section-header">
+      <h2 class="section-title">Transcript search</h2>
+      <p class="section-subtitle">Search across all transcribed video content.</p>
+      <hr class="gold-rule">
+    </div>
+    <div class="search-input-wrap">
+      <svg class="search-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <circle cx="11" cy="11" r="8"/>
+        <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+      </svg>
+      <input type="text" class="search-input" id="searchInput" placeholder="Search transcripts..." autocomplete="off">
+    </div>
+    <div id="searchResults"></div>
+  </div>
+</section>
+
+<!-- ========================================
+     TOPIC ANALYSIS
+     ======================================== -->
+<section id="topics" class="section">
+  <div class="section-inner">
+    <div class="section-header">
+      <h2 class="section-title">Topic analysis</h2>
+      <p class="section-subtitle">Frequency of topics across all analyzed videos.</p>
+      <hr class="gold-rule">
+    </div>
+    <div id="topicsContent"></div>
+  </div>
+</section>
+
+<!-- ========================================
+     SENTIMENT
+     ======================================== -->
+<section id="sentiment" class="section">
+  <div class="section-inner">
+    <div class="section-header">
+      <h2 class="section-title">Sentiment distribution</h2>
+      <p class="section-subtitle">Positive, negative, and urgent tone across video content.</p>
+      <hr class="gold-rule">
+    </div>
+    <div id="sentimentContent"></div>
+  </div>
+</section>
+
+<!-- ========================================
+     CROSS-PLATFORM COMPARISON
+     ======================================== -->
+<section id="cross-platform" class="section">
+  <div class="section-inner">
+    <div class="section-header">
+      <h2 class="section-title">Cross-platform comparison</h2>
+      <p class="section-subtitle">Side-by-side metrics for each platform.</p>
+      <hr class="gold-rule">
+    </div>
+    <div id="crossPlatformContent"></div>
+  </div>
+</section>
+
+<script>
+/* ========================================
+   STATE
+   ======================================== */
+const STATE = {
+  metadata: null,
+  topics: null,
+  sentiment: null,
+  crossPlatform: null,
+  summary: null,
+  transcripts: {},
+  activePlatform: 'all',
+  activeTopic: null,
+  charts: {},
+};
+
+const DATA_PATHS = {
+  metadata: '../metadata.json',
+  topics: '../analysis/topics.json',
+  sentiment: '../analysis/sentiment.json',
+  crossPlatform: '../analysis/cross-platform.json',
+  summary: '../analysis/summary.json',
+};
+
+const PLATFORMS = ['twitter', 'tiktok', 'youtube', 'instagram', 'facebook'];
+
+/* ========================================
+   UTILITIES
+   ======================================== */
+async function loadJSON(path) {
+  try {
+    const res = await fetch(path);
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    return await res.json();
+  } catch {
+    return null;
+  }
+}
+
+function formatDuration(seconds) {
+  if (!seconds && seconds !== 0) return '--';
+  const s = Math.round(seconds);
+  if (s < 60) return s + 's';
+  const m = Math.floor(s / 60);
+  const rem = s % 60;
+  if (m < 60) return m + 'm ' + rem + 's';
+  const h = Math.floor(m / 60);
+  return h + 'h ' + (m % 60) + 'm';
+}
+
+function formatNumber(n) {
+  if (n == null) return '--';
+  return n.toLocaleString('en-US');
+}
+
+function truncate(str, len) {
+  if (!str) return '';
+  return str.length > len ? str.slice(0, len) + '...' : str;
+}
+
+function escapeHTML(str) {
+  const d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+function debounce(fn, ms) {
+  let timer;
+  return function() {
+    const args = arguments;
+    clearTimeout(timer);
+    timer = setTimeout(function() { fn.apply(null, args); }, ms);
+  };
+}
+
+function createUnavailable(message) {
+  const div = document.createElement('div');
+  div.className = 'data-unavailable';
+  div.textContent = message;
+  return div;
+}
+
+/* ========================================
+   DOM HELPERS - safe element creation
+   ======================================== */
+function el(tag, attrs, children) {
+  const node = document.createElement(tag);
+  if (attrs) {
+    for (const [k, v] of Object.entries(attrs)) {
+      if (k === 'className') node.className = v;
+      else if (k === 'textContent') node.textContent = v;
+      else if (k.startsWith('data-')) node.setAttribute(k, v);
+      else if (k === 'style' && typeof v === 'object') Object.assign(node.style, v);
+      else if (k === 'style' && typeof v === 'string') node.setAttribute('style', v);
+      else node.setAttribute(k, v);
+    }
+  }
+  if (children) {
+    if (!Array.isArray(children)) children = [children];
+    for (const c of children) {
+      if (typeof c === 'string') node.appendChild(document.createTextNode(c));
+      else if (c) node.appendChild(c);
+    }
+  }
+  return node;
+}
+
+/* ========================================
+   DATA LOADING
+   ======================================== */
+async function loadAllData() {
+  const [metadata, topics, sentiment, crossPlatform, summary] = await Promise.all([
+    loadJSON(DATA_PATHS.metadata),
+    loadJSON(DATA_PATHS.topics),
+    loadJSON(DATA_PATHS.sentiment),
+    loadJSON(DATA_PATHS.crossPlatform),
+    loadJSON(DATA_PATHS.summary),
+  ]);
+
+  STATE.metadata = metadata;
+  /* Normalize field names: analysis script uses overall/per_video/per_platform,
+     dashboard expects frequencies/by_video/by_platform */
+  if (topics) {
+    topics.frequencies = topics.frequencies || topics.overall;
+    topics.by_video = topics.by_video || topics.per_video;
+    topics.by_platform = topics.by_platform || topics.per_platform;
+  }
+  STATE.topics = topics;
+  if (sentiment) {
+    /* Build an overall aggregate from per_video data */
+    if (!sentiment.overall && sentiment.per_video) {
+      var totals = { positive: 0, negative: 0, urgent: 0 };
+      Object.values(sentiment.per_video).forEach(function(v) {
+        totals.positive += (v.raw_counts && v.raw_counts.positive) || 0;
+        totals.negative += (v.raw_counts && v.raw_counts.negative) || 0;
+        totals.urgent += (v.raw_counts && v.raw_counts.urgent) || 0;
+      });
+      sentiment.overall = totals;
+    }
+    sentiment.by_platform = sentiment.by_platform || sentiment.per_platform;
+  }
+  STATE.sentiment = sentiment;
+  /* Normalize cross-platform field names */
+  if (crossPlatform && crossPlatform.platforms) {
+    Object.keys(crossPlatform.platforms).forEach(function(p) {
+      var info = crossPlatform.platforms[p];
+      info.count = info.count || info.video_count;
+      info.avg_duration = info.avg_duration || info.avg_duration_seconds;
+      info.avg_words = info.avg_words || info.avg_words_per_video;
+      /* Convert top_words from {word: count} object to [{word, count}] array */
+      if (info.top_words && !Array.isArray(info.top_words)) {
+        info.top_words = Object.entries(info.top_words).map(function(e) {
+          return { word: e[0], count: e[1] };
+        });
+      }
+    });
+  }
+  STATE.crossPlatform = crossPlatform;
+  STATE.summary = summary;
+
+  renderHero();
+  renderVideoGrid();
+  renderTopics();
+  renderSentiment();
+  renderCrossPlatform();
+  initSearch();
+  initScrollObserver();
+}
+
+/* ========================================
+   HERO
+   ======================================== */
+function renderHero() {
+  const { metadata, summary } = STATE;
+  if (!metadata || !metadata.videos) return;
+
+  const videos = metadata.videos;
+  const platforms = [...new Set(videos.map(function(v) { return v.platform; }))];
+  const totalMinutes = Math.round(videos.reduce(function(sum, v) { return sum + (v.duration || 0); }, 0) / 60);
+
+  const dates = videos.map(function(v) { return v.upload_date; }).filter(Boolean).sort();
+  const earliest = dates[0] || 'unknown';
+  const latest = dates[dates.length - 1] || 'unknown';
+  document.getElementById('heroDateRange').textContent = earliest + ' to ' + latest;
+
+  document.getElementById('statVideos').textContent = formatNumber(videos.length);
+  document.getElementById('statPlatforms').textContent = String(platforms.length);
+  document.getElementById('statMinutes').textContent = formatNumber(totalMinutes);
+
+  const totalWords = summary && summary.total_words != null ? summary.total_words : null;
+  document.getElementById('statWords').textContent = totalWords != null ? formatNumber(totalWords) : '--';
+}
+
+/* ========================================
+   PLATFORM FILTER RENDERING (shared)
+   ======================================== */
+function buildFilterButtons(container) {
+  container.textContent = '';
+
+  var allBtn = el('button', { className: 'platform-btn active', 'data-platform': 'all', textContent: 'All' });
+  container.appendChild(allBtn);
+
+  PLATFORMS.forEach(function(p) {
+    var dot = el('span', { className: 'platform-dot ' + p });
+    var btn = el('button', { className: 'platform-btn', 'data-platform': p }, [dot, p]);
+    container.appendChild(btn);
+  });
+
+  container.querySelectorAll('.platform-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      setPlatformFilter(btn.dataset.platform);
+    });
+  });
+}
+
+function setPlatformFilter(platform) {
+  STATE.activePlatform = platform;
+
+  document.querySelectorAll('.platform-filters').forEach(function(group) {
+    group.querySelectorAll('.platform-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.dataset.platform === platform);
+    });
+  });
+
+  filterVideoGrid();
+  updateTopicChart();
+  updateSentimentChart();
+}
+
+/* ========================================
+   VIDEO GRID
+   ======================================== */
+function renderVideoGrid() {
+  const { metadata } = STATE;
+  if (!metadata || !metadata.videos) return;
+
+  buildFilterButtons(document.getElementById('videoFilters'));
+
+  const grid = document.getElementById('videoGrid');
+  grid.textContent = '';
+
+  metadata.videos.forEach(function(v) {
+    const desc = v.description || v.title || 'Untitled';
+    const displayTitle = truncate(desc, 100);
+
+    const titleEl = el('div', { className: 'video-card-title', textContent: displayTitle });
+
+    const dot = el('span', { className: 'platform-dot ' + v.platform });
+    const platformSpan = el('span', { className: 'video-card-platform' }, [dot, v.platform]);
+    const dateSpan = el('span', { textContent: v.upload_date || '' });
+    const durSpan = el('span', { className: 'video-card-duration', textContent: formatDuration(v.duration) });
+    const metaEl = el('div', { className: 'video-card-meta' }, [platformSpan, dateSpan, durSpan]);
+
+    const loadingEl = el('div', { className: 'transcript-loading', textContent: 'Loading transcript...' });
+    const textEl = el('div', { className: 'transcript-preview-text', style: 'display:none' });
+    const previewEl = el('div', { className: 'transcript-preview' }, [loadingEl, textEl]);
+
+    const card = el('div', {
+      className: 'video-card ' + v.platform,
+      'data-id': v.id,
+      'data-platform': v.platform,
+    }, [titleEl, metaEl, previewEl]);
+
+    card.addEventListener('click', function() { toggleTranscript(card); });
+    grid.appendChild(card);
+  });
+}
+
+function filterVideoGrid() {
+  const { activePlatform, activeTopic } = STATE;
+  const grid = document.getElementById('videoGrid');
+  if (!grid) return;
+
+  grid.querySelectorAll('.video-card').forEach(function(card) {
+    const matchesPlatform = activePlatform === 'all' || card.dataset.platform === activePlatform;
+
+    var matchesTopic = true;
+    if (activeTopic && STATE.topics && STATE.topics.by_video) {
+      var videoTopics = STATE.topics.by_video[card.dataset.id];
+      matchesTopic = videoTopics && videoTopics.indexOf(activeTopic) !== -1;
+    }
+
+    card.classList.toggle('video-card-hidden', !(matchesPlatform && matchesTopic));
+  });
+}
+
+async function toggleTranscript(card) {
+  const id = card.dataset.id;
+  const platform = card.dataset.platform;
+  const isExpanded = card.classList.contains('expanded');
+
+  document.querySelectorAll('.video-card.expanded').forEach(function(c) {
+    if (c !== card) c.classList.remove('expanded');
+  });
+
+  if (isExpanded) {
+    card.classList.remove('expanded');
+    return;
+  }
+
+  card.classList.add('expanded');
+
+  const textEl = card.querySelector('.transcript-preview-text');
+  const loadingEl = card.querySelector('.transcript-loading');
+
+  if (STATE.transcripts[id]) {
+    textEl.textContent = STATE.transcripts[id];
+    textEl.style.display = 'block';
+    loadingEl.style.display = 'none';
+    return;
+  }
+
+  loadingEl.style.display = 'block';
+  loadingEl.textContent = 'Loading transcript...';
+  textEl.style.display = 'none';
+
+  try {
+    const res = await fetch('../transcripts/' + platform + '/' + id + '.txt');
+    if (!res.ok) throw new Error('Not found');
+    const text = await res.text();
+    STATE.transcripts[id] = text;
+    textEl.textContent = text;
+    textEl.style.display = 'block';
+    loadingEl.style.display = 'none';
+  } catch {
+    loadingEl.textContent = 'Transcript not yet available';
+    loadingEl.style.display = 'block';
+  }
+}
+
+/* ========================================
+   TRANSCRIPT SEARCH
+   ======================================== */
+function initSearch() {
+  const input = document.getElementById('searchInput');
+  if (!input) return;
+
+  // render initial status
+  const resultsEl = document.getElementById('searchResults');
+  resultsEl.textContent = '';
+  const statusDiv = el('div', { className: 'search-status', textContent: 'Type to search across video transcripts' });
+  resultsEl.appendChild(statusDiv);
+
+  preloadTranscripts();
+
+  input.addEventListener('input', debounce(function() {
+    performSearch(input.value.trim());
+  }, 300));
+}
+
+async function preloadTranscripts() {
+  if (!STATE.metadata || !STATE.metadata.videos) return;
+
+  const fetches = STATE.metadata.videos.map(async function(v) {
+    if (STATE.transcripts[v.id]) return;
+    try {
+      const res = await fetch('../transcripts/' + v.platform + '/' + v.id + '.txt');
+      if (res.ok) {
+        STATE.transcripts[v.id] = await res.text();
+      }
+    } catch {
+      // not available
+    }
+  });
+
+  await Promise.allSettled(fetches);
+}
+
+function performSearch(query) {
+  const resultsEl = document.getElementById('searchResults');
+  resultsEl.textContent = '';
+
+  if (!query) {
+    resultsEl.appendChild(el('div', { className: 'search-status', textContent: 'Type to search across video transcripts' }));
+    return;
+  }
+
+  const lowerQuery = query.toLowerCase();
+  const results = [];
+
+  (STATE.metadata && STATE.metadata.videos || []).forEach(function(v) {
+    const text = STATE.transcripts[v.id];
+    if (!text) return;
+
+    const lowerText = text.toLowerCase();
+    const idx = lowerText.indexOf(lowerQuery);
+    if (idx === -1) return;
+
+    const start = Math.max(0, idx - 80);
+    const end = Math.min(text.length, idx + query.length + 120);
+    var excerpt = (start > 0 ? '...' : '') + text.slice(start, end) + (end < text.length ? '...' : '');
+    results.push({ video: v, excerpt: excerpt, matchIndex: idx });
+  });
+
+  if (results.length === 0) {
+    resultsEl.appendChild(el('div', { className: 'search-status', textContent: 'No matches found for "' + query + '"' }));
+    return;
+  }
+
+  // build results with highlighted excerpts
+  results.slice(0, 30).forEach(function(r) {
+    const title = truncate(r.video.description || r.video.title || 'Untitled', 80);
+
+    const dot = el('span', { className: 'platform-dot ' + r.video.platform });
+    const titleSpan = el('span', { className: 'search-result-title', textContent: title });
+    const header = el('div', { className: 'search-result-header' }, [dot, titleSpan]);
+
+    // build excerpt with highlights
+    const excerptDiv = el('div', { className: 'search-result-excerpt' });
+    highlightText(excerptDiv, r.excerpt, query);
+
+    const card = el('div', { className: 'search-result-card' }, [header, excerptDiv]);
+    resultsEl.appendChild(card);
+  });
+}
+
+function highlightText(container, text, query) {
+  // case-insensitive split and highlight
+  const lowerText = text.toLowerCase();
+  const lowerQuery = query.toLowerCase();
+  let pos = 0;
+
+  while (pos < text.length) {
+    const idx = lowerText.indexOf(lowerQuery, pos);
+    if (idx === -1) {
+      container.appendChild(document.createTextNode(text.slice(pos)));
+      break;
+    }
+    if (idx > pos) {
+      container.appendChild(document.createTextNode(text.slice(pos, idx)));
+    }
+    const span = el('span', { className: 'search-highlight', textContent: text.slice(idx, idx + query.length) });
+    container.appendChild(span);
+    pos = idx + query.length;
+  }
+}
+
+/* ========================================
+   TOPIC ANALYSIS
+   ======================================== */
+function renderTopics() {
+  const container = document.getElementById('topicsContent');
+  container.textContent = '';
+
+  if (!STATE.topics || !STATE.topics.frequencies) {
+    container.appendChild(createUnavailable('Topic analysis data not yet available. Run the content analysis script to generate this data.'));
+    return;
+  }
+
+  const filtersDiv = el('div', { className: 'platform-filters topic-filters', id: 'topicFilters' });
+  const canvas = el('canvas', { id: 'topicChart' });
+  const chartWrap = el('div', { className: 'chart-wrap' }, [canvas]);
+  const chartContainer = el('div', { className: 'chart-container' }, [chartWrap]);
+  const pillsDiv = el('div', { className: 'topic-pills', id: 'topicPills' });
+
+  container.appendChild(filtersDiv);
+  container.appendChild(chartContainer);
+  container.appendChild(pillsDiv);
+
+  buildFilterButtons(filtersDiv);
+
+  // sync active state
+  filtersDiv.querySelectorAll('.platform-btn').forEach(function(btn) {
+    btn.classList.toggle('active', btn.dataset.platform === STATE.activePlatform);
+  });
+
+  buildTopicChart();
+  buildTopicPills();
+}
+
+function buildTopicChart() {
+  if (!STATE.topics || !STATE.topics.frequencies) return;
+
+  const sorted = Object.entries(STATE.topics.frequencies)
+    .sort(function(a, b) { return b[1] - a[1]; })
+    .slice(0, 20);
+
+  const ctx = document.getElementById('topicChart');
+  if (!ctx) return;
+
+  STATE.charts.topics = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: sorted.map(function(e) { return e[0]; }),
+      datasets: [{
+        data: sorted.map(function(e) { return e[1]; }),
+        backgroundColor: '#d4a853',
+        borderRadius: 4,
+        barThickness: 20,
+      }],
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      maintainAspectRatio: false,
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#252836',
+          titleColor: '#e8e6e3',
+          bodyColor: '#8b8d94',
+          borderColor: '#2a2d38',
+          borderWidth: 1,
+        },
+      },
+      scales: {
+        x: {
+          grid: { color: '#2a2d38' },
+          ticks: { color: '#8b8d94', font: { family: "'JetBrains Mono'", size: 11 } },
+        },
+        y: {
+          grid: { display: false },
+          ticks: { color: '#e8e6e3', font: { family: "'Instrument Sans'", size: 12 } },
+        },
+      },
+    },
+  });
+
+  ctx.parentElement.style.height = Math.max(300, sorted.length * 36) + 'px';
+}
+
+function updateTopicChart() {
+  if (!STATE.charts.topics || !STATE.topics || !STATE.topics.frequencies) return;
+
+  var frequencies = STATE.topics.frequencies;
+  if (STATE.activePlatform !== 'all' && STATE.topics.by_platform && STATE.topics.by_platform[STATE.activePlatform]) {
+    frequencies = STATE.topics.by_platform[STATE.activePlatform];
+  }
+
+  const sorted = Object.entries(frequencies)
+    .sort(function(a, b) { return b[1] - a[1]; })
+    .slice(0, 20);
+
+  STATE.charts.topics.data.labels = sorted.map(function(e) { return e[0]; });
+  STATE.charts.topics.data.datasets[0].data = sorted.map(function(e) { return e[1]; });
+  STATE.charts.topics.update();
+
+  const canvas = document.getElementById('topicChart');
+  if (canvas) {
+    canvas.parentElement.style.height = Math.max(300, sorted.length * 36) + 'px';
+  }
+}
+
+function buildTopicPills() {
+  if (!STATE.topics || !STATE.topics.frequencies) return;
+
+  const pillsEl = document.getElementById('topicPills');
+  if (!pillsEl) return;
+  pillsEl.textContent = '';
+
+  const sorted = Object.entries(STATE.topics.frequencies).sort(function(a, b) { return b[1] - a[1]; });
+
+  sorted.forEach(function(entry) {
+    const topic = entry[0];
+    const pill = el('button', { className: 'topic-pill', 'data-topic': topic, textContent: topic });
+
+    pill.addEventListener('click', function() {
+      const isActive = pill.classList.contains('active');
+
+      pillsEl.querySelectorAll('.topic-pill').forEach(function(p) { p.classList.remove('active'); });
+
+      if (isActive) {
+        STATE.activeTopic = null;
+      } else {
+        pill.classList.add('active');
+        STATE.activeTopic = topic;
+      }
+
+      filterVideoGrid();
+
+      if (STATE.activeTopic) {
+        var videosSection = document.getElementById('videos');
+        if (videosSection) videosSection.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+
+    pillsEl.appendChild(pill);
+  });
+}
+
+/* ========================================
+   SENTIMENT
+   ======================================== */
+function renderSentiment() {
+  const container = document.getElementById('sentimentContent');
+  container.textContent = '';
+
+  if (!STATE.sentiment || !STATE.sentiment.overall) {
+    container.appendChild(createUnavailable('Sentiment analysis data not yet available. Run the content analysis script to generate this data.'));
+    return;
+  }
+
+  // doughnut side
+  const doughnutCanvas = el('canvas', { id: 'sentimentDoughnut', width: '240', height: '240' });
+  const doughnutWrap = el('div', { className: 'sentiment-doughnut-wrap' }, [doughnutCanvas]);
+
+  // bars side
+  const barsTitle = el('div', { className: 'sentiment-bars-title', textContent: 'Per-platform sentiment breakdown' });
+  const barsContainer = el('div', { id: 'sentimentBars' });
+  const barsWrap = el('div', { className: 'sentiment-bars-wrap' }, [barsTitle, barsContainer]);
+
+  const grid = el('div', { className: 'sentiment-grid' }, [doughnutWrap, barsWrap]);
+  container.appendChild(grid);
+
+  buildSentimentDoughnut();
+  buildSentimentBars();
+}
+
+function buildSentimentDoughnut() {
+  if (!STATE.sentiment || !STATE.sentiment.overall) return;
+
+  const { positive = 0, negative = 0, urgent = 0 } = STATE.sentiment.overall;
+  const total = positive + negative + urgent;
+  if (total === 0) return;
+
+  const ctx = document.getElementById('sentimentDoughnut');
+  STATE.charts.sentiment = new Chart(ctx, {
+    type: 'doughnut',
+    data: {
+      labels: ['Positive', 'Negative', 'Urgent'],
+      datasets: [{
+        data: [positive, negative, urgent],
+        backgroundColor: ['#4ade80', '#f87171', '#fbbf24'],
+        borderColor: '#181b25',
+        borderWidth: 3,
+      }],
+    },
+    options: {
+      responsive: false,
+      cutout: '60%',
+      plugins: {
+        legend: {
+          position: 'bottom',
+          labels: {
+            color: '#8b8d94',
+            font: { family: "'Instrument Sans'", size: 12 },
+            padding: 16,
+          },
+        },
+        tooltip: {
+          backgroundColor: '#252836',
+          titleColor: '#e8e6e3',
+          bodyColor: '#8b8d94',
+          borderColor: '#2a2d38',
+          borderWidth: 1,
+        },
+      },
+    },
+  });
+}
+
+function buildSentimentBars() {
+  if (!STATE.sentiment || !STATE.sentiment.by_platform) return;
+
+  const barsEl = document.getElementById('sentimentBars');
+  barsEl.textContent = '';
+
+  var hasData = false;
+
+  PLATFORMS.forEach(function(platform) {
+    const data = STATE.sentiment.by_platform[platform];
+    if (!data) return;
+
+    const { positive = 0, negative = 0, urgent = 0 } = data;
+    const total = positive + negative + urgent;
+    if (total === 0) return;
+
+    hasData = true;
+    const pPos = ((positive / total) * 100).toFixed(1);
+    const pNeg = ((negative / total) * 100).toFixed(1);
+    const pUrg = ((urgent / total) * 100).toFixed(1);
+
+    const dot = el('span', { className: 'platform-dot ' + platform });
+    const label = el('span', { className: 'sentiment-platform-label' }, [dot, ' ' + platform]);
+
+    const segPos = el('div', { className: 'sentiment-bar-segment positive', style: 'width:' + pPos + '%', title: 'Positive: ' + pPos + '%' });
+    const segNeg = el('div', { className: 'sentiment-bar-segment negative', style: 'width:' + pNeg + '%', title: 'Negative: ' + pNeg + '%' });
+    const segUrg = el('div', { className: 'sentiment-bar-segment urgent', style: 'width:' + pUrg + '%', title: 'Urgent: ' + pUrg + '%' });
+    const bar = el('div', { className: 'sentiment-stacked-bar' }, [segPos, segNeg, segUrg]);
+
+    const row = el('div', { className: 'sentiment-platform-row' }, [label, bar]);
+    barsEl.appendChild(row);
+  });
+
+  if (!hasData) {
+    barsEl.appendChild(el('p', { className: 'search-status', textContent: 'No per-platform sentiment data available.' }));
+  }
+}
+
+function updateSentimentChart() {
+  if (!STATE.charts.sentiment || !STATE.sentiment) return;
+
+  var data;
+  if (STATE.activePlatform === 'all') {
+    data = STATE.sentiment.overall;
+  } else {
+    data = (STATE.sentiment.by_platform && STATE.sentiment.by_platform[STATE.activePlatform]) || STATE.sentiment.overall;
+  }
+
+  if (!data) return;
+
+  const { positive = 0, negative = 0, urgent = 0 } = data;
+  STATE.charts.sentiment.data.datasets[0].data = [positive, negative, urgent];
+  STATE.charts.sentiment.update();
+}
+
+/* ========================================
+   CROSS-PLATFORM COMPARISON
+   ======================================== */
+function renderCrossPlatform() {
+  const container = document.getElementById('crossPlatformContent');
+  container.textContent = '';
+
+  if (STATE.crossPlatform && STATE.crossPlatform.platforms) {
+    renderCrossPlatformFromAnalysis(container, STATE.crossPlatform);
+    return;
+  }
+
+  if (STATE.metadata && STATE.metadata.videos) {
+    renderCrossPlatformFromMetadata(container, STATE.metadata);
+    return;
+  }
+
+  container.appendChild(createUnavailable('Cross-platform data not yet available.'));
+}
+
+function renderCrossPlatformFromAnalysis(container, data) {
+  const grid = el('div', { className: 'cross-platform-grid' });
+
+  PLATFORMS.forEach(function(platform) {
+    const info = data.platforms[platform];
+    if (!info) return;
+
+    const header = el('div', { className: 'cross-platform-header ' + platform }, [
+      el('span', { className: 'platform-dot', style: 'background:#fff' }),
+      platform,
+    ]);
+
+    const body = el('div', { className: 'cross-platform-body' });
+
+    // stats
+    var stats = [
+      ['Videos', formatNumber(info.count)],
+      ['Avg duration', formatDuration(info.avg_duration)],
+      ['Avg words', formatNumber(Math.round(info.avg_words || 0))],
+    ];
+
+    stats.forEach(function(s) {
+      body.appendChild(el('div', { className: 'cross-platform-stat' }, [
+        el('span', { className: 'cross-platform-stat-label', textContent: s[0] }),
+        el('span', { className: 'cross-platform-stat-value', textContent: s[1] }),
+      ]));
+    });
+
+    // top words
+    var topWords = info.top_words || [];
+    if (topWords.length > 0) {
+      body.appendChild(el('div', { className: 'cross-platform-words-title', textContent: 'Top words' }));
+      var wordList = el('ul', { className: 'cross-platform-word-list' });
+      topWords.slice(0, 10).forEach(function(w) {
+        var wordText = w.word || w[0] || '';
+        var countText = String(w.count || w[1] || '');
+        wordList.appendChild(el('li', { className: 'cross-platform-word-item' }, [
+          el('span', { className: 'word', textContent: wordText }),
+          el('span', { className: 'count', textContent: countText }),
+        ]));
+      });
+      body.appendChild(wordList);
+    }
+
+    const panel = el('div', { className: 'cross-platform-panel' }, [header, body]);
+    grid.appendChild(panel);
+  });
+
+  container.appendChild(grid);
+}
+
+function renderCrossPlatformFromMetadata(container, metadata) {
+  const byPlatform = {};
+  metadata.videos.forEach(function(v) {
+    if (!byPlatform[v.platform]) byPlatform[v.platform] = [];
+    byPlatform[v.platform].push(v);
+  });
+
+  const grid = el('div', { className: 'cross-platform-grid' });
+
+  PLATFORMS.forEach(function(platform) {
+    const videos = byPlatform[platform];
+    if (!videos || videos.length === 0) return;
+
+    const count = videos.length;
+    const avgDuration = videos.reduce(function(s, v) { return s + (v.duration || 0); }, 0) / count;
+
+    const header = el('div', { className: 'cross-platform-header ' + platform }, [
+      el('span', { className: 'platform-dot', style: 'background:#fff' }),
+      platform,
+    ]);
+
+    const body = el('div', { className: 'cross-platform-body' });
+
+    var stats = [
+      ['Videos', String(count)],
+      ['Avg duration', formatDuration(avgDuration)],
+      ['Avg words', '--'],
+    ];
+
+    stats.forEach(function(s) {
+      body.appendChild(el('div', { className: 'cross-platform-stat' }, [
+        el('span', { className: 'cross-platform-stat-label', textContent: s[0] }),
+        el('span', { className: 'cross-platform-stat-value', textContent: s[1] }),
+      ]));
+    });
+
+    body.appendChild(el('p', {
+      style: 'font-size:0.8rem;color:var(--text-dim);margin-top:12px',
+      textContent: 'Run content analysis to see word frequency data.',
+    }));
+
+    grid.appendChild(el('div', { className: 'cross-platform-panel' }, [header, body]));
+  });
+
+  container.appendChild(grid);
+}
+
+/* ========================================
+   SCROLL OBSERVER (section header animations)
+   ======================================== */
+function initScrollObserver() {
+  const headers = document.querySelectorAll('.section-header');
+
+  const observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry, i) {
+      if (entry.isIntersecting) {
+        setTimeout(function() {
+          entry.target.classList.add('visible');
+        }, i * 100);
+        observer.unobserve(entry.target);
+      }
+    });
+  }, {
+    threshold: 0.15,
+    rootMargin: '0px 0px -40px 0px',
+  });
+
+  headers.forEach(function(h) { observer.observe(h); });
+}
+
+/* ========================================
+   NAV SCROLL BEHAVIOR
+   ======================================== */
+(function initNav() {
+  var lastScroll = 0;
+  var nav = document.getElementById('navBar');
+
+  window.addEventListener('scroll', function() {
+    var current = window.scrollY;
+    if (current > 100 && current > lastScroll) {
+      nav.classList.add('hidden');
+    } else {
+      nav.classList.remove('hidden');
+    }
+    lastScroll = current;
+  });
+})();
+
+/* ========================================
+   INIT
+   ======================================== */
+document.addEventListener('DOMContentLoaded', loadAllData);
+</script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+{
+  "video_id": "7590114344952778015",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "Museum of the Moving Image",
+        "Kaufman"
+      ],
+      "setting": "Exterior of Museum of the Moving Image in Astoria, Queens; also miniature model of a bus; museum interior hallways",
+      "visual_elements": [
+        "Exterior signage: Museum of the Moving Image",
+        "Kaufman Studios sign visible on street",
+        "Scale model of a Greyhound-style bus on a table",
+        "Mamdani sitting at a table alone inside the museum",
+        "Person with VR headset",
+        "Bearded man at museum",
+        "White minimalist museum interior"
+      ],
+      "presentation_style": "Cinematic documentary; establishing shots of location; no subtitle captions in early frames"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "Because I have children, they travel...",
+        "Because I have children, they travel... the hours that are only possible...",
+        "Because I have children, they travel... the hours that are only possible... after school hours.",
+        "Thank you. I like you.",
+        "I'm talking about the yellow school bus...",
+        "But what if the bus committee..."
+      ],
+      "setting": "Inside the Museum of the Moving Image; Mamdani seated at a small table across from community members/New Yorkers",
+      "visual_elements": [
+        "Mamdani in a suit listening attentively at a table",
+        "Diverse group of New Yorkers taking turns speaking",
+        "Children present with parents",
+        "Structured listening session format",
+        "Clean white interior"
+      ],
+      "presentation_style": "Documentary of community listening session; subtitle captions tracking dialogue from multiple speakers"
+    },
+    {
+      "grid": "grid_0072.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "CONTINUE WATCHING THE FULL FILM AT",
+        "YOUTUBE.COM/@ZOHRANFORNYC"
+      ],
+      "setting": "Museum interior (listening session); then a bold animated title card",
+      "visual_elements": [
+        "Mamdani and participants at listening session table",
+        "Bold yellow text on white background calling viewers to YouTube",
+        "Repeated three times as a call-to-action graphic",
+        "Final large full-frame version of the CTA"
+      ],
+      "presentation_style": "Documentary cross-promotion; full-frame bold call-to-action card directing to YouTube channel"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Museum of the Moving Image, Astoria Queens — community listening session",
+    "text_overlay_types": ["location signage", "dialogue subtitles", "YouTube call-to-action card"],
+    "visual_themes": ["community listening", "policy conversations with New Yorkers", "documentary style", "transit and school bus policy", "cross-platform promotion"]
+  }
+}

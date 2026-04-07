@@ -1,0 +1,27 @@
+{
+  "video_id": "2026771477794574337",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-24s",
+      "on_screen_text": ["Brad Lander", "Mayor Mamdani", "BRAD LANDER", "A lifelong progressive", "running for Congress"],
+      "setting": "NYC subway station and outdoor NYC street",
+      "visual_elements": ["Mamdani in suit with red tie", "Brad Lander in suit", "subway platform", "NYC taxi", "bodega/convenience store"],
+      "presentation_style": "casual endorsement video, handheld camera, subway setting"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "27s-45s",
+      "on_screen_text": ["BradLanderForCongress.com", "So if you have some spare change, please go to BradLanderForCongress.com", "Give whatever you", "We need better Democrats", "And some things are better together", "BRAD LANDER for Congress"],
+      "setting": "NYC subway station platform",
+      "visual_elements": ["Mamdani and Lander holding coffee cups", "Q train visible", "campaign end card with blue background and yellow text"],
+      "presentation_style": "casual endorsement with call-to-action URL overlay and campaign graphic end card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "NYC subway station",
+    "text_overlay_types": ["name labels", "caption subtitles", "campaign URL", "call-to-action end card"],
+    "visual_themes": ["political endorsement", "casual subway vibe", "progressive politics"]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "text": " OHwUHいたur Thank you. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 28.580000000000002,
+      "end": 29.98,
+      "text": " OHwUHいたur",
+      "tokens": [
+        50396,
+        13931,
+        86,
+        52,
+        39,
+        17679,
+        374,
+        50599
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.399097442626953,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 1.4742515541676937e-10,
+      "words": [
+        {
+          "word": " OHwUHいたur",
+          "start": 28.580000000000002,
+          "end": 29.98,
+          "probability": 0.05280701364093451
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 29.98,
+      "end": 29.98,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -5.399097442626953,
+      "compression_ratio": 0.7142857142857143,
+      "no_speech_prob": 1.4742515541676937e-10,
+      "words": []
+    },
+    {
+      "id": 2,
+      "seek": 2998,
+      "start": 31.86,
+      "end": 34.66,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3148798743883769,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 7.157975601135291e-11,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 31.86,
+          "end": 33.26,
+          "probability": 0.22590582072734833
+        },
+        {
+          "word": " you.",
+          "start": 33.26,
+          "end": 34.66,
+          "probability": 0.9989191293716431
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 5998,
+      "start": 62.660000000000004,
+      "end": 63.68,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.6205886205037435,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.6996602692984086e-12,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 62.660000000000004,
+          "end": 63.46,
+          "probability": 0.0009139740141108632
+        },
+        {
+          "word": " you.",
+          "start": 63.46,
+          "end": 63.68,
+          "probability": 0.9212813973426819
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

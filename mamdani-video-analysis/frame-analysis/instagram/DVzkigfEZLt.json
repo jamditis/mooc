@@ -1,0 +1,68 @@
+{
+  "video_id": "DVzkigfEZLt",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "Tenants Speak, We Listen (upper-left persistent header text in red)",
+        "How are you? Thank you for coming.",
+        "So one thing I can tell my landlord",
+        "Considers the fact that we are human beings.",
+        "Our building is falling apart.",
+        "the landlords are using undocumented workers",
+        "Where do you live? (map activity question)",
+        "Place a sticker by your home (map interactive activity text)",
+        "I have multiple damp/mold issues on my floor (speech bubble text on map)",
+        "discriminate against g[ig] workers, anyone who does"
+      ],
+      "setting": "Community engagement event in a large public hall/atrium. Mamdani sitting at table listening to tenants. Community members of various backgrounds speaking at a podium or directly to Mamdani. Interactive map station visible (large borough map with sticker activity).",
+      "visual_elements": [
+        "'Tenants Speak, We Listen' red header text (persistent)",
+        "community hall/atrium interior",
+        "large interactive borough map with sticky notes",
+        "tenant speaking at meeting (older Black woman in red with black hat)",
+        "informational poster boards visible",
+        "Mamdani in suit at listening table",
+        "red subtitle captions on tenant speech",
+        "white subtitle captions on other speakers"
+      ],
+      "presentation_style": "Community listening session documentation. Tenants speak directly on camera about housing issues. Interactive map activity visible. Header branding persists. Mix of red and white captions."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [
+        "people and that's why I'm here."
+      ],
+      "setting": "Single frame: older Black woman in red cardigan and black hat with necklace and name tag badge, speaking directly to camera in the community hall.",
+      "visual_elements": [
+        "close-up portrait of tenant speaker",
+        "red cardigan, black hat, gold necklace",
+        "name tag badge visible",
+        "red subtitle caption",
+        "community hall background"
+      ],
+      "presentation_style": "Close-up portrait interview of tenant. Personal and direct. Minimal text."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Community listening session in a large public hall/atrium with interactive map stations and poster boards",
+    "text_overlay_types": [
+      "red persistent header: 'Tenants Speak, We Listen'",
+      "red subtitle captions (for tenant voices)",
+      "white subtitle captions",
+      "map activity question text",
+      "speech bubble text on interactive map"
+    ],
+    "visual_themes": [
+      "tenant listening session / community engagement event",
+      "housing issues and landlord accountability",
+      "interactive map-based participation activity",
+      "diverse community voices",
+      "Mamdani as active listener (not speaker)",
+      "bottom-up community governance approach"
+    ]
+  }
+}

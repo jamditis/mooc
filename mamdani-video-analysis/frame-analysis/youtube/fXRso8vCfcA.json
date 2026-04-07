@@ -1,0 +1,78 @@
+{
+  "video_id": "fXRso8vCfcA",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:18",
+      "on_screen_text": [
+        "Claire Valdez",
+        "$36.2 Billion",
+        "NO CONTRACT NO STARBUCKS (protest signs)"
+      ],
+      "setting": "Outdoor NYC street in front of a Starbucks location; Starbucks Workers United strike picket line; winter weather; urban commercial streetscape with yellow taxis visible",
+      "visual_elements": [
+        "Bernie Sanders in green parka coat",
+        "Candidate (Mamdani) in dark coat",
+        "Starbucks Workers United green strike signs",
+        "Picket signs: 'NO CONTRACT NO STARBUCKS'",
+        "Name chyron: 'Claire Valdez' identifying a strike participant",
+        "Statistic overlay: '$36.2 Billion' (Starbucks revenue figure)",
+        "Media microphones visible",
+        "Diverse crowd of striking workers and supporters",
+        "Starbucks storefront visible"
+      ],
+      "presentation_style": "Campaign solidarity video at a labor strike; documents candidate and Bernie Sanders participating in a Starbucks Workers United picket line; mix of crowd footage and interview-style shots with name chyrons"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:36",
+      "on_screen_text": [],
+      "setting": "Same outdoor Starbucks picket line location; Bernie Sanders speaking to media and crowd; candidate present alongside him; strikers with signs in background",
+      "visual_elements": [
+        "Bernie Sanders speaking into media microphones",
+        "Candidate standing alongside Sanders",
+        "Multiple media cameras and microphones",
+        "Starbucks Workers United green union hats and signs",
+        "Close-up shots of Sanders and strike participants",
+        "Winter outdoor setting with bare trees"
+      ],
+      "presentation_style": "Press event documentation at strike line; Bernie Sanders as a prominent visual endorser; candidate shown in solidarity with workers; no text overlays in these frames"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "0:36-end",
+      "on_screen_text": [
+        "A NEW ERA for NEW YORK CITY",
+        "ULP STRIK... (partial: 'Unfair Labor Practice Strike' sign)",
+        "Starbucks (storefront sign)"
+      ],
+      "setting": "Final frame shows candidate and Bernie Sanders with striking workers in front of Starbucks; campaign outro card overlaid",
+      "visual_elements": [
+        "Group photo with candidate, Bernie Sanders, and workers at strike line",
+        "Starbucks green union signs and logos",
+        "Campaign brand card: 'A NEW ERA for NEW YORK CITY' in red, white, and blue on black background",
+        "Candidate smiling with workers and Sanders",
+        "Strike signs including partial 'ULP STRIKE' wording",
+        "Starbucks storefront in background"
+      ],
+      "presentation_style": "Solidarity campaign content closes with standard campaign branding; labor movement framing; Bernie Sanders as a key visual endorser"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor NYC Starbucks Workers United strike picket line in winter",
+    "text_overlay_types": [
+      "Name chyron ('Claire Valdez')",
+      "Statistic overlay ('$36.2 Billion')",
+      "Protest signs captured in-frame ('NO CONTRACT NO STARBUCKS')",
+      "Campaign slogan outro card ('A NEW ERA for NEW YORK CITY')"
+    ],
+    "visual_themes": [
+      "Labor union solidarity",
+      "Starbucks Workers United strike",
+      "Bernie Sanders as visual endorser",
+      "Outdoor winter protest setting",
+      "Campaign as labor ally"
+    ]
+  }
+}

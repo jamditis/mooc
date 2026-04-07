@@ -1,0 +1,84 @@
+{
+  "video_id": "2002759156156026880",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-18s",
+      "on_screen_text": [
+        "New York City.",
+        "It is the leading city",
+        "not in the height",
+        "to its people.",
+        "It is a privilege",
+        "of a community",
+        "It was the spirit of",
+        "And they dared to believe",
+        "must prevail over",
+        "Fiorello La Guardia",
+        "Robert F. Wagner"
+      ],
+      "setting": "Black and white archival footage of mid-20th century New York City - street scenes, political rallies, public gatherings",
+      "visual_elements": [
+        "black and white archival film footage",
+        "NYC skyline from mid-century",
+        "political figure at podium (identified as Fiorello La Guardia)",
+        "political figure at podium (identified as Robert F. Wagner)",
+        "large crowd gatherings on NYC streets",
+        "period-appropriate signage and storefronts",
+        "white subtitle text overlaying archival footage"
+      ],
+      "presentation_style": "historical documentary style with archival black-and-white footage and subtitle captions, likely a campaign video invoking NYC political history"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-27s",
+      "on_screen_text": [
+        "demands solidarity.",
+        "If this campaign",
+        "has demonstrated anything,",
+        "can become reality.",
+        "Join us on January 5th, 2026 for the inauguration in New York City."
+      ],
+      "setting": "Contemporary campaign event footage - outdoor rallies, community gatherings, crowds, and a graphic invitation card",
+      "visual_elements": [
+        "candidate greeting supporters in crowd",
+        "large outdoor rally with audience",
+        "colorful crowd with signs and campaign materials",
+        "inauguration event invitation card graphic in red, gold and white",
+        "enthusiastic crowd scenes"
+      ],
+      "presentation_style": "campaign highlight reel transitioning from historical to contemporary footage, ending with event invitation graphic"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "27s-end",
+      "on_screen_text": [
+        "N.Y.C. INAUGURATION 2026"
+      ],
+      "setting": "Indoor rally or event with 'AFFORD DR[EAM]' banner visible; then clean white background with inauguration logo graphic",
+      "visual_elements": [
+        "candidate speaking at podium with microphone, banner in background",
+        "partial banner text reading 'AFFORD DR' (affordable dream/housing)",
+        "N.Y.C. Inauguration 2026 badge logo - red apple-shaped seal with blue ribbon",
+        "logo shown twice at increasing scale",
+        "white background for logo presentation"
+      ],
+      "presentation_style": "campaign video concluding with official NYC Inauguration 2026 branding"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Mix of archival NYC footage, contemporary campaign rallies, and branded end cards",
+    "text_overlay_types": [
+      "subtitle captions over archival footage",
+      "event invitation graphic",
+      "NYC Inauguration 2026 official logo"
+    ],
+    "visual_themes": [
+      "NYC political history and legacy",
+      "campaign solidarity and movement building",
+      "inauguration announcement",
+      "historical to contemporary continuity narrative"
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "video_id": "DWGubHPkWC5",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "There was something",
+        "that we just hosted at City Hall",
+        "how Ramadan is also",
+        "this shallowness of instant gratification",
+        "of how you've been craving food all day",
+        "and craving water",
+        "and anything you could fill yourself with.",
+        "just a few minutes into eating,",
+        "you already feel full."
+      ],
+      "setting": "Multiple settings: outdoor (blurred background, Mamdani in close profile), and an iftar dinner table at City Hall (large food spread, Mamdani dining with guests). Yellow subtitle captions distinguish this from other videos.",
+      "visual_elements": [
+        "iftar dinner table at City Hall with food spread (rice dishes, breads, meats)",
+        "Mamdani dining close-up",
+        "outdoor close-profile shot",
+        "close-up of food dishes",
+        "yellow italic subtitle captions",
+        "formal dinnerware and table setting"
+      ],
+      "presentation_style": "Reflective personal narration over b-roll of City Hall iftar dinner and outdoor walk. Yellow italic captions (distinct style from other videos). Contemplative tone about Ramadan spirituality."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [
+        "And it's as if you didn't spend that whole day",
+        "But the atmosphere of New York City",
+        "to be the first Muslim mayor of our city",
+        "RAMADAN THROUGH THE EYES OF NEW YORKERS (title card — ornate serif typography, yellow text on dark background)",
+        "EL-MAQDIS ISLAMIC C[ENTER] (building signage visible)",
+        "6224 (address on building)",
+        "when Ramadan comes,",
+        "there is an assumption that I am",
+        "We call it the city that never sleeps.",
+        "all I think about is peace and quietness.",
+        "introducing our faith to the city as a whole."
+      ],
+      "setting": "Multiple settings: Mamdani walking outdoors (dark silhouette), the 'RAMADAN Through the Eyes of New Yorkers' title card (dark background, gold/yellow ornate serif text), exterior of El-Maqdis Islamic Center, a woman in hijab on subway/street, Mamdani writing in a notebook.",
+      "visual_elements": [
+        "Mamdani silhouette outdoors at night/dusk",
+        "ornate 'RAMADAN Through the Eyes of New Yorkers' title card",
+        "El-Maqdis Islamic Center exterior with address signage",
+        "woman in hijab (interview subject)",
+        "NYC subway number board visible ('2042')",
+        "Mamdani writing in notebook",
+        "yellow italic subtitle captions"
+      ],
+      "presentation_style": "Documentary-style with formal title card and community interview subjects. The title card 'RAMADAN Through the Eyes of New Yorkers' signals a longer-form documentary piece. Multiple community voices featured."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "When in reality,",
+        "has been a part of this city",
+        "The question of whether it's been seen",
+        "But Muslims and New York City,",
+        "they are intertwined."
+      ],
+      "setting": "Documentary-style footage of diverse NYC residents: a woman in hijab (glasses, headscarf), a man in a UPS uniform, a man in a taqiyah, people walking on a busy street. Candid street-level footage.",
+      "visual_elements": [
+        "woman in hijab wearing glasses (interview subject)",
+        "UPS worker in uniform (interview subject)",
+        "man in white taqiyah (prayer cap)",
+        "busy NYC street background",
+        "yellow italic subtitle captions",
+        "documentary portrait framing"
+      ],
+      "presentation_style": "Community documentary. Multiple interview subjects representing Muslim New Yorkers across demographics. Candid portrait framing. Affirming 'Muslims belong here' narrative."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Mix of City Hall iftar dinner, NYC streets, mosque exterior, and community interview settings",
+    "text_overlay_types": [
+      "yellow italic spoken-word subtitle captions (distinct from other videos)",
+      "formal ornate documentary title card: 'RAMADAN Through the Eyes of New Yorkers'"
+    ],
+    "visual_themes": [
+      "Ramadan observance and Muslim identity in NYC",
+      "community documentary format",
+      "first Muslim mayor framing",
+      "Muslim New Yorker profiles",
+      "City Hall iftar hosting",
+      "spiritual reflection and belonging"
+    ]
+  }
+}

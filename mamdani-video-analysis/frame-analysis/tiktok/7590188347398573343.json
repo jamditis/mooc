@@ -1,0 +1,72 @@
+{
+  "video_id": "7590188347398573343",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "Election Night",
+        "Election Night 7pm",
+        "Someone heard a rumor about two bad exit polls.",
+        "What's going on?",
+        "Just a bad exit poll.",
+        "I speak of Yemeni bodega owners and Mexican abuelas, and Ethiopian surtees.",
+        "I speak of Yemeni bodega owners and Mexican abuelas, and Eritrean surtees.",
+        "This hits different with you as the speaker.",
+        "It's way better."
+      ],
+      "setting": "Upscale apartment or hotel suite, dimly lit; city street visible through window at night",
+      "visual_elements": [
+        "Mamdani at a standing desk with a laptop",
+        "Serious, contemplative mood",
+        "Campaign team members present",
+        "Cinematic lighting with warm interior vs. dark exterior",
+        "Documentary-style fly-on-the-wall filming"
+      ],
+      "presentation_style": "Cinematic behind-the-scenes election night documentary; text captions as dialogue subtitles"
+    },
+    {
+      "grid": "grid_0054.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "The human mind is a wild thing.",
+        "60% in and it's still holding.",
+        "Brooklyn is still the lowest, Staten Island is now at 83%.",
+        "And you held totally even there.",
+        "That 8% is not... super inspiring.",
+        "Cause you're waiting.",
+        "You got anything more for us?",
+        "MSNBC just called the race for us."
+      ],
+      "setting": "Interior of same dimly lit suite; multiple people around laptops and phones monitoring results",
+      "visual_elements": [
+        "Mamdani focused and tense, watching data",
+        "Campaign staffers monitoring laptops",
+        "Woman (appears to be campaign manager or advisor) discussing returns",
+        "Moment of call announcement visible in dialogue"
+      ],
+      "presentation_style": "Tense real-time election night documentation; subtitle captions tracking live dialogue"
+    },
+    {
+      "grid": "grid_0099.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "MAYOR"
+      ],
+      "setting": "Dark backstage area lit with blue/purple stage lighting; victory event venue",
+      "visual_elements": [
+        "Laptop screen showing a graphic reading 'MAYOR' with Mamdani's image",
+        "Person designing/editing the graphic on a MacBook",
+        "Mamdani embracing supporters backstage",
+        "Crowd mingling at victory party venue"
+      ],
+      "presentation_style": "Victory moment documentation; mix of intimate backstage moments and celebration energy"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Private election night watch suite transitioning to victory party venue",
+    "text_overlay_types": ["dialogue subtitles", "situational title card ('Election Night 7pm')", "graphic text ('MAYOR')"],
+    "visual_themes": ["election night tension", "victory announcement", "behind-the-scenes campaign", "data monitoring", "emotional release at win"]
+  }
+}

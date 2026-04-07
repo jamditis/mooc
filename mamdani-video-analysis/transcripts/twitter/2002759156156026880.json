@@ -1,0 +1,1712 @@
+{
+  "text": " New York City, it is the leading city in the entire world, not in the height of its building, but in the services to its people. It is a privilege to serve as the chief magistrate of a community of 8 million people. It was the spirit of Theodore Roosevelt and Franklin Roosevelt, and they dared to believe that public interests must prevail over special interests. I do not exaggerate when I say that New York is unique in the history of humankind. We have come a long way, so we gather here in the fresh chill of a new year to begin a new administration. Dreaming demands hope. Dreaming demands solidarity. Dreaming demands work. If this campaign has demonstrated anything, it is that our dreams can become reality. This is not my victory. This is ours. Dreaming, wrapped in the pandemic. And now we have to change our focus to the number of threats andfi believes that it becomes rightuous powers. We are the only right to the number of times. To promise we are truly in aujourd'hui and we are willing touria son-!. We have very proud. Thank you.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 11.44,
+      "text": " New York City, it is the leading city in the entire world, not in the height of its building, but in the services to its people.",
+      "tokens": [
+        50365,
+        1873,
+        3609,
+        4392,
+        11,
+        309,
+        307,
+        264,
+        5775,
+        2307,
+        294,
+        264,
+        2302,
+        1002,
+        11,
+        406,
+        294,
+        264,
+        6681,
+        295,
+        1080,
+        2390,
+        11,
+        457,
+        294,
+        264,
+        3328,
+        281,
+        1080,
+        561,
+        13,
+        50938
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1938872969294169,
+      "compression_ratio": 1.6322869955156951,
+      "no_speech_prob": 3.629462615867274e-12,
+      "words": [
+        {
+          "word": " New",
+          "start": 0.0,
+          "end": 1.18,
+          "probability": 0.7742116451263428
+        },
+        {
+          "word": " York",
+          "start": 1.18,
+          "end": 1.46,
+          "probability": 0.997425377368927
+        },
+        {
+          "word": " City,",
+          "start": 1.46,
+          "end": 1.9,
+          "probability": 0.9835802912712097
+        },
+        {
+          "word": " it",
+          "start": 2.18,
+          "end": 2.68,
+          "probability": 0.9905449151992798
+        },
+        {
+          "word": " is",
+          "start": 2.68,
+          "end": 3.0,
+          "probability": 0.9982433319091797
+        },
+        {
+          "word": " the",
+          "start": 3.0,
+          "end": 3.34,
+          "probability": 0.994847297668457
+        },
+        {
+          "word": " leading",
+          "start": 3.34,
+          "end": 3.62,
+          "probability": 0.9983805418014526
+        },
+        {
+          "word": " city",
+          "start": 3.62,
+          "end": 4.24,
+          "probability": 0.9939737915992737
+        },
+        {
+          "word": " in",
+          "start": 4.24,
+          "end": 4.7,
+          "probability": 0.995087206363678
+        },
+        {
+          "word": " the",
+          "start": 4.7,
+          "end": 4.84,
+          "probability": 0.9990142583847046
+        },
+        {
+          "word": " entire",
+          "start": 4.84,
+          "end": 5.3,
+          "probability": 0.9986079335212708
+        },
+        {
+          "word": " world,",
+          "start": 5.3,
+          "end": 5.88,
+          "probability": 0.9987953901290894
+        },
+        {
+          "word": " not",
+          "start": 6.24,
+          "end": 7.06,
+          "probability": 0.9925132393836975
+        },
+        {
+          "word": " in",
+          "start": 7.06,
+          "end": 7.36,
+          "probability": 0.9976931214332581
+        },
+        {
+          "word": " the",
+          "start": 7.36,
+          "end": 7.56,
+          "probability": 0.998880922794342
+        },
+        {
+          "word": " height",
+          "start": 7.56,
+          "end": 7.84,
+          "probability": 0.9983388185501099
+        },
+        {
+          "word": " of",
+          "start": 7.84,
+          "end": 8.08,
+          "probability": 0.9991598129272461
+        },
+        {
+          "word": " its",
+          "start": 8.08,
+          "end": 8.28,
+          "probability": 0.9830523729324341
+        },
+        {
+          "word": " building,",
+          "start": 8.28,
+          "end": 8.68,
+          "probability": 0.9599709510803223
+        },
+        {
+          "word": " but",
+          "start": 8.88,
+          "end": 9.18,
+          "probability": 0.9991674423217773
+        },
+        {
+          "word": " in",
+          "start": 9.18,
+          "end": 9.52,
+          "probability": 0.9989325404167175
+        },
+        {
+          "word": " the",
+          "start": 9.52,
+          "end": 9.9,
+          "probability": 0.9824624061584473
+        },
+        {
+          "word": " services",
+          "start": 9.9,
+          "end": 10.44,
+          "probability": 0.9973698854446411
+        },
+        {
+          "word": " to",
+          "start": 10.44,
+          "end": 10.88,
+          "probability": 0.9980448484420776
+        },
+        {
+          "word": " its",
+          "start": 10.88,
+          "end": 11.06,
+          "probability": 0.9962122440338135
+        },
+        {
+          "word": " people.",
+          "start": 11.06,
+          "end": 11.44,
+          "probability": 0.9991874098777771
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 12.06,
+      "end": 18.42,
+      "text": " It is a privilege to serve as the chief magistrate of a community of 8 million people.",
+      "tokens": [
+        50990,
+        467,
+        307,
+        257,
+        12122,
+        281,
+        4596,
+        382,
+        264,
+        9588,
+        48894,
+        4404,
+        295,
+        257,
+        1768,
+        295,
+        1649,
+        2459,
+        561,
+        13,
+        51289
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1938872969294169,
+      "compression_ratio": 1.6322869955156951,
+      "no_speech_prob": 3.629462615867274e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 12.06,
+          "end": 12.6,
+          "probability": 0.8930531144142151
+        },
+        {
+          "word": " is",
+          "start": 12.6,
+          "end": 12.72,
+          "probability": 0.7765448093414307
+        },
+        {
+          "word": " a",
+          "start": 12.72,
+          "end": 12.82,
+          "probability": 0.9773894548416138
+        },
+        {
+          "word": " privilege",
+          "start": 12.82,
+          "end": 13.18,
+          "probability": 0.996862530708313
+        },
+        {
+          "word": " to",
+          "start": 13.18,
+          "end": 13.86,
+          "probability": 0.998672366142273
+        },
+        {
+          "word": " serve",
+          "start": 13.86,
+          "end": 14.3,
+          "probability": 0.9991579055786133
+        },
+        {
+          "word": " as",
+          "start": 14.3,
+          "end": 14.68,
+          "probability": 0.9953175783157349
+        },
+        {
+          "word": " the",
+          "start": 14.68,
+          "end": 14.84,
+          "probability": 0.9812037348747253
+        },
+        {
+          "word": " chief",
+          "start": 14.84,
+          "end": 15.08,
+          "probability": 0.8538303971290588
+        },
+        {
+          "word": " magistrate",
+          "start": 15.08,
+          "end": 15.92,
+          "probability": 0.9985944926738739
+        },
+        {
+          "word": " of",
+          "start": 15.92,
+          "end": 16.08,
+          "probability": 0.9977756142616272
+        },
+        {
+          "word": " a",
+          "start": 16.08,
+          "end": 16.2,
+          "probability": 0.9968622922897339
+        },
+        {
+          "word": " community",
+          "start": 16.2,
+          "end": 16.7,
+          "probability": 0.9988049268722534
+        },
+        {
+          "word": " of",
+          "start": 16.7,
+          "end": 17.12,
+          "probability": 0.99797123670578
+        },
+        {
+          "word": " 8",
+          "start": 17.12,
+          "end": 17.6,
+          "probability": 0.5877372622489929
+        },
+        {
+          "word": " million",
+          "start": 17.6,
+          "end": 17.9,
+          "probability": 0.9788938164710999
+        },
+        {
+          "word": " people.",
+          "start": 17.9,
+          "end": 18.42,
+          "probability": 0.9984003901481628
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 18.74,
+      "end": 27.14,
+      "text": " It was the spirit of Theodore Roosevelt and Franklin Roosevelt, and they dared to believe that public interests must prevail over special interests.",
+      "tokens": [
+        51319,
+        467,
+        390,
+        264,
+        3797,
+        295,
+        440,
+        34239,
+        28515,
+        293,
+        22010,
+        28515,
+        11,
+        293,
+        436,
+        44564,
+        281,
+        1697,
+        300,
+        1908,
+        8847,
+        1633,
+        46059,
+        670,
+        2121,
+        8847,
+        13,
+        51724
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1938872969294169,
+      "compression_ratio": 1.6322869955156951,
+      "no_speech_prob": 3.629462615867274e-12,
+      "words": [
+        {
+          "word": " It",
+          "start": 18.74,
+          "end": 19.24,
+          "probability": 0.9932485818862915
+        },
+        {
+          "word": " was",
+          "start": 19.24,
+          "end": 19.44,
+          "probability": 0.999194324016571
+        },
+        {
+          "word": " the",
+          "start": 19.44,
+          "end": 19.58,
+          "probability": 0.9985840320587158
+        },
+        {
+          "word": " spirit",
+          "start": 19.58,
+          "end": 19.88,
+          "probability": 0.9963623881340027
+        },
+        {
+          "word": " of",
+          "start": 19.88,
+          "end": 20.08,
+          "probability": 0.9992104768753052
+        },
+        {
+          "word": " Theodore",
+          "start": 20.08,
+          "end": 20.44,
+          "probability": 0.9947875440120697
+        },
+        {
+          "word": " Roosevelt",
+          "start": 20.44,
+          "end": 20.92,
+          "probability": 0.9989930987358093
+        },
+        {
+          "word": " and",
+          "start": 20.92,
+          "end": 21.16,
+          "probability": 0.9956837892532349
+        },
+        {
+          "word": " Franklin",
+          "start": 21.16,
+          "end": 21.48,
+          "probability": 0.9985590577125549
+        },
+        {
+          "word": " Roosevelt,",
+          "start": 21.48,
+          "end": 22.0,
+          "probability": 0.9997350573539734
+        },
+        {
+          "word": " and",
+          "start": 22.12,
+          "end": 22.64,
+          "probability": 0.9993417859077454
+        },
+        {
+          "word": " they",
+          "start": 22.64,
+          "end": 22.82,
+          "probability": 0.9996479749679565
+        },
+        {
+          "word": " dared",
+          "start": 22.82,
+          "end": 23.12,
+          "probability": 0.981351912021637
+        },
+        {
+          "word": " to",
+          "start": 23.12,
+          "end": 23.32,
+          "probability": 0.9994738698005676
+        },
+        {
+          "word": " believe",
+          "start": 23.32,
+          "end": 23.62,
+          "probability": 0.9996945858001709
+        },
+        {
+          "word": " that",
+          "start": 23.62,
+          "end": 23.94,
+          "probability": 0.9969884753227234
+        },
+        {
+          "word": " public",
+          "start": 23.94,
+          "end": 24.44,
+          "probability": 0.997368335723877
+        },
+        {
+          "word": " interests",
+          "start": 24.44,
+          "end": 24.92,
+          "probability": 0.4483736455440521
+        },
+        {
+          "word": " must",
+          "start": 24.92,
+          "end": 25.36,
+          "probability": 0.9987926483154297
+        },
+        {
+          "word": " prevail",
+          "start": 25.36,
+          "end": 25.88,
+          "probability": 0.999010443687439
+        },
+        {
+          "word": " over",
+          "start": 25.88,
+          "end": 26.3,
+          "probability": 0.9996182918548584
+        },
+        {
+          "word": " special",
+          "start": 26.3,
+          "end": 26.72,
+          "probability": 0.9990915060043335
+        },
+        {
+          "word": " interests.",
+          "start": 26.72,
+          "end": 27.14,
+          "probability": 0.9907236695289612
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2714,
+      "start": 27.14,
+      "end": 33.9,
+      "text": " I do not exaggerate when I say that New York is unique in the history of humankind.",
+      "tokens": [
+        50365,
+        286,
+        360,
+        406,
+        19123,
+        473,
+        562,
+        286,
+        584,
+        300,
+        1873,
+        3609,
+        307,
+        3845,
+        294,
+        264,
+        2503,
+        295,
+        1484,
+        40588,
+        13,
+        50704
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11156607627868652,
+      "compression_ratio": 1.3669064748201438,
+      "no_speech_prob": 1.020618312086441e-11,
+      "words": [
+        {
+          "word": " I",
+          "start": 27.14,
+          "end": 28.1,
+          "probability": 0.8235260844230652
+        },
+        {
+          "word": " do",
+          "start": 28.1,
+          "end": 28.34,
+          "probability": 0.9928765892982483
+        },
+        {
+          "word": " not",
+          "start": 28.34,
+          "end": 28.62,
+          "probability": 0.9989770650863647
+        },
+        {
+          "word": " exaggerate",
+          "start": 28.62,
+          "end": 29.52,
+          "probability": 0.9974609315395355
+        },
+        {
+          "word": " when",
+          "start": 29.52,
+          "end": 29.7,
+          "probability": 0.9941190481185913
+        },
+        {
+          "word": " I",
+          "start": 29.7,
+          "end": 29.88,
+          "probability": 0.991685688495636
+        },
+        {
+          "word": " say",
+          "start": 29.88,
+          "end": 30.18,
+          "probability": 0.9992102384567261
+        },
+        {
+          "word": " that",
+          "start": 30.18,
+          "end": 30.46,
+          "probability": 0.9909297823905945
+        },
+        {
+          "word": " New",
+          "start": 30.46,
+          "end": 30.66,
+          "probability": 0.9914344549179077
+        },
+        {
+          "word": " York",
+          "start": 30.66,
+          "end": 30.98,
+          "probability": 0.9984934329986572
+        },
+        {
+          "word": " is",
+          "start": 30.98,
+          "end": 31.32,
+          "probability": 0.9964428544044495
+        },
+        {
+          "word": " unique",
+          "start": 31.32,
+          "end": 31.74,
+          "probability": 0.9986478686332703
+        },
+        {
+          "word": " in",
+          "start": 31.74,
+          "end": 32.08,
+          "probability": 0.9923082590103149
+        },
+        {
+          "word": " the",
+          "start": 32.08,
+          "end": 32.22,
+          "probability": 0.9983950257301331
+        },
+        {
+          "word": " history",
+          "start": 32.22,
+          "end": 32.68,
+          "probability": 0.9989540576934814
+        },
+        {
+          "word": " of",
+          "start": 32.68,
+          "end": 33.22,
+          "probability": 0.9966320395469666
+        },
+        {
+          "word": " humankind.",
+          "start": 33.22,
+          "end": 33.9,
+          "probability": 0.9766245484352112
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2714,
+      "start": 34.68,
+      "end": 43.54,
+      "text": " We have come a long way, so we gather here in the fresh chill of a new year to begin a new administration.",
+      "tokens": [
+        50746,
+        492,
+        362,
+        808,
+        257,
+        938,
+        636,
+        11,
+        370,
+        321,
+        5448,
+        510,
+        294,
+        264,
+        4451,
+        11355,
+        295,
+        257,
+        777,
+        1064,
+        281,
+        1841,
+        257,
+        777,
+        7236,
+        13,
+        51190
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.11156607627868652,
+      "compression_ratio": 1.3669064748201438,
+      "no_speech_prob": 1.020618312086441e-11,
+      "words": [
+        {
+          "word": " We",
+          "start": 34.68,
+          "end": 35.28,
+          "probability": 0.9408503174781799
+        },
+        {
+          "word": " have",
+          "start": 35.28,
+          "end": 35.42,
+          "probability": 0.9935104250907898
+        },
+        {
+          "word": " come",
+          "start": 35.42,
+          "end": 35.58,
+          "probability": 0.9988961219787598
+        },
+        {
+          "word": " a",
+          "start": 35.58,
+          "end": 35.72,
+          "probability": 0.9963513612747192
+        },
+        {
+          "word": " long",
+          "start": 35.72,
+          "end": 35.88,
+          "probability": 0.9994682669639587
+        },
+        {
+          "word": " way,",
+          "start": 35.88,
+          "end": 36.28,
+          "probability": 0.9990074038505554
+        },
+        {
+          "word": " so",
+          "start": 36.5,
+          "end": 37.78,
+          "probability": 0.9900639653205872
+        },
+        {
+          "word": " we",
+          "start": 37.78,
+          "end": 37.94,
+          "probability": 0.996624231338501
+        },
+        {
+          "word": " gather",
+          "start": 37.94,
+          "end": 38.22,
+          "probability": 0.9966813921928406
+        },
+        {
+          "word": " here",
+          "start": 38.22,
+          "end": 38.56,
+          "probability": 0.9972608089447021
+        },
+        {
+          "word": " in",
+          "start": 38.56,
+          "end": 38.76,
+          "probability": 0.9497914910316467
+        },
+        {
+          "word": " the",
+          "start": 38.76,
+          "end": 38.86,
+          "probability": 0.9962886571884155
+        },
+        {
+          "word": " fresh",
+          "start": 38.86,
+          "end": 39.14,
+          "probability": 0.9972214698791504
+        },
+        {
+          "word": " chill",
+          "start": 39.14,
+          "end": 39.5,
+          "probability": 0.9657387733459473
+        },
+        {
+          "word": " of",
+          "start": 39.5,
+          "end": 39.68,
+          "probability": 0.9988597631454468
+        },
+        {
+          "word": " a",
+          "start": 39.68,
+          "end": 39.76,
+          "probability": 0.9863009452819824
+        },
+        {
+          "word": " new",
+          "start": 39.76,
+          "end": 39.9,
+          "probability": 0.9636750221252441
+        },
+        {
+          "word": " year",
+          "start": 39.9,
+          "end": 40.26,
+          "probability": 0.9994220733642578
+        },
+        {
+          "word": " to",
+          "start": 40.26,
+          "end": 42.08,
+          "probability": 0.8805794715881348
+        },
+        {
+          "word": " begin",
+          "start": 42.08,
+          "end": 42.44,
+          "probability": 0.9983697533607483
+        },
+        {
+          "word": " a",
+          "start": 42.44,
+          "end": 42.76,
+          "probability": 0.9988662004470825
+        },
+        {
+          "word": " new",
+          "start": 42.76,
+          "end": 42.96,
+          "probability": 0.9993695616722107
+        },
+        {
+          "word": " administration.",
+          "start": 42.96,
+          "end": 43.54,
+          "probability": 0.9958699345588684
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5714,
+      "start": 58.18,
+      "end": 61.44,
+      "text": " Dreaming demands hope.",
+      "tokens": [
+        50365,
+        12105,
+        278,
+        15107,
+        1454,
+        13,
+        50582
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.432616316753885,
+      "compression_ratio": 1.4509803921568627,
+      "no_speech_prob": 1.4659270325401152e-11,
+      "words": [
+        {
+          "word": " Dreaming",
+          "start": 58.18,
+          "end": 59.58,
+          "probability": 0.867669552564621
+        },
+        {
+          "word": " demands",
+          "start": 59.58,
+          "end": 60.84,
+          "probability": 0.9485090970993042
+        },
+        {
+          "word": " hope.",
+          "start": 60.84,
+          "end": 61.44,
+          "probability": 0.9924032688140869
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5714,
+      "start": 63.14,
+      "end": 65.52,
+      "text": " Dreaming demands solidarity.",
+      "tokens": [
+        50665,
+        12105,
+        278,
+        15107,
+        27220,
+        13,
+        50786
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.432616316753885,
+      "compression_ratio": 1.4509803921568627,
+      "no_speech_prob": 1.4659270325401152e-11,
+      "words": [
+        {
+          "word": " Dreaming",
+          "start": 63.059999999999995,
+          "end": 63.76,
+          "probability": 0.9981208741664886
+        },
+        {
+          "word": " demands",
+          "start": 63.76,
+          "end": 64.84,
+          "probability": 0.9935951828956604
+        },
+        {
+          "word": " solidarity.",
+          "start": 64.84,
+          "end": 65.52,
+          "probability": 0.9919133186340332
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5714,
+      "start": 66.2,
+      "end": 69.04,
+      "text": " Dreaming demands work.",
+      "tokens": [
+        50841,
+        12105,
+        278,
+        15107,
+        589,
+        13,
+        50966
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.432616316753885,
+      "compression_ratio": 1.4509803921568627,
+      "no_speech_prob": 1.4659270325401152e-11,
+      "words": [
+        {
+          "word": " Dreaming",
+          "start": 66.2,
+          "end": 67.2,
+          "probability": 0.9991812705993652
+        },
+        {
+          "word": " demands",
+          "start": 67.2,
+          "end": 68.6,
+          "probability": 0.9963770508766174
+        },
+        {
+          "word": " work.",
+          "start": 68.6,
+          "end": 69.04,
+          "probability": 0.984067976474762
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 6904,
+      "start": 69.04,
+      "end": 77.02,
+      "text": " If this campaign has demonstrated anything, it is that our dreams can become reality.",
+      "tokens": [
+        50365,
+        759,
+        341,
+        5129,
+        575,
+        18772,
+        1340,
+        11,
+        309,
+        307,
+        300,
+        527,
+        7505,
+        393,
+        1813,
+        4103,
+        13,
+        50768
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29206076790304747,
+      "compression_ratio": 1.23,
+      "no_speech_prob": 2.3114534591917035e-11,
+      "words": [
+        {
+          "word": " If",
+          "start": 69.04,
+          "end": 70.26,
+          "probability": 0.791111171245575
+        },
+        {
+          "word": " this",
+          "start": 70.26,
+          "end": 70.52,
+          "probability": 0.9967203736305237
+        },
+        {
+          "word": " campaign",
+          "start": 70.52,
+          "end": 71.12,
+          "probability": 0.9973588585853577
+        },
+        {
+          "word": " has",
+          "start": 71.12,
+          "end": 71.86,
+          "probability": 0.9909118413925171
+        },
+        {
+          "word": " demonstrated",
+          "start": 71.86,
+          "end": 72.52,
+          "probability": 0.9976069927215576
+        },
+        {
+          "word": " anything,",
+          "start": 72.52,
+          "end": 73.14,
+          "probability": 0.9979288578033447
+        },
+        {
+          "word": " it",
+          "start": 73.46,
+          "end": 73.94,
+          "probability": 0.9907028675079346
+        },
+        {
+          "word": " is",
+          "start": 73.94,
+          "end": 74.04,
+          "probability": 0.9975243210792542
+        },
+        {
+          "word": " that",
+          "start": 74.04,
+          "end": 74.2,
+          "probability": 0.9992272853851318
+        },
+        {
+          "word": " our",
+          "start": 74.2,
+          "end": 74.54,
+          "probability": 0.9986441731452942
+        },
+        {
+          "word": " dreams",
+          "start": 74.54,
+          "end": 75.08,
+          "probability": 0.9967731833457947
+        },
+        {
+          "word": " can",
+          "start": 75.08,
+          "end": 76.12,
+          "probability": 0.9909142255783081
+        },
+        {
+          "word": " become",
+          "start": 76.12,
+          "end": 76.5,
+          "probability": 0.9993826150894165
+        },
+        {
+          "word": " reality.",
+          "start": 76.5,
+          "end": 77.02,
+          "probability": 0.9968626499176025
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 6904,
+      "start": 79.76,
+      "end": 82.22,
+      "text": " This is not my victory.",
+      "tokens": [
+        50896,
+        639,
+        307,
+        406,
+        452,
+        9812,
+        13,
+        51025
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29206076790304747,
+      "compression_ratio": 1.23,
+      "no_speech_prob": 2.3114534591917035e-11,
+      "words": [
+        {
+          "word": " This",
+          "start": 79.76,
+          "end": 80.74,
+          "probability": 0.994644284248352
+        },
+        {
+          "word": " is",
+          "start": 80.74,
+          "end": 81.02,
+          "probability": 0.9995700716972351
+        },
+        {
+          "word": " not",
+          "start": 81.02,
+          "end": 81.34,
+          "probability": 0.9980413913726807
+        },
+        {
+          "word": " my",
+          "start": 81.34,
+          "end": 81.72,
+          "probability": 0.9993274211883545
+        },
+        {
+          "word": " victory.",
+          "start": 81.72,
+          "end": 82.22,
+          "probability": 0.9997195601463318
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 6904,
+      "start": 82.72,
+      "end": 84.36,
+      "text": " This is ours.",
+      "tokens": [
+        51053,
+        639,
+        307,
+        11896,
+        13,
+        51137
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.29206076790304747,
+      "compression_ratio": 1.23,
+      "no_speech_prob": 2.3114534591917035e-11,
+      "words": [
+        {
+          "word": " This",
+          "start": 82.72,
+          "end": 83.56,
+          "probability": 0.9993247985839844
+        },
+        {
+          "word": " is",
+          "start": 83.56,
+          "end": 83.86,
+          "probability": 0.9998736381530762
+        },
+        {
+          "word": " ours.",
+          "start": 83.86,
+          "end": 84.36,
+          "probability": 0.998595654964447
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8436,
+      "start": 85.4,
+      "end": 85.86,
+      "text": " Dreaming, wrapped in the pandemic.",
+      "tokens": [
+        50365,
+        12105,
+        278,
+        11,
+        14226,
+        294,
+        264,
+        5388,
+        13,
+        50865
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": [
+        {
+          "word": " Dreaming,",
+          "start": 85.4,
+          "end": 85.68,
+          "probability": 0.05093424464939744
+        },
+        {
+          "word": " wrapped",
+          "start": 85.68,
+          "end": 85.68,
+          "probability": 1.0530149666010402e-05
+        },
+        {
+          "word": " in",
+          "start": 85.68,
+          "end": 85.86,
+          "probability": 0.21386756002902985
+        },
+        {
+          "word": " the",
+          "start": 85.86,
+          "end": 85.86,
+          "probability": 0.2501666843891144
+        },
+        {
+          "word": " pandemic.",
+          "start": 85.86,
+          "end": 85.86,
+          "probability": 0.0010219273390248418
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8436,
+      "start": 85.86,
+      "end": 86.06,
+      "text": " And now we have to change our focus to the number of threats",
+      "tokens": [
+        50965,
+        400,
+        586,
+        321,
+        362,
+        281,
+        1319,
+        527,
+        1879,
+        281,
+        264,
+        1230,
+        295,
+        14909,
+        51390
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": [
+        {
+          "word": " And",
+          "start": 85.86,
+          "end": 85.86,
+          "probability": 0.027719803154468536
+        },
+        {
+          "word": " now",
+          "start": 85.86,
+          "end": 85.86,
+          "probability": 0.1154739111661911
+        },
+        {
+          "word": " we",
+          "start": 85.86,
+          "end": 85.9,
+          "probability": 0.14072798192501068
+        },
+        {
+          "word": " have",
+          "start": 85.9,
+          "end": 85.9,
+          "probability": 0.1205902099609375
+        },
+        {
+          "word": " to",
+          "start": 85.9,
+          "end": 85.9,
+          "probability": 0.19485120475292206
+        },
+        {
+          "word": " change",
+          "start": 85.9,
+          "end": 85.9,
+          "probability": 0.005011436995118856
+        },
+        {
+          "word": " our",
+          "start": 85.9,
+          "end": 85.9,
+          "probability": 0.1872636377811432
+        },
+        {
+          "word": " focus",
+          "start": 85.9,
+          "end": 86.06,
+          "probability": 0.0030847874004393816
+        },
+        {
+          "word": " to",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 0.038364995270967484
+        },
+        {
+          "word": " the",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 0.18513908982276917
+        },
+        {
+          "word": " number",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 0.0016797918360680342
+        },
+        {
+          "word": " of",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 0.574165940284729
+        },
+        {
+          "word": " threats",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 9.960259194485843e-05
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8436,
+      "start": 86.06,
+      "end": 86.08,
+      "text": " andfi believes that it becomes rightuous powers.",
+      "tokens": [
+        51434,
+        293,
+        13325,
+        12307,
+        300,
+        309,
+        3643,
+        558,
+        12549,
+        8674,
+        13,
+        51544
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": [
+        {
+          "word": " andfi",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 0.0477021870237877
+        },
+        {
+          "word": " believes",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 8.171724402927794e-06
+        },
+        {
+          "word": " that",
+          "start": 86.06,
+          "end": 86.06,
+          "probability": 0.3916659355163574
+        },
+        {
+          "word": " it",
+          "start": 86.06,
+          "end": 86.08,
+          "probability": 0.03363422304391861
+        },
+        {
+          "word": " becomes",
+          "start": 86.08,
+          "end": 86.08,
+          "probability": 0.0018638904439285398
+        },
+        {
+          "word": " rightuous",
+          "start": 86.08,
+          "end": 86.08,
+          "probability": 0.000699529584380798
+        },
+        {
+          "word": " powers.",
+          "start": 86.08,
+          "end": 86.08,
+          "probability": 3.494855036478839e-07
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8436,
+      "start": 86.08,
+      "end": 86.08,
+      "text": "",
+      "tokens": [],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": []
+    },
+    {
+      "id": 15,
+      "seek": 8436,
+      "start": 86.08,
+      "end": 87.26,
+      "text": " We are the only right to the number of times.",
+      "tokens": [
+        51582,
+        492,
+        366,
+        264,
+        787,
+        558,
+        281,
+        264,
+        1230,
+        295,
+        1413,
+        13,
+        51640
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 86.08,
+          "end": 86.08,
+          "probability": 0.29043734073638916
+        },
+        {
+          "word": " are",
+          "start": 86.08,
+          "end": 86.08,
+          "probability": 0.09655486792325974
+        },
+        {
+          "word": " the",
+          "start": 86.08,
+          "end": 86.08,
+          "probability": 0.06678678840398788
+        },
+        {
+          "word": " only",
+          "start": 86.08,
+          "end": 86.1,
+          "probability": 0.07505221664905548
+        },
+        {
+          "word": " right",
+          "start": 86.1,
+          "end": 86.32,
+          "probability": 0.0008943172288127244
+        },
+        {
+          "word": " to",
+          "start": 86.32,
+          "end": 86.34,
+          "probability": 0.19406676292419434
+        },
+        {
+          "word": " the",
+          "start": 86.34,
+          "end": 86.34,
+          "probability": 0.0786910131573677
+        },
+        {
+          "word": " number",
+          "start": 86.34,
+          "end": 86.34,
+          "probability": 0.03545072674751282
+        },
+        {
+          "word": " of",
+          "start": 86.34,
+          "end": 86.66,
+          "probability": 0.9341399073600769
+        },
+        {
+          "word": " times.",
+          "start": 86.66,
+          "end": 87.26,
+          "probability": 0.006614256650209427
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8436,
+      "start": 87.26,
+      "end": 89.24,
+      "text": " To promise we are truly in aujourd'hui and we are willing touria son-!.",
+      "tokens": [
+        51640,
+        1407,
+        6228,
+        321,
+        366,
+        4908,
+        294,
+        14023,
+        6,
+        10556,
+        293,
+        321,
+        366,
+        4950,
+        281,
+        37299,
+        1872,
+        12,
+        37817,
+        51676
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": [
+        {
+          "word": " To",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 0.003737569786608219
+        },
+        {
+          "word": " promise",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 0.00018800327961798757
+        },
+        {
+          "word": " we",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 0.025731433182954788
+        },
+        {
+          "word": " are",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 0.13125011324882507
+        },
+        {
+          "word": " truly",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 0.002417156705632806
+        },
+        {
+          "word": " in",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 0.025427471846342087
+        },
+        {
+          "word": " aujourd",
+          "start": 87.26,
+          "end": 87.26,
+          "probability": 4.402868853503605e-06
+        },
+        {
+          "word": "'hui",
+          "start": 87.26,
+          "end": 87.38,
+          "probability": 0.4860255718231201
+        },
+        {
+          "word": " and",
+          "start": 87.38,
+          "end": 87.38,
+          "probability": 0.07103220373392105
+        },
+        {
+          "word": " we",
+          "start": 87.38,
+          "end": 89.22,
+          "probability": 0.0983903631567955
+        },
+        {
+          "word": " are",
+          "start": 89.22,
+          "end": 89.22,
+          "probability": 0.2246026247739792
+        },
+        {
+          "word": " willing",
+          "start": 89.22,
+          "end": 89.22,
+          "probability": 0.0038197541143745184
+        },
+        {
+          "word": " touria",
+          "start": 89.22,
+          "end": 89.24,
+          "probability": 0.4946404355238201
+        },
+        {
+          "word": " son",
+          "start": 89.24,
+          "end": 89.24,
+          "probability": 6.742061668774113e-05
+        },
+        {
+          "word": "-!.",
+          "start": 89.24,
+          "end": 89.24,
+          "probability": 0.008733207145724009
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8436,
+      "start": 89.24,
+      "end": 89.34,
+      "text": " We have very proud.",
+      "tokens": [
+        51676,
+        492,
+        362,
+        588,
+        4570,
+        13,
+        51679
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.04996859089712,
+      "compression_ratio": 1.5714285714285714,
+      "no_speech_prob": 9.716047411068018e-12,
+      "words": [
+        {
+          "word": " We",
+          "start": 89.24,
+          "end": 89.34,
+          "probability": 0.22776362299919128
+        },
+        {
+          "word": " have",
+          "start": 89.34,
+          "end": 89.34,
+          "probability": 0.05341704562306404
+        },
+        {
+          "word": " very",
+          "start": 89.34,
+          "end": 89.34,
+          "probability": 0.0004811387916561216
+        },
+        {
+          "word": " proud.",
+          "start": 89.34,
+          "end": 89.34,
+          "probability": 0.00828456599265337
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 8934,
+      "start": 89.34,
+      "end": 89.36,
+      "text": " Thank you.",
+      "tokens": [
+        50365,
+        1044,
+        291,
+        13,
+        51864
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.5181032419204712,
+      "compression_ratio": 0.5555555555555556,
+      "no_speech_prob": 1.1001622529649424e-10,
+      "words": [
+        {
+          "word": " Thank",
+          "start": 89.34,
+          "end": 89.36,
+          "probability": 0.18711593747138977
+        },
+        {
+          "word": " you.",
+          "start": 89.36,
+          "end": 89.36,
+          "probability": 0.9980962872505188
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

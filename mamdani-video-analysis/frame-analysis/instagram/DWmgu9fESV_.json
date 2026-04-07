@@ -1,0 +1,44 @@
+{
+  "video_id": "DWmgu9fESV_",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Overhead shot of a Passover seder table with deep blue tablecloth, seder plate, matzah, wine glasses, and ritual items. Hands are visible interacting with the food.",
+      "visual_elements": [
+        "seder plate with symbolic foods (shank bone, greens, egg, bitter herbs, charoset)",
+        "matzah",
+        "wine glasses filled with red wine",
+        "wine bottle (label partially visible)",
+        "blue tablecloth",
+        "overhead and close-up camera angles",
+        "warm cinematic lighting"
+      ],
+      "presentation_style": "Cinematic observational footage without narration or text overlay. Intimate close-ups of hands and ritual objects. No talking-head framing."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [],
+      "setting": "Single frame showing a dark blue background with the NYC mayoral seal (white circular emblem with eagle, shield, and figures, dated 1625).",
+      "visual_elements": [
+        "NYC mayoral seal on navy blue background",
+        "official government branding as outro/endcard"
+      ],
+      "presentation_style": "Official government branding endcard. Minimal — seal only on solid color field."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Passover seder table (overhead cinematic shots) transitioning to official NYC mayoral seal endcard",
+    "text_overlay_types": [],
+    "visual_themes": [
+      "Jewish holiday observance",
+      "ritual food and ceremony",
+      "intimate table-level cinematography",
+      "official government branding",
+      "cultural celebration"
+    ]
+  }
+}

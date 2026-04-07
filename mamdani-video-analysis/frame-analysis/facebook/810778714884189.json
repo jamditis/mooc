@@ -1,0 +1,28 @@
+{
+  "video_id": "810778714884189",
+  "platform": "facebook",
+  "title": "Happy Passover, Chag Pesach Sameach",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Overhead and close-up shots of a Passover seder table; deep blue tablecloth with traditional seder plate, matzah, wine, and other ritual items",
+      "visual_elements": ["seder plate with symbolic foods", "matzah", "wine being poured", "blue ceramic dishes", "hands interacting with ritual items", "warm atmospheric lighting", "blue tablecloth"],
+      "presentation_style": "Cinematic close-up b-roll of seder table; no text overlay; documentary/vignette style"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "approximately 0:09-0:18",
+      "on_screen_text": [],
+      "setting": "Single frame showing NYC official seal on a dark blue background; likely a closing card or transition frame",
+      "visual_elements": ["NYC official seal (circular medallion)", "dark blue background", "formal government branding"],
+      "presentation_style": "Closing card with official city branding; no spoken content visible"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Passover seder table with ritual foods; closes on NYC official seal card",
+    "text_overlay_types": [],
+    "visual_themes": ["Passover / Jewish holiday celebration", "ritual food photography", "cultural observance", "NYC government closing card", "intimate and warm aesthetic"]
+  }
+}

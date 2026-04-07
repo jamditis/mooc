@@ -1,0 +1,79 @@
+{
+  "video_id": "7582675039246454071",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "OKAY NOT TOO BAD",
+        "I THINK I MAY HAVE DONE",
+        "Did you just hurt yourself?",
+        "I'm a quality",
+        "You're my boss.",
+        "Your boss.",
+        "Million people",
+        "When you won the election?"
+      ],
+      "setting": "Wood-paneled conference or meeting room; Mamdani seated and being interviewed by a child with a microphone",
+      "visual_elements": [
+        "Mamdani in brown tweed suit with microphone held to him",
+        "Black child interviewer in yellow outfit with a large microphone",
+        "Wood-paneled wall background",
+        "Formal interview format with child as journalist",
+        "Casual and comedic dynamic"
+      ],
+      "presentation_style": "Mock interview / kid journalist format; subtitle captions in bold colored text; comedic and warm tone"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "FOR MORE THAN ONE YEAR",
+        "CALLED LIKE THAT",
+        "WHAT MAKES SOMEONE",
+        "WHO LISTENS TO PEOPLE",
+        "IS SOMEONE",
+        "TO WHAT PEOPLE ARE SAYING",
+        "GET THAT FROM",
+        "LET'S SAY YOU WERE MAYOR"
+      ],
+      "setting": "Same wood-paneled room; now also includes a second child interviewer (white boy in shirt and tie)",
+      "visual_elements": [
+        "Two child interviewers — one Black girl in yellow outfit, one white boy in button-down and tie",
+        "Both children holding large microphones",
+        "Mamdani responding to their questions earnestly",
+        "Formal child journalist aesthetic",
+        "Interview questions visible in subtitle captions"
+      ],
+      "presentation_style": "Two-child journalist panel interview with Mamdani; bold subtitle captions tracking questions and answers; playful and sincere"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "MAYBE MAKE THINGS",
+        "FOR LIKE HOUSES?",
+        "DO I CAN RUN FOR MAYOR?",
+        "CAN YOU JUST SAY, WIN",
+        "SHOUT OUT RAMA!",
+        "SHOUT OUT RAMA!",
+        "FOR EVERYTHING YOU HAVE"
+      ],
+      "setting": "Same interview room; group dynamics shift as children assert themselves more",
+      "visual_elements": [
+        "Boy child taking over the interview and asking about running for mayor",
+        "Black girl shouting 'SHOUT OUT RAMA!' enthusiastically",
+        "Mamdani laughing genuinely",
+        "Second male interviewer from the campaign team/production also laughing",
+        "Energy escalates with children taking control"
+      ],
+      "presentation_style": "Comedic escalation of child interview format; bold colored subtitle captions; authentic laughter and improvisation"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Wood-paneled conference/interview room",
+    "text_overlay_types": ["bold colored subtitle captions (all caps)", "dialogue question-and-answer captions"],
+    "visual_themes": ["child journalist interview format", "accessibility and humor", "kids asking policy questions", "genuinely funny interaction", "grassroots authenticity"]
+  }
+}

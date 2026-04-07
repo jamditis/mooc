@@ -1,0 +1,84 @@
+{
+  "video_id": "2003979931135492097",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-18s",
+      "on_screen_text": [
+        "The holidays are about being home...",
+        "from work or school.",
+        "childcare continues all the same.",
+        "Here's the reality for a family in New York.",
+        "$380,000 a year.",
+        "and that's just for a single toddler.",
+        "After rent, it's the biggest cost burden.",
+        "then love.",
+        "In 2022, that's $23 billion."
+      ],
+      "setting": "Childcare center or daycare classroom with colorful toys and educational materials visible, and a formal indoor space for direct-to-camera address",
+      "visual_elements": [
+        "man in suit standing in daycare/childcare setting with toy bins visible",
+        "children playing in background",
+        "direct-to-camera address segments in neutral interior",
+        "white subtitle captions throughout"
+      ],
+      "presentation_style": "policy explainer video with mix of location footage in childcare setting and direct-to-camera narration, heavy subtitle use"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-27s",
+      "on_screen_text": [
+        "That gives us universal, no-cost childcare",
+        "for every family.",
+        "and shoutout to the childcare workers.",
+        "but if anyone could build it right.",
+        "families and childcare workers.",
+        "Because with universal childcare,",
+        "More babies born in New York City,",
+        "more kids raised as New Yorkers.",
+        "they deserve."
+      ],
+      "setting": "Childcare center with colorful classroom decor, bookshelves, children's art visible; also a darker studio backdrop for direct address",
+      "visual_elements": [
+        "man interacting with children and childcare workers",
+        "classroom environment with educational posters",
+        "direct-to-camera segments with dark curtain backdrop",
+        "children playing with blocks and toys",
+        "name badge visible on childcare worker"
+      ],
+      "presentation_style": "policy advocacy video blending on-site childcare facility footage with direct-to-camera policy argument, subtitle captions throughout"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "27s-end",
+      "on_screen_text": [
+        "Happy holidays,",
+        "A NEW ERA",
+        "for NEW YORK CITY"
+      ],
+      "setting": "Dark curtain backdrop for final direct-to-camera address, then campaign brand end card",
+      "visual_elements": [
+        "man in suit and tie smiling, speaking directly to camera",
+        "dark teal/grey curtain backdrop",
+        "bold 'A NEW ERA for NEW YORK CITY' campaign logo in red and blue on black background",
+        "logo appears twice side-by-side"
+      ],
+      "presentation_style": "holiday policy message closing with campaign brand end card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Childcare center or daycare classroom, plus direct-to-camera with dark curtain backdrop",
+    "text_overlay_types": [
+      "subtitle captions with policy statistics",
+      "campaign end card logo"
+    ],
+    "visual_themes": [
+      "universal childcare policy",
+      "cost-of-living concerns",
+      "family affordability",
+      "holiday messaging",
+      "campaign brand identity"
+    ]
+  }
+}

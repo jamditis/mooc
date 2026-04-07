@@ -1,0 +1,60 @@
+{
+  "video_id": "992279556558448",
+  "platform": "facebook",
+  "title": "What New Yorkers should know about the budget",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "how the budget process worked.",
+        "Well my friends, we're in the middle of it now.",
+        "just released her budget proposal.",
+        "$5.4 billion fiscal gap",
+        "without taxing the rich or cutting services.",
+        "The problem? That's not what it would do.",
+        "it would result in slashing",
+        "and working New Yorkers would pay the price",
+        "it double counts savings,"
+      ],
+      "setting": "Indoor office setting; speaker seated at a wooden desk with a dark leather chair; bookshelves and neutral walls visible in background",
+      "visual_elements": ["wooden desk", "dark leather chair", "bookshelf background", "dark suit and tie", "watch on wrist", "white subtitle text at bottom of frames"],
+      "presentation_style": "Direct-to-camera talking head; vertical/portrait format; white subtitle captions; conversational explainer style"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "approximately 0:09-0:18",
+      "on_screen_text": [
+        "savings on interest payments.",
+        "And in the midst of this historic budget deficit,",
+        "the speaker's $6 billion proposal",
+        "more time to reduce class sizes.",
+        "My position? Tax the rich.",
+        "and most profitable corporations",
+        "End the drain.",
+        "than the City has received in return.",
+        "and I'm working with Albany to change that."
+      ],
+      "setting": "Same indoor office setting; speaker at desk with bookshelf background",
+      "visual_elements": ["wooden desk", "dark leather chair", "bookshelf", "dark suit and tie", "white subtitle captions"],
+      "presentation_style": "Continuation of direct-to-camera explainer; vertical format; white subtitle captions"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "approximately 0:18-0:27",
+      "on_screen_text": [
+        "It will repeat.",
+        "asking future generations",
+        "We will solve this budget crisis."
+      ],
+      "setting": "Same indoor office setting at desk; final frames show only a few clips before video ends",
+      "visual_elements": ["wooden desk", "dark suit and tie", "white subtitle captions", "bookshelf partially visible"],
+      "presentation_style": "Closing segment of direct-to-camera explainer; vertical format"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Indoor office / desk setting with bookshelf background",
+    "text_overlay_types": ["white subtitle captions throughout", "no graphic overlays or branded lower thirds"],
+    "visual_themes": ["budget policy explainer", "direct-to-camera address", "tax the rich messaging", "fiscal gap critique", "vertical video format for social media"]
+  }
+}

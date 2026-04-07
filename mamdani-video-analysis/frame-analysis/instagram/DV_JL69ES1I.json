@@ -1,0 +1,98 @@
+{
+  "video_id": "DV_JL69ES1I",
+  "platform": "instagram",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [
+        "are the staples of our communities",
+        "KENNY MINA, Commissioner, NYC Business Services (lower-third name tag)",
+        "especially as revenues change throughout the year",
+        "Applications now open: NYC Future Fund (lower-third graphic with logo)",
+        "that applications are once again open",
+        "and without them, our city would not survive.",
+        "keeping the lights on can be a challenge",
+        "to make sure that small businesses succeed",
+        "have a loan program catered to their individual needs"
+      ],
+      "setting": "Formal government office/room with bookshelf backdrop and toy building props (representing city businesses). Mamdani and Kenny Mina (Commissioner, NYC Business Services) present together. Red, white, and blue toy/model buildings on table.",
+      "visual_elements": [
+        "toy/model city buildings as prop (red, white, blue storefronts)",
+        "Kenny Mina lower-third name tag",
+        "'NYC Future Fund' application logo/lower-third graphic",
+        "white subtitle captions",
+        "formal office backdrop with bookshelves",
+        "two-shot framing (Mamdani and Commissioner)"
+      ],
+      "presentation_style": "Policy announcement video with a city commissioner. Uses toy building props as visual metaphor for small business neighborhoods. Lower-third branding for the NYC Future Fund."
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [
+        "such as",
+        "Minimum Revenue: $50,000 (info graphic overlay)",
+        "Minimum Loan Size: $25,000 (info graphic overlay)",
+        "Reduced Interest Rate: 7.5% (info graphic overlay)",
+        "Flexible Repayment Terms (info graphic overlay)",
+        "lower minimum loan size,",
+        "and flexible monthly repayment terms",
+        "that adjust with seasonal revenues",
+        "shouldn't put your business on pause for",
+        "so that the local businesses that make our city great",
+        "Whether you're a restaurant or other business",
+        "for the entrepreneurs who support our neighborhoods",
+        "in the five boroughs,"
+      ],
+      "setting": "Same formal office. Mamdani and Kenny Mina continue explaining loan terms. An infographic card appears on screen listing loan terms (Minimum Revenue $50k, Minimum Loan Size $25k, Rate 7.5%, Flexible Repayment Terms).",
+      "visual_elements": [
+        "loan terms infographic overlay (blue/purple card with bullet points)",
+        "toy building props continue",
+        "two-shot and single-shot alternating",
+        "white subtitle captions",
+        "formal office setting"
+      ],
+      "presentation_style": "Detailed policy explainer with on-screen infographic listing specific loan program terms. More data-dense than typical social video. Two-person format with commissioner adds credibility."
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-0:27",
+      "on_screen_text": [
+        "small businesses are the beating heart",
+        "Apply now at nyc.gov/futurefund (yellow bold URL text overlay)",
+        "So apply for the NYC Future Fund.",
+        "with big dreams.",
+        "NYC mayoral seal (endcard)"
+      ],
+      "setting": "Final frames: Kenny Mina solo shot in a blue formal room (curtains, columns visible). Two shots of Mamdani and Mina together with yellow 'Apply now at nyc.gov/futurefund' URL overlay. NYC mayoral seal endcard on plain background.",
+      "visual_elements": [
+        "yellow bold 'Apply now at nyc.gov/futurefund' CTA overlay",
+        "two-shot with toy buildings in background",
+        "formal blue room with curtains and columns",
+        "NYC mayoral seal endcard",
+        "white subtitle captions"
+      ],
+      "presentation_style": "Strong CTA closing with URL in yellow bold text. Mayoral seal endcard. Official government announcement style with clear action prompt."
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Formal office/government room with toy model buildings as props representing NYC small business neighborhoods",
+    "text_overlay_types": [
+      "white spoken-word subtitle captions",
+      "lower-third name tag (Kenny Mina, Commissioner)",
+      "loan terms infographic card overlay",
+      "yellow bold CTA URL (nyc.gov/futurefund)",
+      "'NYC Future Fund' program graphic",
+      "NYC mayoral seal endcard"
+    ],
+    "visual_themes": [
+      "small business loan program announcement",
+      "NYC Future Fund promotion",
+      "city commissioner collaboration",
+      "toy building prop metaphor for NYC businesses",
+      "specific loan term education (rates, minimums)",
+      "CTA-driven government announcement"
+    ]
+  }
+}

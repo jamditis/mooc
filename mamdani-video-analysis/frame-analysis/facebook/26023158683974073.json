@@ -1,0 +1,36 @@
+{
+  "video_id": "26023158683974073",
+  "platform": "facebook",
+  "title": "Press Conference - Announcement",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Large indoor ceremonial hall (appears to be NYC City Hall or similar grand venue); grand staircase with ornate railings; US and NYC flags; packed crowd of officials and attendees; podium with NYC seal",
+      "visual_elements": ["NYC official podium with seal", "ornate staircase backdrop", "US and NYC flags", "large crowd of approximately 50+ officials and attendees", "formal business attire", "grand indoor venue with high ceilings"],
+      "presentation_style": "Wide establishing shot of large formal indoor press event; grand ceremonial setting"
+    },
+    {
+      "grid": "grid_0441.jpg",
+      "timestamp_range": "approximately 2:27-2:36",
+      "on_screen_text": [],
+      "setting": "Same ceremonial hall; tighter group shot showing diverse coalition of officials at and flanking the podium; NYC seal clearly visible",
+      "visual_elements": ["NYC official podium with seal", "diverse group of officials", "ornate hall interior", "US and NYC flags", "formal attire", "large crowd visible in background"],
+      "presentation_style": "Medium group shot at podium; large diverse coalition visible"
+    },
+    {
+      "grid": "grid_0882.jpg",
+      "timestamp_range": "approximately 4:54-5:03",
+      "on_screen_text": [],
+      "setting": "Same ceremonial hall; post-announcement scene with officials embracing, congratulating each other, and dispersing; celebratory atmosphere",
+      "visual_elements": ["NYC podium area", "officials embracing and congratulating each other", "ornate hall interior", "some attendees beginning to leave", "celebratory body language"],
+      "presentation_style": "Candid post-announcement celebration; officials reacting warmly to news"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Grand ceremonial indoor hall (likely NYC City Hall) with ornate staircase and large crowd",
+    "text_overlay_types": [],
+    "visual_themes": ["major formal announcement", "large coalition of officials", "celebratory press conference", "City Hall ceremonial setting", "crowd-filled indoor event"]
+  }
+}

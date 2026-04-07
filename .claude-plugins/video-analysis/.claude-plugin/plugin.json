@@ -1,0 +1,10 @@
+{
+  "name": "video-analysis",
+  "version": "0.1.0",
+  "description": "Multi-platform social media video content analysis pipeline: download, transcribe, extract frames, analyze visuals, and build interactive dashboards.",
+  "author": {
+    "name": "Joe Amditis",
+    "email": "jamditis@gmail.com"
+  },
+  "keywords": ["video", "transcription", "whisper", "social-media", "content-analysis", "dashboard"]
+}

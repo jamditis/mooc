@@ -1,0 +1,65 @@
+{
+  "video_id": "qZdCGroDHHo",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": [],
+      "setting": "Large open white-walled event or rehearsal space with white folding chairs arranged in a circle or rows; participants wear name badge lanyards; diverse group of people seated, standing, and speaking; one frame shows a woman at a podium or standing in front of a whiteboard/screen",
+      "visual_elements": [
+        "White-walled open loft or studio space",
+        "White folding chairs",
+        "Participants with name badge lanyards",
+        "Large group listening session or workshop setup",
+        "One woman speaking from a standing position on camera (interview-style, lighter background)",
+        "Diverse group of attendees",
+        "Natural or flat fluorescent lighting"
+      ],
+      "presentation_style": "Town hall or listening session documentary; multi-person, multi-angle coverage; observational style with no text overlays"
+    },
+    {
+      "grid": "grid_0009.jpg",
+      "timestamp_range": "0:09-0:18",
+      "on_screen_text": [],
+      "setting": "Same open white loft space; participants seated in folding chairs; candidate now present, writing in a notebook at a desk; close-up of candidate's face in one frame",
+      "visual_elements": [
+        "Candidate in dark suit, seated, writing notes",
+        "Attendees with name badges including a person in a keffiyeh",
+        "Black curtain visible in background of some frames",
+        "Close-up of candidate's focused, attentive expression",
+        "Another individual in a beige suit also taking notes"
+      ],
+      "presentation_style": "Close observation of the candidate actively listening and documenting; emphasis on attentiveness; no graphic elements or text"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "0:18-end",
+      "on_screen_text": [
+        "a NEW ERA for NYC"
+      ],
+      "setting": "Same space; final frames show candidate reviewing printed materials (appears to be letters or testimonies); closing frame shows campaign logo on black background",
+      "visual_elements": [
+        "Candidate in suit reading printed documents",
+        "Attendees still visible in background",
+        "A red rose on the desk next to the candidate",
+        "Campaign brand card: 'a NEW ERA for NYC' in stylized font on black",
+        "Multiple close-up angles of the candidate reading"
+      ],
+      "presentation_style": "Closes with campaign branding; overall video documents the 'Mayor is listening' concept through a structured community session; candidate shown as engaged and note-taking throughout"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Large open white studio or loft space configured as a community listening session with folding chairs",
+    "text_overlay_types": [
+      "Campaign slogan outro card ('a NEW ERA for NYC')"
+    ],
+    "visual_themes": [
+      "Community listening session format",
+      "Diverse constituent participation",
+      "Candidate as active listener and note-taker",
+      "Institutional-neutral white space",
+      "Name badges and organized civic engagement"
+    ]
+  }
+}

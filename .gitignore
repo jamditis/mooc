@@ -3,3 +3,15 @@
 
 # PDF reports (large binaries - source: https://centerforcooperativemedia.org/annual-reports/)
 reports/*.pdf
+
+# Playwright MCP debug logs
+.playwright-mcp/
+
+# Frame grid composites (216MB+ regenerable from raw frames)
+mamdani-video-analysis/frame-grids/
+
+# Screenshots in repo root (working artifacts)
+/*.png
+
+# Windows metadata
+desktop.ini

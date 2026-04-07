@@ -1,0 +1,773 @@
+{
+  "project": "mamdani-video-analysis",
+  "created": "2026-04-01",
+  "sources": {
+    "twitter": "https://twitter.com/ZohranKMamdani/media",
+    "tiktok": "https://www.tiktok.com/@zohran_k_mamdani",
+    "youtube": "https://www.youtube.com/@ZohranforNYC",
+    "instagram": "https://www.instagram.com/nycmayor/",
+    "facebook": "https://www.facebook.com/NYCMayor/reels/"
+  },
+  "videos": [
+    {
+      "id": "DWmgu9fESV_",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-04-01",
+      "duration": 30.03,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWmgu9fESV_/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWmgu9fESV_.mp4",
+      "description": "Happy Passover, Chag Pesach Sameach, and a Zissen un Koshern Pesach!"
+    },
+    {
+      "id": "DWmWUe3EZ1V",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-04-01",
+      "duration": 65.815,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWmWUe3EZ1V/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWmWUe3EZ1V.mp4",
+      "description": "What New Yorkers should know about the budget proposal that New York City Council released today."
+    },
+    {
+      "id": "1238505278271315",
+      "title": "Mayor Mamdani Holds Press Conference to Make a Child Care Announcement",
+      "upload_date": "2026-04-01",
+      "duration": 1681.766,
+      "source_url": "https://m.facebook.com/watch/?v=1238505278271315&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1238505278271315.mp4",
+      "description": "Mayor Mamdani Holds Press Conference to Make a Child Care Announcement"
+    },
+    {
+      "id": "810778714884189",
+      "title": "142K views · 453 reactions | Happy Passover, Chag Pesach Sameach, and a Zissen un Koshern Pesach! | Mayor Zohran Kwame Mamdani",
+      "upload_date": "2026-04-01",
+      "duration": 30.03,
+      "source_url": "https://m.facebook.com/watch/?v=810778714884189&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\810778714884189.mp4",
+      "description": "Happy Passover, Chag Pesach Sameach, and a Zissen un Koshern Pesach!"
+    },
+    {
+      "id": "992279556558448",
+      "title": "147K views · 933 reactions | What New Yorkers should know about the budget proposal that New York City Council released today. | Mayor Zohran Kwame Mamdani",
+      "upload_date": "2026-04-01",
+      "duration": 65.815,
+      "source_url": "https://m.facebook.com/watch/?v=992279556558448&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\992279556558448.mp4",
+      "description": "What New Yorkers should know about the budget proposal that New York City Council released today."
+    },
+    {
+      "id": "1860854987947164",
+      "title": "Mayor Mamdani Holds Press Conference to Make an Infrastructure Improvement Announcement",
+      "upload_date": "2026-03-31",
+      "duration": 1078.829,
+      "source_url": "https://m.facebook.com/watch/?v=1860854987947164&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1860854987947164.mp4",
+      "description": "Mayor Mamdani Holds Press Conference to Make an Infrastructure Improvement Announcement"
+    },
+    {
+      "id": "DWgwSVekTpF",
+      "title": "Video by bambambaklava",
+      "upload_date": "2026-03-30",
+      "duration": 88.505,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWgwSVekTpF/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWgwSVekTpF.mp4",
+      "description": "BROKE BREAD WITH THE @nycmayor AS A REPRESENTATIVE OF THE PEOPLE BORN AND RAISED IN NEW YORK CITY AND BEYOND. WE ATE VERY WELL. NYC FOREVER. #fuckthatsdelicious link in Bio"
+    },
+    {
+      "id": "2119360418822675",
+      "title": "Mayor Zohran Mamdani Holds Press Conference to Make a Child Care Announcement",
+      "upload_date": "2026-03-30",
+      "duration": 1760.761,
+      "source_url": "https://m.facebook.com/watch/?v=2119360418822675&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\2119360418822675.mp4",
+      "description": "Mayor Zohran Mamdani Holds Press Conference to Make a Child Care Announcement"
+    },
+    {
+      "id": "DWY__3qEYTQ",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-27",
+      "duration": 76.785,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWY__3qEYTQ/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWY__3qEYTQ.mp4",
+      "description": "New Yorkers, join us in the first ever Mayor’s Municipal Madness: a competition of city fixes where everyone wins.\n\nCity workers fix thousands of tiny annoyances every year, from broken basketball rims to bike path bumps. This year, we’re highlighting 16 of those fixes. \n\nFrom the exacerbating eight to the frustrating four, every item in each round will be repaired…but you’ll be voting on which fix will be done by me on day 100 of our admin. \n\nRound one of voting starts right now: nyc.gov/madnes"
+    },
+    {
+      "id": "793203993833857",
+      "title": "865K views · 16K reactions | New Yorkers, join us in the first ever Mayor’s Municipal Madness: a competition of city fixes where everyone wins. City workers fix thousands of tiny annoyances every year",
+      "upload_date": "2026-03-27",
+      "duration": 76.785,
+      "source_url": "https://m.facebook.com/watch/?v=793203993833857&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\793203993833857.mp4",
+      "description": "New Yorkers, join us in the first ever Mayor’s Municipal Madness: a competition of city fixes where everyone wins.\n\nCity workers fix thousands of tiny annoyances every year, from broken basketball rims to bike path bumps. This year, we’re highlighting 16 of those fixes. \n\nFrom the exacerbating eight to the frustrating four, every item in each round will be repaired…but you’ll be voting on which fix will be done by me on day 100 of our admin. \n\nRound one of voting starts right now: nyc.gov/madnes"
+    },
+    {
+      "id": "939283565126763",
+      "title": "Mayor Mamdani Holds a Press Conference to Make a Street Safety Announcement",
+      "upload_date": "2026-03-27",
+      "duration": 1376.569,
+      "source_url": "https://m.facebook.com/watch/?v=939283565126763&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\939283565126763.mp4",
+      "description": "Mayor Mamdani Holds a Press Conference to Make a Street Safety Announcement"
+    },
+    {
+      "id": "DWWm3UqkXf1",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-26",
+      "duration": 95.095,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWWm3UqkXf1/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWWm3UqkXf1.mp4",
+      "description": "Who decides whether or not stabilized rents are raised? Meet the Rent Guidelines Board. Here’s what you should know about the board and how to make your voice heard."
+    },
+    {
+      "id": "1676074316905665",
+      "title": "241K views · 3.5K reactions | Who decides whether or not stabilized rents are raised? Meet the Rent Guidelines Board. Here’s what you should know about the board and how to make your voice heard. | Ma",
+      "upload_date": "2026-03-26",
+      "duration": 95.095,
+      "source_url": "https://m.facebook.com/watch/?v=1676074316905665&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1676074316905665.mp4",
+      "description": "Who decides whether or not stabilized rents are raised? Meet the Rent Guidelines Board. Here’s what you should know about the board and how to make your voice heard."
+    },
+    {
+      "id": "DWSYw_SEfNe",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-25",
+      "duration": 178.708,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWSYw_SEfNe/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWSYw_SEfNe.mp4",
+      "description": "Happy Nowruz, New York City.\n\nAs Persian and other communities welcome the new year, I joined some members of our team to learn about the Haft-seen table — a tradition rooted in renewal, reflection, and hope. \n\nThis Nowruz, to honor the tradition, my administration is displaying a haft-seen in City Hall. Wishing you all a new year filled with peace, light & understanding."
+    },
+    {
+      "id": "DWTz5zIkRLY",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-25",
+      "duration": 117.075,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWTz5zIkRLY/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWTz5zIkRLY.mp4",
+      "description": "Government must deliver for working people—and every dollar in our budget should work as hard as they do.\n\nThat’s why I directed every agency to cut waste and help close our budget gap.\n\nHere’s some of what we found."
+    },
+    {
+      "id": "1427791955119421",
+      "title": "475K views · 9.4K reactions | Government must deliver for working people—and every dollar in our budget should work as hard as they do. That’s why I directed every agency to cut waste and help close o",
+      "upload_date": "2026-03-25",
+      "duration": 117.075,
+      "source_url": "https://m.facebook.com/watch/?v=1427791955119421&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1427791955119421.mp4",
+      "description": "Government must deliver for working people—and every dollar in our budget should work as hard as they do.\n\nThat’s why I directed every agency to cut waste and help close our budget gap.\n\nHere’s some of what we found."
+    },
+    {
+      "id": "3334870776684027",
+      "title": "1.4M views · 14K reactions | Happy Nowruz, New York City.��As Persian and other communities welcome the new year, I joined some members of our team to learn the about the Haft-seen table — a tradition",
+      "upload_date": "2026-03-25",
+      "duration": 178.678,
+      "source_url": "https://m.facebook.com/watch/?v=3334870776684027&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\3334870776684027.mp4",
+      "description": "Happy Nowruz, New York City.��As Persian and other communities welcome the new year, I joined some members of our team to learn the about the Haft-seen table — a tradition rooted in renewal, reflection, and hope. \n\nThis Nowruz, to honor the tradition, my administration is displaying a haft-seen in City Hall. Wishing you all a new year filled with peace, light & understanding."
+    },
+    {
+      "id": "3963158093976580",
+      "title": "Mayor Mamdani Holds Press Conference to Make an Affordable Housing Announcement",
+      "upload_date": "2026-03-25",
+      "duration": 1588.252,
+      "source_url": "https://m.facebook.com/watch/?v=3963158093976580&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\3963158093976580.mp4",
+      "description": "Mayor Mamdani Holds Press Conference to Make an Affordable Housing Announcement"
+    },
+    {
+      "id": "DWGubHPkWC5",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-20",
+      "duration": 73.031,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWGubHPkWC5/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWGubHPkWC5.mp4",
+      "description": "Eid Mubarak, New York.\n\nWatch the full documentary short at YouTube.com/nycmayorsoffice"
+    },
+    {
+      "id": "1515680729887629",
+      "title": "666K views · 15K reactions | Eid Mubarak, New York. Watch the full documentary short at YouTube.com/nycmayorsoffice | Mayor Zohran Kwame Mamdani",
+      "upload_date": "2026-03-20",
+      "duration": 73.031,
+      "source_url": "https://m.facebook.com/watch/?v=1515680729887629&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1515680729887629.mp4",
+      "description": "Eid Mubarak, New York.\n\nWatch the full documentary short at YouTube.com/nycmayorsoffice"
+    },
+    {
+      "id": "26023158683974073",
+      "title": "Mayor Mamdani Holds Press Conference to Make an Announcement",
+      "upload_date": "2026-03-19",
+      "duration": 2664.658,
+      "source_url": "https://m.facebook.com/watch/?v=26023158683974073&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\26023158683974073.mp4",
+      "description": "Mayor Mamdani Holds Press Conference to Make an Announcement"
+    },
+    {
+      "id": "DWCi_70EVza",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-18",
+      "duration": 87.337,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DWCi_70EVza/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DWCi_70EVza.mp4",
+      "description": "Harlem night with Mo Diawara. New York Forever."
+    },
+    {
+      "id": "1250618806654589",
+      "title": "371K views · 6.3K reactions | Harlem night with Mo Diawara. New York Forever. | Mayor Zohran Kwame Mamdani",
+      "upload_date": "2026-03-18",
+      "duration": 87.337,
+      "source_url": "https://m.facebook.com/watch/?v=1250618806654589&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1250618806654589.mp4",
+      "description": "Harlem night with Mo Diawara. New York Forever."
+    },
+    {
+      "id": "DV_c5ZJETpW",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-17",
+      "duration": 169.333,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DV_c5ZJETpW/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DV_c5ZJETpW.mp4",
+      "description": "Happy St. Patrick’s Day, New York."
+    },
+    {
+      "id": "DV_JL69ES1I",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-17",
+      "duration": 65.023,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DV_JL69ES1I/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DV_JL69ES1I.mp4",
+      "description": "Send this to a small business who deserves all the funds!\n\nApplications are open for the NYC Future Fund: a loan program with affordable, flexible financing for seasonal and growing small businesses.\n\nApply now at nyc.gov/futurefund"
+    },
+    {
+      "id": "1614085309624677",
+      "title": "1.7M views · 61K reactions | Happy St. Patrick’s Day, New York. | Mayor Zohran Kwame Mamdani",
+      "upload_date": "2026-03-17",
+      "duration": 169.293,
+      "source_url": "https://m.facebook.com/watch/?v=1614085309624677&_rdr",
+      "platform": "facebook",
+      "local_path": "downloads\\facebook\\1614085309624677.mp4",
+      "description": "Happy St. Patrick’s Day, New York."
+    },
+    {
+      "id": "DVzkigfEZLt",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-13",
+      "duration": 30.767,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DVzkigfEZLt/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DVzkigfEZLt.mp4",
+      "description": "The Bronx showed up! Yesterday, we held our latest Rental Ripoff Hearing in the BX. If you missed it, we still want to hear from you.\n \nSubmit your testimony at rentalripoffs.nyc.gov → click ‘Submit Testimony’ at the top, OR sign up for the next two hearings in Harlem and Staten Island."
+    },
+    {
+      "id": "DVwFzoPkYOT",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-11",
+      "duration": 8.753,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DVwFzoPkYOT/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DVwFzoPkYOT.mp4",
+      "description": "A beautiful week to announce expanded 3-K on Staten Island."
+    },
+    {
+      "id": "DVt-Of4Ee6A",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-10",
+      "duration": 171.5,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DVt-Of4Ee6A/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DVt-Of4Ee6A.mp4",
+      "description": "In 2015, Chinatown Tenants Union helped win the first rent freeze in 46 years.\n\nIn 2026, @DMJulieSu and @caaavnyc are spreading the word about our Rental Ripoff Hearings to working-class families in Chinatown who are once again facing rising costs and housing instability.\n\nTomorrow’s Rental Ripoff Hearing is at capacity, but we want every voice to be heard. Submit your testimony or register to attend a future hearing at rentalripoffs.nyc.gov"
+    },
+    {
+      "id": "DVrokd0EaPs",
+      "title": "Video by nycmayor",
+      "upload_date": "2026-03-09",
+      "duration": 76.493,
+      "source_url": "https://www.instagram.com/nycmayor/reel/DVrokd0EaPs/",
+      "platform": "instagram",
+      "local_path": "downloads\\instagram\\DVrokd0EaPs.mp4",
+      "description": "Kids grow fast, and so do we. This fall, we’re adding more than 1,000 seats for universal 3-K in 56 zip codes. Childcare will be more accessible and affordable across all five boroughs."
+    },
+    {
+      "id": "7610918633673379103",
+      "title": "I’m proud to be supporting my friend Brad Lander for Congress.  @Brad...",
+      "upload_date": "2026-02-25",
+      "duration": 42,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7610918633673379103",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7610918633673379103.mp4",
+      "description": "I’m proud to be supporting my friend Brad Lander for Congress.  @BradLander has spent his career taking on big fights for New York’s working families. He’ll bring principled leadership to Washington and make sure Congress works for the many, not just the few.  If you’re ready to fight back, contribute to Brad’s people-powered campaign. Every dollar helps fuel the movement we need to win: https://secure.actblue.com/donate/lander-zm-betterdemocrats?refcode=zmvideo"
+    },
+    {
+      "id": "2026771477794574337",
+      "title": "Zohran Kwame Mamdani - I’m proud to be supporting my friend Brad Lander for Congress.   @Bra...",
+      "upload_date": "2026-02-25",
+      "duration": 44.586,
+      "source_url": "https://x.com/ZohranKMamdani/status/2026771561106026976",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2026771477794574337.mp4",
+      "description": "I’m proud to be supporting my friend Brad Lander for Congress.   @BradLander has spent his career taking on big fights for New York’s working families. He’ll bring principled leadership to Washington and make sure Congress works for the many, not just the few. https://t.co/DJ5Xf1og22"
+    },
+    {
+      "id": "7600042219541761311",
+      "title": "Friends, I'm once again asking you to donate — but not to me! @claire...",
+      "upload_date": "2026-01-27",
+      "duration": 60,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7600042219541761311",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7600042219541761311.mp4",
+      "description": "Friends, I'm once again asking you to donate — but not to me! @claireforny is a union organizer, democratic socialist and my former colleague in the Assembly running for Congress in NY-7 to fight for the working class and she needs your support. Go to ClaireValdezforCongress.com to contribute today."
+    },
+    {
+      "id": "2016154867815866368",
+      "title": "Zohran Kwame Mamdani - Friends, I’m once again asking you to donate. But not to me!   @clair...",
+      "upload_date": "2026-01-27",
+      "duration": 60.06,
+      "source_url": "https://x.com/ZohranKMamdani/status/2016155024187859369",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2016154867815866368.mp4",
+      "description": "Friends, I’m once again asking you to donate. But not to me!   @claireforny is a union organizer, democratic socialist and my former Assembly colleague running for Congress in NY-7. Chip in today. https://t.co/jUtaVIjqx5"
+    },
+    {
+      "id": "7597265072708177182",
+      "title": "🇲🇦🗽🇸🇳",
+      "upload_date": "2026-01-20",
+      "duration": 80,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7597265072708177182",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7597265072708177182.mp4",
+      "description": "🇲🇦🗽🇸🇳"
+    },
+    {
+      "id": "s_hR4A1_sew",
+      "title": "Revisiting Election Night",
+      "upload_date": "2026-01-01",
+      "duration": 320,
+      "source_url": "https://www.youtube.com/watch?v=s_hR4A1_sew",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\s_hR4A1_sew.mp4",
+      "description": "Before the victory speech and celebrations on November 4, there were hours of anxious waiting as we watched the numbers come in. Here's a glimpse of it all, stress and joy alike. Thank you to every New Yorker who believed in this fight for working people. I am so proud to be sworn in as your Mayor tomorrow."
+    },
+    {
+      "id": "7590188347398573343",
+      "title": "Before the victory speech and celebrations on November 4, there were ...",
+      "upload_date": "2026-01-01",
+      "duration": 320,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7590188347398573343",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7590188347398573343.mp4",
+      "description": "Before the victory speech and celebrations on November 4, there were hours of anxious waiting as we watched the numbers come in. Here's a glimpse of it all, stress and joy alike. Thank you to every New Yorker who believed in this fight for working people. I am so proud to be sworn in as your Mayor tomorrow."
+    },
+    {
+      "id": "2006527914976624640",
+      "title": "Zohran Kwame Mamdani - Before the victory speech and celebrations on November 4, there were ...",
+      "upload_date": "2026-01-01",
+      "duration": 320.111,
+      "source_url": "https://x.com/ZohranKMamdani/status/2006528196544434421",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2006527914976624640.mp4",
+      "description": "Before the victory speech and celebrations on November 4, there were hours of anxious waiting as we watched the numbers come in. Here's a glimpse of it all, stress and joy alike. Thank you to every New Yorker who believed in this fight for working people. I am so proud to be https://t.co/1bZvChGNCG"
+    },
+    {
+      "id": "xj89tYvwr6k",
+      "title": "THE MAYOR IS LISTENING",
+      "upload_date": "2025-12-31",
+      "duration": 1313,
+      "source_url": "https://www.youtube.com/watch?v=xj89tYvwr6k",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\xj89tYvwr6k.mp4",
+      "description": "On December 14th, I sat across from 142 New Yorkers as they shared their concerns, their dreams, the leadership they long for from City Hall. \n\nOur campaign was built around listening to the people of New York, and we will govern in the same way. Tomorrow, we get to work.\n\nRSVP To join the Inauguration Block Party tomorrow:  https://t.co/6QvoGxuRFw\n\n\nSubtitle track is available in settings."
+    },
+    {
+      "id": "7590114344952778015",
+      "title": "On December 14th, I sat across from 142 New Yorkers as they shared th...",
+      "upload_date": "2025-12-31",
+      "duration": 238,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7590114344952778015",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7590114344952778015.mp4",
+      "description": "On December 14th, I sat across from 142 New Yorkers as they shared their concerns, their dreams, the leadership they long for from City Hall. Our campaign was built around listening to the people of New York, and we will govern in the same way. Tomorrow, we get to work."
+    },
+    {
+      "id": "2006456525590560768",
+      "title": "Zohran Kwame Mamdani - On December 14th, I sat across from 142 New Yorkers as they shared th...",
+      "upload_date": "2025-12-31",
+      "duration": 238.238,
+      "source_url": "https://x.com/ZohranKMamdani/status/2006456781548265679",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2006456525590560768.mp4",
+      "description": "On December 14th, I sat across from 142 New Yorkers as they shared their concerns, their dreams, the leadership they long for from City Hall. Our campaign was built around listening to the people of New York, and we will govern in the same way. Tomorrow, we get to work. https://t.co/1MgumTCxKU"
+    },
+    {
+      "id": "LaZ2hNDZjFc",
+      "title": "\"I Want To Do Something About It\" - Concerns From a Young New Yorker",
+      "upload_date": "2025-12-28",
+      "duration": 85,
+      "source_url": "https://www.youtube.com/watch?v=LaZ2hNDZjFc",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\LaZ2hNDZjFc.mp4",
+      "description": "Two weeks ago I spent the whole day at the Museum of the Moving Image in Astoria, Queens, to listen to New Yorkers of truly all ages. Here's one bright young man's concerns about taking care of our most vulnerable neighbors."
+    },
+    {
+      "id": "7588968577248627998",
+      "title": "Two weeks ago I spent the whole day at Museum of the Moving Image to ...",
+      "upload_date": "2025-12-28",
+      "duration": 84,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7588968577248627998",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7588968577248627998.mp4",
+      "description": "Two weeks ago I spent the whole day at Museum of the Moving Image to listen to New Yorkers. This is what Liam shared with me."
+    },
+    {
+      "id": "2005339405079257088",
+      "title": "Zohran Kwame Mamdani - Two weeks ago I spent the whole day at @MovingImageNYC to listen to N...",
+      "upload_date": "2025-12-28",
+      "duration": 84.71,
+      "source_url": "https://x.com/ZohranKMamdani/status/2005339849554080039",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2005339405079257088.mp4",
+      "description": "Two weeks ago I spent the whole day at @MovingImageNYC to listen to New Yorkers. This is what Liam shared with me. https://t.co/Htmx4EEXSE"
+    },
+    {
+      "id": "onvdHISKzAU",
+      "title": "My #1 Canvasser: My Mother",
+      "upload_date": "2025-12-26",
+      "duration": 124,
+      "source_url": "https://www.youtube.com/watch?v=onvdHISKzAU",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\onvdHISKzAU.mp4",
+      "description": "In less than a week, I will be sworn in as the next mayor of New York City. It was only possible because of the more than 100,000 people who volunteered on our campaign. Here’s a story about one of them, my mother.\n\nFilmed in June 2025 as we followed her on an afternoon of canvassing in Richmond Hill, Queens, right before the primary election.\n\nwww.Transition2025.com"
+    },
+    {
+      "id": "7588235919799422239",
+      "title": "In less than a week, I will be sworn in as the next mayor of New York...",
+      "upload_date": "2025-12-26",
+      "duration": 123,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7588235919799422239",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7588235919799422239.mp4",
+      "description": "In less than a week, I will be sworn in as the next mayor of New York City. It was only possible because of the more than 100,000 people who volunteered on our campaign. Here’s a story about one of them, my mother."
+    },
+    {
+      "id": "2004621971980533760",
+      "title": "Zohran Kwame Mamdani - In less than a week, I will be sworn in as the next mayor of New York...",
+      "upload_date": "2025-12-26",
+      "duration": 123.54,
+      "source_url": "https://x.com/ZohranKMamdani/status/2004622862372753495",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2004621971980533760.mp4",
+      "description": "In less than a week, I will be sworn in as the next mayor of New York City. It was only possible because of the more than 100,000 people who volunteered on our campaign. Here’s a story about one of them, my mother. https://t.co/ICs3CzUnIS"
+    },
+    {
+      "id": "ayG-4CPpI0w",
+      "title": "Most New Yorkers Can't Afford Childcare",
+      "upload_date": "2025-12-25",
+      "duration": 89,
+      "source_url": "https://www.youtube.com/watch?v=ayG-4CPpI0w",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\ayG-4CPpI0w.mp4",
+      "description": ""
+    },
+    {
+      "id": "7587933046901361934",
+      "title": "A big thank you to Shaw-nae for warmly welcoming us, sharing her hist...",
+      "upload_date": "2025-12-25",
+      "duration": 43,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7587933046901361934",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7587933046901361934.mp4",
+      "description": "A big thank you to Shaw-nae for warmly welcoming us, sharing her history and her home. As she often says, Staten Island truly is the borough of many memories."
+    },
+    {
+      "id": "7587850681113971999",
+      "title": "Merry Christmas, New York City 🎄🗽 [Animation by Sarah Elawad]",
+      "upload_date": "2025-12-25",
+      "duration": 10,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7587850681113971999",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7587850681113971999.mp4",
+      "description": "Merry Christmas, New York City 🎄🗽 [Animation by Sarah Elawad]"
+    },
+    {
+      "id": "7587616948700171550",
+      "title": "Most New Yorkers can’t afford childcare.",
+      "upload_date": "2025-12-25",
+      "duration": 88,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7587616948700171550",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7587616948700171550.mp4",
+      "description": "Most New Yorkers can’t afford childcare."
+    },
+    {
+      "id": "2003979931135492097",
+      "title": "Zohran Kwame Mamdani - Most New Yorkers can't afford childcare.",
+      "upload_date": "2025-12-25",
+      "duration": 89.339,
+      "source_url": "https://x.com/ZohranKMamdani/status/2004002325363675348",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2003979931135492097.mp4",
+      "description": "Most New Yorkers can't afford childcare. https://t.co/5eZsv6i3bv"
+    },
+    {
+      "id": "2004239618892324865",
+      "title": "Zohran Kwame Mamdani - Merry Christmas, New York City 🎄🗽  [Animation by Sarah Elawad]",
+      "upload_date": "2025-12-25",
+      "duration": 10.0,
+      "source_url": "https://x.com/ZohranKMamdani/status/2004239720596099184",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2004239618892324865.mp4",
+      "description": "Merry Christmas, New York City 🎄🗽  [Animation by Sarah Elawad] https://t.co/02fPxDBLxb"
+    },
+    {
+      "id": "2004324954913808384",
+      "title": "Zohran Kwame Mamdani - A big thank you to Shaw-nae for warmly welcoming us, sharing her hist...",
+      "upload_date": "2025-12-25",
+      "duration": 43.126,
+      "source_url": "https://x.com/ZohranKMamdani/status/2004325250264363458",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2004324954913808384.mp4",
+      "description": "A big thank you to Shaw-nae for warmly welcoming us, sharing her history and her home. As she often says, Staten Island truly is the borough of many memories. https://t.co/tL4cJ8TMub"
+    },
+    {
+      "id": "Atlw-hdpha4",
+      "title": "The Inauguration of a New Era",
+      "upload_date": "2025-12-21",
+      "duration": 89,
+      "source_url": "https://www.youtube.com/watch?v=Atlw-hdpha4",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\Atlw-hdpha4.mp4",
+      "description": "New York, this moment belongs to you. Please join us for the Inauguration of a New Era on January 1, 2026. \n\n\nRSVP + details here: https://www.transition2025.com/inauguration"
+    },
+    {
+      "id": "7586328185348934943",
+      "title": "New York, this moment belongs to you. Please join us for the Inaugura...",
+      "upload_date": "2025-12-21",
+      "duration": 89,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7586328185348934943",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7586328185348934943.mp4",
+      "description": "New York, this moment belongs to you. Please join us for the Inauguration of a New Era on January 1, 2026.  RSVP + details can be found at the link in bio."
+    },
+    {
+      "id": "2002759156156026880",
+      "title": "Zohran Kwame Mamdani - New York, this moment belongs to you. Please join us for the Inaugura...",
+      "upload_date": "2025-12-21",
+      "duration": 89.34,
+      "source_url": "https://x.com/ZohranKMamdani/status/2002759319344083114",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2002759156156026880.mp4",
+      "description": "New York, this moment belongs to you. Please join us for the Inauguration of a New Era on January 1, 2026. https://t.co/fk56YPXvsa"
+    },
+    {
+      "id": "KIxAKyioXng",
+      "title": "Happy Hanukkah",
+      "upload_date": "2025-12-20",
+      "duration": 199,
+      "source_url": "https://www.youtube.com/watch?v=KIxAKyioXng",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\KIxAKyioXng.mp4",
+      "description": "It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their son, Gideon. As Jewish New Yorkers across our city prepare to light candles and mark the seventh night today, I wish you and your families a Hanukkah full of light and love."
+    },
+    {
+      "id": "7585930626700709150",
+      "title": "It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their...",
+      "upload_date": "2025-12-20",
+      "duration": 199,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7585930626700709150",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7585930626700709150.mp4",
+      "description": "It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their son, Gideon. As Jewish New Yorkers across our city prepare to light candles and mark the seventh night today, I wish you and your families a Hanukkah full of light and love."
+    },
+    {
+      "id": "2002370607917199361",
+      "title": "Zohran Kwame Mamdani - It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their...",
+      "upload_date": "2025-12-20",
+      "duration": 199.408,
+      "source_url": "https://x.com/ZohranKMamdani/status/2002371299130093981",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2002370607917199361.mp4",
+      "description": "It was such a joy to celebrate Hanukkah with Mandy, Kathryn and their son, Gideon. As Jewish New Yorkers across our city prepare to light candles and mark the seventh night today, I wish you and your families a Hanukkah full of light and love. https://t.co/GOxL8Jl5wf"
+    },
+    {
+      "id": "qZdCGroDHHo",
+      "title": "Mayor for 8,478,000 New Yorkers",
+      "upload_date": "2025-12-17",
+      "duration": 77,
+      "source_url": "https://www.youtube.com/watch?v=qZdCGroDHHo",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\qZdCGroDHHo.mp4",
+      "description": "This past Sunday, from 8am to 8pm, New Yorkers from every corner of our city traveled to the Museum of the Moving Image in Astoria to share their dreams, their worries, the change they want to see across New York. It was an honor listening to each of them. \n\nWe're excited to share more from this incredible day with you very soon.\n\nwww.transition2025.com"
+    },
+    {
+      "id": "7584631558447926541",
+      "title": "This past Sunday, from 8am to 8pm, New Yorkers from every corner of o...",
+      "upload_date": "2025-12-17",
+      "duration": 76,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7584631558447926541",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7584631558447926541.mp4",
+      "description": "This past Sunday, from 8am to 8pm, New Yorkers from every corner of our city traveled to the Museum of the Moving Image in Astoria to share their dreams, their worries, the change they want to see across New York. It was an honor listening to each of them."
+    },
+    {
+      "id": "2001097538137444355",
+      "title": "Zohran Kwame Mamdani - This past Sunday, from 8am to 8pm, New Yorkers from every corner of o...",
+      "upload_date": "2025-12-17",
+      "duration": 76.868,
+      "source_url": "https://x.com/ZohranKMamdani/status/2001097698552721861",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\2001097538137444355.mp4",
+      "description": "This past Sunday, from 8am to 8pm, New Yorkers from every corner of our city traveled to the Museum of the Moving Image in Astoria to share their dreams, their worries, the change they want to see across New York. It was an honor listening to each of them. https://t.co/EEjiXPJxqv"
+    },
+    {
+      "id": "XuD40RSFhl4",
+      "title": "Kuf Alef Kislev",
+      "upload_date": "2025-12-11",
+      "duration": 26,
+      "source_url": "https://www.youtube.com/watch?v=XuD40RSFhl4",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\XuD40RSFhl4.mp4",
+      "description": "Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar Rebbe Joel Teitelbaum’s escape from Nazi-occupied Europe. His rescue and later founding of the Williamsburg Hasidic community helped shape the future of our city. These celebrations recognize that history and the remarkable rebirth that followed. I was so grateful to join and greet the rebbes."
+    },
+    {
+      "id": "7582732952430234910",
+      "title": "Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar...",
+      "upload_date": "2025-12-11",
+      "duration": 25,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7582732952430234910",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7582732952430234910.mp4",
+      "description": "Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar Rebbe Joel Teitelbaum’s escape from Nazi-occupied Europe. His rescue and later founding of the Williamsburg Hasidic community helped shape the future of our city. These celebrations recognize that history and the remarkable rebirth that followed. I was so grateful to join and greet the rebbes."
+    },
+    {
+      "id": "7582675039246454071",
+      "title": "Meet my new bosses.",
+      "upload_date": "2025-12-11",
+      "duration": 79,
+      "source_url": "https://www.tiktok.com/@zohran_k_mamdani/video/7582675039246454071",
+      "platform": "tiktok",
+      "local_path": "downloads\\tiktok\\7582675039246454071.mp4",
+      "description": "Meet my new bosses."
+    },
+    {
+      "id": "1999245343456653313",
+      "title": "Zohran Kwame Mamdani - Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar...",
+      "upload_date": "2025-12-11",
+      "duration": 25.566,
+      "source_url": "https://x.com/ZohranKMamdani/status/1999245418337829099",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\1999245343456653313.mp4",
+      "description": "Last night marked Kuf Alef Kislev, the 81st anniversary of the Satmar Rebbe Joel Teitelbaum’s escape from Nazi-occupied Europe. His rescue and later founding of the Williamsburg Hasidic community helped shape the future of our city. These celebrations recognize that history and https://t.co/eoD4xK2dWb"
+    },
+    {
+      "id": "6q500M3Qqfc",
+      "title": "I'm Asking For Your Donations One More Time",
+      "upload_date": "2025-12-09",
+      "duration": 73,
+      "source_url": "https://www.youtube.com/watch?v=6q500M3Qqfc",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\6q500M3Qqfc.mp4",
+      "description": "We're so close to the finish line. Please donate at https://secure.actblue.com/donate/zm129?refcode=yt"
+    },
+    {
+      "id": "1998422900349501440",
+      "title": "Zohran Kwame Mamdani - One last time.",
+      "upload_date": "2025-12-09",
+      "duration": 73.344,
+      "source_url": "https://x.com/ZohranKMamdani/status/1998425505675235733",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\1998422900349501440.mp4",
+      "description": "One last time. https://t.co/o6AGFrmO5f https://t.co/a8keo1OHLw"
+    },
+    {
+      "id": "Tq-KqQXy4LE",
+      "title": "Know Your Rights When Dealing With ICE",
+      "upload_date": "2025-12-07",
+      "duration": 86,
+      "source_url": "https://www.youtube.com/watch?v=Tq-KqQXy4LE",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\Tq-KqQXy4LE.mp4",
+      "description": "Know your rights. Protect your neighbors. \n\nNew York is — and always will be — a city for all immigrants."
+    },
+    {
+      "id": "1997711472353214464",
+      "title": "Zohran Kwame Mamdani - Know your rights. Protect your neighbors.  New York is — and always w...",
+      "upload_date": "2025-12-07",
+      "duration": 86.295,
+      "source_url": "https://x.com/ZohranKMamdani/status/1997711937581510867",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\1997711472353214464.mp4",
+      "description": "Know your rights. Protect your neighbors.  New York is — and always will be — a city for all immigrants. https://t.co/nuntRzgEwq"
+    },
+    {
+      "id": "fXRso8vCfcA",
+      "title": "Starbucks on Strike! With Bernie Sanders",
+      "upload_date": "2025-12-04",
+      "duration": 112,
+      "source_url": "https://www.youtube.com/watch?v=fXRso8vCfcA",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\fXRso8vCfcA.mp4",
+      "description": "More than 2,500 Starbucks workers are on strike. They’re demanding dignity: fair pay, safe conditions, a contract that respects their labor.\n\nIt’s time their voices are heard at the same volume as CEOs earning millions.\n\nGo to https://sbworkersunited.org/ to learn more about what Starbucks baristas are striking for\n\nAnd visit https://www.transition2025.com to learn more about how we are getting ready to build an affordable NYC starting on day one."
+    },
+    {
+      "id": "1996610139332247552",
+      "title": "Zohran Kwame Mamdani - More than 2,500 Starbucks workers are on strike. They’re demanding di...",
+      "upload_date": "2025-12-04",
+      "duration": 111.764,
+      "source_url": "https://x.com/ZohranKMamdani/status/1996617414776369254",
+      "platform": "twitter",
+      "local_path": "downloads\\twitter\\1996610139332247552.mp4",
+      "description": "More than 2,500 Starbucks workers are on strike. They’re demanding dignity: fair pay, safe conditions, a contract that respects their labor.  It’s time their voices are heard at the same volume as CEOs earning millions. https://t.co/8ZXB0opNut"
+    },
+    {
+      "id": "CXnfID1Lw0c",
+      "title": "No Contract? No Coffee!",
+      "upload_date": "2025-11-26",
+      "duration": 86,
+      "source_url": "https://www.youtube.com/watch?v=CXnfID1Lw0c",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\CXnfID1Lw0c.mp4",
+      "description": "We don't believe in sitting on the sidelines. Transition Team co-Chair Lina Khan & First Deputy Mayor Dean Fuleihan join Starbucks Workers United members on the picket line in Lower Manhattan.\n\nLearn more about why Starbucks Workers United are striking across the country here:\nhttps://sbworkersunited.org/our-strike/\n\nDonate to support our transition here so we can build an affordable city on day one:\nhttps://secure.actblue.com/donate/zm-dtc-20251118"
+    },
+    {
+      "id": "u9BoAJzlfHw",
+      "title": "Getting the Team Together",
+      "upload_date": "2025-11-25",
+      "duration": 49,
+      "source_url": "https://www.youtube.com/watch?v=u9BoAJzlfHw",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\u9BoAJzlfHw.mp4",
+      "description": "If you’re wondering who’s guiding our transition, it’s the best New Yorkers that money can’t buy.\n\nDonate here to help us build an affordable New York City starting on day one:\nhttps://secure.actblue.com/donate/cc4zm"
+    },
+    {
+      "id": "h-hmxt6NdMg",
+      "title": "We need your help! But let me explain why.",
+      "upload_date": "2025-11-18",
+      "duration": 88,
+      "source_url": "https://www.youtube.com/watch?v=h-hmxt6NdMg",
+      "platform": "youtube",
+      "local_path": "downloads\\youtube\\h-hmxt6NdMg.mp4",
+      "description": "We've got a lot of work to do before January 1st, and we need your help. But let me explain why we need it, and what we're going to do with it. \n\nPlease donate what you can to our transition fund at http://www.Transition2025.com and let's build a New York City we can all afford — together.\n\nDonate: https://secure.actblue.com/donate/zm-dtc-20251118"
+    }
+  ]
+}

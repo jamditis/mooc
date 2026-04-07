@@ -1,20 +1,29 @@
 # mooc
 
-Knowledge base for the [Center for Cooperative Media](https://centerforcooperativemedia.org/) (CCM) at Montclair State University.
+Knowledge base and research workspace for the [Center for Cooperative Media](https://centerforcooperativemedia.org/) (CCM) at Montclair State University.
 
-Structured markdown profiles of CCM staff and programs, scraped web archives, and references to annual reports. This is a documentation-only repository -- no application code.
+Contains CCM staff and program profiles, scraped web archives, annual report references, and a multi-platform video content analysis of NYC Mayor Zohran Mamdani's social media.
 
 ## What's in here
 
 ```
 mooc/
 ├── ccm-profiles/
-│   ├── staff/          # 20 staff profiles
-│   └── projects/       # 22 project/program profiles
-├── .firecrawl/         # 13 scraped web snapshots (markdown + JSON)
-├── reports/            # Annual reports (PDFs not tracked -- see reports/README.md)
-├── CLAUDE.md           # Claude Code project instructions
-├── CONTRIBUTING.md     # How to add or edit profiles
+│   ├── staff/                  # 20 staff profiles
+│   └── projects/               # 22 project/program profiles
+├── mamdani-video-analysis/
+│   ├── downloads/              # 76 videos from 5 platforms (gitignored)
+│   ├── transcripts/            # Whisper transcripts (JSON + text)
+│   ├── frames/                 # Extracted frames at 3s intervals (gitignored)
+│   ├── frame-analysis/         # Vision analysis of on-screen text and visuals
+│   ├── analysis/               # Topic, sentiment, and cross-platform analysis
+│   ├── scripts/                # Pipeline automation (download, transcribe, extract, analyze)
+│   ├── web/                    # Interactive dashboard
+│   └── metadata.json           # Master video index
+├── .firecrawl/                 # 13 scraped web snapshots (markdown + JSON)
+├── reports/                    # Annual reports (PDFs not tracked -- see reports/README.md)
+├── CLAUDE.md                   # Claude Code project instructions
+├── CONTRIBUTING.md             # How to add or edit profiles
 └── README.md
 ```
 
@@ -46,6 +55,22 @@ Each project profile includes:
 - History, funders, and staff leads
 
 Browse them in [`ccm-profiles/projects/`](ccm-profiles/projects/).
+
+## Mamdani video analysis
+
+A content analysis of ~76 videos from NYC Mayor Zohran Mamdani's social media accounts (Twitter/X, TikTok, YouTube, Instagram, Facebook), covering November 2025 through April 2026.
+
+**Pipeline:** Download videos with yt-dlp, transcribe with Whisper (GPU-accelerated), extract frames at 3-second intervals, analyze on-screen text with AI vision, run keyword-based topic/sentiment analysis, and present results in an interactive dashboard.
+
+**Key findings (from transcript analysis):**
+- Top topics: governance (4,115 mentions), economy (1,925), housing (1,830)
+- Dominant tone: celebratory (30/76 videos), followed by persuasive (22/76)
+- 307 minutes of video content, 47,448 words transcribed
+- Facebook videos are longest (avg 12 min, mostly press conferences), while TikTok/Twitter/Instagram are short-form (avg 1-2 min)
+
+**Dashboard:** Run `cd mamdani-video-analysis && python -m http.server 8888` and open `http://localhost:8888/web/index.html`.
+
+See [`CLAUDE.md`](CLAUDE.md) for pipeline details and known issues.
 
 ## Annual reports
 

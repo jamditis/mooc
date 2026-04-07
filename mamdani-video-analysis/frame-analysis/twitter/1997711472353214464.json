@@ -1,0 +1,90 @@
+{
+  "video_id": "1997711472353214464",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-18s",
+      "on_screen_text": [
+        "ICE intento realizar una redada en Canal Street.",
+        "ICE attempted to raid Canal Street.",
+        "A NEW ERA",
+        "Los inmigrantes que viven en esta ciudad,",
+        "who call this city home",
+        "Primero, ICE no puede entrar en espacios privados, como su casa.",
+        "First, ICE cannot enter private spaces, like your home.",
+        "a un lado de la linea de servicio",
+        "First, ICE cannot enter without a warrant signed by a judge."
+      ],
+      "setting": "Indoor office or government space with wooden paneling backdrop; also brief outdoor clip of Canal Street with crowds",
+      "visual_elements": [
+        "'A NEW ERA' campaign logo banner visible in upper left corner",
+        "candidate seated at a desk or table, directly addressing camera",
+        "bilingual subtitle captions in Spanish and English",
+        "brief outdoor clip of Canal Street area",
+        "candidate gesturing and pointing for emphasis",
+        "white board or surface behind him in some frames"
+      ],
+      "presentation_style": "bilingual direct-to-camera know-your-rights message, simultaneously subtitled in Spanish and English, calm and authoritative delivery"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "18s-27s",
+      "on_screen_text": [
+        "Pueden legalmente filmar a agentes de ICE.",
+        "You are legally allowed to film ICE.",
+        "siempre y cuando no interfieran con un arresto.",
+        "as long as you do not interfere with an arrest.",
+        "cuando cualquier interaccion que ICE o la policia,",
+        "during any interaction with ICE or the police,",
+        "No debe resistirse al arresto, ocuparse del tiempo y pausa.",
+        "Do not resist arrest, take time and pause.",
+        "Los neoyorkinos tienen un derecho constitucional a protestar.",
+        "New Yorkers have a constitutional right to protest.",
+        "cuando sea alcalde, protegeremos ese derecho.",
+        "And when I'm Mayor, I will protect that right.",
+        "Nueva York siempre apoyara a los inmigrantes.",
+        "New York will always support immigrants.",
+        "y hermanas inmigrantes esten protegidos, apoyados y",
+        "to protect, support and"
+      ],
+      "setting": "Same indoor office or governmental room with wood-paneled backdrop",
+      "visual_elements": [
+        "'A NEW ERA' campaign logo consistently visible in upper left corner throughout",
+        "candidate delivering bilingual message directly to camera",
+        "clear and deliberate hand gestures",
+        "bilingual subtitles covering both Spanish and English throughout",
+        "calm, formal setting"
+      ],
+      "presentation_style": "continued bilingual legal rights explainer, formal and informational in tone"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "27s-end",
+      "on_screen_text": [
+        "NE[W ERA]"
+      ],
+      "setting": "Same indoor office setting, only one frame visible before video ends",
+      "visual_elements": [
+        "candidate seated at desk, campaign logo partially visible",
+        "wooden backdrop",
+        "frame cuts off early"
+      ],
+      "presentation_style": "brief final frame before video ends"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Indoor office or government room with warm wooden backdrop, formal seated presentation",
+    "text_overlay_types": [
+      "bilingual subtitle captions (Spanish and English simultaneously)",
+      "persistent 'A NEW ERA' campaign logo in corner"
+    ],
+    "visual_themes": [
+      "immigrant rights and know-your-rights messaging",
+      "ICE enforcement response",
+      "bilingual community outreach",
+      "constitutional rights education",
+      "sanctuary city commitment"
+    ]
+  }
+}

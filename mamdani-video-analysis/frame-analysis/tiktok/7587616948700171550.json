@@ -1,0 +1,74 @@
+{
+  "video_id": "7587616948700171550",
+  "platform": "tiktok",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-early",
+      "on_screen_text": [
+        "The holidays are about being...",
+        "from work to school.",
+        "childcare costs all the same.",
+        "Here's the reality for a family in New York:",
+        "After rent, it's the biggest cost burden.",
+        "$30,000 a year",
+        "they have...",
+        "In 2022, up to $23 billion",
+        "and that's just for a little toddler."
+      ],
+      "setting": "Indoor office or studio space with large windows and NYC skyline visible; also a childcare classroom with colorful toys",
+      "visual_elements": [
+        "Mamdani speaking directly to camera in formal suit",
+        "NYC city backdrop through floor-to-ceiling windows",
+        "B-roll of young children playing with colorful blocks",
+        "Clean and modern interior",
+        "Policy explainer format"
+      ],
+      "presentation_style": "Direct-to-camera policy message with B-roll; subtitle captions with statistics; educational explainer tone"
+    },
+    {
+      "grid": "grid_0018.jpg",
+      "timestamp_range": "mid",
+      "on_screen_text": [
+        "for all of us",
+        "for all, to be fair.",
+        "families and childcare",
+        "more workers doing childcare",
+        "Because with universal childcare,",
+        "they gave us."
+      ],
+      "setting": "Childcare classroom and community meeting room",
+      "visual_elements": [
+        "Mamdani visiting a childcare center, interacting with children and teachers",
+        "Woman speaking at what appears to be a community or legislative roundtable",
+        "Children engaged in activities",
+        "Warm classroom environment"
+      ],
+      "presentation_style": "Mixed talking-head and field footage; subtitle captions; policy documentary style"
+    },
+    {
+      "grid": "grid_0027.jpg",
+      "timestamp_range": "late",
+      "on_screen_text": [
+        "A NEW ERA for NEW YORK CITY",
+        "A NEW ERA for NEW YORK CITY",
+        "Happy holidays.",
+        "A NEW ERA for NYC",
+        "A NEW ERA for NYC"
+      ],
+      "setting": "Dark studio backdrop with campaign branding; Mamdani in suit addressing camera",
+      "visual_elements": [
+        "Campaign slogan 'A NEW ERA for NEW YORK CITY' displayed prominently",
+        "Mamdani delivering a closing statement",
+        "Brand typography in red/white/blue",
+        "Fade to campaign logo card"
+      ],
+      "presentation_style": "Campaign branded closing segment; holiday sign-off; campaign logo card"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Mix of office/studio setting and childcare classroom",
+    "text_overlay_types": ["dialogue subtitles", "policy statistics", "campaign slogan card ('A NEW ERA for NYC')", "holiday greeting"],
+    "visual_themes": ["universal childcare policy", "cost of living", "working families", "holiday message", "policy explainer with field visits"]
+  }
+}

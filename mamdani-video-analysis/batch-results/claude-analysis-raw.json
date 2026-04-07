@@ -1,0 +1,2711 @@
+{
+  "DWmWUe3EZ1V": {
+    "summary": "Mayor Mamdani critiques Council Speaker Julie Menon's budget proposal, arguing it would result in billions in agency cuts despite claims of preserving services. He presents his alternative approach of taxing the wealthy and renegotiating the city's fiscal relationship with Albany to close the $5.4 billion budget gap without burdening working New Yorkers.",
+    "topics": [
+      "budget",
+      "economy",
+      "governance",
+      "education"
+    ],
+    "topic_scores": {
+      "budget": 1.0,
+      "economy": 0.8,
+      "governance": 0.7,
+      "education": 0.3
+    },
+    "sentiment": {
+      "positive": 0.25,
+      "negative": 0.45,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The Council Speaker's budget proposal would slash billions from agency budgets despite claiming to avoid service cuts, relying on double-counted savings and overestimated revenues.",
+      "The wealthiest New Yorkers and most profitable corporations must be taxed to pay their fair share to close the deficit sustainably.",
+      "The state takes more from NYC than it returns, and correcting this imbalance with Albany is essential to preventing recurring deficits."
+    ],
+    "audience": "general NYC public, particularly working-class and middle-class New Yorkers",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "contrast framing",
+      "populist appeal",
+      "call to action",
+      "promise to protect constituents",
+      "continuity with prior communications"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWmWUe3EZ1V"
+  },
+  "1238505278271315": {
+    "summary": "Mayor Mamdani holds a press conference at the Queens Hall of Science to announce the launch of NYC's first comprehensive interactive map of all licensed child care providers, accessible at nyc.gov/childcare. The event features a live demo of the tool and remarks from parents, organizers, and council members. The press conference then pivots to extensive Q&A covering the city's budget deficit, disagreements with the City Council over fiscal proposals, a child shooting in Williamsburg, EDC leadership, the World Cup, and DSA's endorsement of AOC.",
+    "topics": [
+      "child_care",
+      "budget",
+      "governance",
+      "public_safety",
+      "economy",
+      "education",
+      "technology"
+    ],
+    "topic_scores": {
+      "child_care": 0.95,
+      "budget": 0.85,
+      "governance": 0.75,
+      "public_safety": 0.2,
+      "economy": 0.5,
+      "education": 0.3,
+      "technology": 0.4
+    },
+    "sentiment": {
+      "positive": 0.45,
+      "negative": 0.25,
+      "urgent": 0.3
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "NYC has launched its first-ever comprehensive government map of all licensed child care providers at nyc.gov/childcare, designed with parent input and available in multiple languages, as a step toward universal child care.",
+      "The City Council's preliminary budget response is fiscally unrealistic because it double-counts savings, overestimates vacancy savings at $1.5 billion, and refuses to address structural revenue imbalances or raise taxes on the wealthiest New Yorkers and most profitable corporations.",
+      "The city faces a $5.4 billion structural fiscal deficit that cannot be bridged without significant new revenue, and the administration is in ongoing conversations with the governor and state lawmakers to find a structural solution."
+    ],
+    "audience": "general NYC public, especially parents of young children, and media/press corps",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "personal anecdote",
+      "live technology demonstration",
+      "humor",
+      "analogy to space exploration",
+      "appeal to fiscal responsibility",
+      "emotional appeal",
+      "expert testimony from parents and organizers",
+      "rebuttal of political opponents"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1238505278271315"
+  },
+  "992279556558448": {
+    "summary": "Mayor Mamdani critiques City Council Speaker Julie Menon's budget proposal, arguing it would result in billions in agency cuts despite claiming otherwise. He outlines his alternative approach of taxing the wealthy and addressing the imbalance between what the city sends to Albany versus what it receives back. He frames the debate as protecting working New Yorkers from bearing the burden of the $5.4 billion fiscal gap.",
+    "topics": [
+      "budget",
+      "economy",
+      "governance",
+      "education"
+    ],
+    "topic_scores": {
+      "budget": 1.0,
+      "economy": 0.7,
+      "governance": 0.7,
+      "education": 0.3
+    },
+    "sentiment": {
+      "positive": 0.2,
+      "negative": 0.5,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The Council Speaker's budget proposal would result in billions in agency cuts despite claiming to avoid service reductions",
+      "The solution is to tax the wealthiest New Yorkers and most profitable corporations to close the deficit",
+      "The state takes more from the city than it returns, and fixing this structural imbalance is essential to preventing recurring deficits"
+    ],
+    "audience": "general NYC public, particularly working-class and progressive-leaning New Yorkers",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "contrast framing",
+      "populist appeal",
+      "promise to protect constituents",
+      "critique of political rival's proposal",
+      "callback to previous content"
+    ],
+    "_platform": "facebook",
+    "_video_id": "992279556558448"
+  },
+  "1860854987947164": {
+    "summary": "Mayor Mamdani holds a press conference in Sunset Park, Brooklyn on his 90th day in office to announce a $108 million investment to replace and modernize over 6,700 catch basins across New York City's five boroughs, starting in Queens in July. The announcement also covers $20 million in new catch basin cleaning trucks and faster response times for drainage complaints. The Q&A portion covered bike lane projects, TikTok use by government officials, robo-taxis, water board rental payments, and NYPD-related bribery allegations.",
+    "topics": [
+      "infrastructure",
+      "environment",
+      "budget",
+      "transit",
+      "governance",
+      "public_safety"
+    ],
+    "topic_scores": {
+      "infrastructure": 1.0,
+      "environment": 0.85,
+      "budget": 0.7,
+      "transit": 0.4,
+      "governance": 0.5,
+      "public_safety": 0.3
+    },
+    "sentiment": {
+      "positive": 0.6,
+      "negative": 0.1,
+      "urgent": 0.3
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "The city is investing $108 million to replace and modernize over 6,700 catch basins across all five boroughs to combat street flooding from increasingly intense rainstorms",
+      "DEP has improved catch basin complaint response times from eight business days to three days, and residents should call 311 to report clogged basins",
+      "Government investment in infrastructure like sewers demonstrates that city government can deliver public goods and build a more resilient, climate-ready New York City"
+    ],
+    "audience": "general NYC public, particularly residents of flood-prone neighborhoods and Sunset Park community members",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "humor",
+      "historical reference",
+      "policy explanation",
+      "community engagement",
+      "call to action",
+      "visual demonstration",
+      "multilingual address"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1860854987947164"
+  },
+  "DWgwSVekTpF": {
+    "summary": "Mayor Mamdani shares a casual, informal meal at what appears to be a traditional restaurant, engaging in lighthearted banter with companions about food, sports (ping pong, basketball, soccer), and Italian soccer legends. The video has a relaxed, social atmosphere focused on community bonding over food rather than policy discussion.",
+    "topics": [
+      "community_engagement",
+      "culture",
+      "food"
+    ],
+    "topic_scores": {
+      "community_engagement": 0.7,
+      "culture": 0.6,
+      "food": 0.5
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Building personal, relatable connections with constituents through shared meals and casual conversation",
+      "Celebrating cultural food traditions and local restaurants",
+      "Projecting an approachable, down-to-earth persona through sports banter and humor"
+    ],
+    "audience": "general NYC public, particularly younger demographics and social media followers seeking authentic personality content",
+    "rhetorical_strategies": [
+      "humor",
+      "personal anecdote",
+      "cultural authenticity signaling",
+      "informal conversational tone",
+      "community bonding over food",
+      "sports references as relatability tool"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWgwSVekTpF"
+  },
+  "2119360418822675": {
+    "summary": "Mayor Mamdani announces New York City's first-ever on-site municipal child care program at the David Dinkins Municipal Building, offering free full-day care for children ages six weeks to three years old for building employees and DCAS workers. The press conference features multiple city officials and the DC37 union leader expressing support, followed by a Q&A covering the city's fiscal deficit, state budget negotiations, estate tax proposals, and other topics.",
+    "topics": [
+      "childcare",
+      "governance",
+      "economy",
+      "budget",
+      "labor",
+      "housing",
+      "public_safety"
+    ],
+    "topic_scores": {
+      "childcare": 1.0,
+      "governance": 0.8,
+      "economy": 0.7,
+      "budget": 0.7,
+      "labor": 0.6,
+      "housing": 0.3,
+      "public_safety": 0.2
+    },
+    "sentiment": {
+      "positive": 0.6,
+      "negative": 0.15,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "NYC is launching its first-ever free on-site child care program for municipal employees at the David Dinkins Building, with applications opening April 30th and the center opening in fall",
+      "Investing in child care delivers a 13x return on investment, saves families $20,000+ annually, and is essential to retaining city workers and keeping families in New York City",
+      "The city's $5.4 billion structural fiscal deficit requires structural solutions including state partnership and progressive revenue measures, not one-time fixes"
+    ],
+    "audience": "NYC municipal employees, working families, progressive policy advocates, and the general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "personal anecdote",
+      "economic argument for social investment",
+      "testimonial from affected employee",
+      "coalition building with labor, elected officials, and commissioners",
+      "policy explanation",
+      "contrast with political opponents",
+      "humor"
+    ],
+    "_platform": "facebook",
+    "_video_id": "2119360418822675"
+  },
+  "DWY__3qEYTQ": {
+    "summary": "Mayor Mamdani announces 'Municipal Madness,' a bracket-style competition where New Yorkers vote on which small city repair he will personally complete on Day 100 of his administration. The competition highlights everyday fixes like broken basketball rims, tennis courts, benches, and trail markers, with the promise that all items on the bracket will be repaired regardless of the vote outcome.",
+    "topics": [
+      "governance",
+      "civic_engagement",
+      "infrastructure"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "civic_engagement": 0.85,
+      "infrastructure": 0.7
+    },
+    "sentiment": {
+      "positive": 0.8,
+      "negative": 0.0,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "City government is launching a fun, bracket-style public vote called Municipal Madness to choose which small infrastructure repair the mayor will personally complete on Day 100",
+      "All repairs on the bracket will be completed regardless of which one wins the vote \u2014 everybody wins",
+      "No problem is too small and no task too big for government to solve"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "humor",
+      "direct address to camera",
+      "call to action",
+      "populist framing",
+      "gamification of civic engagement",
+      "self-deprecation"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWY__3qEYTQ"
+  },
+  "793203993833857": {
+    "summary": "Mayor Mamdani announces 'Mayor's Municipal Madness,' a bracket-style public voting competition where New Yorkers choose which small city repair they want to see the mayor personally fix. He emphasizes that all repairs on the bracket will be completed regardless of voting results, and the winning fix will be completed on Day 100 of his administration.",
+    "topics": [
+      "governance",
+      "public_engagement",
+      "infrastructure"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "public_engagement": 0.85,
+      "infrastructure": 0.7
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "City government is launching a fun, interactive bracket competition where the public votes on which small city repair the mayor should personally complete",
+      "All repairs on the bracket will be fixed regardless of voting outcome \u2014 everyone wins",
+      "No problem is too small and no task too big for government to solve"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "humor",
+      "call to action",
+      "gamification of civic engagement",
+      "self-deprecation",
+      "populist framing of government responsiveness"
+    ],
+    "_platform": "facebook",
+    "_video_id": "793203993833857"
+  },
+  "939283565126763": {
+    "summary": "Mayor Mamdani holds a press conference at the Brooklyn Bridge to announce an immediate redesign of the bridge's Manhattan entrance, creating fully separated bike and pedestrian access before the FIFA World Cup begins in June. The event features multiple elected officials and transit advocates, and the Q&A covers topics ranging from World Cup transit planning, free buses, the city budget gap, ICE enforcement, abortion clinic buffer zone legislation, and Staten Island secession.",
+    "topics": [
+      "transit",
+      "public_safety",
+      "budget",
+      "immigration",
+      "governance",
+      "world_cup",
+      "cycling_infrastructure"
+    ],
+    "topic_scores": {
+      "transit": 0.95,
+      "cycling_infrastructure": 0.9,
+      "world_cup": 0.8,
+      "budget": 0.6,
+      "immigration": 0.5,
+      "governance": 0.5,
+      "public_safety": 0.4
+    },
+    "sentiment": {
+      "positive": 0.6,
+      "negative": 0.15,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "The Brooklyn Bridge Manhattan entrance will be redesigned with fully separated bike and pedestrian access, ready before the World Cup in June",
+      "The World Cup is being used as a catalyst for lasting infrastructure investments in NYC transit and street safety",
+      "The city faces a $5.4 billion budget gap that the mayor wants to close through raising taxes on wealthy New Yorkers and corporations rather than cutting services"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "humor",
+      "personal anecdote",
+      "coalition building",
+      "policy explanation",
+      "direct address to camera",
+      "emotional appeal",
+      "civic pride framing",
+      "international benchmarking"
+    ],
+    "_platform": "facebook",
+    "_video_id": "939283565126763"
+  },
+  "DWWm3UqkXf1": {
+    "summary": "Mayor Mamdani explains how the Rent Guidelines Board (RGB) process works for New York City's 1 million+ rent-stabilized apartments. He walks viewers through the timeline of the RGB's deliberations, from expert testimony and data analysis to preliminary votes and public hearings, and encourages both tenants and landlords to participate in the upcoming public hearings.",
+    "topics": [
+      "housing",
+      "governance",
+      "economy"
+    ],
+    "topic_scores": {
+      "housing": 1.0,
+      "governance": 0.7,
+      "economy": 0.5
+    },
+    "sentiment": {
+      "positive": 0.4,
+      "negative": 0.1,
+      "urgent": 0.5
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "The Rent Guidelines Board process determines rent changes for over 2 million New Yorkers in rent-stabilized apartments, and it follows a structured, evidence-based timeline",
+      "Public hearings are coming and the RGB wants to hear from both tenants and landlords about how rent adjustments would affect them",
+      "New Yorkers should visit nyc.gov/RGB for hearing dates and locations and make their voices heard in this process"
+    ],
+    "audience": "NYC renters in rent-stabilized apartments and landlords of rent-stabilized buildings",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "call to action",
+      "civic engagement appeal",
+      "educational framing",
+      "inclusive address to both tenants and landlords"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWWm3UqkXf1"
+  },
+  "1676074316905665": {
+    "summary": "Mayor Mamdani explains the role and process of the Rent Guidelines Board (RGB), which determines rent increases for over 1 million rent-stabilized apartments in NYC. He outlines the board's timeline for expert hearings, preliminary votes, and public hearings, encouraging both tenants and landlords to participate and make their voices heard.",
+    "topics": [
+      "housing",
+      "governance",
+      "civic_participation"
+    ],
+    "topic_scores": {
+      "housing": 1.0,
+      "governance": 0.7,
+      "civic_participation": 0.8
+    },
+    "sentiment": {
+      "positive": 0.5,
+      "negative": 0.1,
+      "urgent": 0.4
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "The Rent Guidelines Board determines rent changes for over 1 million rent-stabilized apartments affecting 2 million New Yorkers",
+      "The RGB process involves data analysis, expert testimony, and public hearings where both tenants and landlords can participate",
+      "New Yorkers should attend upcoming public hearings to make their voices heard before the binding rent adjustment is finalized this summer"
+    ],
+    "audience": "NYC rent-stabilized tenants and landlords, general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "call to action",
+      "process transparency",
+      "civic empowerment",
+      "implicit positioning"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1676074316905665"
+  },
+  "DWSYw_SEfNe": {
+    "summary": "Mayor Mamdani hosts a Noruz (Persian New Year) celebration at City Hall, walking through the traditional Haftsin table with Iranian-American community members. The celebration takes on an emotional tone as participants discuss the difficulty of being unable to contact family in Iran, while centering themes of hope, renewal, and freedom for the Iranian people.",
+    "topics": [
+      "immigration",
+      "governance",
+      "cultural_celebration",
+      "human_rights"
+    ],
+    "topic_scores": {
+      "immigration": 0.7,
+      "governance": 0.5,
+      "cultural_celebration": 0.95,
+      "human_rights": 0.7
+    },
+    "sentiment": {
+      "positive": 0.45,
+      "negative": 0.3,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "New York City honors and celebrates its Iranian community and their cultural heritage through the Noruz Haftsin tradition at City Hall",
+      "The celebration carries emotional weight as Iranian-Americans struggle with being unable to contact relatives in Iran amid ongoing conflict and repression",
+      "Noruz symbolizes renewal, hope, and the enduring desire of Iranian people for freedom, autonomy, and self-determination"
+    ],
+    "audience": "Iranian-American New Yorkers and the broader immigrant/diaspora communities in NYC",
+    "rhetorical_strategies": [
+      "cultural education",
+      "personal anecdote",
+      "emotional appeal",
+      "community inclusion",
+      "symbolic gesture",
+      "direct address to camera",
+      "participatory dialogue"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWSYw_SEfNe"
+  },
+  "DWTz5zIkRLY": {
+    "summary": "Mayor Mamdani outlines a government efficiency initiative that identified $1.7 billion in potential savings across city agencies, detailing specific cuts to office supplies, outside contractors, consulting contracts, and unused property leases. He frames these savings as part of a broader fiscal strategy that also includes taxing the wealthy and renegotiating the city's relationship with the state to address a $5.4 billion deficit.",
+    "topics": [
+      "budget",
+      "governance",
+      "economy",
+      "housing",
+      "health"
+    ],
+    "topic_scores": {
+      "budget": 0.95,
+      "governance": 0.9,
+      "economy": 0.7,
+      "housing": 0.3,
+      "health": 0.2
+    },
+    "sentiment": {
+      "positive": 0.5,
+      "negative": 0.15,
+      "urgent": 0.35
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "City agencies have been directed to find $1.7 billion in savings without compromising essential services, with specific examples including cuts to office supplies, outside contractors, McKinsey consulting, and unused property leases.",
+      "Addressing the $5.4 billion fiscal deficit requires both cutting government waste and taxing the wealthy while renegotiating the city's fiscal relationship with the state.",
+      "Government has a responsibility to be efficient and accountable with public dollars \u2014 delivering 'public excellence' is a prerequisite for delivering public goods."
+    ],
+    "audience": "general NYC public, particularly working-class New Yorkers and fiscally-minded progressives",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "specific dollar figures for credibility",
+      "progressive fiscal framing",
+      "accountability pledge",
+      "balancing fiscal responsibility with progressive values",
+      "repetition of savings examples to build cumulative impact"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWTz5zIkRLY"
+  },
+  "1427791955119421": {
+    "summary": "Mayor Mamdani announces a government efficiency initiative directing city agencies to find $1.7 billion in savings without cutting essential services. He highlights specific examples of waste reduction including cuts to office supply spending, bringing contractor work in-house, renegotiating contracts, terminating the McKinsey consulting contract, reducing leased property, and strengthening tax break verification. He frames these efforts alongside his broader fiscal strategy of taxing the wealthy and renegotiating the city-state financial relationship.",
+    "topics": [
+      "budget",
+      "governance",
+      "economy",
+      "housing"
+    ],
+    "topic_scores": {
+      "budget": 0.95,
+      "governance": 0.9,
+      "economy": 0.7,
+      "housing": 0.2
+    },
+    "sentiment": {
+      "positive": 0.55,
+      "negative": 0.15,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Government has a responsibility to be efficient and eliminate wasteful spending, and the city has identified significant savings across agencies without cutting essential services.",
+      "Closing a $5.4 billion fiscal deficit requires both cutting internal waste and taxing the wealthy while renegotiating the city's financial relationship with the state.",
+      "Public excellence and fiscal discipline are prerequisites for delivering public goods to working-class New Yorkers."
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "specific examples with dollar figures",
+      "policy explanation",
+      "framing fiscal conservatism as progressive governance",
+      "accountability pledge",
+      "populist appeal to working-class values"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1427791955119421"
+  },
+  "3334870776684027": {
+    "summary": "Mayor Mamdani and members of his team celebrate Nowruz (Persian New Year) at City Hall by explaining the Haft-seen table tradition and its symbolic elements. The video shifts from a joyous cultural celebration to an emotional moment as staff members share the difficulty of being unable to contact relatives in Iran, connecting the holiday's themes of renewal and hope to the Iranian people's struggle for freedom.",
+    "topics": [
+      "immigration",
+      "governance",
+      "cultural_celebration",
+      "iran_crisis"
+    ],
+    "topic_scores": {
+      "immigration": 0.7,
+      "governance": 0.5,
+      "cultural_celebration": 0.95,
+      "iran_crisis": 0.8
+    },
+    "sentiment": {
+      "positive": 0.45,
+      "negative": 0.25,
+      "urgent": 0.3
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "New York City honors its Iranian and Persian communities by celebrating Nowruz at City Hall with the traditional Haft-seen table",
+      "Nowruz symbolizes renewal, hope, and the triumph of light over darkness, which is especially meaningful as Iranian people fight for freedom and autonomy",
+      "NYC is enriched by its diverse communities, including Iranian, Afghan, Tajik, and Central Asian New Yorkers"
+    ],
+    "audience": "Iranian and Persian diaspora communities, immigrant communities in NYC, and the general NYC public",
+    "rhetorical_strategies": [
+      "cultural education",
+      "personal anecdote",
+      "emotional appeal",
+      "direct address to camera",
+      "inclusive community building",
+      "participatory storytelling",
+      "solidarity signaling"
+    ],
+    "_platform": "facebook",
+    "_video_id": "3334870776684027"
+  },
+  "3963158093976580": {
+    "summary": "Mayor Mamdani announces the Neighborhood Builders Fast Track program, a new initiative to accelerate affordable housing construction on city-owned land across New York City. The program creates a pre-qualified roster of developers to cut pre-development time from 18 months to 10 months, resulting in approximately 1,000 additional affordable housing units. The press conference also addresses budget questions, the city's $5.4 billion fiscal deficit, and the administration's approach to state budget negotiations.",
+    "topics": [
+      "housing",
+      "budget",
+      "governance",
+      "economy",
+      "environment"
+    ],
+    "topic_scores": {
+      "housing": 1.0,
+      "budget": 0.7,
+      "governance": 0.6,
+      "economy": 0.5,
+      "environment": 0.1
+    },
+    "sentiment": {
+      "positive": 0.5,
+      "negative": 0.2,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The Neighborhood Builders Fast Track program will cut affordable housing pre-development time by over two years and create 1,000 additional affordable housing units on city-owned land, including both rental and homeownership opportunities",
+      "The housing crisis has disproportionately displaced Black New Yorkers, with over 200,000 leaving the city in recent decades, and this program prioritizes building in affected neighborhoods like Bed-Stuy",
+      "The administration is addressing a $12 billion inherited fiscal deficit through agency savings and advocating for taxing the wealthiest rather than raising property taxes on working-class New Yorkers"
+    ],
+    "audience": "general NYC public, particularly Black communities and residents of neighborhoods affected by displacement and rising rents",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "call to action",
+      "policy explanation",
+      "emotional appeal",
+      "audience participation through rhetorical questions",
+      "humor",
+      "coalition building with faith leaders and community organizations",
+      "statistical evidence of displacement",
+      "framing urgency through personal stories and demographic data"
+    ],
+    "_platform": "facebook",
+    "_video_id": "3963158093976580"
+  },
+  "DWGubHPkWC5": {
+    "summary": "Mayor Mamdani reflects on the spiritual lessons of Ramadan, particularly the shallowness of instant gratification, while addressing what it means to be New York City's first Muslim mayor. He emphasizes that Islam has been part of the city's fabric for generations, even if it hasn't always been visible.",
+    "topics": [
+      "religion_and_culture",
+      "governance",
+      "immigration",
+      "community"
+    ],
+    "topic_scores": {
+      "religion_and_culture": 0.95,
+      "governance": 0.5,
+      "immigration": 0.3,
+      "community": 0.6
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.05,
+      "urgent": 0.25
+    },
+    "dominant_tone": "positive",
+    "key_messages": [
+      "Ramadan teaches a lesson about the shallowness of instant gratification",
+      "Muslims have been an integral part of New York City for generations, even if their presence hasn't always been recognized",
+      "Being the first Muslim mayor is not about introducing Islam to the city but about making visible a faith community that has long been intertwined with NYC"
+    ],
+    "audience": "Muslim New Yorkers and the general NYC public",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "spiritual reflection",
+      "direct address to camera",
+      "correcting assumptions",
+      "emotional appeal",
+      "community voices"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWGubHPkWC5"
+  },
+  "1515680729887629": {
+    "summary": "Mayor Mamdani shares a reflection on Ramadan's spiritual lessons about instant gratification and emphasizes that Islam has deep roots in New York City. He pushes back on the notion that he is introducing the Muslim faith to the city, asserting that Muslims and NYC have been intertwined for generations.",
+    "topics": [
+      "cultural_identity",
+      "religion",
+      "governance",
+      "community"
+    ],
+    "topic_scores": {
+      "cultural_identity": 0.95,
+      "religion": 0.95,
+      "governance": 0.5,
+      "community": 0.7
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.05,
+      "urgent": 0.2
+    },
+    "dominant_tone": "positive",
+    "key_messages": [
+      "Ramadan teaches a valuable lesson about the shallowness of instant gratification",
+      "Muslims have been an integral part of New York City for generations, not a new introduction",
+      "The issue is not whether Muslims belong in NYC but whether their presence has been properly recognized and seen"
+    ],
+    "audience": "general NYC public, Muslim New Yorkers, and communities interested in cultural representation",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "direct address to camera",
+      "reframing the narrative",
+      "emotional appeal",
+      "spiritual reflection",
+      "identity affirmation"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1515680729887629"
+  },
+  "26023158683974073": {
+    "summary": "Mayor Zohran Mamdani announces the creation of the Office of Community Safety (OCS) via executive order, appointing Bernita Francois as New York City's first-ever Deputy Mayor for Community Safety. The office centralizes previously disparate public safety agencies\u2014including gun violence prevention, hate crime prevention, domestic violence services, community mental health, and crime victim services\u2014under one umbrella. The announcement is framed as a first step toward building a full Department of Community Safety, with emphasis on evidence-based, community-driven approaches to violence prevention and mental health crisis response as alternatives to relying solely on police.",
+    "topics": [
+      "public_safety",
+      "governance",
+      "health",
+      "budget",
+      "housing"
+    ],
+    "topic_scores": {
+      "public_safety": 1.0,
+      "governance": 0.85,
+      "health": 0.75,
+      "budget": 0.3,
+      "housing": 0.15
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.1,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "The Office of Community Safety will centralize previously fragmented public safety agencies under a new Deputy Mayor for Community Safety, representing a whole-of-government approach to violence prevention and mental health crisis response.",
+      "New York City must move beyond relying solely on police to address every social safety net failure, including 200,000 annual mental health calls, by investing in civilian-led programs like Be Heard and community-based violence interruption.",
+      "This is the first step toward a full Department of Community Safety, fulfilling a campaign promise supported by over one million voters, with plans to expand funding, staffing, and programming over time."
+    ],
+    "audience": "progressive activists, community safety advocates, CMS (crisis management system) workers, and NYC residents concerned about gun violence, mental health crisis response, and police reform",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "personal anecdote",
+      "policy explanation",
+      "emotional appeal",
+      "historical precedent",
+      "call to action",
+      "credentialing of appointee",
+      "preemptive rebuttal of criticism",
+      "community validation"
+    ],
+    "_platform": "facebook",
+    "_video_id": "26023158683974073"
+  },
+  "DWCi_70EVza": {
+    "summary": "Mayor Mamdani shares a conversation highlighting the experience of Muslim athletes, particularly a Knicks player who fasts during Ramadan, and discusses the significance of Muslim representation in New York City sports for young Muslim New Yorkers.",
+    "topics": [
+      "cultural_identity",
+      "religion",
+      "sports",
+      "community_representation"
+    ],
+    "topic_scores": {
+      "cultural_identity": 0.9,
+      "religion": 0.9,
+      "sports": 0.8,
+      "community_representation": 0.85
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Muslim representation in NYC sports, particularly the Knicks, is meaningful for young Muslim New Yorkers",
+      "Many Muslims in NYC don't have the privilege of sitting down for iftar because they're working, highlighting the diversity of Muslim experiences in the city",
+      "When athletes speak openly about their faith and identity, it carries special resonance and inspires communities"
+    ],
+    "audience": "Muslim New Yorkers, NYC sports fans, general NYC public interested in cultural representation",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "conversational interview format",
+      "emotional appeal",
+      "community representation",
+      "cultural celebration",
+      "relatable sports enthusiasm"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DWCi_70EVza"
+  },
+  "1250618806654589": {
+    "summary": "Mayor Mamdani walks through Harlem at night with Mo Diawara, discussing the significance of Muslim representation on the New York Knicks. The conversation centers on what it means for young Muslim New Yorkers to see a player on their beloved team fasting during Ramadan, and the importance of community iftar gatherings.",
+    "topics": [
+      "community",
+      "religion",
+      "sports",
+      "immigration"
+    ],
+    "topic_scores": {
+      "community": 0.9,
+      "religion": 0.9,
+      "sports": 0.7,
+      "immigration": 0.3
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Muslim identity is a natural and integral part of New York City life",
+      "Representation of Muslim athletes on teams like the Knicks is deeply meaningful for young Muslim New Yorkers",
+      "Many Muslim New Yorkers don't have the privilege of sitting down for iftar because they're working, highlighting the need for community togetherness"
+    ],
+    "audience": "Muslim New Yorkers and the broader NYC community, particularly young people and sports fans",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "community storytelling",
+      "casual street conversation",
+      "emotional appeal",
+      "representation as inspiration",
+      "cultural celebration"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1250618806654589"
+  },
+  "DV_c5ZJETpW": {
+    "summary": "Mayor Mamdani delivers a St. Patrick's Day address that traces the history of Irish suffering under British colonialism, celebrates Irish resistance and labor organizing, and highlights Ireland's tradition of international solidarity with oppressed peoples including those in the Congo, South Africa, and Palestine.",
+    "topics": [
+      "immigration",
+      "housing",
+      "economy",
+      "international_solidarity",
+      "colonialism",
+      "labor_rights"
+    ],
+    "topic_scores": {
+      "international_solidarity": 0.95,
+      "colonialism": 0.9,
+      "labor_rights": 0.7,
+      "immigration": 0.5,
+      "housing": 0.3,
+      "economy": 0.3
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.35,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The Irish experience of colonial oppression uniquely positions them to stand in solidarity with other oppressed peoples around the world",
+      "Irish immigrants overcame discrimination in New York through organizing, mobilizing, and building labor movements that shaped the city",
+      "Ireland has a distinguished history of international solidarity\u2014exposing Belgian Congo atrocities, opposing apartheid, and calling for Palestinian statehood\u2014and that tradition of solidarity remains an obligation today"
+    ],
+    "audience": "Irish-American New Yorkers, progressive activists, and those sympathetic to Palestinian and anti-colonial causes",
+    "rhetorical_strategies": [
+      "historical narrative",
+      "emotional appeal",
+      "direct address to camera",
+      "drawing parallels between historical and contemporary struggles",
+      "literary/religious reference",
+      "celebratory framing with political subtext",
+      "call to solidarity"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DV_c5ZJETpW"
+  },
+  "DV_JL69ES1I": {
+    "summary": "Mayor Mamdani announces that applications are open again for the NYC Future Fund, a loan program designed to support small businesses with flexible terms tailored to their needs. The video highlights features like reduced revenue requirements, affordable interest rates, and seasonal repayment adjustments, while celebrating small businesses as the cultural backbone of New York City.",
+    "topics": [
+      "economy",
+      "small_business",
+      "governance"
+    ],
+    "topic_scores": {
+      "economy": 0.95,
+      "small_business": 0.95,
+      "governance": 0.5
+    },
+    "sentiment": {
+      "positive": 0.8,
+      "negative": 0.0,
+      "urgent": 0.2
+    },
+    "dominant_tone": "positive",
+    "key_messages": [
+      "Applications are now open for the NYC Future Fund, a loan program with flexible terms designed specifically for small businesses",
+      "The fund features reduced minimum revenue requirements, lower minimum loan sizes, affordable interest rates, and seasonal repayment flexibility",
+      "Small businesses are the cultural and economic backbone of New York City and the city must do everything to help them succeed"
+    ],
+    "audience": "NYC small business owners and entrepreneurs, particularly seasonal and neighborhood-based businesses",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "call to action",
+      "emotional appeal",
+      "policy explanation",
+      "relatable examples",
+      "inclusive language",
+      "cultural references"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DV_JL69ES1I"
+  },
+  "1614085309624677": {
+    "summary": "Mayor Mamdani delivers a St. Patrick's Day address that traces the history of Irish resistance to British colonialism, highlights the contributions of Irish immigrants to New York City, and draws parallels between Irish solidarity movements and contemporary struggles for justice, including Palestinian statehood.",
+    "topics": [
+      "immigration",
+      "housing",
+      "economy",
+      "international_solidarity",
+      "colonialism",
+      "labor_rights"
+    ],
+    "topic_scores": {
+      "immigration": 0.7,
+      "housing": 0.3,
+      "economy": 0.4,
+      "international_solidarity": 0.9,
+      "colonialism": 0.9,
+      "labor_rights": 0.6
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.3,
+      "urgent": 0.35
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Irish history of colonial oppression and resistance serves as a model of enduring solidarity with oppressed peoples worldwide",
+      "Irish immigrants overcame discrimination to build New York City through labor organizing and collective action",
+      "The Irish tradition of international solidarity \u2014 from the Congo to apartheid South Africa to Palestine \u2014 is a moral legacy worth honoring and continuing today"
+    ],
+    "audience": "Irish-American New Yorkers, progressive activists, pro-Palestinian constituents, and the broader NYC public",
+    "rhetorical_strategies": [
+      "historical narrative",
+      "emotional appeal",
+      "direct address to camera",
+      "solidarity framing",
+      "parallel drawing between historical and contemporary struggles",
+      "literary/biblical allusion",
+      "celebratory occasion as rhetorical vehicle"
+    ],
+    "_platform": "facebook",
+    "_video_id": "1614085309624677"
+  },
+  "DVzkigfEZLt": {
+    "summary": "The video captures NYC residents speaking directly about their housing struggles at what appears to be a public event or town hall. Tenants raise issues including building disrepair, broken elevators affecting disabled residents, and landlord discrimination against gig workers through institutional guarantor requirements.",
+    "topics": [
+      "housing",
+      "disability_rights",
+      "gig_economy",
+      "governance"
+    ],
+    "topic_scores": {
+      "housing": 1.0,
+      "disability_rights": 0.7,
+      "gig_economy": 0.6,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.15,
+      "negative": 0.55,
+      "urgent": 0.3
+    },
+    "dominant_tone": "negative",
+    "key_messages": [
+      "Tenants are living in deteriorating buildings with non-functioning elevators that disproportionately harm disabled residents",
+      "Landlords are using institutional guarantor requirements to discriminate against gig workers and people with non-traditional employment",
+      "Residents want political leadership that stands up for tenants' rights and treats them as human beings"
+    ],
+    "audience": "NYC renters, tenant advocates, and progressive housing activists",
+    "rhetorical_strategies": [
+      "constituent testimonials",
+      "emotional appeal",
+      "direct address to camera",
+      "personal anecdote",
+      "amplifying community voices",
+      "humanization of policy issues"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DVzkigfEZLt"
+  },
+  "DVwFzoPkYOT": {
+    "summary": "Mayor Mamdani delivers a brief, upbeat greeting to Staten Island while spelling out letters and announcing the expansion of 3K (pre-kindergarten for 3-year-olds) programs. The short video appears to be a casual, energetic announcement about early childhood education expansion.",
+    "topics": [
+      "education",
+      "governance"
+    ],
+    "topic_scores": {
+      "education": 0.9,
+      "governance": 0.3
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.0,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "3K (pre-K for 3-year-olds) programs are expanding, likely to Staten Island",
+      "The administration is bringing new early childhood education opportunities"
+    ],
+    "audience": "Staten Island residents, particularly families with young children",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "community-specific shoutout",
+      "playful energy",
+      "brief announcement format"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DVwFzoPkYOT"
+  },
+  "DVt-Of4Ee6A": {
+    "summary": "Mayor Mamdani visits the offices of a community organization (CAF) in Chinatown to meet with residents and tenants, listening to their concerns about housing, tenant protections, and community stability. The video features multilingual exchanges with community members and concludes with the mayor affirming that the administration sees, hears, and values the Chinatown community.",
+    "topics": [
+      "housing",
+      "governance",
+      "community_engagement",
+      "immigration"
+    ],
+    "topic_scores": {
+      "housing": 0.9,
+      "governance": 0.7,
+      "community_engagement": 0.8,
+      "immigration": 0.4
+    },
+    "sentiment": {
+      "positive": 0.55,
+      "negative": 0.15,
+      "urgent": 0.3
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "The administration is committed to addressing tenant concerns and preventing displacement in Chinatown",
+      "Chinatown residents are seen, heard, and matter in the administration's policy decisions going forward",
+      "Housing stability is critical for residents' sense of security and well-being"
+    ],
+    "audience": "Chinatown residents, immigrant communities, tenants and housing advocates across NYC",
+    "rhetorical_strategies": [
+      "community listening session",
+      "direct address to camera",
+      "emotional appeal",
+      "amplifying constituent voices",
+      "personal presence and accessibility",
+      "multilingual engagement"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DVt-Of4Ee6A"
+  },
+  "DVrokd0EaPs": {
+    "summary": "Mayor Mamdani announces the expansion of New York City's 3K (pre-kindergarten for 3-year-olds) program, adding over 1,000 seats across 56 zip codes for the upcoming fall. He highlights the financial relief this provides families, addresses past accessibility challenges, and notes expanded services for students with disabilities.",
+    "topics": [
+      "education",
+      "housing",
+      "economy",
+      "governance"
+    ],
+    "topic_scores": {
+      "education": 1.0,
+      "economy": 0.5,
+      "housing": 0.3,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.05,
+      "urgent": 0.2
+    },
+    "dominant_tone": "positive",
+    "key_messages": [
+      "The city is adding more than 1,000 new 3K seats across 56 zip codes in all five boroughs to make early childhood education more accessible to families.",
+      "3K saves families more than $20,000 a year, and the expansion aims to place children closer to home rather than miles away.",
+      "The administration is also working to ensure students with disabilities have greater access to 3K services and program options."
+    ],
+    "audience": "NYC parents and families with young children, particularly those seeking affordable early childhood education options",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "emotional appeal",
+      "policy explanation",
+      "personal anecdote",
+      "specific data points",
+      "metaphor",
+      "call to action"
+    ],
+    "_platform": "instagram",
+    "_video_id": "DVrokd0EaPs"
+  },
+  "7610918633673379103": {
+    "summary": "Mayor Mamdani endorses his friend Brad Lander's congressional campaign in a lighthearted, scripted skit format. The video emphasizes Lander's progressive credentials, his independence from special interests and AIPAC, and the need for 'better Democrats' in Congress.",
+    "topics": [
+      "governance",
+      "elections",
+      "progressive_politics",
+      "campaign_endorsement"
+    ],
+    "topic_scores": {
+      "governance": 0.7,
+      "elections": 0.9,
+      "progressive_politics": 0.85,
+      "campaign_endorsement": 0.95
+    },
+    "sentiment": {
+      "positive": 0.65,
+      "negative": 0.1,
+      "urgent": 0.25
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Brad Lander is a lifelong progressive who hasn't sold out to special interests or AIPAC",
+      "It's not enough to elect Democrats \u2014 we need better Democrats in Congress",
+      "Mamdani personally endorses and vouches for Lander as a trusted friend and ally"
+    ],
+    "audience": "progressive activists and left-leaning Democratic primary voters in New York City",
+    "rhetorical_strategies": [
+      "humor",
+      "personal anecdote",
+      "endorsement through personal relationship",
+      "call to action",
+      "scripted dialogue/skit format",
+      "direct address to camera",
+      "implicit critique of Democratic establishment"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7610918633673379103"
+  },
+  "2026771477794574337": {
+    "summary": "Mayor Mamdani appears in a lighthearted endorsement video for Brad Lander's congressional campaign. The video emphasizes Lander's progressive credentials, his independence from special interests and AIPAC, and includes a fundraising appeal.",
+    "topics": [
+      "governance",
+      "campaign_endorsement",
+      "progressive_politics",
+      "campaign_finance"
+    ],
+    "topic_scores": {
+      "governance": 0.7,
+      "campaign_endorsement": 0.95,
+      "progressive_politics": 0.9,
+      "campaign_finance": 0.6
+    },
+    "sentiment": {
+      "positive": 0.65,
+      "negative": 0.1,
+      "urgent": 0.25
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Brad Lander is a lifelong progressive who hasn't sold out to special interests or AIPAC",
+      "It's not enough to elect Democrats \u2014 we need better Democrats",
+      "Viewers should donate to Brad Lander's congressional campaign"
+    ],
+    "audience": "progressive activists and left-leaning NYC voters",
+    "rhetorical_strategies": [
+      "humor",
+      "direct address to camera",
+      "call to action",
+      "personal endorsement",
+      "scripted dialogue/buddy comedy format",
+      "anti-establishment framing"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2026771477794574337"
+  },
+  "7600042219541761311": {
+    "summary": "Mayor Mamdani endorses and promotes Claire Valdez, a democratic socialist and union organizer running for Congress in New York's 7th district. The video is a fundraising appeal where both Mamdani and Valdez discuss her platform of unions for all, housing for all, and Medicare for all, and repeatedly direct viewers to donate at her campaign website.",
+    "topics": [
+      "governance",
+      "housing",
+      "health",
+      "economy",
+      "campaign_fundraising"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "housing": 0.7,
+      "health": 0.6,
+      "economy": 0.6,
+      "campaign_fundraising": 1.0
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.05,
+      "urgent": 0.25
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Claire Valdez is a democratic socialist and union organizer running for Congress in NY-7 who deserves financial support",
+      "Her platform centers on unions for all, housing for all, and Medicare for all",
+      "Viewers should donate at ClaireValdezForCongress.com"
+    ],
+    "audience": "progressive activists and democratic socialist supporters in Brooklyn and Queens",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "call to action",
+      "humor",
+      "endorsement by political figure",
+      "repetition for emphasis",
+      "conversational/interview format",
+      "pop culture reference"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7600042219541761311"
+  },
+  "2016154867815866368": {
+    "summary": "Mayor Zohran Mamdani endorses and fundraises for Claire Valdez, a democratic socialist and union organizer running for Congress in New York's 7th district. The video uses a casual, conversational format to highlight her progressive platform and direct viewers to donate to her campaign.",
+    "topics": [
+      "governance",
+      "housing",
+      "health",
+      "economy",
+      "endorsement"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "housing": 0.7,
+      "health": 0.6,
+      "economy": 0.6,
+      "endorsement": 0.9
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.05,
+      "urgent": 0.2
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Claire Valdez is a democratic socialist and union organizer deserving of support in her congressional race for NY-7",
+      "Her platform centers on unions for all, housing for all, and Medicare for all",
+      "Viewers should donate at ClaireValdezForCongress.com"
+    ],
+    "audience": "progressive activists and democratic socialist supporters in Brooklyn and Queens",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "call to action",
+      "humor",
+      "endorsement by authority figure",
+      "repetition for emphasis",
+      "casual conversational tone",
+      "geographic community appeal"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2016154867815866368"
+  },
+  "7597265072708177182": {
+    "summary": "This video appears to feature multilingual content that was poorly transcribed, making the actual message largely unintelligible. Based on the title's emoji flags (Morocco, Statue of Liberty, Senegal), it likely involves outreach to Moroccan and/or Senegalese immigrant communities in New York City.",
+    "topics": [
+      "immigration",
+      "community_engagement"
+    ],
+    "topic_scores": {
+      "immigration": 0.7,
+      "community_engagement": 0.6
+    },
+    "sentiment": {
+      "positive": 0.5,
+      "negative": 0.1,
+      "urgent": 0.4
+    },
+    "dominant_tone": "neutral",
+    "key_messages": [
+      "Outreach to immigrant diaspora communities in NYC, particularly Moroccan and Senegalese communities"
+    ],
+    "audience": "Moroccan and Senegalese diaspora communities in New York City",
+    "rhetorical_strategies": [
+      "multilingual communication",
+      "cultural outreach",
+      "direct address to camera"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7597265072708177182"
+  },
+  "s_hR4A1_sew": {
+    "summary": "This video is a behind-the-scenes retrospective of Zohran Mamdani's election night as he won the New York City mayoral race. It captures the emotional rollercoaster of watching results come in\u2014from anxiety over early exit polls to the moment MSNBC called the race in his favor. The video highlights the grassroots nature of his campaign, his coalition of diverse communities, and the historic significance of his victory as the city's most liberal mayor in generations.",
+    "topics": [
+      "governance",
+      "elections",
+      "grassroots_organizing",
+      "transit"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "elections": 1.0,
+      "grassroots_organizing": 0.7,
+      "transit": 0.2
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.1,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani's insurgent grassroots campaign defeated the Democratic establishment to win the mayoral race",
+      "The victory belongs to the diverse coalition of over 100,000 volunteers and immigrant communities who powered the campaign",
+      "Mamdani's election represents a historic progressive shift as the city's most liberal mayor in generations"
+    ],
+    "audience": "progressive activists and campaign supporters",
+    "rhetorical_strategies": [
+      "behind-the-scenes documentary style",
+      "emotional appeal",
+      "personal vulnerability",
+      "inclusive language celebrating diverse coalition",
+      "humor",
+      "raw unfiltered reactions to build authenticity"
+    ],
+    "_platform": "youtube",
+    "_video_id": "s_hR4A1_sew"
+  },
+  "7590188347398573343": {
+    "summary": "This video is a behind-the-scenes documentary of election night for Zohran Mamdani's mayoral campaign, capturing the emotional rollercoaster from anxiety over early exit polls to the euphoric moment when MSNBC calls the race in his favor. The video shows intimate moments of nervousness, real-time vote tracking, and the eventual celebration as Mamdani becomes the next mayor of New York City.",
+    "topics": [
+      "governance",
+      "elections",
+      "grassroots_organizing"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "elections": 1.0,
+      "grassroots_organizing": 0.7
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.1,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani's insurgent, grassroots campaign with over 100,000 volunteers defeated the Democratic establishment to win the NYC mayoral race",
+      "The victory represents diverse immigrant and working-class communities including Yemeni bodega owners, Mexican abuelas, and Ethiopian aunties",
+      "Mamdani is set to become NYC's most liberal mayor in a generation, marking the beginning of a new political era for the city"
+    ],
+    "audience": "general NYC public, progressive activists, and campaign supporters",
+    "rhetorical_strategies": [
+      "behind-the-scenes documentary style",
+      "emotional appeal",
+      "building narrative tension and release",
+      "authenticity through vulnerability",
+      "inclusive multicultural framing",
+      "personal anecdote"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7590188347398573343"
+  },
+  "2006527914976624640": {
+    "summary": "This behind-the-scenes video captures the emotional roller coaster of election night as Zohran Mamdani and his team anxiously monitored exit polls and vote counts during the NYC mayoral race. The video documents the journey from anxiety over bad exit polls and tight margins to the euphoric moment when MSNBC called the race in Mamdani's favor, culminating in celebrations as he crossed one million votes.",
+    "topics": [
+      "governance",
+      "elections",
+      "political_campaigns"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "elections": 1.0,
+      "political_campaigns": 0.9
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.1,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani's insurgent campaign defeated the Democratic establishment to win the NYC mayoral race",
+      "The victory was built by a diverse, grassroots coalition of over 100,000 volunteers including immigrant communities",
+      "Even the winning candidate and his team experienced genuine anxiety and vulnerability on election night before the triumphant result"
+    ],
+    "audience": "general NYC public, supporters, progressive activists, and media observers interested in the historic nature of the campaign",
+    "rhetorical_strategies": [
+      "behind-the-scenes documentary footage",
+      "emotional vulnerability",
+      "building narrative tension",
+      "celebrating diverse coalition",
+      "personal anecdote",
+      "raw unscripted moments",
+      "dramatic payoff structure"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2006527914976624640"
+  },
+  "xj89tYvwr6k": {
+    "summary": "Mayor Mamdani hosted a marathon constituent listening session where approximately 144 New Yorkers shared their concerns on topics ranging from housing affordability and transit to immigration fears, mental health services, and childcare. The video showcases deeply personal stories from diverse New Yorkers including immigrants, formerly homeless individuals, single mothers, and young people, culminating in an emotional reflection by Mamdani on the day's conversations.",
+    "topics": [
+      "housing",
+      "transit",
+      "immigration",
+      "health",
+      "public_safety",
+      "economy",
+      "environment",
+      "education",
+      "governance",
+      "childcare",
+      "food_access"
+    ],
+    "topic_scores": {
+      "housing": 0.9,
+      "immigration": 0.9,
+      "transit": 0.7,
+      "health": 0.7,
+      "public_safety": 0.6,
+      "economy": 0.6,
+      "childcare": 0.5,
+      "food_access": 0.5,
+      "environment": 0.4,
+      "education": 0.3,
+      "governance": 0.7,
+      "budget": 0.5
+    },
+    "sentiment": {
+      "positive": 0.4,
+      "negative": 0.35,
+      "urgent": 0.25
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Mamdani is an accessible, empathetic leader who listens directly to everyday New Yorkers and understands their struggles with affordability, immigration fears, and inadequate services",
+      "His administration will firmly enforce sanctuary city protections, separate NYPD from ICE operations, and stand against federal immigration enforcement in NYC",
+      "Universal programs like childcare, city-run grocery stores, and closing Rikers Island represent his vision of a city that works for everyone regardless of income or background"
+    ],
+    "audience": "general NYC public, particularly working-class New Yorkers, immigrants, progressive voters, and communities of color",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "constituent testimonials",
+      "emotional appeal",
+      "personal anecdote",
+      "multilingual connection",
+      "accessible governance imagery",
+      "empathetic listening",
+      "policy explanation",
+      "contrast with current administration"
+    ],
+    "_platform": "youtube",
+    "_video_id": "xj89tYvwr6k"
+  },
+  "7590114344952778015": {
+    "summary": "Mayor Mamdani hosted a 12-hour listening session on December 14th where 142 New Yorkers shared their concerns directly with him. Residents raised issues spanning housing affordability, transit (especially buses on Staten Island), grocery access, Medicaid cuts, rent stabilization, and climate change. The video showcases diverse voices from across the five boroughs in an intimate, conversational format.",
+    "topics": [
+      "housing",
+      "transit",
+      "economy",
+      "health",
+      "environment",
+      "governance",
+      "public_safety"
+    ],
+    "topic_scores": {
+      "housing": 0.95,
+      "transit": 0.75,
+      "economy": 0.8,
+      "health": 0.65,
+      "environment": 0.5,
+      "governance": 0.6,
+      "public_safety": 0.35
+    },
+    "sentiment": {
+      "positive": 0.3,
+      "negative": 0.4,
+      "urgent": 0.3
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "New Yorkers across all boroughs are struggling with affordability \u2014 from housing costs forcing families out to grocery access and healthcare",
+      "Mamdani is positioning himself as a leader who listens directly to everyday New Yorkers and their diverse, specific concerns",
+      "Transit, rent stabilization, Medicaid protections, and climate resilience are urgent priorities that emerged from real constituent voices"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "amplifying constituent voices",
+      "personal anecdote",
+      "community listening format",
+      "humor",
+      "emotional appeal",
+      "demonstrating accessibility and approachability"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7590114344952778015"
+  },
+  "2006456525590560768": {
+    "summary": "Zohran Mamdani held a 12-hour public listening session where 142 New Yorkers shared their concerns about housing affordability, transit, healthcare, food access, and climate change. The video highlights personal stories from residents across the boroughs struggling with rent, inadequate bus service, Medicaid vulnerabilities, and environmental threats. Mamdani positions himself as a responsive, accessible leader ready to address these interconnected crises.",
+    "topics": [
+      "housing",
+      "transit",
+      "health",
+      "economy",
+      "environment",
+      "governance",
+      "food_access"
+    ],
+    "topic_scores": {
+      "housing": 0.95,
+      "transit": 0.8,
+      "health": 0.7,
+      "economy": 0.75,
+      "environment": 0.6,
+      "governance": 0.5,
+      "food_access": 0.65
+    },
+    "sentiment": {
+      "positive": 0.3,
+      "negative": 0.4,
+      "urgent": 0.3
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "New Yorkers across all five boroughs are struggling with a severe housing affordability crisis that is pushing working families out of the city",
+      "Transit, healthcare access, and food affordability are interconnected quality-of-life issues that demand systemic solutions including city-run grocery stores and improved bus service",
+      "Mamdani is directly listening to everyday New Yorkers and positioning their concerns as the foundation of his policy agenda"
+    ],
+    "audience": "general NYC public, particularly working-class and middle-class residents across all five boroughs",
+    "rhetorical_strategies": [
+      "direct constituent engagement",
+      "amplifying personal anecdotes from real New Yorkers",
+      "listening tour format to demonstrate accessibility and empathy",
+      "humor",
+      "policy explanation",
+      "emotional appeal",
+      "showcasing geographic and demographic diversity of supporters"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2006456525590560768"
+  },
+  "LaZ2hNDZjFc": {
+    "summary": "A seven-year-old boy shares his concern about homeless people he sees on the subway during his daily commute to school, expressing a desire to help them get housing, treatment, food, and clothing. His mother adds context about her son's compassion and raises broader questions about community responsibility and mutual support.",
+    "topics": [
+      "housing",
+      "public_safety",
+      "transit",
+      "health",
+      "community"
+    ],
+    "topic_scores": {
+      "housing": 0.95,
+      "public_safety": 0.5,
+      "transit": 0.7,
+      "health": 0.7,
+      "community": 0.8
+    },
+    "sentiment": {
+      "positive": 0.4,
+      "negative": 0.3,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Homelessness is a visible daily reality for New Yorkers, including young children commuting on the subway",
+      "Even a seven-year-old recognizes that people experiencing homelessness deserve housing, healthcare, food, and dignity",
+      "Community responsibility means supporting one another and addressing homelessness collectively"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "emotional appeal",
+      "child's perspective as moral authority",
+      "personal anecdote",
+      "community engagement",
+      "grassroots constituent interaction"
+    ],
+    "_platform": "youtube",
+    "_video_id": "LaZ2hNDZjFc"
+  },
+  "7588968577248627998": {
+    "summary": "A seven-year-old boy and his mother speak directly to Mayor Mamdani during a community event at the Museum of the Moving Image about their concern for homeless people on the subway. The child expresses a desire to help homeless individuals get housing, treatment, food, and clothing, while his mother emphasizes the importance of community support and compassion.",
+    "topics": [
+      "housing",
+      "public_safety",
+      "transit",
+      "health",
+      "governance"
+    ],
+    "topic_scores": {
+      "housing": 0.9,
+      "public_safety": 0.5,
+      "transit": 0.7,
+      "health": 0.7,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.5,
+      "negative": 0.2,
+      "urgent": 0.3
+    },
+    "dominant_tone": "positive",
+    "key_messages": [
+      "Even a seven-year-old recognizes the urgency of addressing homelessness on NYC subways and wants to help",
+      "Community members want homeless individuals to receive housing, medical treatment, food, and basic necessities",
+      "The importance of community responsibility and supporting one another is a shared value among constituents"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "emotional appeal",
+      "amplifying constituent voices",
+      "child's perspective as moral authority",
+      "community engagement event",
+      "personal anecdote",
+      "bilingual/multicultural connection"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7588968577248627998"
+  },
+  "2005339405079257088": {
+    "summary": "A seven-year-old boy and his mother speak at a community listening event at the Museum of the Moving Image, expressing concern about homelessness they witness on the subway and a desire to help. The child asks what can be done to provide homeless people with housing, treatment, food, and clothing, while his mother reflects on community responsibility.",
+    "topics": [
+      "housing",
+      "public_safety",
+      "transit",
+      "health",
+      "community_engagement"
+    ],
+    "topic_scores": {
+      "housing": 0.9,
+      "public_safety": 0.5,
+      "transit": 0.6,
+      "health": 0.6,
+      "community_engagement": 0.8
+    },
+    "sentiment": {
+      "positive": 0.45,
+      "negative": 0.3,
+      "urgent": 0.25
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Even a seven-year-old recognizes that homelessness on the subway is wrong and wants to help",
+      "Community members are asking what it means to truly support one another and take collective responsibility",
+      "Mamdani is holding community listening sessions to hear directly from constituents about their concerns"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "emotional appeal",
+      "amplifying constituent voices",
+      "child's perspective as moral authority",
+      "community listening format",
+      "personal anecdote"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2005339405079257088"
+  },
+  "onvdHISKzAU": {
+    "summary": "The video features Zohran Mamdani's mother canvassing for his mayoral campaign across New York City, sharing personal anecdotes about encounters with voters and making warm, personal appeals. She emphasizes her son's progressive values, his focus on working-class people, and the importance of engaging communities that have historically been overlooked.",
+    "topics": [
+      "governance",
+      "economy",
+      "immigration",
+      "campaign"
+    ],
+    "topic_scores": {
+      "governance": 0.7,
+      "economy": 0.5,
+      "immigration": 0.4,
+      "campaign": 1.0
+    },
+    "sentiment": {
+      "positive": 0.8,
+      "negative": 0.0,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Zohran Mamdani is a progressive candidate who prioritizes working-class people over billionaires",
+      "Communities that have been historically overlooked and ignored deserve dignity and a voice in politics",
+      "Politics should be about listening to people's needs, and Mamdani embodies that approach"
+    ],
+    "audience": "general NYC public, particularly immigrant communities, working-class voters, and communities of color",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "emotional appeal",
+      "humor",
+      "direct voter engagement",
+      "surrogate endorsement",
+      "community connection",
+      "grassroots authenticity"
+    ],
+    "_platform": "youtube",
+    "_video_id": "onvdHISKzAU"
+  },
+  "7588235919799422239": {
+    "summary": "The video features Zohran Mamdani's mother canvassing for him in diverse NYC neighborhoods, sharing personal anecdotes about taxi conversations and door-to-door voter outreach. It highlights grassroots campaigning, community engagement, and testimonials about Mamdani's progressive, working-class-focused candidacy as the first Muslim progressive mayor.",
+    "topics": [
+      "governance",
+      "immigration",
+      "economy",
+      "grassroots_campaigning",
+      "representation"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "immigration": 0.5,
+      "economy": 0.6,
+      "grassroots_campaigning": 0.9,
+      "representation": 0.8
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.05,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani represents a people's movement focused on working-class communities rather than billionaires",
+      "Historically overlooked and underrepresented communities are being engaged and listened to for the first time",
+      "Politics should be about listening to people and giving them the dignity they deserve"
+    ],
+    "audience": "immigrant communities, working-class NYC voters, progressive voters, Muslim and South Asian communities",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "emotional appeal",
+      "community testimonials",
+      "humor",
+      "surrogate campaigning by family member",
+      "direct voter outreach footage",
+      "identity-based appeal",
+      "grassroots authenticity"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7588235919799422239"
+  },
+  "2004621971980533760": {
+    "summary": "The video features Zohran Mamdani's mother canvassing for him in diverse NYC neighborhoods, sharing personal anecdotes about telling strangers she is his mother. The video highlights grassroots community engagement, particularly in immigrant and working-class communities, emphasizing themes of representation, dignity, and progressive values.",
+    "topics": [
+      "governance",
+      "immigration",
+      "economy",
+      "representation"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "immigration": 0.7,
+      "economy": 0.5,
+      "representation": 0.9
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.0,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani represents a historic candidacy as the first Muslim progressive mayor, championing working-class people over billionaires",
+      "Communities that have been historically overlooked and ignored deserve dignity, representation, and a voice in politics",
+      "Grassroots, personal community engagement is at the heart of the Mamdani campaign"
+    ],
+    "audience": "immigrant communities, working-class NYC voters, progressive activists, South Asian and Muslim communities",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "emotional appeal",
+      "surrogate validator (mother as canvasser)",
+      "humor",
+      "community engagement footage",
+      "identity politics framing",
+      "direct voter outreach"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2004621971980533760"
+  },
+  "ayG-4CPpI0w": {
+    "summary": "Mayor-elect Zohran Mamdani outlines the child care affordability crisis in New York City, noting that families need to earn over $330,000/year to afford care for a single toddler. He presents the devastating consequences\u2014parents leaving jobs, families leaving the city, and households going into debt\u2014and announces universal, no-cost child care as a top priority when he takes office.",
+    "topics": [
+      "economy",
+      "education",
+      "housing",
+      "governance",
+      "childcare"
+    ],
+    "topic_scores": {
+      "childcare": 1.0,
+      "economy": 0.8,
+      "education": 0.6,
+      "housing": 0.5,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.35,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Child care in NYC is unaffordable for most families, requiring over $330,000/year in income for a single toddler",
+      "The lack of affordable child care drives economic losses, family displacement, and household debt",
+      "Universal, no-cost child care for every NYC family will be a top priority when Mamdani takes office"
+    ],
+    "audience": "working families with young children in NYC and the general NYC public",
+    "rhetorical_strategies": [
+      "policy explanation",
+      "statistical evidence",
+      "problem-solution framing",
+      "emotional appeal",
+      "direct address to camera",
+      "call to action",
+      "aspirational vision"
+    ],
+    "_platform": "youtube",
+    "_video_id": "ayG-4CPpI0w"
+  },
+  "7587933046901361934": {
+    "summary": "Shaw-nae, a Staten Island restaurant owner and eighth-generation descendant of the first free Black African-American to purchase property on Staten Island, shares her family's deep roots in the Sandy Ground community and describes the challenges of opening her restaurant with only $22,000 and no institutional support. Mayor Mamdani visits her establishment to listen to her story and show appreciation.",
+    "topics": [
+      "economy",
+      "housing",
+      "small_business",
+      "black_history",
+      "staten_island_community"
+    ],
+    "topic_scores": {
+      "economy": 0.8,
+      "small_business": 0.9,
+      "black_history": 0.7,
+      "housing": 0.3,
+      "staten_island_community": 0.6
+    },
+    "sentiment": {
+      "positive": 0.5,
+      "negative": 0.3,
+      "urgent": 0.2
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "Small business owners in NYC, particularly Black entrepreneurs, face significant barriers to accessing capital, resources, and institutional support",
+      "Staten Island's Sandy Ground community has deep African-American historical roots dating back to the late 18th century",
+      "Community members are building businesses through sheer determination and grassroots effort despite systemic lack of support"
+    ],
+    "audience": "general NYC public, small business owners, Black communities, Staten Island residents",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "community visit",
+      "amplifying constituent voices",
+      "historical narrative",
+      "emotional appeal",
+      "highlighting systemic gaps"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7587933046901361934"
+  },
+  "7587616948700171550": {
+    "summary": "Mayor-elect Zohran Mamdani outlines the child care affordability crisis in New York City, citing that families need to earn over $330,000 a year to afford care for a single toddler. He presents the dire consequences families face\u2014leaving jobs, leaving the city, or going into debt\u2014and announces universal, no-cost child care as a top priority when he takes office.",
+    "topics": [
+      "economy",
+      "education",
+      "housing",
+      "childcare",
+      "governance"
+    ],
+    "topic_scores": {
+      "childcare": 1.0,
+      "economy": 0.8,
+      "education": 0.5,
+      "housing": 0.4,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.35,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Child care in NYC is unaffordable for most families, requiring over $330,000 in annual income for a single toddler, creating an impossible burden",
+      "Universal, no-cost child care for every NYC family is a top priority for his incoming administration",
+      "The child care crisis drives economic losses, family departures from the city, and unsustainable debt, and solving it is key to New York's future"
+    ],
+    "audience": "working families with young children in NYC and the broader general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "data-driven argumentation",
+      "problem-solution framing",
+      "emotional appeal",
+      "call to action",
+      "holiday framing to build relatability"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7587616948700171550"
+  },
+  "2003979931135492097": {
+    "summary": "Mayor-elect Mamdani outlines the childcare affordability crisis in New York City, citing that families need to earn over $330,000 a year to afford childcare for a single toddler. He presents the dire consequences families face\u2014leaving jobs, leaving the city, or going into debt\u2014and announces universal, no-cost childcare as a top priority when he takes office.",
+    "topics": [
+      "childcare",
+      "economy",
+      "housing",
+      "governance"
+    ],
+    "topic_scores": {
+      "childcare": 1.0,
+      "economy": 0.8,
+      "housing": 0.5,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.35,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Childcare in NYC is unaffordable for most families, requiring over $330,000 in annual income, and this forces impossible trade-offs like leaving jobs, leaving the city, or going into debt.",
+      "Universal, no-cost childcare for every NYC family is a top priority for Mamdani's incoming administration.",
+      "The administration will engage families and childcare workers in the coming months to design the program properly, including expanding 3K and pre-K to the youngest children."
+    ],
+    "audience": "working families with young children in NYC and the broader general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "statistical evidence",
+      "emotional appeal",
+      "problem-solution framing",
+      "call to action",
+      "forward-looking optimism"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2003979931135492097"
+  },
+  "2004324954913808384": {
+    "summary": "The video features Shaw-nae, a Staten Island restaurant owner and eighth-generation descendant of the first free Black African-American to purchase property on Staten Island, sharing her family history and the challenges she faced opening her restaurant with minimal resources and no institutional support. Mayor Mamdani thanks her for sharing her story and welcoming them.",
+    "topics": [
+      "economy",
+      "housing",
+      "small_business",
+      "black_history",
+      "community"
+    ],
+    "topic_scores": {
+      "economy": 0.8,
+      "small_business": 0.9,
+      "black_history": 0.7,
+      "housing": 0.3,
+      "community": 0.6
+    },
+    "sentiment": {
+      "positive": 0.45,
+      "negative": 0.3,
+      "urgent": 0.25
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "Black entrepreneurs on Staten Island face significant barriers to accessing capital, resources, and institutional support",
+      "Shaw-nae's deep generational roots on Staten Island highlight the long history of Black community presence and property ownership dating back to 1799",
+      "Small business owners are forced to build from the ground up without government or agency assistance"
+    ],
+    "audience": "general NYC public, particularly Staten Island residents and communities interested in Black history, small business advocacy, and economic equity",
+    "rhetorical_strategies": [
+      "personal anecdote",
+      "historical narrative",
+      "community spotlight",
+      "emotional appeal",
+      "amplifying constituent voices"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2004324954913808384"
+  },
+  "Atlw-hdpha4": {
+    "summary": "Mayor Mamdani delivers an inaugural address celebrating New York City's greatness and its tradition of public service, invoking the Roosevelt legacy. He frames his election as a collective victory and calls for hope, solidarity, and work to turn shared dreams into reality.",
+    "topics": [
+      "governance",
+      "public_service",
+      "civic_identity"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "public_service": 0.8,
+      "civic_identity": 0.7
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.0,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "New York City's greatness is defined by its services to its people, not its buildings",
+      "Public interest must prevail over special interest, continuing the Roosevelt tradition",
+      "This electoral victory belongs to the collective, not the individual, and realizing dreams requires hope, solidarity, and work"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "historical invocation",
+      "emotional appeal",
+      "collective framing",
+      "repetition and parallelism",
+      "celebratory tone-setting",
+      "direct address to city"
+    ],
+    "_platform": "youtube",
+    "_video_id": "Atlw-hdpha4"
+  },
+  "7586328185348934943": {
+    "summary": "Mayor Mamdani shares an inauguration-themed video celebrating his new administration, invoking the legacy of Roosevelt-era progressive governance and framing the moment as a collective victory for New Yorkers. The video emphasizes public service, hope, solidarity, and the unique character of New York City.",
+    "topics": [
+      "governance",
+      "inauguration",
+      "public_service"
+    ],
+    "topic_scores": {
+      "governance": 0.95,
+      "inauguration": 0.9,
+      "public_service": 0.7
+    },
+    "sentiment": {
+      "positive": 0.8,
+      "negative": 0.0,
+      "urgent": 0.2
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "New York City's greatness is defined by its services to its people, not its buildings",
+      "Public interests must prevail over special interests, following the Roosevelt progressive tradition",
+      "This political victory belongs to the people collectively, not to any individual leader"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "historical allusion",
+      "emotional appeal",
+      "collective framing",
+      "call to unity",
+      "invocation of progressive legacy",
+      "direct address to camera"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7586328185348934943"
+  },
+  "2002759156156026880": {
+    "summary": "Mayor Mamdani delivers his inauguration announcement and speech, celebrating New York City's legacy of public service and invoking the spirit of the Roosevelts. He frames his electoral victory as a collective achievement and calls on New Yorkers to join him in dreaming, solidarity, and hard work for the new administration.",
+    "topics": [
+      "governance",
+      "community",
+      "public_service"
+    ],
+    "topic_scores": {
+      "governance": 0.95,
+      "community": 0.8,
+      "public_service": 0.85
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.0,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "New York City's greatness lies in its service to its people, not its buildings",
+      "This victory belongs to all New Yorkers, not just one individual",
+      "Achieving dreams requires hope, solidarity, and hard work"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "historical invocation",
+      "collective framing",
+      "emotional appeal",
+      "repetition and anaphora",
+      "call to action",
+      "humility framing"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2002759156156026880"
+  },
+  "KIxAKyioXng": {
+    "summary": "Mayor Zohran Mamdani visits a Jewish family's home during Hanukkah to cook latkes together, light the menorah, and share in the holiday celebration. The family warmly receives him, says traditional blessings including the Shehecheyanu for new beginnings, and the mother expresses heartfelt support for Mamdani's humanistic approach to governance.",
+    "topics": [
+      "governance",
+      "community_engagement",
+      "religion_and_culture"
+    ],
+    "topic_scores": {
+      "governance": 0.5,
+      "community_engagement": 0.9,
+      "religion_and_culture": 0.9
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani connects personally with diverse New York communities by participating in their cultural and religious traditions",
+      "The mayor is presented as a humanistic, accessible leader who is not part of the 'plutocracy billionaire class'",
+      "Hanukkah and its themes of miracles and new beginnings are linked to optimism about Mamdani's mayoral tenure"
+    ],
+    "audience": "general NYC public, particularly Jewish New Yorkers and progressive constituents",
+    "rhetorical_strategies": [
+      "personal connection with constituents",
+      "cultural participation",
+      "humor",
+      "emotional appeal",
+      "constituent testimonial",
+      "informal domestic setting to convey authenticity"
+    ],
+    "_platform": "youtube",
+    "_video_id": "KIxAKyioXng"
+  },
+  "7585930626700709150": {
+    "summary": "Mayor Zohran Mamdani visits a Jewish family's home to celebrate Hanukkah together, helping them cook traditional recipes from a family cookbook. The evening includes lighting the menorah, reciting the Shehecheyanu blessing, and a heartfelt conversation where the mother expresses why she supported Mamdani's campaign, citing his humanity and commitment to equity.",
+    "topics": [
+      "governance",
+      "community_engagement",
+      "cultural_celebration",
+      "jewish_heritage"
+    ],
+    "topic_scores": {
+      "governance": 0.5,
+      "community_engagement": 0.9,
+      "cultural_celebration": 0.9,
+      "jewish_heritage": 0.8
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani personally connects with diverse communities by sharing in their cultural and religious traditions",
+      "His mayoral tenure represents a 'new beginning' that the city and its people are grateful for",
+      "Supporters value Mamdani as a 'humanitician' who prioritizes equity, equality, and human connection over plutocratic politics"
+    ],
+    "audience": "general NYC public, particularly Jewish New Yorkers and progressive supporters who value multicultural representation and personal authenticity in leadership",
+    "rhetorical_strategies": [
+      "personal connection through shared experience",
+      "cultural participation and respect",
+      "emotional appeal",
+      "constituent testimonial",
+      "humor",
+      "warmth and informality",
+      "letting supporters speak on his behalf"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7585930626700709150"
+  },
+  "2002370607917199361": {
+    "summary": "Mayor Mamdani celebrates Hanukkah by visiting a family's home, helping cook traditional latkes from a grandmother's Jewish cookbook, lighting the menorah together, and sharing a warm, personal conversation about values and his campaign. The family matriarch praises Mamdani for being a 'humanitician' who cares about equity and equality.",
+    "topics": [
+      "governance",
+      "cultural_celebration",
+      "community_engagement"
+    ],
+    "topic_scores": {
+      "governance": 0.4,
+      "cultural_celebration": 0.9,
+      "community_engagement": 0.8
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mayor Mamdani personally connects with diverse communities by participating in their cultural and religious celebrations",
+      "Mamdani is portrayed as a humanistic, accessible leader who is not part of the billionaire class and cares about equity and equality for all",
+      "The warmth of shared traditions like Hanukkah cooking and blessings reinforces Mamdani's image as a people-centered mayor"
+    ],
+    "audience": "general NYC public, Jewish community members, progressive supporters",
+    "rhetorical_strategies": [
+      "personal connection through home visit",
+      "cultural participation and respect",
+      "humor",
+      "testimonial from constituent",
+      "emotional appeal",
+      "authenticity signaling",
+      "informal and unscripted tone"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2002370607917199361"
+  },
+  "qZdCGroDHHo": {
+    "summary": "A very brief video where Mayor Mamdani addresses an audience with the title emphasizing his role as mayor for all 8,478,000 New Yorkers. The transcript contains only expressions of gratitude, suggesting this is likely an acceptance speech or public appearance opening.",
+    "topics": [
+      "governance"
+    ],
+    "topic_scores": {
+      "governance": 0.9
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.0,
+      "urgent": 0.3
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Mamdani positions himself as mayor representing all 8,478,000 New Yorkers, emphasizing inclusivity and universal representation"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "direct address to audience",
+      "inclusive framing via title",
+      "brevity and gratitude"
+    ],
+    "_platform": "youtube",
+    "_video_id": "qZdCGroDHHo"
+  },
+  "7584631558447926541": {
+    "summary": "Mayor Mamdani expresses gratitude while reviewing notes from New Yorkers, appearing to reflect on community engagement from a Sunday event that gathered input from residents across the city. The video captures a candid, behind-the-scenes moment of the mayor reading constituent feedback.",
+    "topics": [
+      "governance",
+      "community_engagement"
+    ],
+    "topic_scores": {
+      "governance": 0.7,
+      "community_engagement": 0.8
+    },
+    "sentiment": {
+      "positive": 0.8,
+      "negative": 0.0,
+      "urgent": 0.2
+    },
+    "dominant_tone": "positive",
+    "key_messages": [
+      "The mayor values direct feedback and notes from everyday New Yorkers",
+      "A citywide engagement event gathered input from residents across all boroughs from 8am to 8pm"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "behind-the-scenes authenticity",
+      "emotional appeal",
+      "personal connection to constituents",
+      "gratitude expression"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7584631558447926541"
+  },
+  "2001097538137444355": {
+    "summary": "The video appears to be from a public event or rally where Mayor Mamdani thanks supporters. Based on the title, it relates to a day-long civic event where New Yorkers from across the city participated from 8am to 8pm. The transcript is largely unintelligible due to poor audio capture, consisting mainly of expressions of gratitude.",
+    "topics": [
+      "governance",
+      "civic_engagement"
+    ],
+    "topic_scores": {
+      "governance": 0.6,
+      "civic_engagement": 0.7
+    },
+    "sentiment": {
+      "positive": 0.7,
+      "negative": 0.0,
+      "urgent": 0.3
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Thanking New Yorkers for their participation in a citywide event that ran from 8am to 8pm",
+      "Celebrating broad civic engagement from every corner of the city"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "direct address to audience",
+      "expressions of gratitude",
+      "community celebration"
+    ],
+    "_platform": "twitter",
+    "_video_id": "2001097538137444355"
+  },
+  "XuD40RSFhl4": {
+    "summary": "A brief clip from a Jewish community event where a speaker formally welcomes and introduces Mayor-Elect Zohran Mamdani. The speaker expresses hopes for Mamdani's success as mayor and for his continued friendship with New York City's Jewish community.",
+    "topics": [
+      "governance",
+      "community_relations",
+      "interfaith_engagement"
+    ],
+    "topic_scores": {
+      "governance": 0.7,
+      "community_relations": 0.9,
+      "interfaith_engagement": 0.8
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "The Jewish community formally welcomes and honors Mayor-Elect Mamdani",
+      "The community hopes and prays for Mamdani's success as mayor and for a strong ongoing relationship with NYC's Jewish community"
+    ],
+    "audience": "Jewish community members in NYC and the broader NYC public",
+    "rhetorical_strategies": [
+      "formal introduction",
+      "community endorsement",
+      "expression of goodwill",
+      "religious framing"
+    ],
+    "_platform": "youtube",
+    "_video_id": "XuD40RSFhl4"
+  },
+  "7582732952430234910": {
+    "summary": "A short clip from a Jewish community event where Zohran Mamdani is formally welcomed as Mayor-Elect by a community leader. The introduction expresses hopes for his success and continued friendship with the Jewish community of New York City. The event coincides with Kuf Alef Kislev, the 81st anniversary celebration of the Satmar community.",
+    "topics": [
+      "governance",
+      "community_relations",
+      "jewish_community"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "community_relations": 0.9,
+      "jewish_community": 0.95
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "The Satmar Jewish community formally welcomes Mamdani as Mayor-Elect",
+      "The community expresses hope for continued positive relations between the new mayor and New York City's Jewish community",
+      "Mamdani's attendance at the Kuf Alef Kislev anniversary signals outreach and coalition-building with Orthodox Jewish communities"
+    ],
+    "audience": "general NYC public, Jewish community members, voters interested in interfaith and community coalition-building",
+    "rhetorical_strategies": [
+      "formal introduction",
+      "community endorsement signaling",
+      "coalition-building display",
+      "symbolic presence at cultural/religious event"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7582732952430234910"
+  },
+  "7582675039246454071": {
+    "summary": "Mayor Mamdani engages in a playful, lighthearted conversation with children in a public setting, discussing leadership, his election win, and who his 'bosses' are. He emphasizes that every New Yorker is his boss and that good leadership is about listening, while the kids charm him with their answers about housing affordability and friendship.",
+    "topics": [
+      "governance",
+      "housing",
+      "leadership"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "housing": 0.4,
+      "leadership": 0.7
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Every New Yorker is the mayor's boss \u2014 he serves all 8.5 million residents",
+      "Good leadership is rooted in listening to people",
+      "Housing affordability is a priority that even children recognize as important"
+    ],
+    "audience": "general NYC public, especially families and younger demographics",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "humor",
+      "personal anecdote",
+      "engagement with children as relatable proxies for constituents",
+      "emotional appeal",
+      "populist framing of accountability"
+    ],
+    "_platform": "tiktok",
+    "_video_id": "7582675039246454071"
+  },
+  "1999245343456653313": {
+    "summary": "A representative of the Satmar Jewish community formally welcomes and introduces Mayor-elect Zohran Mamdani, expressing hopes for his success as mayor and his continued friendship with the Jewish community of New York City. The video is shared in connection with Kuf Alef Kislev, the 81st anniversary of a significant Satmar occasion.",
+    "topics": [
+      "governance",
+      "community_relations",
+      "jewish_community"
+    ],
+    "topic_scores": {
+      "governance": 0.8,
+      "community_relations": 0.9,
+      "jewish_community": 0.95
+    },
+    "sentiment": {
+      "positive": 0.85,
+      "negative": 0.0,
+      "urgent": 0.15
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "The Satmar Jewish community formally welcomes and honors Mayor-elect Mamdani",
+      "The community expresses hope for Mamdani's success as mayor and his continued close relationship with New York City's Jewish community",
+      "Mamdani is engaging with and being embraced by Orthodox Jewish communities as part of his transition to office"
+    ],
+    "audience": "general NYC public, Jewish community members, voters interested in interfaith and coalition politics",
+    "rhetorical_strategies": [
+      "community endorsement",
+      "formal ceremony",
+      "coalition building",
+      "religious and cultural engagement",
+      "goodwill signaling"
+    ],
+    "_platform": "twitter",
+    "_video_id": "1999245343456653313"
+  },
+  "6q500M3Qqfc": {
+    "summary": "Mayor-elect Zohran Mamdani makes a lighthearted fundraising appeal for his mayoral transition, explaining that transition operations do not receive public matching funds. He highlights the scale of transition preparations including reviewing 70,000 resumes, setting up committees, and planning an inauguration, while asking supporters to donate at transition2025.com.",
+    "topics": [
+      "governance",
+      "budget",
+      "housing"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "budget": 0.7,
+      "housing": 0.3
+    },
+    "sentiment": {
+      "positive": 0.65,
+      "negative": 0.0,
+      "urgent": 0.35
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The mayoral transition needs additional donations because transitions do not receive public matching funds from the city",
+      "The transition team is actively preparing to govern from day one with an affordability agenda, having received 70,000 resumes and begun naming appointees",
+      "The campaign has already raised $3.5 million from over 30,000 donors but needs more to finish transition preparations"
+    ],
+    "audience": "existing supporters and small-dollar donors who backed Mamdani's campaign",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "humor",
+      "call to action",
+      "transparency about finances",
+      "pop culture reference",
+      "self-deprecation",
+      "urgency framing"
+    ],
+    "_platform": "youtube",
+    "_video_id": "6q500M3Qqfc"
+  },
+  "1998422900349501440": {
+    "summary": "Mayor-elect Zohran Mamdani makes a final fundraising appeal for his mayoral transition, noting they have raised $3.5 million from over 30,000 donors but need more since transitions don't receive public matching funds. He highlights transition preparations including reviewing 70,000+ resumes, setting up committees, and planning inauguration, all in service of delivering an affordability agenda from day one.",
+    "topics": [
+      "governance",
+      "budget",
+      "housing",
+      "economy"
+    ],
+    "topic_scores": {
+      "governance": 0.9,
+      "budget": 0.7,
+      "housing": 0.5,
+      "economy": 0.5
+    },
+    "sentiment": {
+      "positive": 0.6,
+      "negative": 0.0,
+      "urgent": 0.4
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The transition team needs additional fundraising support since transitions don't receive public matching funds from the city",
+      "The administration is preparing to deliver an affordability agenda from day one, with 70,000+ resumes reviewed and transition committees being established",
+      "They have already raised $3.5 million from over 30,000 donors and are asking for final contributions at transition2025.com"
+    ],
+    "audience": "existing supporters and donors, progressive NYC residents",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "humor",
+      "call to action",
+      "pop culture reference",
+      "self-deprecation",
+      "transparency about finances",
+      "personal anecdote"
+    ],
+    "_platform": "twitter",
+    "_video_id": "1998422900349501440"
+  },
+  "Tq-KqQXy4LE": {
+    "summary": "Zohran Mamdani responds to an ICE raid attempt on Canal Street by educating New Yorkers about their legal rights when encountering ICE agents. He explains rules about judicial warrants, the right to remain silent, the right to film, and promises to protect immigrant communities as mayor.",
+    "topics": [
+      "immigration",
+      "public_safety",
+      "governance",
+      "civil_rights"
+    ],
+    "topic_scores": {
+      "immigration": 1.0,
+      "public_safety": 0.5,
+      "governance": 0.6,
+      "civil_rights": 0.8
+    },
+    "sentiment": {
+      "positive": 0.3,
+      "negative": 0.2,
+      "urgent": 0.5
+    },
+    "dominant_tone": "informative",
+    "key_messages": [
+      "ICE cannot enter private spaces without a judicial warrant signed by a judge, and you have the right to refuse entry without one",
+      "New Yorkers have rights when encountering ICE including the right to remain silent, to ask if they are free to go, and to film interactions",
+      "As mayor, Mamdani will protect and celebrate New York's immigrant communities and their constitutional rights"
+    ],
+    "audience": "immigrant communities in NYC and their allies, particularly those concerned about ICE enforcement",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "know-your-rights education",
+      "visual aids for warrant identification",
+      "call to action",
+      "emotional appeal",
+      "campaign promise",
+      "community solidarity framing"
+    ],
+    "_platform": "youtube",
+    "_video_id": "Tq-KqQXy4LE"
+  },
+  "1997711472353214464": {
+    "summary": "In this campaign video, mayoral candidate Zohran Mamdani responds to a recent ICE raid attempt on Canal Street by educating viewers on their legal rights when encountering immigration enforcement. He outlines specific rights including protections against warrantless entry, the right to remain silent, and the right to film, while pledging to protect immigrants and the right to protest as mayor.",
+    "topics": [
+      "immigration",
+      "public_safety",
+      "governance"
+    ],
+    "topic_scores": {
+      "immigration": 1.0,
+      "public_safety": 0.6,
+      "governance": 0.5
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.2,
+      "urgent": 0.45
+    },
+    "dominant_tone": "urgent",
+    "key_messages": [
+      "New Yorkers have specific legal rights when encountering ICE, including the right to refuse warrantless entry, remain silent, and film interactions",
+      "As mayor, Mamdani will protect the rights of all New Yorkers, including over 3 million immigrants",
+      "New York will always welcome immigrants and protect the constitutional right to protest"
+    ],
+    "audience": "immigrant communities in NYC and progressive voters supportive of immigrant rights",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "policy explanation",
+      "know-your-rights legal education",
+      "call to action",
+      "emotional appeal",
+      "visual aids referencing document examples",
+      "campaign promise framing"
+    ],
+    "_platform": "twitter",
+    "_video_id": "1997711472353214464"
+  },
+  "fXRso8vCfcA": {
+    "summary": "Mayor Zohran Mamdani joins Senator Bernie Sanders on a Starbucks Workers United picket line in Park Slope, Brooklyn, highlighting the contrast between Starbucks' $36.2 billion revenue and CEO compensation versus low worker wages. They express solidarity with striking workers and call for fair contracts and an economy that works for all, not just the wealthy.",
+    "topics": [
+      "economy",
+      "labor_rights",
+      "housing",
+      "governance"
+    ],
+    "topic_scores": {
+      "economy": 0.95,
+      "labor_rights": 1.0,
+      "housing": 0.3,
+      "governance": 0.4
+    },
+    "sentiment": {
+      "positive": 0.3,
+      "negative": 0.35,
+      "urgent": 0.35
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Starbucks workers deserve fair contracts and living wages, especially given the company's massive revenue and executive compensation",
+      "Corporate greed and labor exploitation must be countered by worker solidarity and collective action",
+      "New York must be a city where the workers who power it can afford to live in it"
+    ],
+    "audience": "progressive activists, labor movement supporters, and working-class New Yorkers",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "statistical contrast",
+      "emotional appeal",
+      "call to action",
+      "solidarity framing",
+      "populist rhetoric",
+      "celebrity/political figure endorsement",
+      "on-location activism"
+    ],
+    "_platform": "youtube",
+    "_video_id": "fXRso8vCfcA"
+  },
+  "1996610139332247552": {
+    "summary": "Mamdani joins Starbucks Workers United on a picket line in Park Slope, Brooklyn, highlighting the contrast between Starbucks' $36.2 billion in revenue and CEO compensation versus low worker wages. He calls for worker solidarity and a fairer economy, framing the strike as part of a broader fight for workers' rights in New York City.",
+    "topics": [
+      "economy",
+      "labor_rights",
+      "housing"
+    ],
+    "topic_scores": {
+      "economy": 0.9,
+      "labor_rights": 1.0,
+      "housing": 0.3
+    },
+    "sentiment": {
+      "positive": 0.35,
+      "negative": 0.35,
+      "urgent": 0.3
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Starbucks' massive corporate profits and CEO compensation stand in stark contrast to the $17.75/hour wages paid to workers, exemplifying corporate greed",
+      "Worker solidarity through strikes and picket lines is essential to fighting for fair contracts and a more equitable economy",
+      "New York must be a city where every worker can afford to live with dignity"
+    ],
+    "audience": "progressive activists, labor movement supporters, working-class New Yorkers",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "statistical contrast",
+      "emotional appeal",
+      "solidarity framing",
+      "on-location activism",
+      "call to action",
+      "populist messaging",
+      "us vs. them framing"
+    ],
+    "_platform": "twitter",
+    "_video_id": "1996610139332247552"
+  },
+  "CXnfID1Lw0c": {
+    "summary": "Mayor Mamdani joins Starbucks workers on a picket line, showing solidarity with their strike over stalled contract negotiations. Workers describe unfair labor practices, unpredictable scheduling, understaffing, and the company's refusal to agree to fair wage increases. The video features chanting, worker testimonials, and Mamdani expressing support for their fight.",
+    "topics": [
+      "labor_rights",
+      "economy",
+      "governance"
+    ],
+    "topic_scores": {
+      "labor_rights": 1.0,
+      "economy": 0.7,
+      "governance": 0.3
+    },
+    "sentiment": {
+      "positive": 0.25,
+      "negative": 0.35,
+      "urgent": 0.4
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "Starbucks workers deserve fair wages, better staffing, and predictable scheduling through a proper contract",
+      "Starbucks has a record number of unfair labor practices and has been closing stores and changing hours without notice to undermine workers",
+      "Elected officials should stand in solidarity with striking workers fighting for fair treatment"
+    ],
+    "audience": "progressive activists, labor movement supporters, and working-class New Yorkers",
+    "rhetorical_strategies": [
+      "solidarity demonstration",
+      "worker testimonials",
+      "call to action",
+      "emotional appeal",
+      "protest chanting",
+      "direct engagement with workers",
+      "framing corporate behavior as unjust"
+    ],
+    "_platform": "youtube",
+    "_video_id": "CXnfID1Lw0c"
+  },
+  "u9BoAJzlfHw": {
+    "summary": "Mayor Mamdani announces he is about to meet with over 400 transition team members organized into 17 committees covering areas like housing, transportation, arts, and labor. He emphasizes these are dedicated public servants tasked with providing policy and personnel recommendations to prepare his administration for day one. The video conveys excitement and readiness as he heads into the meeting.",
+    "topics": [
+      "governance",
+      "housing",
+      "transit",
+      "labor",
+      "arts_and_culture"
+    ],
+    "topic_scores": {
+      "governance": 1.0,
+      "housing": 0.5,
+      "transit": 0.5,
+      "labor": 0.4,
+      "arts_and_culture": 0.4
+    },
+    "sentiment": {
+      "positive": 0.75,
+      "negative": 0.0,
+      "urgent": 0.25
+    },
+    "dominant_tone": "celebratory",
+    "key_messages": [
+      "Over 400 experts have been assembled into 17 transition committees to provide policy and personnel recommendations for the incoming administration",
+      "The transition team is composed of dedicated public servants, nonprofit leaders, artists, and organizers who represent the best of New York",
+      "The administration is focused on being ready to deliver results from day one"
+    ],
+    "audience": "general NYC public",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "behind-the-scenes access",
+      "emotional appeal",
+      "urgency framing",
+      "populist messaging",
+      "call to action"
+    ],
+    "_platform": "youtube",
+    "_video_id": "u9BoAJzlfHw"
+  },
+  "h-hmxt6NdMg": {
+    "summary": "Mayor-elect Zohran Mamdani appeals for transition fundraising support, explaining that unlike campaigns, transitions don't receive public matching funds. He highlights the team's progress\u201450,000 resumes received, over $1 million raised from 12,000+ small donors\u2014and sets a $4 million goal to ensure the administration is ready to deliver on Day One.",
+    "topics": [
+      "governance",
+      "budget",
+      "campaign_finance",
+      "housing"
+    ],
+    "topic_scores": {
+      "governance": 0.95,
+      "budget": 0.7,
+      "campaign_finance": 0.8,
+      "housing": 0.3
+    },
+    "sentiment": {
+      "positive": 0.55,
+      "negative": 0.05,
+      "urgent": 0.4
+    },
+    "dominant_tone": "persuasive",
+    "key_messages": [
+      "The mayoral transition needs grassroots fundraising because it doesn't receive the city's 8-to-1 public matching funds that campaigns get",
+      "The team is relying on small-dollar donors rather than wealthy interests, with an average donation of $77 and a $4 million total goal",
+      "They want to be ready to deliver policy on January 1st, not just start preparing\u2014this requires vetting 50,000 resumes, retaining staff, and planning policy implementation"
+    ],
+    "audience": "Mamdani's grassroots supporter base and small-dollar donors across New York City",
+    "rhetorical_strategies": [
+      "direct address to camera",
+      "call to action",
+      "transparency about finances",
+      "contrast with traditional politicians",
+      "humor",
+      "gratitude and community building",
+      "urgency framing"
+    ],
+    "_platform": "youtube",
+    "_video_id": "h-hmxt6NdMg"
+  }
+}

@@ -1,0 +1,2468 @@
+{
+  "text": " Last weekend, ICE attempted to raid Canal Street and detain our immigrant neighbors. As mayor, I'll protect the rights of every single New Yorker, and that includes the more than 3 million immigrants who call this city their home. But we can all stand up to ICE if you know your rights. If you encounter ICE, these are the things that every New Yorker should know. First, ICE cannot enter into private spaces like your home, school, or a private area of your workplace without a judicial warrant signed by a judge. That looks like this. If ICE does not have a judicial warrant signed by a judge, you have the right to say, I do not consent to entry, and the right to keep your door closed. Sometimes ICE will show you paperwork that looks like this, and tell you that they have the right to arrest you. That is false. ICE is legally allowed to lie to you, but you have the right to remain silent. If you're being detained, you may always ask, am I free to go repeatedly until they answer you. You are legally allowed to film ICE, as long as you have the right to remain silent. You are legally allowed to film ICE, as long as you do not interfere with an arrest. It is important to remain calm during any interaction with ICE or law enforcement. Do not impede their investigation, resist arrest, or run. One last thing. New Yorkers have a constitutional right to protest. And when I'm mayor, we will protect that right. New York will always welcome immigrants. And I will fight each and every day to protect, support, and celebrate our immigrant brothers and sisters.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.4,
+      "text": " Last weekend, ICE attempted to raid Canal Street and detain our immigrant neighbors.",
+      "tokens": [
+        50365,
+        5264,
+        6711,
+        11,
+        43337,
+        18997,
+        281,
+        26936,
+        38250,
+        7638,
+        293,
+        1141,
+        491,
+        527,
+        23873,
+        12512,
+        13,
+        50557
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " Last",
+          "start": 0.0,
+          "end": 0.16,
+          "probability": 0.8208598494529724
+        },
+        {
+          "word": " weekend,",
+          "start": 0.16,
+          "end": 0.56,
+          "probability": 0.9942812919616699
+        },
+        {
+          "word": " ICE",
+          "start": 0.7,
+          "end": 0.86,
+          "probability": 0.9931911826133728
+        },
+        {
+          "word": " attempted",
+          "start": 0.86,
+          "end": 1.12,
+          "probability": 0.9969868063926697
+        },
+        {
+          "word": " to",
+          "start": 1.12,
+          "end": 1.42,
+          "probability": 0.9989809393882751
+        },
+        {
+          "word": " raid",
+          "start": 1.42,
+          "end": 1.62,
+          "probability": 0.9990056157112122
+        },
+        {
+          "word": " Canal",
+          "start": 1.62,
+          "end": 1.9,
+          "probability": 0.9864932894706726
+        },
+        {
+          "word": " Street",
+          "start": 1.9,
+          "end": 2.16,
+          "probability": 0.9512642621994019
+        },
+        {
+          "word": " and",
+          "start": 2.16,
+          "end": 2.42,
+          "probability": 0.9764610528945923
+        },
+        {
+          "word": " detain",
+          "start": 2.42,
+          "end": 2.78,
+          "probability": 0.9922855794429779
+        },
+        {
+          "word": " our",
+          "start": 2.78,
+          "end": 2.92,
+          "probability": 0.9977657794952393
+        },
+        {
+          "word": " immigrant",
+          "start": 2.92,
+          "end": 3.12,
+          "probability": 0.9940013289451599
+        },
+        {
+          "word": " neighbors.",
+          "start": 3.12,
+          "end": 3.4,
+          "probability": 0.9860344529151917
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.56,
+      "end": 7.68,
+      "text": " As mayor, I'll protect the rights of every single New Yorker,",
+      "tokens": [
+        50557,
+        1018,
+        10120,
+        11,
+        286,
+        603,
+        2371,
+        264,
+        4601,
+        295,
+        633,
+        2167,
+        1873,
+        3609,
+        260,
+        11,
+        50757
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " As",
+          "start": 4.56,
+          "end": 5.0,
+          "probability": 0.9123291969299316
+        },
+        {
+          "word": " mayor,",
+          "start": 5.0,
+          "end": 5.34,
+          "probability": 0.7976059913635254
+        },
+        {
+          "word": " I'll",
+          "start": 5.48,
+          "end": 5.68,
+          "probability": 0.9829571843147278
+        },
+        {
+          "word": " protect",
+          "start": 5.68,
+          "end": 5.84,
+          "probability": 0.9994636178016663
+        },
+        {
+          "word": " the",
+          "start": 5.84,
+          "end": 6.04,
+          "probability": 0.9989489912986755
+        },
+        {
+          "word": " rights",
+          "start": 6.04,
+          "end": 6.22,
+          "probability": 0.9966852068901062
+        },
+        {
+          "word": " of",
+          "start": 6.22,
+          "end": 6.36,
+          "probability": 0.9984521865844727
+        },
+        {
+          "word": " every",
+          "start": 6.36,
+          "end": 6.72,
+          "probability": 0.998528003692627
+        },
+        {
+          "word": " single",
+          "start": 6.72,
+          "end": 7.08,
+          "probability": 0.9944124817848206
+        },
+        {
+          "word": " New",
+          "start": 7.08,
+          "end": 7.3,
+          "probability": 0.9950410723686218
+        },
+        {
+          "word": " Yorker,",
+          "start": 7.3,
+          "end": 7.68,
+          "probability": 0.9989988207817078
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.68,
+      "end": 10.84,
+      "text": " and that includes the more than 3 million immigrants who call this city their home.",
+      "tokens": [
+        50757,
+        293,
+        300,
+        5974,
+        264,
+        544,
+        813,
+        805,
+        2459,
+        16598,
+        567,
+        818,
+        341,
+        2307,
+        641,
+        1280,
+        13,
+        50917
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " and",
+          "start": 7.68,
+          "end": 7.98,
+          "probability": 0.9862521290779114
+        },
+        {
+          "word": " that",
+          "start": 7.98,
+          "end": 8.12,
+          "probability": 0.9992740750312805
+        },
+        {
+          "word": " includes",
+          "start": 8.12,
+          "end": 8.4,
+          "probability": 0.9980632662773132
+        },
+        {
+          "word": " the",
+          "start": 8.4,
+          "end": 8.6,
+          "probability": 0.9924231171607971
+        },
+        {
+          "word": " more",
+          "start": 8.6,
+          "end": 8.7,
+          "probability": 0.9975570440292358
+        },
+        {
+          "word": " than",
+          "start": 8.7,
+          "end": 8.84,
+          "probability": 0.9977496266365051
+        },
+        {
+          "word": " 3",
+          "start": 8.84,
+          "end": 9.12,
+          "probability": 0.6142179369926453
+        },
+        {
+          "word": " million",
+          "start": 9.12,
+          "end": 9.38,
+          "probability": 0.9879006147384644
+        },
+        {
+          "word": " immigrants",
+          "start": 9.38,
+          "end": 9.78,
+          "probability": 0.9963422417640686
+        },
+        {
+          "word": " who",
+          "start": 9.78,
+          "end": 10.02,
+          "probability": 0.9934681057929993
+        },
+        {
+          "word": " call",
+          "start": 10.02,
+          "end": 10.16,
+          "probability": 0.9894108176231384
+        },
+        {
+          "word": " this",
+          "start": 10.16,
+          "end": 10.3,
+          "probability": 0.6208485960960388
+        },
+        {
+          "word": " city",
+          "start": 10.3,
+          "end": 10.5,
+          "probability": 0.9982916712760925
+        },
+        {
+          "word": " their",
+          "start": 10.5,
+          "end": 10.62,
+          "probability": 0.9968627691268921
+        },
+        {
+          "word": " home.",
+          "start": 10.62,
+          "end": 10.84,
+          "probability": 0.9972750544548035
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.0,
+      "end": 14.5,
+      "text": " But we can all stand up to ICE if you know your rights.",
+      "tokens": [
+        50917,
+        583,
+        321,
+        393,
+        439,
+        1463,
+        493,
+        281,
+        43337,
+        498,
+        291,
+        458,
+        428,
+        4601,
+        13,
+        51117
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " But",
+          "start": 11.0,
+          "end": 11.18,
+          "probability": 0.9575977325439453
+        },
+        {
+          "word": " we",
+          "start": 11.18,
+          "end": 11.28,
+          "probability": 0.9841089844703674
+        },
+        {
+          "word": " can",
+          "start": 11.28,
+          "end": 11.38,
+          "probability": 0.9940599203109741
+        },
+        {
+          "word": " all",
+          "start": 11.38,
+          "end": 11.56,
+          "probability": 0.9982354640960693
+        },
+        {
+          "word": " stand",
+          "start": 11.56,
+          "end": 11.86,
+          "probability": 0.9977759718894958
+        },
+        {
+          "word": " up",
+          "start": 11.86,
+          "end": 12.0,
+          "probability": 0.9991737008094788
+        },
+        {
+          "word": " to",
+          "start": 12.0,
+          "end": 12.1,
+          "probability": 0.994331955909729
+        },
+        {
+          "word": " ICE",
+          "start": 12.1,
+          "end": 12.3,
+          "probability": 0.9919039607048035
+        },
+        {
+          "word": " if",
+          "start": 12.3,
+          "end": 12.7,
+          "probability": 0.8663594126701355
+        },
+        {
+          "word": " you",
+          "start": 12.7,
+          "end": 12.92,
+          "probability": 0.992730438709259
+        },
+        {
+          "word": " know",
+          "start": 12.92,
+          "end": 14.04,
+          "probability": 0.4775470197200775
+        },
+        {
+          "word": " your",
+          "start": 14.04,
+          "end": 14.24,
+          "probability": 0.9973008036613464
+        },
+        {
+          "word": " rights.",
+          "start": 14.24,
+          "end": 14.5,
+          "probability": 0.9996498823165894
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 14.74,
+      "end": 18.14,
+      "text": " If you encounter ICE, these are the things that every New Yorker should know.",
+      "tokens": [
+        51117,
+        759,
+        291,
+        8593,
+        43337,
+        11,
+        613,
+        366,
+        264,
+        721,
+        300,
+        633,
+        1873,
+        3609,
+        260,
+        820,
+        458,
+        13,
+        51285
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " If",
+          "start": 14.74,
+          "end": 15.16,
+          "probability": 0.9962228536605835
+        },
+        {
+          "word": " you",
+          "start": 15.16,
+          "end": 15.28,
+          "probability": 0.9995130300521851
+        },
+        {
+          "word": " encounter",
+          "start": 15.28,
+          "end": 15.52,
+          "probability": 0.9663960933685303
+        },
+        {
+          "word": " ICE,",
+          "start": 15.52,
+          "end": 15.92,
+          "probability": 0.9965450167655945
+        },
+        {
+          "word": " these",
+          "start": 16.12,
+          "end": 16.42,
+          "probability": 0.9974828362464905
+        },
+        {
+          "word": " are",
+          "start": 16.42,
+          "end": 16.58,
+          "probability": 0.9996191263198853
+        },
+        {
+          "word": " the",
+          "start": 16.58,
+          "end": 16.68,
+          "probability": 0.9887381792068481
+        },
+        {
+          "word": " things",
+          "start": 16.68,
+          "end": 16.98,
+          "probability": 0.998823344707489
+        },
+        {
+          "word": " that",
+          "start": 16.98,
+          "end": 17.16,
+          "probability": 0.9702081680297852
+        },
+        {
+          "word": " every",
+          "start": 17.16,
+          "end": 17.4,
+          "probability": 0.9988032579421997
+        },
+        {
+          "word": " New",
+          "start": 17.4,
+          "end": 17.58,
+          "probability": 0.9976639747619629
+        },
+        {
+          "word": " Yorker",
+          "start": 17.58,
+          "end": 17.86,
+          "probability": 0.9990142285823822
+        },
+        {
+          "word": " should",
+          "start": 17.86,
+          "end": 17.98,
+          "probability": 0.9993906021118164
+        },
+        {
+          "word": " know.",
+          "start": 17.98,
+          "end": 18.14,
+          "probability": 0.9993733763694763
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.36,
+      "end": 23.36,
+      "text": " First, ICE cannot enter into private spaces like your home, school, or a private area of",
+      "tokens": [
+        51285,
+        2386,
+        11,
+        43337,
+        2644,
+        3242,
+        666,
+        4551,
+        7673,
+        411,
+        428,
+        1280,
+        11,
+        1395,
+        11,
+        420,
+        257,
+        4551,
+        1859,
+        295,
+        51529
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " First,",
+          "start": 18.36,
+          "end": 18.64,
+          "probability": 0.9756927490234375
+        },
+        {
+          "word": " ICE",
+          "start": 18.82,
+          "end": 19.2,
+          "probability": 0.9990744590759277
+        },
+        {
+          "word": " cannot",
+          "start": 19.2,
+          "end": 19.46,
+          "probability": 0.8808456063270569
+        },
+        {
+          "word": " enter",
+          "start": 19.46,
+          "end": 19.78,
+          "probability": 0.999289870262146
+        },
+        {
+          "word": " into",
+          "start": 19.78,
+          "end": 19.94,
+          "probability": 0.9850022196769714
+        },
+        {
+          "word": " private",
+          "start": 19.94,
+          "end": 20.2,
+          "probability": 0.9967741370201111
+        },
+        {
+          "word": " spaces",
+          "start": 20.2,
+          "end": 20.56,
+          "probability": 0.995466947555542
+        },
+        {
+          "word": " like",
+          "start": 20.56,
+          "end": 20.94,
+          "probability": 0.9131515026092529
+        },
+        {
+          "word": " your",
+          "start": 20.94,
+          "end": 21.06,
+          "probability": 0.9978493452072144
+        },
+        {
+          "word": " home,",
+          "start": 21.06,
+          "end": 21.38,
+          "probability": 0.9997112154960632
+        },
+        {
+          "word": " school,",
+          "start": 21.46,
+          "end": 22.04,
+          "probability": 0.9982160925865173
+        },
+        {
+          "word": " or",
+          "start": 22.24,
+          "end": 22.6,
+          "probability": 0.999618649482727
+        },
+        {
+          "word": " a",
+          "start": 22.6,
+          "end": 22.66,
+          "probability": 0.8088030219078064
+        },
+        {
+          "word": " private",
+          "start": 22.66,
+          "end": 22.92,
+          "probability": 0.9995403289794922
+        },
+        {
+          "word": " area",
+          "start": 22.92,
+          "end": 23.16,
+          "probability": 0.9994521737098694
+        },
+        {
+          "word": " of",
+          "start": 23.16,
+          "end": 23.36,
+          "probability": 0.9983636736869812
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.36,
+      "end": 27.22,
+      "text": " your workplace without a judicial warrant signed by a judge. That looks like this.",
+      "tokens": [
+        51529,
+        428,
+        15328,
+        1553,
+        257,
+        26581,
+        16354,
+        8175,
+        538,
+        257,
+        6995,
+        13,
+        663,
+        1542,
+        411,
+        341,
+        13,
+        51857
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15775194764137268,
+      "compression_ratio": 1.6594427244582044,
+      "no_speech_prob": 0.01713167503476143,
+      "words": [
+        {
+          "word": " your",
+          "start": 23.36,
+          "end": 23.42,
+          "probability": 0.9991211295127869
+        },
+        {
+          "word": " workplace",
+          "start": 23.42,
+          "end": 23.74,
+          "probability": 0.9909874796867371
+        },
+        {
+          "word": " without",
+          "start": 23.74,
+          "end": 24.2,
+          "probability": 0.9453542232513428
+        },
+        {
+          "word": " a",
+          "start": 24.2,
+          "end": 24.44,
+          "probability": 0.9983758926391602
+        },
+        {
+          "word": " judicial",
+          "start": 24.44,
+          "end": 24.68,
+          "probability": 0.989570140838623
+        },
+        {
+          "word": " warrant",
+          "start": 24.68,
+          "end": 25.1,
+          "probability": 0.9974130988121033
+        },
+        {
+          "word": " signed",
+          "start": 25.1,
+          "end": 25.36,
+          "probability": 0.9970290064811707
+        },
+        {
+          "word": " by",
+          "start": 25.36,
+          "end": 25.6,
+          "probability": 0.9998465776443481
+        },
+        {
+          "word": " a",
+          "start": 25.6,
+          "end": 25.7,
+          "probability": 0.9986974596977234
+        },
+        {
+          "word": " judge.",
+          "start": 25.7,
+          "end": 25.9,
+          "probability": 0.9968100190162659
+        },
+        {
+          "word": " That",
+          "start": 26.08,
+          "end": 26.48,
+          "probability": 0.9981231093406677
+        },
+        {
+          "word": " looks",
+          "start": 26.48,
+          "end": 26.84,
+          "probability": 0.9946171641349792
+        },
+        {
+          "word": " like",
+          "start": 26.84,
+          "end": 27.02,
+          "probability": 0.9996933937072754
+        },
+        {
+          "word": " this.",
+          "start": 27.02,
+          "end": 27.22,
+          "probability": 0.9998263716697693
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 3000,
+      "start": 32.08,
+      "end": 36.16,
+      "text": " If ICE does not have a judicial warrant signed by a judge, you have the right to say,",
+      "tokens": [
+        50365,
+        759,
+        43337,
+        775,
+        406,
+        362,
+        257,
+        26581,
+        16354,
+        8175,
+        538,
+        257,
+        6995,
+        11,
+        291,
+        362,
+        264,
+        558,
+        281,
+        584,
+        11,
+        50689
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " If",
+          "start": 32.08,
+          "end": 32.48,
+          "probability": 0.38368237018585205
+        },
+        {
+          "word": " ICE",
+          "start": 32.48,
+          "end": 32.72,
+          "probability": 0.9949819445610046
+        },
+        {
+          "word": " does",
+          "start": 32.72,
+          "end": 32.9,
+          "probability": 0.9885995388031006
+        },
+        {
+          "word": " not",
+          "start": 32.9,
+          "end": 33.12,
+          "probability": 0.9959707856178284
+        },
+        {
+          "word": " have",
+          "start": 33.12,
+          "end": 33.34,
+          "probability": 0.998119056224823
+        },
+        {
+          "word": " a",
+          "start": 33.34,
+          "end": 33.42,
+          "probability": 0.9881580471992493
+        },
+        {
+          "word": " judicial",
+          "start": 33.42,
+          "end": 33.62,
+          "probability": 0.9448469281196594
+        },
+        {
+          "word": " warrant",
+          "start": 33.62,
+          "end": 34.02,
+          "probability": 0.9877496361732483
+        },
+        {
+          "word": " signed",
+          "start": 34.02,
+          "end": 34.3,
+          "probability": 0.9881551265716553
+        },
+        {
+          "word": " by",
+          "start": 34.3,
+          "end": 34.52,
+          "probability": 0.9994379878044128
+        },
+        {
+          "word": " a",
+          "start": 34.52,
+          "end": 34.64,
+          "probability": 0.9929617047309875
+        },
+        {
+          "word": " judge,",
+          "start": 34.64,
+          "end": 34.84,
+          "probability": 0.9781126379966736
+        },
+        {
+          "word": " you",
+          "start": 35.02,
+          "end": 35.34,
+          "probability": 0.9702662825584412
+        },
+        {
+          "word": " have",
+          "start": 35.34,
+          "end": 35.46,
+          "probability": 0.9981876015663147
+        },
+        {
+          "word": " the",
+          "start": 35.46,
+          "end": 35.56,
+          "probability": 0.9942080974578857
+        },
+        {
+          "word": " right",
+          "start": 35.56,
+          "end": 35.76,
+          "probability": 0.9970906972885132
+        },
+        {
+          "word": " to",
+          "start": 35.76,
+          "end": 35.94,
+          "probability": 0.9980459213256836
+        },
+        {
+          "word": " say,",
+          "start": 35.94,
+          "end": 36.16,
+          "probability": 0.998511016368866
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 3000,
+      "start": 36.26,
+      "end": 39.28,
+      "text": " I do not consent to entry, and the right to keep your door closed.",
+      "tokens": [
+        50689,
+        286,
+        360,
+        406,
+        14546,
+        281,
+        8729,
+        11,
+        293,
+        264,
+        558,
+        281,
+        1066,
+        428,
+        2853,
+        5395,
+        13,
+        50849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " I",
+          "start": 36.26,
+          "end": 36.64,
+          "probability": 0.09686475247144699
+        },
+        {
+          "word": " do",
+          "start": 36.64,
+          "end": 36.76,
+          "probability": 0.9933496117591858
+        },
+        {
+          "word": " not",
+          "start": 36.76,
+          "end": 36.96,
+          "probability": 0.9974838495254517
+        },
+        {
+          "word": " consent",
+          "start": 36.96,
+          "end": 37.28,
+          "probability": 0.9970813393592834
+        },
+        {
+          "word": " to",
+          "start": 37.28,
+          "end": 37.5,
+          "probability": 0.995728075504303
+        },
+        {
+          "word": " entry,",
+          "start": 37.5,
+          "end": 37.72,
+          "probability": 0.9760076403617859
+        },
+        {
+          "word": " and",
+          "start": 37.84,
+          "end": 38.06,
+          "probability": 0.9915714263916016
+        },
+        {
+          "word": " the",
+          "start": 38.06,
+          "end": 38.16,
+          "probability": 0.9966467022895813
+        },
+        {
+          "word": " right",
+          "start": 38.16,
+          "end": 38.38,
+          "probability": 0.9991494417190552
+        },
+        {
+          "word": " to",
+          "start": 38.38,
+          "end": 38.52,
+          "probability": 0.9986521601676941
+        },
+        {
+          "word": " keep",
+          "start": 38.52,
+          "end": 38.68,
+          "probability": 0.9993452429771423
+        },
+        {
+          "word": " your",
+          "start": 38.68,
+          "end": 38.82,
+          "probability": 0.9955357313156128
+        },
+        {
+          "word": " door",
+          "start": 38.82,
+          "end": 38.98,
+          "probability": 0.9958435893058777
+        },
+        {
+          "word": " closed.",
+          "start": 38.98,
+          "end": 39.28,
+          "probability": 0.9983206391334534
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 3000,
+      "start": 39.6,
+      "end": 42.56,
+      "text": " Sometimes ICE will show you paperwork that looks like this,",
+      "tokens": [
+        50849,
+        4803,
+        43337,
+        486,
+        855,
+        291,
+        27953,
+        300,
+        1542,
+        411,
+        341,
+        11,
+        50989
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " Sometimes",
+          "start": 39.6,
+          "end": 40.0,
+          "probability": 0.9456548094749451
+        },
+        {
+          "word": " ICE",
+          "start": 40.0,
+          "end": 40.4,
+          "probability": 0.5655938386917114
+        },
+        {
+          "word": " will",
+          "start": 40.4,
+          "end": 40.6,
+          "probability": 0.9985113739967346
+        },
+        {
+          "word": " show",
+          "start": 40.6,
+          "end": 40.78,
+          "probability": 0.9989492297172546
+        },
+        {
+          "word": " you",
+          "start": 40.78,
+          "end": 40.92,
+          "probability": 0.9962782263755798
+        },
+        {
+          "word": " paperwork",
+          "start": 40.92,
+          "end": 41.24,
+          "probability": 0.9828368425369263
+        },
+        {
+          "word": " that",
+          "start": 41.24,
+          "end": 41.6,
+          "probability": 0.9962947964668274
+        },
+        {
+          "word": " looks",
+          "start": 41.6,
+          "end": 41.84,
+          "probability": 0.9980810880661011
+        },
+        {
+          "word": " like",
+          "start": 41.84,
+          "end": 42.18,
+          "probability": 0.9954928159713745
+        },
+        {
+          "word": " this,",
+          "start": 42.18,
+          "end": 42.56,
+          "probability": 0.999377429485321
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 3000,
+      "start": 44.18,
+      "end": 48.68,
+      "text": " and tell you that they have the right to arrest you. That is false.",
+      "tokens": [
+        51089,
+        293,
+        980,
+        291,
+        300,
+        436,
+        362,
+        264,
+        558,
+        281,
+        7823,
+        291,
+        13,
+        663,
+        307,
+        7908,
+        13,
+        51305
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " and",
+          "start": 44.18,
+          "end": 44.58,
+          "probability": 0.9623718857765198
+        },
+        {
+          "word": " tell",
+          "start": 44.58,
+          "end": 44.82,
+          "probability": 0.9979307651519775
+        },
+        {
+          "word": " you",
+          "start": 44.82,
+          "end": 45.0,
+          "probability": 0.9981070756912231
+        },
+        {
+          "word": " that",
+          "start": 45.0,
+          "end": 45.12,
+          "probability": 0.9665125608444214
+        },
+        {
+          "word": " they",
+          "start": 45.12,
+          "end": 45.22,
+          "probability": 0.9986728429794312
+        },
+        {
+          "word": " have",
+          "start": 45.22,
+          "end": 45.36,
+          "probability": 0.9991266131401062
+        },
+        {
+          "word": " the",
+          "start": 45.36,
+          "end": 45.46,
+          "probability": 0.9951406717300415
+        },
+        {
+          "word": " right",
+          "start": 45.46,
+          "end": 45.66,
+          "probability": 0.9992709755897522
+        },
+        {
+          "word": " to",
+          "start": 45.66,
+          "end": 45.84,
+          "probability": 0.9989445805549622
+        },
+        {
+          "word": " arrest",
+          "start": 45.84,
+          "end": 46.08,
+          "probability": 0.9997684359550476
+        },
+        {
+          "word": " you.",
+          "start": 46.08,
+          "end": 46.32,
+          "probability": 0.9954838752746582
+        },
+        {
+          "word": " That",
+          "start": 47.92,
+          "end": 48.32,
+          "probability": 0.9939846396446228
+        },
+        {
+          "word": " is",
+          "start": 48.32,
+          "end": 48.44,
+          "probability": 0.99835604429245
+        },
+        {
+          "word": " false.",
+          "start": 48.44,
+          "end": 48.68,
+          "probability": 0.9908366203308105
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 3000,
+      "start": 49.58,
+      "end": 53.08,
+      "text": " ICE is legally allowed to lie to you, but you have the right to remain silent.",
+      "tokens": [
+        51353,
+        43337,
+        307,
+        21106,
+        4350,
+        281,
+        4544,
+        281,
+        291,
+        11,
+        457,
+        291,
+        362,
+        264,
+        558,
+        281,
+        6222,
+        12784,
+        13,
+        51533
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " ICE",
+          "start": 49.58,
+          "end": 49.98,
+          "probability": 0.9577969908714294
+        },
+        {
+          "word": " is",
+          "start": 49.98,
+          "end": 50.16,
+          "probability": 0.9956586360931396
+        },
+        {
+          "word": " legally",
+          "start": 50.16,
+          "end": 50.46,
+          "probability": 0.9970671534538269
+        },
+        {
+          "word": " allowed",
+          "start": 50.46,
+          "end": 50.76,
+          "probability": 0.9989041090011597
+        },
+        {
+          "word": " to",
+          "start": 50.76,
+          "end": 51.02,
+          "probability": 0.9996788501739502
+        },
+        {
+          "word": " lie",
+          "start": 51.02,
+          "end": 51.2,
+          "probability": 0.9991028308868408
+        },
+        {
+          "word": " to",
+          "start": 51.2,
+          "end": 51.3,
+          "probability": 0.9755702018737793
+        },
+        {
+          "word": " you,",
+          "start": 51.3,
+          "end": 51.42,
+          "probability": 0.9989455342292786
+        },
+        {
+          "word": " but",
+          "start": 51.48,
+          "end": 51.82,
+          "probability": 0.997397780418396
+        },
+        {
+          "word": " you",
+          "start": 51.82,
+          "end": 51.92,
+          "probability": 0.9993305206298828
+        },
+        {
+          "word": " have",
+          "start": 51.92,
+          "end": 52.06,
+          "probability": 0.9991260170936584
+        },
+        {
+          "word": " the",
+          "start": 52.06,
+          "end": 52.16,
+          "probability": 0.9970313310623169
+        },
+        {
+          "word": " right",
+          "start": 52.16,
+          "end": 52.34,
+          "probability": 0.9994555115699768
+        },
+        {
+          "word": " to",
+          "start": 52.34,
+          "end": 52.52,
+          "probability": 0.9992583394050598
+        },
+        {
+          "word": " remain",
+          "start": 52.52,
+          "end": 52.7,
+          "probability": 0.999408483505249
+        },
+        {
+          "word": " silent.",
+          "start": 52.7,
+          "end": 53.08,
+          "probability": 0.9998462200164795
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 3000,
+      "start": 53.28,
+      "end": 55.32,
+      "text": " If you're being detained, you may always ask,",
+      "tokens": [
+        51533,
+        759,
+        291,
+        434,
+        885,
+        41452,
+        11,
+        291,
+        815,
+        1009,
+        1029,
+        11,
+        51633
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " If",
+          "start": 53.28,
+          "end": 53.52,
+          "probability": 0.9950866103172302
+        },
+        {
+          "word": " you're",
+          "start": 53.52,
+          "end": 53.64,
+          "probability": 0.9859775006771088
+        },
+        {
+          "word": " being",
+          "start": 53.64,
+          "end": 53.8,
+          "probability": 0.9975622892379761
+        },
+        {
+          "word": " detained,",
+          "start": 53.8,
+          "end": 54.12,
+          "probability": 0.9991738200187683
+        },
+        {
+          "word": " you",
+          "start": 54.4,
+          "end": 54.52,
+          "probability": 0.9991762042045593
+        },
+        {
+          "word": " may",
+          "start": 54.52,
+          "end": 54.64,
+          "probability": 0.9955601692199707
+        },
+        {
+          "word": " always",
+          "start": 54.64,
+          "end": 54.92,
+          "probability": 0.9984261989593506
+        },
+        {
+          "word": " ask,",
+          "start": 54.92,
+          "end": 55.32,
+          "probability": 0.9988168478012085
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 3000,
+      "start": 55.4,
+      "end": 57.68,
+      "text": " am I free to go repeatedly until they answer you.",
+      "tokens": [
+        51633,
+        669,
+        286,
+        1737,
+        281,
+        352,
+        18227,
+        1826,
+        436,
+        1867,
+        291,
+        13,
+        51757
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " am",
+          "start": 55.4,
+          "end": 55.54,
+          "probability": 0.7230834364891052
+        },
+        {
+          "word": " I",
+          "start": 55.54,
+          "end": 55.64,
+          "probability": 0.9974411725997925
+        },
+        {
+          "word": " free",
+          "start": 55.64,
+          "end": 55.84,
+          "probability": 0.99801105260849
+        },
+        {
+          "word": " to",
+          "start": 55.84,
+          "end": 55.96,
+          "probability": 0.9994887113571167
+        },
+        {
+          "word": " go",
+          "start": 55.96,
+          "end": 56.12,
+          "probability": 0.9996411800384521
+        },
+        {
+          "word": " repeatedly",
+          "start": 56.12,
+          "end": 56.56,
+          "probability": 0.2525123655796051
+        },
+        {
+          "word": " until",
+          "start": 56.56,
+          "end": 57.12,
+          "probability": 0.6739631295204163
+        },
+        {
+          "word": " they",
+          "start": 57.12,
+          "end": 57.28,
+          "probability": 0.994878888130188
+        },
+        {
+          "word": " answer",
+          "start": 57.28,
+          "end": 57.5,
+          "probability": 0.9879004955291748
+        },
+        {
+          "word": " you.",
+          "start": 57.5,
+          "end": 57.68,
+          "probability": 0.9909499287605286
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 3000,
+      "start": 57.8,
+      "end": 59.6,
+      "text": " You are legally allowed to film ICE,",
+      "tokens": [
+        51757,
+        509,
+        366,
+        21106,
+        4350,
+        281,
+        2007,
+        43337,
+        11,
+        51849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " You",
+          "start": 57.8,
+          "end": 58.0,
+          "probability": 0.9954565763473511
+        },
+        {
+          "word": " are",
+          "start": 58.0,
+          "end": 58.14,
+          "probability": 0.9354051947593689
+        },
+        {
+          "word": " legally",
+          "start": 58.14,
+          "end": 58.44,
+          "probability": 0.9983383417129517
+        },
+        {
+          "word": " allowed",
+          "start": 58.44,
+          "end": 58.84,
+          "probability": 0.9989916682243347
+        },
+        {
+          "word": " to",
+          "start": 58.84,
+          "end": 59.12,
+          "probability": 0.9996592998504639
+        },
+        {
+          "word": " film",
+          "start": 59.12,
+          "end": 59.3,
+          "probability": 0.9913262724876404
+        },
+        {
+          "word": " ICE,",
+          "start": 59.3,
+          "end": 59.6,
+          "probability": 0.9757823944091797
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 3000,
+      "start": 59.68,
+      "end": 59.98,
+      "text": " as long as you have the right to remain silent.",
+      "tokens": [
+        51849,
+        382,
+        938,
+        382,
+        291,
+        362,
+        264,
+        558,
+        281,
+        6222,
+        12784,
+        13,
+        51861
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": [
+        {
+          "word": " as",
+          "start": 59.68,
+          "end": 59.96,
+          "probability": 0.9924334287643433
+        },
+        {
+          "word": " long",
+          "start": 59.96,
+          "end": 59.98,
+          "probability": 0.9770291447639465
+        },
+        {
+          "word": " as",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9900431632995605
+        },
+        {
+          "word": " you",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.6508414149284363
+        },
+        {
+          "word": " have",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.18437997996807098
+        },
+        {
+          "word": " the",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.5255052447319031
+        },
+        {
+          "word": " right",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.951892614364624
+        },
+        {
+          "word": " to",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.977350115776062
+        },
+        {
+          "word": " remain",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.7959100008010864
+        },
+        {
+          "word": " silent.",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.9909346699714661
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 3000,
+      "start": 59.98,
+      "end": 59.98,
+      "text": "",
+      "tokens": [],
+      "temperature": 0.0,
+      "avg_logprob": -0.13123994370911019,
+      "compression_ratio": 2.208480565371025,
+      "no_speech_prob": 0.0034550672862678766,
+      "words": []
+    },
+    {
+      "id": 17,
+      "seek": 5998,
+      "start": 59.98,
+      "end": 61.46,
+      "text": " You are legally allowed to film ICE, as long as you do not interfere with an arrest.",
+      "tokens": [
+        50365,
+        509,
+        366,
+        21106,
+        4350,
+        281,
+        2007,
+        43337,
+        11,
+        382,
+        938,
+        382,
+        291,
+        360,
+        406,
+        23946,
+        365,
+        364,
+        7823,
+        13,
+        50445
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " You",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.0030139684677124023
+        },
+        {
+          "word": " are",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.0414087288081646
+        },
+        {
+          "word": " legally",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.0002178626600652933
+        },
+        {
+          "word": " allowed",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.05057268217206001
+        },
+        {
+          "word": " to",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.8981329202651978
+        },
+        {
+          "word": " film",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.001283898949623108
+        },
+        {
+          "word": " ICE,",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 6.999298420851119e-06
+        },
+        {
+          "word": " as",
+          "start": 59.98,
+          "end": 59.98,
+          "probability": 0.6271249055862427
+        },
+        {
+          "word": " long",
+          "start": 59.98,
+          "end": 60.0,
+          "probability": 0.9973883032798767
+        },
+        {
+          "word": " as",
+          "start": 60.0,
+          "end": 60.18,
+          "probability": 0.9939238429069519
+        },
+        {
+          "word": " you",
+          "start": 60.18,
+          "end": 60.26,
+          "probability": 0.9968919157981873
+        },
+        {
+          "word": " do",
+          "start": 60.26,
+          "end": 60.34,
+          "probability": 0.9733177423477173
+        },
+        {
+          "word": " not",
+          "start": 60.34,
+          "end": 60.58,
+          "probability": 0.9966291785240173
+        },
+        {
+          "word": " interfere",
+          "start": 60.58,
+          "end": 60.98,
+          "probability": 0.990620493888855
+        },
+        {
+          "word": " with",
+          "start": 60.98,
+          "end": 61.16,
+          "probability": 0.991028904914856
+        },
+        {
+          "word": " an",
+          "start": 61.16,
+          "end": 61.24,
+          "probability": 0.9834015369415283
+        },
+        {
+          "word": " arrest.",
+          "start": 61.24,
+          "end": 61.46,
+          "probability": 0.997191846370697
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 5998,
+      "start": 61.7,
+      "end": 65.3,
+      "text": " It is important to remain calm during any interaction with ICE or law enforcement.",
+      "tokens": [
+        50445,
+        467,
+        307,
+        1021,
+        281,
+        6222,
+        7151,
+        1830,
+        604,
+        9285,
+        365,
+        43337,
+        420,
+        2101,
+        11475,
+        13,
+        50645
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " It",
+          "start": 61.7,
+          "end": 61.9,
+          "probability": 0.8872390985488892
+        },
+        {
+          "word": " is",
+          "start": 61.9,
+          "end": 62.0,
+          "probability": 0.9848102927207947
+        },
+        {
+          "word": " important",
+          "start": 62.0,
+          "end": 62.3,
+          "probability": 0.9979502558708191
+        },
+        {
+          "word": " to",
+          "start": 62.3,
+          "end": 62.48,
+          "probability": 0.9989025592803955
+        },
+        {
+          "word": " remain",
+          "start": 62.48,
+          "end": 62.64,
+          "probability": 0.997843861579895
+        },
+        {
+          "word": " calm",
+          "start": 62.64,
+          "end": 62.96,
+          "probability": 0.9985737800598145
+        },
+        {
+          "word": " during",
+          "start": 62.96,
+          "end": 63.34,
+          "probability": 0.9872447848320007
+        },
+        {
+          "word": " any",
+          "start": 63.34,
+          "end": 63.66,
+          "probability": 0.9964996576309204
+        },
+        {
+          "word": " interaction",
+          "start": 63.66,
+          "end": 64.06,
+          "probability": 0.9901273250579834
+        },
+        {
+          "word": " with",
+          "start": 64.06,
+          "end": 64.3,
+          "probability": 0.9965386390686035
+        },
+        {
+          "word": " ICE",
+          "start": 64.3,
+          "end": 64.56,
+          "probability": 0.9902545809745789
+        },
+        {
+          "word": " or",
+          "start": 64.56,
+          "end": 64.8,
+          "probability": 0.9822612404823303
+        },
+        {
+          "word": " law",
+          "start": 64.8,
+          "end": 64.96,
+          "probability": 0.9910625219345093
+        },
+        {
+          "word": " enforcement.",
+          "start": 64.96,
+          "end": 65.3,
+          "probability": 0.9952137470245361
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 5998,
+      "start": 65.5,
+      "end": 68.4,
+      "text": " Do not impede their investigation, resist arrest, or run.",
+      "tokens": [
+        50645,
+        1144,
+        406,
+        704,
+        4858,
+        641,
+        9627,
+        11,
+        4597,
+        7823,
+        11,
+        420,
+        1190,
+        13,
+        50801
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " Do",
+          "start": 65.5,
+          "end": 65.84,
+          "probability": 0.9908871650695801
+        },
+        {
+          "word": " not",
+          "start": 65.84,
+          "end": 65.98,
+          "probability": 0.9989529848098755
+        },
+        {
+          "word": " impede",
+          "start": 65.98,
+          "end": 66.32,
+          "probability": 0.9961084425449371
+        },
+        {
+          "word": " their",
+          "start": 66.32,
+          "end": 66.42,
+          "probability": 0.9967197775840759
+        },
+        {
+          "word": " investigation,",
+          "start": 66.42,
+          "end": 66.82,
+          "probability": 0.9084808826446533
+        },
+        {
+          "word": " resist",
+          "start": 67.14,
+          "end": 67.48,
+          "probability": 0.9974529147148132
+        },
+        {
+          "word": " arrest,",
+          "start": 67.48,
+          "end": 67.78,
+          "probability": 0.996560275554657
+        },
+        {
+          "word": " or",
+          "start": 67.98,
+          "end": 68.22,
+          "probability": 0.9992087483406067
+        },
+        {
+          "word": " run.",
+          "start": 68.22,
+          "end": 68.4,
+          "probability": 0.9982888102531433
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 5998,
+      "start": 68.54,
+      "end": 71.82,
+      "text": " One last thing. New Yorkers have a constitutional right to protest.",
+      "tokens": [
+        50801,
+        1485,
+        1036,
+        551,
+        13,
+        1873,
+        3609,
+        433,
+        362,
+        257,
+        20176,
+        558,
+        281,
+        11281,
+        13,
+        50973
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " One",
+          "start": 68.54,
+          "end": 68.9,
+          "probability": 0.9740318655967712
+        },
+        {
+          "word": " last",
+          "start": 68.9,
+          "end": 69.1,
+          "probability": 0.9983738660812378
+        },
+        {
+          "word": " thing.",
+          "start": 69.1,
+          "end": 69.36,
+          "probability": 0.9984968900680542
+        },
+        {
+          "word": " New",
+          "start": 69.6,
+          "end": 69.92,
+          "probability": 0.9972308278083801
+        },
+        {
+          "word": " Yorkers",
+          "start": 69.92,
+          "end": 70.18,
+          "probability": 0.9933766424655914
+        },
+        {
+          "word": " have",
+          "start": 70.18,
+          "end": 70.26,
+          "probability": 0.9981356859207153
+        },
+        {
+          "word": " a",
+          "start": 70.26,
+          "end": 70.38,
+          "probability": 0.9959892630577087
+        },
+        {
+          "word": " constitutional",
+          "start": 70.38,
+          "end": 70.86,
+          "probability": 0.9564623236656189
+        },
+        {
+          "word": " right",
+          "start": 70.86,
+          "end": 71.34,
+          "probability": 0.9989456534385681
+        },
+        {
+          "word": " to",
+          "start": 71.34,
+          "end": 71.52,
+          "probability": 0.9991487264633179
+        },
+        {
+          "word": " protest.",
+          "start": 71.52,
+          "end": 71.82,
+          "probability": 0.9994865655899048
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 5998,
+      "start": 72.08,
+      "end": 74.38,
+      "text": " And when I'm mayor, we will protect that right.",
+      "tokens": [
+        50973,
+        400,
+        562,
+        286,
+        478,
+        10120,
+        11,
+        321,
+        486,
+        2371,
+        300,
+        558,
+        13,
+        51097
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " And",
+          "start": 72.08,
+          "end": 72.38,
+          "probability": 0.9537665843963623
+        },
+        {
+          "word": " when",
+          "start": 72.38,
+          "end": 72.5,
+          "probability": 0.9698154926300049
+        },
+        {
+          "word": " I'm",
+          "start": 72.5,
+          "end": 72.68,
+          "probability": 0.9650010168552399
+        },
+        {
+          "word": " mayor,",
+          "start": 72.68,
+          "end": 72.88,
+          "probability": 0.8023791313171387
+        },
+        {
+          "word": " we",
+          "start": 73.02,
+          "end": 73.38,
+          "probability": 0.9964283108711243
+        },
+        {
+          "word": " will",
+          "start": 73.38,
+          "end": 73.66,
+          "probability": 0.9765045046806335
+        },
+        {
+          "word": " protect",
+          "start": 73.66,
+          "end": 73.96,
+          "probability": 0.9984664916992188
+        },
+        {
+          "word": " that",
+          "start": 73.96,
+          "end": 74.2,
+          "probability": 0.998200535774231
+        },
+        {
+          "word": " right.",
+          "start": 74.2,
+          "end": 74.38,
+          "probability": 0.9981552958488464
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 5998,
+      "start": 74.58,
+      "end": 79.3,
+      "text": " New York will always welcome immigrants. And I will fight each and every day to protect,",
+      "tokens": [
+        51097,
+        1873,
+        3609,
+        486,
+        1009,
+        2928,
+        16598,
+        13,
+        400,
+        286,
+        486,
+        2092,
+        1184,
+        293,
+        633,
+        786,
+        281,
+        2371,
+        11,
+        51345
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " New",
+          "start": 74.58,
+          "end": 74.78,
+          "probability": 0.996425211429596
+        },
+        {
+          "word": " York",
+          "start": 74.78,
+          "end": 75.04,
+          "probability": 0.9996004700660706
+        },
+        {
+          "word": " will",
+          "start": 75.04,
+          "end": 75.28,
+          "probability": 0.9968464970588684
+        },
+        {
+          "word": " always",
+          "start": 75.28,
+          "end": 75.7,
+          "probability": 0.9988952875137329
+        },
+        {
+          "word": " welcome",
+          "start": 75.7,
+          "end": 76.1,
+          "probability": 0.9987125396728516
+        },
+        {
+          "word": " immigrants.",
+          "start": 76.1,
+          "end": 76.4,
+          "probability": 0.9958296418190002
+        },
+        {
+          "word": " And",
+          "start": 76.66,
+          "end": 77.0,
+          "probability": 0.9772570133209229
+        },
+        {
+          "word": " I",
+          "start": 77.0,
+          "end": 77.14,
+          "probability": 0.9951358437538147
+        },
+        {
+          "word": " will",
+          "start": 77.14,
+          "end": 77.28,
+          "probability": 0.9974324107170105
+        },
+        {
+          "word": " fight",
+          "start": 77.28,
+          "end": 77.52,
+          "probability": 0.9994655251502991
+        },
+        {
+          "word": " each",
+          "start": 77.52,
+          "end": 77.9,
+          "probability": 0.8038097023963928
+        },
+        {
+          "word": " and",
+          "start": 77.9,
+          "end": 78.1,
+          "probability": 0.9975399971008301
+        },
+        {
+          "word": " every",
+          "start": 78.1,
+          "end": 78.3,
+          "probability": 0.9891700148582458
+        },
+        {
+          "word": " day",
+          "start": 78.3,
+          "end": 78.52,
+          "probability": 0.9995583891868591
+        },
+        {
+          "word": " to",
+          "start": 78.52,
+          "end": 79.0,
+          "probability": 0.9405969977378845
+        },
+        {
+          "word": " protect,",
+          "start": 79.0,
+          "end": 79.3,
+          "probability": 0.9949344992637634
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 5998,
+      "start": 79.52,
+      "end": 82.1,
+      "text": " support, and celebrate our immigrant brothers and sisters.",
+      "tokens": [
+        51345,
+        1406,
+        11,
+        293,
+        8098,
+        527,
+        23873,
+        8452,
+        293,
+        11589,
+        13,
+        51849
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.15787453487001615,
+      "compression_ratio": 1.686206896551724,
+      "no_speech_prob": 0.0035068639554083347,
+      "words": [
+        {
+          "word": " support,",
+          "start": 79.52,
+          "end": 79.9,
+          "probability": 0.9986894726753235
+        },
+        {
+          "word": " and",
+          "start": 80.14,
+          "end": 80.34,
+          "probability": 0.9992015957832336
+        },
+        {
+          "word": " celebrate",
+          "start": 80.34,
+          "end": 80.78,
+          "probability": 0.998969554901123
+        },
+        {
+          "word": " our",
+          "start": 80.78,
+          "end": 81.22,
+          "probability": 0.9859530925750732
+        },
+        {
+          "word": " immigrant",
+          "start": 81.22,
+          "end": 81.44,
+          "probability": 0.9937723278999329
+        },
+        {
+          "word": " brothers",
+          "start": 81.44,
+          "end": 81.64,
+          "probability": 0.9948487281799316
+        },
+        {
+          "word": " and",
+          "start": 81.64,
+          "end": 81.88,
+          "probability": 0.9978366494178772
+        },
+        {
+          "word": " sisters.",
+          "start": 81.88,
+          "end": 82.1,
+          "probability": 0.9993832111358643
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

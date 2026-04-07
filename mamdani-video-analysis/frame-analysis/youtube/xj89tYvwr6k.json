@@ -1,0 +1,75 @@
+{
+  "video_id": "xj89tYvwr6k",
+  "platform": "youtube",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-3:36",
+      "on_screen_text": [
+        "Kaufman",
+        "Museum of the Moving Image",
+        "MUSEUM OF THE MOVING IMAGE"
+      ],
+      "setting": "Exterior of Museum of the Moving Image in Astoria, Queens; wide shot of building facade and signage; interior shots of a minimalist white institutional space with chairs and tables; bus in parking lot",
+      "visual_elements": [
+        "Museum of the Moving Image exterior sign",
+        "Kaufman Studios building visible in background",
+        "White-walled institutional interior",
+        "Candidate seated at a wooden table",
+        "Various community members/visitors in museum space",
+        "Documentary-style wide and medium shots",
+        "Natural daylight interior lighting"
+      ],
+      "presentation_style": "Observational documentary; location-establishing shots followed by interview and listening session footage; minimal graphic treatment"
+    },
+    {
+      "grid": "grid_0216.jpg",
+      "timestamp_range": "3:36-7:12",
+      "on_screen_text": [],
+      "setting": "Office or civic meeting room with large windows and natural light; plants visible; candidate seated at a table in a suit listening and on phone",
+      "visual_elements": [
+        "Candidate in dark suit and tie at a desk",
+        "Large windows with natural light",
+        "Potted plants in background",
+        "Multiple angles of the same scene",
+        "Candidate rubbing face / listening intently on phone",
+        "Other individuals partially visible",
+        "Cinematic shallow depth-of-field shots"
+      ],
+      "presentation_style": "Narrative documentary with close observation of the candidate; no text overlays; intimate coverage of working interactions"
+    },
+    {
+      "grid": "grid_0432.jpg",
+      "timestamp_range": "7:12-end",
+      "on_screen_text": [
+        "WE'LL SEE YOU TOMORROW.",
+        "A NEW ERA",
+        "NEW YORK CITY"
+      ],
+      "setting": "Candidate at a desk reviewing papers in daylight office; final frames use a dark background with bold gold and white text graphics",
+      "visual_elements": [
+        "Candidate in suit reading documents at desk",
+        "Bold gold serif font on black background for closing card",
+        "Campaign branding: 'A NEW ERA for NEW YORK CITY' in red, white, and blue",
+        "Dramatic lighting contrast between subject and dark background",
+        "Candidate smiling directly at camera in one frame"
+      ],
+      "presentation_style": "Documentary footage transitioning to a polished campaign outro card; 'WE'LL SEE YOU TOMORROW.' functions as a recurring sign-off brand element; strong typographic closing treatment"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Museum of the Moving Image (Astoria, Queens) and office/meeting room with large windows",
+    "text_overlay_types": [
+      "Location signage captured in-frame",
+      "Campaign sign-off card ('WE'LL SEE YOU TOMORROW.')",
+      "Campaign slogan card ('A NEW ERA for NEW YORK CITY')"
+    ],
+    "visual_themes": [
+      "Mayor listening to constituents",
+      "Institutional and civic settings",
+      "Documentary observational style",
+      "Bold typographic outro branding",
+      "Contrast between candid footage and designed end cards"
+    ]
+  }
+}

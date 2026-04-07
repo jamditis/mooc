@@ -1,0 +1,71 @@
+{
+  "video_id": "2006456525590560768",
+  "platform": "twitter",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0s-36s",
+      "on_screen_text": [
+        "Museum of the Moving Image",
+        "Kaufman"
+      ],
+      "setting": "Exterior street in Astoria/Queens neighborhood, Museum of the Moving Image building exterior, interior museum spaces",
+      "visual_elements": [
+        "street-level shot of Kaufman Studios area",
+        "Museum of the Moving Image exterior signage in bold black and white typography",
+        "model bus on display inside museum",
+        "bright white museum interior corridors",
+        "people seated at wooden table in interview setting",
+        "person in VR headset"
+      ],
+      "presentation_style": "documentary b-roll establishing shots followed by interview-style sit-down footage"
+    },
+    {
+      "grid": "grid_0036.jpg",
+      "timestamp_range": "36s-72s",
+      "on_screen_text": [
+        "Because we have children, they travel for hours to classes that are just unacceptable.",
+        "Because we have children, they travel for hours to buses that are just unacceptable.",
+        "We're talking about the yellow school buses, these are the bus contract."
+      ],
+      "setting": "Bright white studio or interview room, participants seated at wooden table across from interviewer",
+      "visual_elements": [
+        "woman with name badge speaking",
+        "children present in some frames",
+        "man in suit (Mamdani) seated across the table listening",
+        "subtitle captions at bottom of frames",
+        "white-on-black subtitles"
+      ],
+      "presentation_style": "documentary sit-down interview format with community members speaking directly to camera or across the table, white subtitle captions throughout"
+    },
+    {
+      "grid": "grid_0072.jpg",
+      "timestamp_range": "72s-end",
+      "on_screen_text": [
+        "CONTINUE WATCHING THE FULL FILM AT",
+        "YOUTUBE.COM/@ZOHRANFORNYC"
+      ],
+      "setting": "Interior interview room, then end card graphic",
+      "visual_elements": [
+        "man with glasses in white shirt seated across from interviewer",
+        "bold yellow italic text on black background for end card",
+        "YouTube channel call-to-action graphic"
+      ],
+      "presentation_style": "documentary closes with a bold end-card directing viewers to YouTube for the full film"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Museum of the Moving Image, Astoria, Queens - used as interview venue for community listening session",
+    "text_overlay_types": [
+      "location title card",
+      "dialogue subtitles",
+      "call-to-action end card with YouTube URL"
+    ],
+    "visual_themes": [
+      "community listening and constituent voices",
+      "school bus transportation issues",
+      "documentary film format",
+      "longform content promotion"
+    ]
+  }
+}

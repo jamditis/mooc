@@ -1,0 +1,36 @@
+{
+  "video_id": "1860854987947164",
+  "platform": "facebook",
+  "title": "Press Conference - Infrastructure Improvement",
+  "frames": [
+    {
+      "grid": "grid_0000.jpg",
+      "timestamp_range": "0:00-0:09",
+      "on_screen_text": ["0", "8", "9 (countdown/number display on easel boards)", "NEW ERA (partially visible on sign)"],
+      "setting": "Outdoor press conference at a park or elevated area with the NYC skyline (Manhattan/Brooklyn) visible in background; early spring, bare trees; easel-mounted signs with large numerals",
+      "visual_elements": ["outdoor podium with NYC official seal", "easel boards with large countdown numbers", "NYC skyline in background", "group of officials flanking speaker", "casual/outdoor attire including dark jackets"],
+      "presentation_style": "Outdoor press conference; wide establishing shots transitioning to medium group shots at podium"
+    },
+    {
+      "grid": "grid_0180.jpg",
+      "timestamp_range": "approximately 1:00-1:09",
+      "on_screen_text": [],
+      "setting": "Same outdoor location; group of officials clustered at and around podium with NYC skyline; bare winter trees and green grass in background",
+      "visual_elements": ["NYC official podium seal", "group of approximately 6-8 officials", "NYC skyline", "bare trees", "documents/papers being handled"],
+      "presentation_style": "Medium close-up group shot at podium; natural outdoor light"
+    },
+    {
+      "grid": "grid_0351.jpg",
+      "timestamp_range": "approximately 1:57-2:06",
+      "on_screen_text": [],
+      "setting": "Same outdoor park location; press conference winding down with attendees mingling; some frames show informal post-announcement interactions",
+      "visual_elements": ["NYC official podium", "officials interacting informally", "press/media present", "NYC skyline visible", "natural outdoor lighting"],
+      "presentation_style": "Wide and medium shots of post-announcement mingling; candid press conference atmosphere"
+    }
+  ],
+  "summary": {
+    "dominant_setting": "Outdoor press conference at elevated park with NYC skyline backdrop",
+    "text_overlay_types": ["numbered easel signs", "NYC official seal on podium"],
+    "visual_themes": ["infrastructure announcement", "outdoor government press event", "NYC skyline backdrop", "group of officials", "spring/winter outdoor setting"]
+  }
+}

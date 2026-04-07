@@ -1,0 +1,470 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e7]:
+        - generic [ref=e8]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e9] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=e10]:
+        - button "Skip to home timeline" [ref=e11] [cursor=pointer]
+        - button "Skip to trending" [ref=e13] [cursor=pointer]
+        - banner [ref=e15]:
+          - generic [ref=e17]:
+            - generic [ref=e18]:
+              - heading "X" [level=1] [ref=e20] [cursor=pointer]:
+                - link "X" [ref=e21]:
+                  - /url: /home
+                  - img [ref=e23]
+              - navigation "Primary" [ref=e27]:
+                - link "Home" [ref=e28] [cursor=pointer]:
+                  - /url: /home
+                  - img [ref=e31]
+                - link "Search and explore" [ref=e34] [cursor=pointer]:
+                  - /url: /explore
+                  - img [ref=e37]
+                - link "Notifications" [ref=e40] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e43]
+                - link "Direct Messages" [ref=e46] [cursor=pointer]:
+                  - /url: /i/chat
+                  - img [ref=e49]
+                - link "Grok" [ref=e52] [cursor=pointer]:
+                  - /url: /i/grok
+                  - img [ref=e55]
+                - link "Bookmarks" [ref=e58] [cursor=pointer]:
+                  - /url: /i/bookmarks
+                  - img [ref=e61]
+                - link "Creator Studio" [ref=e64] [cursor=pointer]:
+                  - /url: /i/jf/creators/studio
+                  - img [ref=e67]
+                - link "Premium" [ref=e70] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                  - img [ref=e73]
+                - link "Profile" [ref=e76] [cursor=pointer]:
+                  - /url: /jsamditis
+                  - img [ref=e79]
+                - button "More menu items" [ref=e82] [cursor=pointer]:
+                  - img [ref=e85]
+              - link "Post" [ref=e89] [cursor=pointer]:
+                - /url: /compose/post
+                - img [ref=e91]
+            - button "Account menu" [ref=e96] [cursor=pointer]:
+              - generic [ref=e104]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "Joe Amditis":
+                        - img "Joe Amditis"
+        - main [ref=e107]:
+          - generic "Home timeline" [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e119] [cursor=pointer]:
+                - button "Back" [ref=e121]:
+                  - img [ref=e123]
+                - generic [ref=e127]:
+                  - heading "Center for Cooperative Media" [level=2] [ref=e128]:
+                    - generic [ref=e134]: Center for Cooperative Media
+                  - generic [ref=e135]: 22.8K posts
+                - generic [ref=e2885]:
+                  - button "Profile Summary" [ref=e2886]:
+                    - img [ref=e2888]
+                  - button "Search" [ref=e2891]:
+                    - img [ref=e2893]
+              - generic:
+                - generic:
+                  - status:
+                    - button:
+                      - generic:
+                        - img
+                        - generic: See new posts
+            - generic [ref=e150]:
+              - generic [ref=e151]:
+                - link [ref=e152] [cursor=pointer]:
+                  - /url: /CenterCoopMedia/header_photo
+                - generic [ref=e158]:
+                  - generic [ref=e159]:
+                    - link "Opens profile photo" [ref=e167] [cursor=pointer]:
+                      - /url: /CenterCoopMedia/photo
+                      - generic:
+                        - generic:
+                          - generic:
+                            - generic "Opens profile photo":
+                              - img "Opens profile photo"
+                    - generic [ref=e170]:
+                      - button "More" [ref=e171] [cursor=pointer]:
+                        - img [ref=e173]
+                      - button "Message" [ref=e176] [cursor=pointer]:
+                        - img [ref=e178]
+                      - button "Turn off post notifications" [ref=e182] [cursor=pointer]:
+                        - img [ref=e184]
+                      - button "Following @CenterCoopMedia" [ref=e189] [cursor=pointer]:
+                        - generic [ref=e192]: Following
+                  - generic [ref=e196]:
+                    - generic [ref=e200]: Center for Cooperative Media
+                    - generic [ref=e201]:
+                      - generic [ref=e204]: "@CenterCoopMedia"
+                      - generic [ref=e206]: Follows you
+                  - generic [ref=e209]:
+                    - link "#CollaborativeJ" [ref=e211] [cursor=pointer]:
+                      - /url: /search?q=%23CollaborativeJ&src=hashtag_click
+                    - text: from
+                    - link "@MontclairStateU" [ref=e214] [cursor=pointer]:
+                      - /url: /MontclairStateU
+                    - text: ". Get the Daily News Roundup in your inbox:"
+                    - link "bit.ly/njnewsletter" [ref=e215] [cursor=pointer]:
+                      - /url: https://t.co/HLMp4L2XZt
+                    - text: ". Visit:"
+                    - link "collaborativejournalism.org" [ref=e216] [cursor=pointer]:
+                      - /url: https://t.co/cqS0TRJq4M
+                  - generic [ref=e218]:
+                    - img [ref=e219] [cursor=pointer]
+                    - button "Non-Governmental & Nonprofit Organization" [ref=e222]
+                    - img [ref=e223]
+                    - generic [ref=e226]: Montclair, NJ
+                    - link "centerforcooperativemedia.org" [ref=e227] [cursor=pointer]:
+                      - /url: https://t.co/zTGYLFH0Kw
+                      - img [ref=e228]
+                      - text: centerforcooperativemedia.org
+                    - link "Joined August 2016" [ref=e232] [cursor=pointer]:
+                      - /url: /CenterCoopMedia/about
+                      - img [ref=e233]
+                      - text: Joined August 2016
+                      - img [ref=e236]
+                  - generic [ref=e239]:
+                    - link "1,094 Following" [ref=e241] [cursor=pointer]:
+                      - /url: /CenterCoopMedia/following
+                      - generic [ref=e242]: 1,094
+                      - generic [ref=e243]: Following
+                    - link "4,621 Followers" [ref=e245] [cursor=pointer]:
+                      - /url: /CenterCoopMedia/verified_followers
+                      - generic [ref=e246]: 4,621
+                      - generic [ref=e247]: Followers
+                  - link "Followers you know" [ref=e252] [cursor=pointer]:
+                    - /url: /CenterCoopMedia/followers_you_follow
+                    - generic [ref=e285]:
+                      - text: Followed by
+                      - generic [ref=e286]: Journalist's Toolbox™ AI
+                      - text: ","
+                      - generic [ref=e287]: The Jersey Vindicator
+                      - text: ", and 439 others you follow"
+                - generic [ref=e289]:
+                  - generic [ref=e290]: Location
+                  - generic [ref=e291]:
+                    - generic [ref=e292]:
+                      - img [ref=e294] [cursor=pointer]:
+                        - img [ref=e295]
+                      - generic [ref=e298]:
+                        - link "http://centerforcooperativemedia.org/" [ref=e300] [cursor=pointer]:
+                          - /url: https://t.co/ZwCkx3ppgS
+                        - generic [ref=e302]: 1 Normal Avenue, Montclair State University, SCM2019 Montclair New Jersey 07043
+                        - generic [ref=e303]:
+                          - generic [ref=e304]: Closed
+                          - generic [ref=e305]: ·
+                          - generic [ref=e306]: Opens Friday at 9:00 AM
+                    - generic [ref=e307]:
+                      - link "Get directions" [ref=e308] [cursor=pointer]:
+                        - /url: https://www.google.com/maps/search/?api=1&query=1%20Normal%20Avenue%2C%20Montclair%20State%20University%2C%20SCM2019%20Montclair%20New%20Jersey%2007043
+                        - generic [ref=e309]: Get directions
+                      - button "Contact" [ref=e311] [cursor=pointer]:
+                        - generic [ref=e312]: Contact
+              - navigation "Profile timelines" [ref=e314]:
+                - generic [ref=e315]:
+                  - generic:
+                    - button "Previous" [disabled]:
+                      - generic:
+                        - img
+                  - tablist [ref=e317]:
+                    - tab "Posts" [selected] [ref=e318] [cursor=pointer]:
+                      - generic [ref=e321]: Posts
+                    - tab "Replies" [ref=e323] [cursor=pointer]:
+                      - generic [ref=e326]: Replies
+                    - tab "Media" [ref=e327] [cursor=pointer]:
+                      - generic [ref=e330]: Media
+                  - generic:
+                    - button "Next" [disabled]:
+                      - generic:
+                        - img
+              - region "Center for Cooperative Media’s posts" [ref=e331]:
+                - heading "Center for Cooperative Media’s posts" [level=1] [ref=e332]
+                - 'generic "Timeline: Center for Cooperative Media’s posts" [ref=e333]':
+                  - generic [ref=e334]:
+                    - article "Pinned Center for Cooperative Media @CenterCoopMedia Feb 3 🎉 100 days until CJS2026! The 10th annual Collaborative Journalism Summit returns to Philadelphia May 14-15. Join us as we celebrate a decade of building a more collaborative news ecosystem. Visit summit.collaborativejournalism.org to learn more and get tickets TODAY! Embedded video Play Video 4 replies, 3 reposts, Reposted, 4 likes, Liked, 243 views" [ref=e2899] [cursor=pointer]:
+                      - generic [ref=e2901]:
+                        - generic [ref=e2906]:
+                          - img [ref=e2908]
+                          - generic [ref=e2914]: Pinned
+                        - generic [ref=e2915]:
+                          - link [ref=e2927]:
+                            - /url: /CenterCoopMedia
+                          - generic [ref=e2930]:
+                            - generic [ref=e2932]:
+                              - generic [ref=e2935]:
+                                - link "Center for Cooperative Media" [ref=e2938]:
+                                  - /url: /CenterCoopMedia
+                                  - generic [ref=e2941]: Center for Cooperative Media
+                                - generic [ref=e2943]:
+                                  - link "@CenterCoopMedia" [ref=e2945]:
+                                    - /url: /CenterCoopMedia
+                                    - generic [ref=e2946]: "@CenterCoopMedia"
+                                  - generic [ref=e2947]: ·
+                                  - link "Feb 3" [ref=e2949]:
+                                    - /url: /CenterCoopMedia/status/2018805146525028357
+                                    - time [ref=e2950]: Feb 3
+                              - generic [ref=e2952]:
+                                - button "Grok actions" [ref=e2954]:
+                                  - img [ref=e2959]
+                                - button "More" [ref=e2965]:
+                                  - img [ref=e2969]
+                            - generic [ref=e2973]:
+                              - img "🎉" [ref=e2974]
+                              - text: 100 days until CJS2026! The 10th annual Collaborative Journalism Summit returns to Philadelphia May 14-15. Join us as we celebrate a decade of building a more collaborative news ecosystem. Visit
+                              - link "summit.collaborativejournalism.org" [ref=e2975]:
+                                - /url: https://t.co/Euz7jseX63
+                              - text: to learn more and get tickets TODAY!
+                            - generic [ref=e2992]:
+                              - generic "Embedded video" [ref=e2995]
+                              - button "Play Video" [ref=e3002]:
+                                - img [ref=e3003]
+                            - group "4 replies, 3 reposts, Reposted, 4 likes, Liked, 243 views" [ref=e3009]:
+                              - button "4 Replies. Reply" [ref=e3011]:
+                                - generic [ref=e3012]:
+                                  - img [ref=e3015]
+                                  - generic [ref=e3020]: "4"
+                              - button "3 reposts. Reposted" [ref=e3022]:
+                                - generic [ref=e3023]:
+                                  - img [ref=e3026]
+                                  - generic [ref=e3031]: "3"
+                              - button "4 Likes. Liked" [ref=e3033]:
+                                - generic [ref=e3034]:
+                                  - img [ref=e3037]
+                                  - generic [ref=e3042]: "4"
+                              - link "243 views. View post analytics" [ref=e3044]:
+                                - /url: /CenterCoopMedia/status/2018805146525028357/analytics
+                                - generic [ref=e3045]:
+                                  - img [ref=e3048]
+                                  - generic [ref=e3053]: "243"
+                              - button "Bookmark" [ref=e3055]:
+                                - img [ref=e3059]
+                              - button "Share post" [ref=e3064]:
+                                - img [ref=e3068]
+                    - article "Center for Cooperative Media @CenterCoopMedia 4 hours ago Free journalist safety training at CJS2026 — register by May 4 @IWMF to lead a free four-hour training with CJRH the morning of Day 1 of the Summit. summit.collaborativejournalism.org/updates/free-i Image 1 repost, Reposted, 1 like, Liked, 32 views" [ref=e3074] [cursor=pointer]:
+                      - generic [ref=e3080]:
+                        - link [ref=e3092]:
+                          - /url: /CenterCoopMedia
+                        - generic [ref=e3095]:
+                          - generic [ref=e3097]:
+                            - generic [ref=e3100]:
+                              - link "Center for Cooperative Media" [ref=e3103]:
+                                - /url: /CenterCoopMedia
+                                - generic [ref=e3106]: Center for Cooperative Media
+                              - generic [ref=e3108]:
+                                - link "@CenterCoopMedia" [ref=e3110]:
+                                  - /url: /CenterCoopMedia
+                                  - generic [ref=e3111]: "@CenterCoopMedia"
+                                - generic [ref=e3112]: ·
+                                - link "4 hours ago" [ref=e3114]:
+                                  - /url: /CenterCoopMedia/status/2039763577758707813
+                                  - time [ref=e3115]: 4h
+                            - generic [ref=e3117]:
+                              - button "Grok actions" [ref=e3119]:
+                                - img [ref=e3124]
+                              - button "More" [ref=e3130]:
+                                - img [ref=e3134]
+                          - generic [ref=e3138]:
+                            - text: Free journalist safety training at CJS2026 — register by May 4
+                            - link "@IWMF" [ref=e3141]:
+                              - /url: /IWMF
+                            - text: to lead a free four-hour training with CJRH the morning of Day 1 of the Summit.
+                            - link "summit.collaborativejournalism.org/updates/free-i" [ref=e3142]:
+                              - /url: https://t.co/4vbuAmXq6w
+                              - text: summit.collaborativejournalism.org/updates/free-i …
+                          - link "Image" [ref=e3150]:
+                            - /url: /CenterCoopMedia/status/2039763577758707813/photo/1
+                            - generic "Image" [ref=e3154]:
+                              - img "Image" [ref=e3156]
+                          - group "1 repost, Reposted, 1 like, Liked, 32 views" [ref=e3159]:
+                            - button "0 Replies. Reply" [ref=e3161]:
+                              - img [ref=e3165]
+                            - button "1 repost. Reposted" [ref=e3172]:
+                              - generic [ref=e3173]:
+                                - img [ref=e3176]
+                                - generic [ref=e3181]: "1"
+                            - button "1 Like. Liked" [ref=e3183]:
+                              - generic [ref=e3184]:
+                                - img [ref=e3187]
+                                - generic [ref=e3192]: "1"
+                            - link "32 views. View post analytics" [ref=e3194]:
+                              - /url: /CenterCoopMedia/status/2039763577758707813/analytics
+                              - generic [ref=e3195]:
+                                - img [ref=e3198]
+                                - generic [ref=e3203]: "32"
+                            - button "Bookmark" [ref=e3205]:
+                              - img [ref=e3209]
+                            - button "Share post" [ref=e3214]:
+                              - img [ref=e3218]
+                    - 'article "Center for Cooperative Media @CenterCoopMedia 5 hours ago #CJS2026 is presented by Knight Foundation — and we''re grateful for their support as we mark 10 years of the Collaborative Journalism Summit. May 14-15 in Philadelphia. Tickets: summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary From summit.collaborativejournalism.org 1 repost, Reposted, 1 like, Liked, 25 views" [ref=e3224] [cursor=pointer]':
+                      - generic [ref=e3230]:
+                        - link [ref=e3242]:
+                          - /url: /CenterCoopMedia
+                        - generic [ref=e3245]:
+                          - generic [ref=e3247]:
+                            - generic [ref=e3250]:
+                              - link "Center for Cooperative Media" [ref=e3253]:
+                                - /url: /CenterCoopMedia
+                                - generic [ref=e3256]: Center for Cooperative Media
+                              - generic [ref=e3258]:
+                                - link "@CenterCoopMedia" [ref=e3260]:
+                                  - /url: /CenterCoopMedia
+                                  - generic [ref=e3261]: "@CenterCoopMedia"
+                                - generic [ref=e3262]: ·
+                                - link "5 hours ago" [ref=e3264]:
+                                  - /url: /CenterCoopMedia/status/2039756202838548948
+                                  - time [ref=e3265]: 5h
+                            - generic [ref=e3267]:
+                              - button "Grok actions" [ref=e3269]:
+                                - img [ref=e3274]
+                              - button "More" [ref=e3280]:
+                                - img [ref=e3284]
+                          - generic [ref=e3288]:
+                            - link "#CJS2026" [ref=e3290]:
+                              - /url: /hashtag/CJS2026?src=hashtag_click
+                            - text: "is presented by Knight Foundation — and we're grateful for their support as we mark 10 years of the Collaborative Journalism Summit. May 14-15 in Philadelphia. Tickets:"
+                          - generic "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3291]:
+                            - generic "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3292]:
+                              - link "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3294]:
+                                - /url: https://t.co/Euz7jsepgv
+                                - generic [ref=e3300]:
+                                  - generic:
+                                    - generic: 2026 Collaborative Journalism Summit | 10th anniversary
+                            - link "From summit.collaborativejournalism.org" [ref=e3303]:
+                              - /url: https://t.co/Euz7jsepgv
+                          - group "1 repost, Reposted, 1 like, Liked, 25 views" [ref=e3306]:
+                            - button "0 Replies. Reply" [ref=e3308]:
+                              - img [ref=e3312]
+                            - button "1 repost. Reposted" [ref=e3319]:
+                              - generic [ref=e3320]:
+                                - img [ref=e3323]
+                                - generic [ref=e3328]: "1"
+                            - button "1 Like. Liked" [ref=e3330]:
+                              - generic [ref=e3331]:
+                                - img [ref=e3334]
+                                - generic [ref=e3339]: "1"
+                            - link "25 views. View post analytics" [ref=e3341]:
+                              - /url: /CenterCoopMedia/status/2039756202838548948/analytics
+                              - generic [ref=e3342]:
+                                - img [ref=e3345]
+                                - generic [ref=e3350]: "25"
+                            - button "Bookmark" [ref=e3352]:
+                              - img [ref=e3356]
+                            - button "Share post" [ref=e3361]:
+                              - img [ref=e3365]
+                    - 'article "Center for Cooperative Media @CenterCoopMedia Apr 1 Day 2 of #CJS2026 opens with a burst of lightning talks — from creator-in-residence experiments to community advisory panels to a news cooperative for non-editorial workers. May 15 in Philly. Full schedule: summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary From summit.collaborativejournalism.org 1 like, Liked, 22 views" [ref=e3371] [cursor=pointer]':
+                      - generic [ref=e3377]:
+                        - link [ref=e3389]:
+                          - /url: /CenterCoopMedia
+                        - generic [ref=e3392]:
+                          - generic [ref=e3394]:
+                            - generic [ref=e3397]:
+                              - link "Center for Cooperative Media" [ref=e3400]:
+                                - /url: /CenterCoopMedia
+                                - generic [ref=e3403]: Center for Cooperative Media
+                              - generic [ref=e3405]:
+                                - link "@CenterCoopMedia" [ref=e3407]:
+                                  - /url: /CenterCoopMedia
+                                  - generic [ref=e3408]: "@CenterCoopMedia"
+                                - generic [ref=e3409]: ·
+                                - link "Apr 1" [ref=e3411]:
+                                  - /url: /CenterCoopMedia/status/2039393144148513273
+                                  - time [ref=e3412]: Apr 1
+                            - generic [ref=e3414]:
+                              - button "Grok actions" [ref=e3416]:
+                                - img [ref=e3421]
+                              - button "More" [ref=e3427]:
+                                - img [ref=e3431]
+                          - generic [ref=e3435]:
+                            - text: Day 2 of
+                            - link "#CJS2026" [ref=e3437]:
+                              - /url: /hashtag/CJS2026?src=hashtag_click
+                            - text: "opens with a burst of lightning talks — from creator-in-residence experiments to community advisory panels to a news cooperative for non-editorial workers. May 15 in Philly. Full schedule:"
+                          - generic "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3438]:
+                            - generic "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3439]:
+                              - link "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3441]:
+                                - /url: https://t.co/Euz7jsepgv
+                                - generic [ref=e3447]:
+                                  - generic:
+                                    - generic: 2026 Collaborative Journalism Summit | 10th anniversary
+                            - link "From summit.collaborativejournalism.org" [ref=e3450]:
+                              - /url: https://t.co/Euz7jsepgv
+                          - group "1 like, Liked, 22 views" [ref=e3453]:
+                            - button "0 Replies. Reply" [ref=e3455]:
+                              - img [ref=e3459]
+                            - button "0 reposts. Repost" [ref=e3466]:
+                              - img [ref=e3470]
+                            - button "1 Like. Liked" [ref=e3477]:
+                              - generic [ref=e3478]:
+                                - img [ref=e3481]
+                                - generic [ref=e3486]: "1"
+                            - link "22 views. View post analytics" [ref=e3488]:
+                              - /url: /CenterCoopMedia/status/2039393144148513273/analytics
+                              - generic [ref=e3489]:
+                                - img [ref=e3492]
+                                - generic [ref=e3497]: "22"
+                            - button "Bookmark" [ref=e3499]:
+                              - img [ref=e3503]
+                            - button "Share post" [ref=e3508]:
+                              - img [ref=e3512]
+                    - 'article "Center for Cooperative Media @CenterCoopMedia Mar 31 Amanda Zamora''s keynote at #CJS2026 frames it plainly: journalism should treat information as mutual aid. Her fireside chat opens Day 1 — May 14 in Philadelphia. summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary From summit.collaborativejournalism.org 1 like, Liked, 33 views" [ref=e3518] [cursor=pointer]':
+                      - generic [ref=e3524]:
+                        - link [ref=e3536]:
+                          - /url: /CenterCoopMedia
+                        - generic [ref=e3539]:
+                          - generic [ref=e3541]:
+                            - generic [ref=e3544]:
+                              - link "Center for Cooperative Media" [ref=e3547]:
+                                - /url: /CenterCoopMedia
+                                - generic [ref=e3550]: Center for Cooperative Media
+                              - generic [ref=e3552]:
+                                - link "@CenterCoopMedia" [ref=e3554]:
+                                  - /url: /CenterCoopMedia
+                                  - generic [ref=e3555]: "@CenterCoopMedia"
+                                - generic [ref=e3556]: ·
+                                - link "Mar 31" [ref=e3558]:
+                                  - /url: /CenterCoopMedia/status/2039030854358331654
+                                  - time [ref=e3559]: Mar 31
+                            - generic [ref=e3561]:
+                              - button "Grok actions" [ref=e3563]:
+                                - img [ref=e3568]
+                              - button "More" [ref=e3574]:
+                                - img [ref=e3578]
+                          - generic [ref=e3582]:
+                            - text: Amanda Zamora's keynote at
+                            - link "#CJS2026" [ref=e3584]:
+                              - /url: /hashtag/CJS2026?src=hashtag_click
+                            - text: "frames it plainly: journalism should treat information as mutual aid. Her fireside chat opens Day 1 — May 14 in Philadelphia."
+                          - generic "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3585]:
+                            - generic "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3586]:
+                              - link "summit.collaborativejournalism.org 2026 Collaborative Journalism Summit | 10th anniversary" [ref=e3588]:
+                                - /url: https://t.co/Euz7jsepgv
+                                - generic [ref=e3594]:
+                                  - generic:
+                                    - generic: 2026 Collaborative Journalism Summit | 10th anniversary
+                            - link "From summit.collaborativejournalism.org" [ref=e3597]:
+                              - /url: https://t.co/Euz7jsepgv
+                          - group "1 like, Liked, 33 views" [ref=e3600]:
+                            - button "0 Replies. Reply" [ref=e3602]:
+                              - img [ref=e3606]
+                            - button "0 reposts. Repost" [ref=e3613]:
+                              - img [ref=e3617]
+                            - button "1 Like. Liked" [ref=e3624]:
+                              - generic [ref=e3625]:
+                                - img [ref=e3628]
+                                - generic [ref=e3633]: "1"
+                            - link "33 views. View post analytics" [ref=e3635]:
+                              - /url: /CenterCoopMedia/status/2039030854358331654/analytics
+                              - generic [ref=e3636]:
+                                - img [ref=e3639]
+                                - generic [ref=e3644]: "33"
+                            - button "Bookmark" [ref=e3646]:
+                              - img [ref=e3650]
+                            - button "Share post" [ref=e3655]:
+                              - img [ref=e3659]
