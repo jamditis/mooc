@@ -34,9 +34,10 @@ concurrency:
 
 # Permissions needed for GitHub Pages deployment
 permissions:
-  contents: write    # to commit metadata updates
-  pages: write       # to deploy to Pages
-  id-token: write    # for Pages authentication
+  contents: write       # to create branches and commit
+  pages: write          # to deploy to Pages
+  id-token: write       # for Pages authentication
+  pull-requests: write  # to create PRs
 
 jobs:
   # ── Job 1: Check for new videos and rebuild analysis ──
@@ -63,7 +64,9 @@ jobs:
       - name: Rebuild content analysis
         run: python mamdani-video-analysis/scripts/04-build-analysis.py
 
-      - name: Commit changes if any
+      - name: Create PR if there are changes
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -71,8 +74,15 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
+            BRANCH="auto/update-$(date -u +%Y-%m-%d)"
+            git checkout -b "$BRANCH"
             git commit -m "auto: update video metadata and analysis $(date -u +%Y-%m-%d)"
-            git push
+            git push origin "$BRANCH"
+            gh pr create \
+              --title "auto: update video metadata and analysis $(date -u +%Y-%m-%d)" \
+              --body "Daily automated update from GitHub Actions. New videos checked on YouTube and TikTok, analysis rebuilt from current transcripts." \
+              --base master \
+              --head "$BRANCH"
           fi
 
   # ── Job 2: Deploy dashboard to GitHub Pages ──
