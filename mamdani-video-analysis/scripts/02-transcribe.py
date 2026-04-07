@@ -1,4 +1,4 @@
-"""Transcribe all downloaded videos using Whisper large-v3 on GPU."""
+"""Transcribe all downloaded videos using Whisper turbo on GPU (with CPU fallback)."""
 
 import json
 import sys
@@ -68,8 +68,9 @@ def main():
         videos = [v for v in videos if v["platform"] in platforms_filter]
 
     model_name = "turbo"
-    print(f"Loading Whisper {model_name} on CUDA...")
-    model = whisper.load_model(model_name, device="cuda")
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+    print(f"Loading Whisper {model_name} on {device.upper()}...")
+    model = whisper.load_model(model_name, device=device)
     print(f"Model loaded. Transcribing {len(videos)} videos.\n")
 
     success = 0
@@ -88,7 +89,8 @@ def main():
             failed += 1
 
     del model
-    torch.cuda.empty_cache()
+    if torch.cuda.is_available():
+        torch.cuda.empty_cache()
 
     print(f"\nDone. {success} transcribed, {failed} failed.")
 

@@ -63,9 +63,9 @@ A content analysis of ~76 videos from NYC Mayor Zohran Mamdani's social media ac
 **Pipeline:** Download videos with yt-dlp, transcribe with Whisper (GPU-accelerated), extract frames at 3-second intervals, analyze on-screen text with AI vision, run keyword-based topic/sentiment analysis, and present results in an interactive dashboard.
 
 **Key findings (from transcript analysis):**
-- Top topics: budget (273 mentions), housing (255), immigration (227)
-- Dominant tone: urgent (30/76 videos), followed by positive (24/76)
-- 307 minutes of video content, 47,454 words transcribed
+- Top topics: governance (4,115 mentions), economy (1,925), housing (1,830)
+- Dominant tone: celebratory (30/76 videos), followed by persuasive (22/76)
+- 307 minutes of video content, 47,448 words transcribed
 - Facebook videos are longest (avg 12 min, mostly press conferences), while TikTok/Twitter/Instagram are short-form (avg 1-2 min)
 
 **Dashboard:** Run `cd mamdani-video-analysis && python -m http.server 8888` and open `http://localhost:8888/web/index.html`.
