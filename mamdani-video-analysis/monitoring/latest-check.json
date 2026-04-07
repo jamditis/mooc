@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-04-07T00:00:00Z",
+  "platforms_checked": ["youtube", "tiktok"],
+  "known_video_count": 76,
+  "known_latest_by_platform": {
+    "youtube": "2026-01-01",
+    "tiktok": "2026-02-25",
+    "instagram": "2026-04-01",
+    "facebook": "2026-04-01",
+    "twitter": "2026-02-25"
+  },
+  "new_videos_found": [
+    {
+      "platform": "youtube",
+      "id": "q3zQK3hNUn0",
+      "title": "Mayor-elect Zohran Mamdani Announces Appointment",
+      "url": "https://www.youtube.com/watch?v=q3zQK3hNUn0",
+      "estimated_date": "2025-12-22",
+      "note": "Present in channel RSS feed but absent from metadata.json"
+    },
+    {
+      "platform": "youtube",
+      "id": "BwwkOgkvpWY",
+      "title": "Mayor-elect Zohran Mamdani Announces Two New Appointments",
+      "url": "https://www.youtube.com/watch?v=BwwkOgkvpWY",
+      "estimated_date": "2025-12-19",
+      "note": "Present in channel RSS feed but absent from metadata.json"
+    },
+    {
+      "platform": "youtube",
+      "id": "C76NdKNOcTA",
+      "title": "Zohran Mamdani for NYC is live!",
+      "url": "https://www.youtube.com/watch?v=C76NdKNOcTA",
+      "estimated_date": "2025-12-18",
+      "note": "Present in channel RSS feed but absent from metadata.json"
+    },
+    {
+      "platform": "youtube",
+      "id": "gs1E-ya_7B4",
+      "title": "Zohran Mamdani Appointment Announcement",
+      "url": "https://www.youtube.com/watch?v=gs1E-ya_7B4",
+      "estimated_date": "2025-12-17",
+      "note": "Present in channel RSS feed but absent from metadata.json"
+    }
+  ],
+  "status": "new_content",
+  "notes": "YouTube RSS feed (channel ID: UCkIS8hii93hF2q0TQFD-sEQ) returned 15 videos; 4 are absent from metadata.json. All 4 are from December 2025 — they are gaps in the original data collection, not recently posted content. The most recent YouTube upload remains 2026-01-01 (s_hR4A1_sew), which is already in metadata. TikTok was not accessible via direct page fetch (JavaScript-rendered content). Web search found no TikTok video IDs newer than 7610918633673379103 (2026-02-25, already in metadata). News coverage from March 31, 2026 references Mamdani reinstating TikTok for NYC government accounts (@nycmayor), but no new videos were confirmed on his personal account (@zohran_k_mamdani). YouTube RSS method used: https://www.youtube.com/feeds/videos.xml?channel_id=UCkIS8hii93hF2q0TQFD-sEQ"
+}
