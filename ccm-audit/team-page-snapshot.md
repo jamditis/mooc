@@ -1,0 +1,639 @@
+- generic [active] [ref=e1]:
+  - navigation "Skip links":
+    - link "Skip to Content" [ref=e2] [cursor=pointer]:
+      - /url: "#primary"
+    - link "Skip to navigation" [ref=e3] [cursor=pointer]:
+      - /url: "#ut-mobile-nav"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic:
+        - generic:
+          - generic [ref=e7]:
+            - link "welcome to montclair state university" [ref=e8] [cursor=pointer]:
+              - /url: https://montclair.edu
+              - img "welcome to montclair state university" [ref=e10]
+            - link "Center for Cooperative Media" [ref=e12] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e13]: Center for Cooperative Media
+          - text: • • • • •
+          - generic [ref=e15] [cursor=pointer]:
+            - button "" [ref=e17]
+            - text: MENU
+  - heading "Meet Our Team" [level=1] [ref=e25]
+  - generic [ref=e32]:
+    - generic [ref=e36]:
+      - paragraph [ref=e39]:
+        - text: The Center for Cooperative Media is a grant-funded program based at
+        - link "Montclair State University" [ref=e40] [cursor=pointer]:
+          - /url: http://www.montclair.edu/
+        - text: ‘s
+        - link "College of Communication and Media" [ref=e41] [cursor=pointer]:
+          - /url: http://www.montclair.edu/arts/school-of-communication-and-media/
+        - text: . We work closely with the faculty, staff, and students at the College of Communication and Media, which is part of the
+        - link "College of the Arts" [ref=e42] [cursor=pointer]:
+          - /url: http://www.montclair.edu/arts/
+        - text: . Keith Strudler is the director of the College of Communication and Media, and Dan Gurskis is dean of the College of the Arts.
+      - heading "The Center currently employs the following staff members:" [level=2] [ref=e48]
+    - generic [ref=e49]:
+      - link "Stefanie Murray, Director Center for Cooperative Media" [ref=e56] [cursor=pointer]:
+        - /url: https://twitter.com/stefaniemurray
+        - img "Stefanie Murray, Director Center for Cooperative Media" [ref=e57]
+      - generic [ref=e60]:
+        - banner [ref=e62]:
+          - heading "Stefanie Murray" [level=2] [ref=e63]:
+            - generic [ref=e64]: Stefanie Murray
+          - paragraph [ref=e66]: Director
+        - generic [ref=e68]:
+          - paragraph [ref=e69]: Stefanie Murray is the director of the Center for Cooperative Media at Montclair State University and an advisor to the New Jersey Civic Information Consortium. A Michigan native, Stefanie previously worked in Michigan and Tennessee as a reporter, editor, digital media manager, and news executive. Before joining Montclair State, she worked for Gannett Co. as vice president and executive editor of The Tennessean in Nashville and was with the Detroit Free Press before that.
+          - paragraph [ref=e70]: Her professional passions are examining and supporting local news and information ecosystems, collaborative journalism, local media, community engagement and audience analysis. She has a master’s degree from the Medill School of Journalism at Northwestern University and a bachelor’s degree in broadcasting and journalism from Central Michigan University.
+          - paragraph [ref=e71]:
+            - text: Stefanie can be reached at
+            - link "murrayst@montclair.edu" [ref=e72] [cursor=pointer]:
+              - /url: mailto:murrayst@montclair.edu
+            - text: or on Twitter at
+            - link "@StefanieMurray" [ref=e73] [cursor=pointer]:
+              - /url: https://twitter.com/stefaniemurray
+            - text: .
+          - paragraph [ref=e74]:
+            - link "📅 Schedule a meeting with Stefanie." [ref=e75] [cursor=pointer]:
+              - /url: https://calendly.com/cooperativemedia/stefanie
+              - img "📅" [ref=e76]
+              - text: Schedule a meeting with Stefanie.
+    - generic [ref=e77]:
+      - link "08-04-21 Etienne Headshot 14" [ref=e84] [cursor=pointer]:
+        - /url: https://twitter.com/CEtienne_CIEL
+        - img "08-04-21 Etienne Headshot 14" [ref=e85]
+      - generic [ref=e88]:
+        - banner [ref=e90]:
+          - heading "Cassandra Etienne" [level=2] [ref=e91]:
+            - generic [ref=e92]: Cassandra Etienne
+          - paragraph [ref=e94]: Associate director of programming and membership
+        - generic [ref=e96]:
+          - paragraph [ref=e97]: Cassandra Etienne is the associate director of programming and membership at the Center for Cooperative Media at Montclair State University. She has a master’s degree from Columbia University’s Graduate School of Journalism and has worked as a documentary producer and freelance reporter in New Jersey and her native New York City.
+          - paragraph [ref=e98]:
+            - text: She has contributed to local news publications including
+            - emphasis [ref=e99]: The New York Beacon
+            - text: ","
+            - emphasis [ref=e100]: Norwood News
+            - text: ", and the"
+            - emphasis [ref=e101]: Metuchen Mirror
+            - text: ", and to television outlets such as PBS and"
+            - emphasis [ref=e102]: Democracy NOW!
+            - text: Her reporting and documentary projects reflect an interest in cultural reporting and social issues such as civil rights, environmental justice and healthcare and education reforms.
+          - paragraph [ref=e103]:
+            - text: Cassandra can be reached at
+            - link "etiennec@montclair.edu" [ref=e104] [cursor=pointer]:
+              - /url: mailto:etiennec@montclair.edu
+            - text: or on Twitter at
+            - link "@CEtienne_CIEL" [ref=e105] [cursor=pointer]:
+              - /url: https://twitter.com/CEtienne_CIEL
+            - text: .
+          - paragraph [ref=e106]:
+            - link "📅 Schedule a meeting with Cassandra." [ref=e107] [cursor=pointer]:
+              - /url: https://calendly.com/cooperativemedia/cassandra
+              - img "📅" [ref=e108]
+              - text: Schedule a meeting with Cassandra.
+    - generic [ref=e109]:
+      - link "joe-headshot-june-2023" [ref=e116] [cursor=pointer]:
+        - /url: https://twitter.com/jsamditis
+        - img "joe-headshot-june-2023" [ref=e117]
+      - generic [ref=e120]:
+        - banner [ref=e122]:
+          - heading "Joe Amditis" [level=2] [ref=e123]:
+            - generic [ref=e124]: Joe Amditis
+          - paragraph [ref=e126]: Associate director of operations
+        - generic [ref=e128]:
+          - paragraph [ref=e129]:
+            - text: Joe Amditis is the associate director of operations at the Center for Cooperative Media at Montclair State University and an adjunct professor in the College of Communication and Media. He is the former producer and host of the
+            - link "WTF Just Happened Today podcast" [ref=e130] [cursor=pointer]:
+              - /url: https://whatthefuckjusthappenedtoday.com/podcasts/
+            - text: .
+          - paragraph [ref=e131]: Joe is a veteran of the NJ Army National Guard. He was deployed to Iraq in 2008 and his unit was activated to help with Hurricane Irene relief efforts in 2011. He earned a B.A. in political science and criminal justice from Rutgers in 2013 and an M.A. in engaged journalism from the Newmark Graduate School of Journalism at CUNY in 2016. He was co-founder and director of operations of Muckgers, an award-winning, student-focused investigative news outlet, until 2014.
+          - paragraph [ref=e132]:
+            - text: Joe has also coordinated several collaborative reporting projects, including
+            - link "Democracy Day" [ref=e133] [cursor=pointer]:
+              - /url: http://usdemocracyday.org
+            - text: ", a nationwide reporting collaborative involving 300+ newsrooms across the United States. He is the author of"
+            - link "several guides and educational resources" [ref=e134] [cursor=pointer]:
+              - /url: https://centerforcooperativemedia.org/resources/
+            - text: for small and local newsrooms, including guides on generative AI.
+          - paragraph [ref=e135]:
+            - text: Joe can be reached at
+            - link "amditisj@" [ref=e136] [cursor=pointer]:
+              - /url: mailto:amditisj@montclair.edu
+            - link "montclair.edu" [ref=e137] [cursor=pointer]:
+              - /url: mailto:amditisj@montclair.edu
+            - text: and on Twitter at
+            - link "@jsamditis" [ref=e138] [cursor=pointer]:
+              - /url: https://twitter.com/jsamditis
+            - text: .
+          - paragraph [ref=e139]:
+            - link "📅 Schedule a meeting with Joe." [ref=e140] [cursor=pointer]:
+              - /url: https://calendar.app.google/gyPP8X5QgAMecjd98
+              - img "📅" [ref=e141]
+              - text: Schedule a meeting with Joe.
+    - generic [ref=e142]:
+      - generic [ref=e147]:
+        - generic:
+          - link "DeniseShannon01":
+            - /url: https://www.linkedin.com/in/denise-shannon-b19389172/
+            - img "DeniseShannon01"
+      - generic [ref=e150]:
+        - banner [ref=e152]:
+          - heading "Denise Shannon" [level=2] [ref=e153]:
+            - generic [ref=e154]: Denise Shannon
+          - paragraph [ref=e156]: Department administrator
+        - generic [ref=e158]:
+          - paragraph [ref=e159]: Denise Shannon is the administrative coordinator for the Center for Cooperative Media where she provides organizational and administrative oversight of the Center’s programs.
+          - paragraph [ref=e160]:
+            - text: She also manages the event planning details of the annual
+            - link "Collaborative Journalism Summit" [ref=e161] [cursor=pointer]:
+              - /url: https://collaborativejournalism.org/summit
+            - text: . She holds a bachelor’s degree in marketing and management from La Salle University.
+          - paragraph [ref=e162]:
+            - text: Denise can be reached at
+            - link "shannond@montclair.edu" [ref=e163] [cursor=pointer]:
+              - /url: mailto:shannond@montclair.edu
+            - text: or on
+            - link "LinkedIn" [ref=e164] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/denise-shannon-b19389172/
+            - text: .
+          - paragraph [ref=e165]:
+            - link "📅 Schedule a meeting with Denise." [ref=e166] [cursor=pointer]:
+              - /url: https://calendly.com/cooperativemedia/denise
+              - img "📅" [ref=e167]
+              - text: Schedule a meeting with Denise.
+    - generic [ref=e168]:
+      - generic [ref=e173]:
+        - generic:
+          - link "WillAD_CJS_Headshots_AnthonyAdvincula02 (1)":
+            - /url: https://muckrack.com/anthony-advincula
+            - img "WillAD_CJS_Headshots_AnthonyAdvincula02 (1)"
+      - generic [ref=e176]:
+        - banner [ref=e178]:
+          - heading "Oni Advincula" [level=2] [ref=e179]:
+            - generic [ref=e180]: Oni Advincula
+          - paragraph [ref=e182]: Ethnic and community media coordinator
+        - generic [ref=e188]:
+          - paragraph [ref=e189]:
+            - text: Anthony “Oni” Advincula is a New York City-based journalist and communications consultant. Formerly the national media director, writer and editor for New America Media, he managed and organized ethnic media projects in 45 states. He was a correspondent for
+            - link "The Jersey Journal" [ref=e190] [cursor=pointer]:
+              - /url: https://www.nj.com/jjournal/
+            - text: and the communications director and managing editor of the
+            - link "Independent Press Association-New York" [ref=e191] [cursor=pointer]:
+              - /url: https://indypendent.org/2007/01/the-new-york-independent-press-association-survives/
+            - text: ", where he co-edited"
+            - link "Voices That Must Be Heard" [ref=e192] [cursor=pointer]:
+              - /url: https://voicesofny.org/
+            - text: (now known as CUNY’s Voices of NY).
+          - paragraph [ref=e193]: His awards include a New York Times Foreign Press Fellowship and a National Health Journalism Fellowship. Anthony studied advanced narrative nonfiction at Harvard University and received dual master’s degrees in public administration and journalism from Columbia University where he was awarded a Charles H. Revson Fellowship.
+          - paragraph [ref=e194]:
+            - text: Oni can be reached at
+            - link "advinculaa@montclair.edu" [ref=e195] [cursor=pointer]:
+              - /url: mailto:advinculaa@montclair.edu
+            - text: .
+    - generic [ref=e196]:
+      - generic [ref=e201]:
+        - generic:
+          - link "Hanna headshot 18MAR2024-10":
+            - /url: https://www.linkedin.com/in/hanna-siemaszko-898a16aa/
+            - img "Hanna headshot 18MAR2024-10"
+      - generic [ref=e204]:
+        - banner [ref=e206]:
+          - heading "Hanna Siemaszko" [level=2] [ref=e207]:
+            - generic [ref=e208]: Hanna Siemaszko
+          - paragraph [ref=e210]: Research coordinator
+        - generic [ref=e216]:
+          - paragraph [ref=e217]: Hanna Siemaszko is a former research assistant for CCM who previously took part in the Center’s cross-field collaboration research. Hanna has a bachelor’s degree in communication from the University of Massachusetts Amherst. She also has a master’s degree in Communication and Media Studies from The London School of Economics and Political Science, where her dissertation, an analysis of the discourse surrounding analytics and impact in the trade press, received a mark of distinction and was published in LSE’s dissertation series.
+          - paragraph [ref=e218]: She started her career with Solutions Journalism Network, where she helped rebuild the organization’s impact tracker.
+          - paragraph [ref=e219]:
+            - text: Hanna can be reached via email at
+            - link "siemaszkoh@montclair.edu" [ref=e220] [cursor=pointer]:
+              - /url: mailto:siemaszkoh@montclair.edu
+            - text: .
+    - generic [ref=e221]:
+      - generic [ref=e226]:
+        - generic:
+          - link "Yuli Delgado headshot":
+            - /url: https://www.linkedin.com/in/yuli-delgado/
+            - img "Yuli Delgado headshot"
+      - generic [ref=e229]:
+        - banner [ref=e231]:
+          - heading "Yuli Delgado" [level=2] [ref=e232]:
+            - generic [ref=e233]: Yuli Delgado
+          - paragraph [ref=e235]: Spanish translation coordinator
+        - generic [ref=e241]:
+          - paragraph [ref=e242]: Yuliana Delgado is the assistant coordinator for the Spanish Translation News Service. Yuli has more than 20 years of experience in the media industry, both in print and digital. She received her BA in English and Anthropology from Barnard College, part of Columbia University, and then began her career at Latina Magazine in New York City. Moving into digital, Yuli was one of the founding editors of the country’s only website dedicated to the bilingual, bicultural mom, MamásLatinas. Since then, she’s thrived in the fast-paced world of digital media.
+          - paragraph [ref=e243]: Yuli has also worked on other independent projects, translating, proofreading, and editing Spanish language content for organizations like Cancer and Careers, Viacom, and the Pan American Health Organization.
+          - paragraph [ref=e244]:
+            - text: Yuli can be reached via email at
+            - link "delgadoy@montclair.edu" [ref=e245] [cursor=pointer]:
+              - /url: mailto:delgadoy@montclair.edu
+            - text: .
+    - generic [ref=e246]:
+      - generic [ref=e251]:
+        - generic:
+          - link "A headshot of Reet Starwind.":
+            - /url: https://www.instagram.com/mrstarwind/
+            - img "A headshot of Reet Starwind."
+      - generic [ref=e254]:
+        - banner [ref=e256]:
+          - heading "Reet Starwind" [level=2] [ref=e257]:
+            - generic [ref=e258]: Reet Starwind
+          - paragraph [ref=e260]: Stories Invincible project coordinator
+        - generic [ref=e266]:
+          - paragraph [ref=e267]: Reet Starwind is an artist, educator & organizer in the Camden area working with the Center to elevate restorative narratives about Camden’s residents and history.
+          - paragraph [ref=e268]:
+            - text: Reet graduated from Rutgers University-Camden in the specialized field of digital media and society, and his career focuses on the ever-present connection between the two. As Creative Director of the Camden non-profit,
+            - link "Watu Moja" [ref=e269] [cursor=pointer]:
+              - /url: https://www.watumoja.com/
+            - text: ", he’s teamed with others to curate showcases of local Black art and organize artistic demonstrations of civil unrest, such as the"
+            - link "Camden Arts For Change Justice March" [ref=e270] [cursor=pointer]:
+              - /url: https://www.gofundme.com/f/camden-arts-for-change-justice-march
+            - text: . He has served as a featured speaker at events for the City of Camden, University of Pennsylvania, the All Things Are Possible Foundation, and Camden’s Arts and Culture Heritage Society.
+          - paragraph [ref=e271]:
+            - text: Reet can be contacted via email at
+            - link "reetstarwind@gmail.com" [ref=e272] [cursor=pointer]:
+              - /url: mailto:reetstarwind@gmail.com
+            - text: or on Instagram at
+            - link "@mrstarwind" [ref=e273] [cursor=pointer]:
+              - /url: https://www.instagram.com/
+            - text: .
+    - generic [ref=e274]:
+      - generic [ref=e279]:
+        - generic:
+          - link "Ming-Jing Qin Headshot":
+            - /url: https://www.linkedin.com/in/mingjingqin183/
+            - img "Ming-Jing Qin Headshot"
+      - generic [ref=e282]:
+        - banner [ref=e284]:
+          - heading "Ming-Jing Qin" [level=2] [ref=e285]:
+            - generic [ref=e286]: Ming-Jing Qin
+          - paragraph [ref=e288]: Social media assistant
+        - generic [ref=e294]:
+          - paragraph [ref=e295]: Ming-Jing Qin is a social media assistant for the Center for Cooperative Media. She is earning her B.A. in Advertising and Visual Arts from the College of Communication and Media at Montclair State University.
+          - paragraph [ref=e296]: Qin works for the university’s student-run newspaper, The Montclarion, as a digital content assistant. She is also the president of the Montclair Ad Club, a student organization that facilitates advertising career development and brand campaigns.
+          - paragraph [ref=e297]:
+            - text: Ming-Jing can be reached on LinkedIn or via email at
+            - link "qinm1@montclair.edu" [ref=e298] [cursor=pointer]:
+              - /url: mailto:qinm1@montclair.edu
+            - text: .
+    - generic [ref=e299]:
+      - generic [ref=e304]:
+        - generic:
+          - link "A headshot of Amanda Alicea.":
+            - /url: https://www.linkedin.com/in/amanda-alicea-2a4324187
+            - img "A headshot of Amanda Alicea."
+      - generic [ref=e307]:
+        - banner [ref=e309]:
+          - heading "Amanda Alicea" [level=2] [ref=e310]:
+            - generic [ref=e311]: Amanda Alicea
+          - paragraph [ref=e313]: Membership coordinator
+        - generic [ref=e315]:
+          - paragraph [ref=e316]:
+            - text: Amanda Alicea is a freelancing feature reporter and writer who serves as the data entry and membership coordinator at the Center. As a New Jersey native, Alicea enjoys covering places, people, and events in her community. She is a feature reporter for the university’s student-run newspaper,
+            - link "The Montclarion" [ref=e317] [cursor=pointer]:
+              - /url: https://themontclarion.org/
+            - text: and has worked closely with the radio station as a newscaster on
+            - link "90.3 FM WMSC" [ref=e318] [cursor=pointer]:
+              - /url: https://wmscradio.com/
+            - text: .
+          - paragraph [ref=e319]:
+            - text: Amanda received her B.A. in journalism in 2022 from the School of Communication and Media at Montclair State University. She currently works as a news producer for
+            - link "KUSA" [ref=e320] [cursor=pointer]:
+              - /url: https://www.9news.com/
+            - text: in Colorado.
+          - paragraph [ref=e321]:
+            - text: Amanda can be reached
+            - link "on LinkedIn" [ref=e322] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/amanda-alicea-2a4324187
+            - text: or via email at
+            - link "aliceaa@montclair.edu" [ref=e323] [cursor=pointer]:
+              - /url: mailto:aliceaa@montclair.edu
+            - gridcell "." [ref=e325]
+    - generic [ref=e326]:
+      - generic [ref=e331]:
+        - generic:
+          - link "Mariela-headshot":
+            - /url: https://twitter.com/mellamomariela
+            - img "Mariela-headshot"
+      - generic [ref=e334]:
+        - banner [ref=e336]:
+          - heading "Mariela Santos-Muñiz" [level=2] [ref=e337]:
+            - generic [ref=e338]: Mariela Santos-Muñiz
+          - paragraph [ref=e340]: Collaborative journalism newsletter writer
+        - generic [ref=e346]:
+          - paragraph [ref=e347]: Mariela Santos-Muñiz is a freelance journalist and writer. She works for the Center updating the collaborative journalism database, and curating the collaborative journalism newsletter. Her reporting is mostly on Latinx issues and has appeared in Nylon, The Daily Dot, Bustle, The Open Notebook, Ensia, and more.
+          - paragraph [ref=e348]: Mariela holds an M.A. in International Relations and International Communications from Boston University, and a B.A. in Humanities from the Universidad del Turabo (now Universidad Ana G. Mendez, Gurabo).
+          - paragraph [ref=e349]:
+            - text: She currently lives in Puerto Rico. Mariela can be reached at
+            - link "mariela.santos123@yahoo.com" [ref=e350] [cursor=pointer]:
+              - /url: mailto:mariela.santos123@yahoo.com
+            - text: ", or on BlueSky at"
+            - link "@mellamomariela.bsky.social" [ref=e351] [cursor=pointer]:
+              - /url: https://bsky.app/profile/mellamomariela.bsky.social
+            - text: .
+    - generic [ref=e352]:
+      - generic [ref=e357]:
+        - generic:
+          - link "noelle-team-page":
+            - /url: https://noelle-swan.com/
+            - img "noelle-team-page"
+      - generic [ref=e360]:
+        - banner [ref=e362]:
+          - heading "Noelle Swan" [level=2] [ref=e363]:
+            - generic [ref=e364]: Noelle Swan
+          - paragraph [ref=e366]: Civic science collaboration manager
+        - generic [ref=e368]:
+          - paragraph [ref=e369]: Noelle Swan is a veteran journalist with a background in science reporting, special project management, and collaborative facilitation. Most recently, she spent 12 years at The Christian Science Monitor, where she helmed the science, environment, and technology desk before becoming Editor of the Weekly magazine.
+          - paragraph [ref=e370]: She is thrilled to be returning to her science and local journalism roots at a time when breaking down silos and restoring community trust in both science and media feels more vital than ever.
+          - paragraph [ref=e371]:
+            - text: Noelle can be reached via email at
+            - link "swann@montclair.edu" [ref=e372] [cursor=pointer]:
+              - /url: mailto:swann@montclair.edu
+            - text: .
+    - generic [ref=e373]:
+      - generic [ref=e378]:
+        - generic:
+          - link "WILLFINAL (1)":
+            - /url: https://www.linkedin.com/in/will-fischer/
+            - img "WILLFINAL (1)"
+      - generic [ref=e381]:
+        - banner [ref=e383]:
+          - heading "Will Fischer" [level=2] [ref=e384]:
+            - generic [ref=e385]: Will Fischer
+          - paragraph [ref=e387]: Project coordinator, U.S. Democracy Day
+        - generic [ref=e389]:
+          - paragraph [ref=e390]:
+            - text: Will Fischer is the project coordinator for
+            - link "U.S. Democracy Day" [ref=e391] [cursor=pointer]:
+              - /url: https://collaborativejournalism.org/democracyday/about/
+            - text: at the Center for Cooperative Media at Montclair State University. Democracy Day, taking place annually on September 15, is a nationwide reporting collaborative involving 300+ newsrooms across the United States that promotes and centers pro-democracy journalism.
+          - paragraph [ref=e392]:
+            - text: Will previously worked for Business Insider as a Senior Editor and Strategist on the Service Journalism team. He’s also been a Fact-Checker at New York Magazine. Will graduated from the Medill School of Journalism at Northwestern University, where he conducted research on local news ecosystems and helped City Bureau launch their
+            - link "Documenters" [ref=e393] [cursor=pointer]:
+              - /url: https://www.citybureau.org/documenters
+            - text: program by attending town halls and doing interviews with community stakeholders.
+          - paragraph [ref=e394]:
+            - text: Will currently lives in New York with his wife and two cats and can be reached at
+            - link "will@usdemocracyday.org" [ref=e395] [cursor=pointer]:
+              - /url: mailto:will@usdemocracyday.org
+            - text: .
+    - generic [ref=e396]:
+      - generic [ref=e401]:
+        - generic:
+          - link "Amy Maestas headshot 2024":
+            - /url: https://collaborativejournalism.org/hub/team/amy
+            - img "Amy Maestas headshot 2024"
+      - generic [ref=e404]:
+        - banner [ref=e406]:
+          - heading "Amy Maestas" [level=2] [ref=e407]:
+            - generic [ref=e408]: Amy Maestas
+          - paragraph [ref=e410]: Director, Collaborative Journalism Resource Hub
+        - generic [ref=e412]:
+          - paragraph [ref=e413]: Amy Maestas is the director of the Collaborative Journalism Resource Hub. She has worked in journalism for more than 35 years as an editor, reporter, designer, and media executive. She was executive editor of The Durango Herald and other small newspapers and magazines in Southwest Colorado for a family-owned company, where she worked for 24 years. She was the digital director at The Salt Lake Tribune. For five years, she worked at Solutions Journalism Network, directing the Local Media Project. The project, funded by the Knight Foundation, seeded and supported 15 solutions-focused journalism collaboratives across the U.S. In 2012 was a fellow with the Maynard Media Academy at the Nieman Foundation. She also was a Knight-Wallace Fellow at the University of Michigan, Class of 2017. Amy is passionate about supporting local media ecosystems through collaborative journalism, especially for endeavors that focus on solutions, community-centered partnerships, and sustainability.
+          - paragraph [ref=e414]:
+            - text: Amy can be reached via email at
+            - link "maestasa@montclair.edu" [ref=e415] [cursor=pointer]:
+              - /url: mailto:maestasa@montclair.edu
+            - text: .
+    - generic [ref=e416]:
+      - generic [ref=e421]:
+        - generic:
+          - link "Delaney Butler headshot":
+            - /url: https://collaborativejournalism.org/hub/team/delaney
+            - img "Delaney Butler headshot"
+      - generic [ref=e424]:
+        - banner [ref=e426]:
+          - heading "Delaney Butler" [level=2] [ref=e427]:
+            - generic [ref=e428]: Delaney Butler
+          - paragraph [ref=e430]: Assistant director, Collaborative Journalism Resource Hub
+        - generic [ref=e432]:
+          - paragraph [ref=e433]: Delaney Butler (she/her) is the assistant director of the Center’s Collaborative Journalism Resource Hub. She oversees new collaborative projects, connects with and coaches journalists and organizations interested in collaboration, and maintains a specialization in operations and governance. Prior to joining the Center, she was the program operations manager at Solutions Journalism Network, where she connected and coordinated operational processes for SJN’s programmatic work. She joined SJN in 2018 as an operations associate before joining the dedicated team of the Knight-supported Local Media Project. She led the operational start-up and scaffolding process for the initiative before overseeing collaborative projects and facilitating the initiative’s cohort of project managers. Before SJN, Delaney worked at Prudential Financial’s Office of Corporate Social Responsibility, where she held coordination and support roles in the Spirit of Community Awards program (now the Prudential Emerging Visionaries program) and the Prudential Foundation. She has a bachelor’s degree in English and American Literature from New York University’s College of Arts and Sciences. Born and raised in Morris County, she now lives in Manhattan.
+          - paragraph [ref=e434]:
+            - text: Delaney can be reached via email at
+            - link "butlerd@montclair.edu" [ref=e435] [cursor=pointer]:
+              - /url: mailto:butlerd@montclair.edu
+            - text: .
+    - generic [ref=e436]:
+      - generic [ref=e441]:
+        - generic:
+          - link "liza gross":
+            - /url: https://collaborativejournalism.org/hub/team/liza
+            - img "liza gross"
+      - generic [ref=e444]:
+        - banner [ref=e446]:
+          - heading "Liza Gross" [level=2] [ref=e447]:
+            - generic [ref=e448]: Liza Gross
+          - paragraph [ref=e450]: Senior advisor, Collaborative Journalism Resource Hub
+        - generic [ref=e452]:
+          - paragraph [ref=e453]: Liza Gross is a journalist and media leader with over three decades of experience working in executive positions at news organizations and nonprofits. She has specialized in the transition of traditional news outlets to multimedia platforms, as well as in the exploration of new and transformational models for media organizations, including collaborative arrangements and innovative techniques of audience engagement. She was Managing Editor of The Miami Herald, Executive Editor of El Nuevo Día in Puerto Rico, and Publisher of Exito!, the Spanish language publication of the Chicago Tribune. As Executive Director and past board member of the International Women’s Media Foundation, she worked to support female journalists operating in conflict zones and to create professional opportunities for women in the media industry. She is a past board member of the National Association of Hispanic Journalists and has conducted seminars and training for journalists in the United States, Latin America ,and Europe.
+          - paragraph [ref=e454]:
+            - text: Liza can be reached via email at
+            - link "grossma@montclair.edu" [ref=e455] [cursor=pointer]:
+              - /url: mailto:grossma@montclair.edu
+            - text: .
+    - generic [ref=e456]:
+      - generic [ref=e461]:
+        - generic:
+          - link "Caroline Porter bw":
+            - /url: https://carolineporter.org/
+            - img "Caroline Porter bw"
+      - generic [ref=e464]:
+        - banner [ref=e466]:
+          - heading "Caroline Porter" [level=2] [ref=e467]:
+            - generic [ref=e468]: Caroline Porter
+          - paragraph [ref=e470]: Impact tracking specialist, Collaborative Journalism Resource Hub
+        - generic [ref=e472]:
+          - paragraph [ref=e473]: "After working as a journalist and editor in the U.S. and abroad, Caroline Porter has dedicated the past decade to modernizing business, product and civic models for news and information: growing two start-ups, producing research for the field, and consulting for a mix of media companies, nonprofits and academic organizations. In addition to teaching and presenting regularly, she partners, consults and publishes with industry stakeholders to innovate in journalism’s business and civic models. In her recent role at the National Trust for Local News, she served as the director of impact and strategic partnerships. Caroline worked as a staff reporter for The Wall Street Journal in the Chicago and Los Angeles bureaus and taught Reporting & Writing at Northwestern University’s Medill School. As a Fulbright Scholar in Northern Ireland, Caroline researched the role of media in the post-conflict region. Caroline currently serves as Principal for her consultancy, Ralstin Agency, and as director of product and strategic partnerships for Open Campus."
+          - paragraph [ref=e474]:
+            - text: Caroline can be reached via email at
+            - link "porterc@montclair.edu" [ref=e475] [cursor=pointer]:
+              - /url: mailto:porterc@montclair.edu
+            - text: .
+    - generic [ref=e476]:
+      - generic [ref=e481]:
+        - generic:
+          - link "Colleen Sullivan":
+            - /url: https://www.linkedin.com/in/colleen-s-a75473263/
+            - img "Colleen Sullivan"
+      - generic [ref=e484]:
+        - banner [ref=e486]:
+          - heading "Colleen Sullivan" [level=2] [ref=e487]:
+            - generic [ref=e488]: Colleen Sullivan
+          - paragraph [ref=e490]: Research assistant
+        - generic [ref=e492]:
+          - paragraph [ref=e493]: Colleen Sullivan is a research assistant at the Center for Cooperative Media. In 2025, Sullivan received her B.A. in Communication and Media Studies from the School of Communication and Media at Montclair State University.
+          - paragraph [ref=e494]:
+            - text: Sullivan previously worked for the school’s student-run newspaper,
+            - link "The Montclarion" [ref=e495] [cursor=pointer]:
+              - /url: https://themontclarion.org/
+            - text: ", as the Chief Copy Editor, where she aided in overseeing the editorial process for their print magazine, online editions, and social media content."
+          - paragraph [ref=e496]:
+            - text: Colleen can be reached on
+            - link "LinkedIn" [ref=e497] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/colleen-s-a75473263/
+            - text: or via email at
+            - link "sullivanc5@montclair.edu" [ref=e498] [cursor=pointer]:
+              - /url: mailto:sullivanc5@montclair.edu
+            - text: .
+    - generic [ref=e499]:
+      - generic [ref=e504]:
+        - generic:
+          - link "manya large":
+            - /url: https://www.linkedin.com/in/manyabrachearpashman/
+            - img "manya large"
+      - generic [ref=e507]:
+        - banner [ref=e509]:
+          - heading "Manya Brachear Pashman" [level=2] [ref=e510]:
+            - generic [ref=e511]: Manya Brachear Pashman
+          - paragraph [ref=e513]: Election project coordinator
+        - generic [ref=e515]:
+          - paragraph [ref=e516]: Manya Brachear Pashman is a journalist and educator who pioneered the religion and journalism dual master’s program at Columbia University. She has over 15 years of experience reporting and editing stories with local, national, and international significance, and more than a decade of training young and aspiring journalists. Manya is fluent in most audio/video editing applications and all social media platforms.
+          - paragraph [ref=e517]: As a leader, Manya implemented an ambitious nonprofit strategic plan for the Religion News Foundation and led efforts to diversify and professionalize its board. She has negotiated exclusive access and mined data for Page One stories and has discussed religion headlines in dozens of television and radio segments. Currently, Manya writes about antisemitism around the globe, co-hosts a weekly podcast on global affairs through a Jewish lens, and teaches aspiring reporters how to cover religion responsibly.
+          - paragraph [ref=e518]:
+            - text: Manya can be reached
+            - link "on LinkedIn" [ref=e519] [cursor=pointer]:
+              - /url: https://www.linkedin.com/in/manyabrachearpashman/
+            - text: or via email at
+            - link "brachearpasm@mail.montclair.edu" [ref=e520] [cursor=pointer]:
+              - /url: mailto:brachearpasm@mail.montclair.edu
+            - text: .
+    - generic [ref=e521]:
+      - generic [ref=e526]:
+        - generic:
+          - link "jeff-jarvis":
+            - /url: https://buzzmachine.com/about/
+            - img "jeff-jarvis"
+      - generic [ref=e529]:
+        - banner [ref=e531]:
+          - heading "Jeff Jarvis" [level=2] [ref=e532]:
+            - generic [ref=e533]: Jeff Jarvis
+          - paragraph [ref=e535]: Distinguished Senior Fellow
+        - generic [ref=e537]:
+          - paragraph [ref=e538]:
+            - text: Jeff Jarvis is the distinguished senior fellow at the Center. He is the author of
+            - emphasis [ref=e539]: "Geeks Bearing Gifts: Imagining New Futures for News"
+            - text: (CUNY Journalism Press, 2014),
+            - emphasis [ref=e540]: "Public Parts: How Sharing in the Digital Age Improves the Way We Work and Live"
+            - text: (Simon & Schuster, 2011),
+            - emphasis [ref=e541]: What Would Google Do?
+            - text: (HarperCollins 2009), and the Kindle Single
+            - emphasis [ref=e542]: Gutenberg the Geek
+            - text: .
+          - paragraph [ref=e543]: He blogs about media and news at Buzzmachine.com and cohosts the podcast This Week in Google. Until 2005, he was president and creative director of Advance.net, the online arm of Advance Publications.
+          - paragraph [ref=e544]: Prior to that, Jarvis was creator and founding editor of Entertainment Weekly; Sunday editor and associate publisher of the New York Daily News; TV critic for TV Guide and People; a columnist on the San Francisco Examiner; and assistant city editor and reporter for the Chicago Tribune.
+  - contentinfo [ref=e545]:
+    - generic [ref=e547]:
+      - list [ref=e549]:
+        - listitem [ref=e550]:
+          - generic [ref=e551]:
+            - list [ref=e552]:
+              - listitem [ref=e553]:
+                - img "map marker" [ref=e554]
+                - 'link "Address: 1 Normal Avenue, Montclair, New Jersey 0 7 0 4 3" [ref=e555] [cursor=pointer]':
+                  - /url: http://www.montclair.edu/about-montclair/directions/
+                  - text: 1 Normal Ave. Montclair, NJ 07043
+              - listitem [ref=e556]:
+                - img "phone marker" [ref=e557]
+                - 'link "Phone number: 9 7 3 6 5 5 4000" [ref=e558] [cursor=pointer]':
+                  - /url: tel:9736554000
+                  - text: 973-655-4000
+              - listitem [ref=e559]:
+                - img "campus marker" [ref=e560]
+                - link "Campus Map" [ref=e561] [cursor=pointer]:
+                  - /url: http://www.montclair.edu/campus-map/
+            - list:
+              - listitem:
+                - link "twitter marker":
+                  - /url: https://twitter.com/montclairstateu
+                  - img "twitter marker" [ref=e562] [cursor=pointer]
+              - listitem:
+                - link "facebook marker":
+                  - /url: https://www.facebook.com/MontclairStateUniversity
+                  - img "facebook marker" [ref=e563] [cursor=pointer]
+              - listitem:
+                - link "youtube marker":
+                  - /url: https://www.youtube.com/montclairstate
+                  - img "youtube marker" [ref=e564] [cursor=pointer]
+      - list [ref=e566]:
+        - listitem [ref=e567]:
+          - generic [ref=e568]: School of Comm. and Media
+          - list [ref=e570]:
+            - listitem [ref=e571]:
+              - link "About Us" [ref=e572] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/about-us/
+            - listitem [ref=e573]:
+              - link "Degrees and Programs" [ref=e574] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/academic-programs/
+            - listitem [ref=e575]:
+              - link "Admission" [ref=e576] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/admission/
+            - listitem [ref=e577]:
+              - link "Center for Cooperative Media" [ref=e578] [cursor=pointer]:
+                - /url: https://centerforcooperativemedia.org/
+            - listitem [ref=e579]:
+              - link "Events" [ref=e580] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/events/
+            - listitem [ref=e581]:
+              - link "Facilities" [ref=e582] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/facilities/
+            - listitem [ref=e583]:
+              - link "Professional Development & Guides" [ref=e584] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/professional-development-and-guides/
+            - listitem [ref=e585]:
+              - link "Public Speaking Resource Center" [ref=e586] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/public-speaking-resource-center/
+            - listitem [ref=e587]:
+              - link "Alumni" [ref=e588] [cursor=pointer]:
+                - /url: https://www.montclair.edu/arts/alumni/
+      - list [ref=e590]:
+        - listitem [ref=e591]:
+          - generic [ref=e592]: Montclair State U.
+          - list [ref=e594]:
+            - listitem [ref=e595]:
+              - link "About Montclair" [ref=e596] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/
+            - listitem [ref=e597]:
+              - link "Academics" [ref=e598] [cursor=pointer]:
+                - /url: https://www.montclair.edu/academics/
+            - listitem [ref=e599]:
+              - link "Admissions" [ref=e600] [cursor=pointer]:
+                - /url: https://www.montclair.edu/university-admissions/
+            - listitem [ref=e601]:
+              - link "Athletics" [ref=e602] [cursor=pointer]:
+                - /url: https://montclairathletics.com/
+            - listitem [ref=e603]:
+              - link "Campus Life" [ref=e604] [cursor=pointer]:
+                - /url: https://www.montclair.edu/campus-life/
+            - listitem [ref=e605]:
+              - link "Giving" [ref=e606] [cursor=pointer]:
+                - /url: https://www.montclair.edu/giving/
+      - list [ref=e608]:
+        - listitem [ref=e609]:
+          - generic [ref=e610]: MSU Policies
+          - list [ref=e612]:
+            - listitem [ref=e613]:
+              - link "Copyright" [ref=e614] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/copyright-and-disclaimer/
+            - listitem [ref=e615]:
+              - link "Disclaimer" [ref=e616] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/copyright-and-disclaimer/
+            - listitem [ref=e617]:
+              - link "Title IX Information" [ref=e618] [cursor=pointer]:
+                - /url: https://www.montclair.edu/sexual-harassment/sexual-harassment-complaint-procedures-students/
+            - listitem [ref=e619]:
+              - link "Emergency / Plans" [ref=e620] [cursor=pointer]:
+                - /url: https://www.montclair.edu/emergency/
+            - listitem [ref=e621]:
+              - link "Notice of Non-Discrimination" [ref=e622] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/notice-of-non-discrimination/
+            - listitem [ref=e623]:
+              - link "Annual Security Report" [ref=e624] [cursor=pointer]:
+                - /url: https://www.montclair.edu/university-police/annual-security-report/
+            - listitem [ref=e625]:
+              - link "Middle States Accreditation" [ref=e626] [cursor=pointer]:
+                - /url: https://www.montclair.edu/middle-states/
+            - listitem [ref=e627]:
+              - link "Website Privacy Notice" [ref=e628] [cursor=pointer]:
+                - /url: https://www.montclair.edu/privacy-notice/

@@ -1,0 +1,217 @@
+- generic [ref=e2]:
+  - generic:
+    - generic:
+      - heading "To view keyboard shortcuts, press question mark View keyboard shortcuts" [level=2] [ref=e7]:
+        - generic [ref=e8]: To view keyboard shortcuts, press question mark
+        - link "View keyboard shortcuts" [ref=e9] [cursor=pointer]:
+          - /url: /i/keyboard_shortcuts
+      - generic [ref=e10]:
+        - button "Skip to home timeline" [ref=e11] [cursor=pointer]
+        - button "Skip to trending" [ref=e13] [cursor=pointer]
+        - banner [ref=e15]:
+          - generic [ref=e17]:
+            - generic [ref=e18]:
+              - heading "X" [level=1] [ref=e20] [cursor=pointer]:
+                - link "X" [ref=e21]:
+                  - /url: /home
+                  - img [ref=e23]
+              - navigation "Primary" [ref=e27]:
+                - link "Home" [ref=e28] [cursor=pointer]:
+                  - /url: /home
+                  - img [ref=e31]
+                - link "Search and explore" [ref=e34] [cursor=pointer]:
+                  - /url: /explore
+                  - img [ref=e37]
+                - link "Notifications" [ref=e40] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e43]
+                - link "Direct Messages" [ref=e46] [cursor=pointer]:
+                  - /url: /i/chat
+                  - img [ref=e49]
+                - link "Grok" [ref=e52] [cursor=pointer]:
+                  - /url: /i/grok
+                  - img [ref=e55]
+                - link "Bookmarks" [ref=e58] [cursor=pointer]:
+                  - /url: /i/bookmarks
+                  - img [ref=e61]
+                - link "Creator Studio" [ref=e64] [cursor=pointer]:
+                  - /url: /i/jf/creators/studio
+                  - img [ref=e67]
+                - link "Premium" [ref=e70] [cursor=pointer]:
+                  - /url: /i/premium_sign_up
+                  - img [ref=e73]
+                - link "Profile" [ref=e76] [cursor=pointer]:
+                  - /url: /jsamditis
+                  - img [ref=e79]
+                - button "More menu items" [ref=e82] [cursor=pointer]:
+                  - img [ref=e85]
+              - link "Post" [ref=e89] [cursor=pointer]:
+                - /url: /compose/post
+                - img [ref=e91]
+            - button "Account menu" [ref=e96] [cursor=pointer]:
+              - generic [ref=e104]:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic "Joe Amditis":
+                        - img "Joe Amditis"
+        - main [ref=e107]:
+          - generic "Home timeline" [ref=e112]:
+            - generic [ref=e113]:
+              - generic [ref=e114]:
+                - generic [ref=e119]:
+                  - button "Back" [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]
+                  - search "Search" [ref=e131]:
+                    - generic [ref=e136]:
+                      - img [ref=e138]
+                      - combobox "Search query" [ref=e143]: center for cooperative media
+                  - button "More" [ref=e145] [cursor=pointer]:
+                    - img [ref=e147]
+                - navigation [ref=e151]:
+                  - generic [ref=e152]:
+                    - generic:
+                      - button "Previous" [disabled]:
+                        - generic:
+                          - img
+                    - tablist [ref=e154]:
+                      - tab "Top" [ref=e155] [cursor=pointer]:
+                        - generic [ref=e158]: Top
+                      - tab "Latest" [ref=e159] [cursor=pointer]:
+                        - generic [ref=e162]: Latest
+                      - tab "People" [selected] [ref=e163] [cursor=pointer]:
+                        - generic [ref=e166]: People
+                      - tab "Media" [ref=e168] [cursor=pointer]:
+                        - generic [ref=e171]: Media
+                      - tab "Lists" [ref=e172] [cursor=pointer]:
+                        - generic [ref=e175]: Lists
+                    - generic:
+                      - button "Next" [disabled]:
+                        - generic:
+                          - img
+              - generic:
+                - generic:
+                  - status:
+                    - button:
+                      - generic:
+                        - img
+                        - generic: See new posts
+            - region "Search timeline" [ref=e177]:
+              - heading "Search timeline" [level=1] [ref=e178]
+              - 'generic "Timeline: Search timeline" [ref=e179]':
+                - generic [ref=e180]:
+                  - 'button "Soup for my Family 🥣 🧦 🤖 🫐 🌸 🌷 @soupformy_fam Following @soupformy_fam #MiddleCar #Lifestyle #influencer (Nobel Peace Prize Nominee) (Public Intellectual) (Political Analyst) (Certified Forklift Operator) (Superdelegate)" [ref=e184] [cursor=pointer]':
+                    - generic [ref=e185]:
+                      - link [ref=e195]:
+                        - /url: /soupformy_fam
+                      - generic [ref=e198]:
+                        - generic [ref=e199]:
+                          - generic [ref=e201]:
+                            - link "Soup for my Family 🥣 🧦 🤖 🫐 🌸 🌷" [ref=e203]:
+                              - /url: /soupformy_fam
+                              - generic [ref=e206]:
+                                - text: Soup for my Family
+                                - img "🥣" [ref=e207]
+                                - img "🧦" [ref=e208]
+                                - img "🤖" [ref=e209]
+                                - img "🫐" [ref=e210]
+                                - img "🌸" [ref=e211]
+                                - img "🌷" [ref=e212]
+                            - link "@soupformy_fam" [ref=e215]:
+                              - /url: /soupformy_fam
+                              - generic [ref=e217]: "@soupformy_fam"
+                          - button "Following @soupformy_fam" [ref=e219]:
+                            - generic [ref=e222]: Following
+                        - generic [ref=e223]:
+                          - link "#MiddleCar" [ref=e225]:
+                            - /url: /search?q=%23MiddleCar&src=hashtag_click
+                          - link "#Lifestyle" [ref=e227]:
+                            - /url: /search?q=%23Lifestyle&src=hashtag_click
+                          - link "#influencer" [ref=e229]:
+                            - /url: /search?q=%23influencer&src=hashtag_click
+                          - text: (Nobel Peace Prize Nominee) (Public Intellectual) (Political Analyst) (Certified Forklift Operator) (Superdelegate)
+                  - 'button "Center for Cooperative Media @CenterCoopMedia Follows you Following @CenterCoopMedia #CollaborativeJ from @MontclairStateU . Get the Daily News Roundup in your inbox: bit.ly/njnewsletter. Visit: collaborativejournalism.org" [ref=e233] [cursor=pointer]':
+                    - generic [ref=e234]:
+                      - link [ref=e244]:
+                        - /url: /CenterCoopMedia
+                      - generic [ref=e247]:
+                        - generic [ref=e248]:
+                          - generic [ref=e250]:
+                            - link "Center for Cooperative Media" [ref=e252]:
+                              - /url: /CenterCoopMedia
+                              - generic [ref=e255]: Center for Cooperative Media
+                            - generic [ref=e256]:
+                              - link "@CenterCoopMedia" [ref=e258]:
+                                - /url: /CenterCoopMedia
+                                - generic [ref=e260]: "@CenterCoopMedia"
+                              - generic [ref=e262]: Follows you
+                          - button "Following @CenterCoopMedia" [ref=e264]:
+                            - generic [ref=e267]: Following
+                        - generic [ref=e268]:
+                          - link "#CollaborativeJ" [ref=e270]:
+                            - /url: /search?q=%23CollaborativeJ&src=hashtag_click
+                          - text: from
+                          - link "@MontclairStateU" [ref=e273]:
+                            - /url: /MontclairStateU
+                          - text: ". Get the Daily News Roundup in your inbox:"
+                          - link "bit.ly/njnewsletter" [ref=e274]:
+                            - /url: https://t.co/HLMp4L2XZt
+                          - text: ". Visit:"
+                          - link "collaborativejournalism.org" [ref=e275]:
+                            - /url: https://t.co/cqS0TRJq4M
+                  - 'button "Reporters Committee for Freedom of the Press @rcfp Following @rcfp The Reporters Committee (RCFP) provides free legal help to journalists and protects their First Amendment rights. Legal Hotline: 800-336-4243 | hotline@rcfp.org" [ref=e279] [cursor=pointer]':
+                    - generic [ref=e280]:
+                      - link [ref=e290]:
+                        - /url: /rcfp
+                      - generic [ref=e293]:
+                        - generic [ref=e294]:
+                          - generic [ref=e296]:
+                            - link "Reporters Committee for Freedom of the Press" [ref=e298]:
+                              - /url: /rcfp
+                              - generic [ref=e301]: Reporters Committee for Freedom of the Press
+                            - link "@rcfp" [ref=e304]:
+                              - /url: /rcfp
+                              - generic [ref=e306]: "@rcfp"
+                          - button "Following @rcfp" [ref=e308]:
+                            - generic [ref=e311]: Following
+                        - generic [ref=e312]: "The Reporters Committee (RCFP) provides free legal help to journalists and protects their First Amendment rights. Legal Hotline: 800-336-4243 | hotline@rcfp.org"
+                  - button "Knight Center for Journalism in the Americas @KnightCenterUT Following @KnightCenterUT The Knight Center at UT Austin offers training, resources, news and information to journalists @LatAmJournalism @ISOJ2025" [ref=e316] [cursor=pointer]:
+                    - generic [ref=e317]:
+                      - link [ref=e327]:
+                        - /url: /KnightCenterUT
+                      - generic [ref=e330]:
+                        - generic [ref=e331]:
+                          - generic [ref=e333]:
+                            - link "Knight Center for Journalism in the Americas" [ref=e335]:
+                              - /url: /KnightCenterUT
+                              - generic [ref=e338]: Knight Center for Journalism in the Americas
+                            - link "@KnightCenterUT" [ref=e341]:
+                              - /url: /KnightCenterUT
+                              - generic [ref=e343]: "@KnightCenterUT"
+                          - button "Following @KnightCenterUT" [ref=e345]:
+                            - generic [ref=e348]: Following
+                        - generic [ref=e349]:
+                          - text: The Knight Center at UT Austin offers training, resources, news and information to journalists
+                          - link "@LatAmJournalism" [ref=e352]:
+                            - /url: /LatAmJournalism
+                          - link "@ISOJ2025" [ref=e355]:
+                            - /url: /ISOJ2025
+                  - button "The Institute for Independent Journalists @The_IIJ Following @The_IIJ Working to ensure financial and emotional sustainability for independent journalists of color since 2022. linktr.ee/theiij.com" [ref=e359] [cursor=pointer]:
+                    - generic [ref=e360]:
+                      - link [ref=e370]:
+                        - /url: /The_IIJ
+                      - generic [ref=e373]:
+                        - generic [ref=e374]:
+                          - generic [ref=e376]:
+                            - link "The Institute for Independent Journalists" [ref=e378]:
+                              - /url: /The_IIJ
+                              - generic [ref=e381]: The Institute for Independent Journalists
+                            - link "@The_IIJ" [ref=e384]:
+                              - /url: /The_IIJ
+                              - generic [ref=e386]: "@The_IIJ"
+                          - button "Following @The_IIJ" [ref=e388]:
+                            - generic [ref=e391]: Following
+                        - generic [ref=e392]:
+                          - text: Working to ensure financial and emotional sustainability for independent journalists of color since 2022.
+                          - link "linktr.ee/theiij.com" [ref=e393]:
+                            - /url: https://t.co/xLQVSkUhuF

@@ -1,0 +1,14 @@
+- generic [ref=e8]:
+  - generic [ref=e9]:
+    - main [ref=e10]
+    - navigation [ref=e27]:
+      - generic [ref=e28]:
+        - generic [ref=e29]:
+          - img [ref=e30]
+          - img [ref=e33]
+        - generic [ref=e35]:
+          - button "Create account" [ref=e36] [cursor=pointer]:
+            - generic [ref=e37]: Create account
+          - button "Sign in" [ref=e38] [cursor=pointer]:
+            - generic [ref=e39]: Sign in
+  - region "Notifications alt+T"

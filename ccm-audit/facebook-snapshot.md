@@ -1,0 +1,486 @@
+- generic [ref=e5]:
+  - banner:
+    - generic [ref=e6]:
+      - generic:
+        - generic:
+          - button [disabled]:
+            - img
+      - link "Facebook" [ref=e7] [cursor=pointer]:
+        - /url: /
+        - img [ref=e8]
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic:
+          - generic:
+            - generic:
+              - button:
+                - img
+      - generic [ref=e19]:
+        - generic:
+          - img
+        - combobox "Search Facebook" [ref=e20] [cursor=pointer]
+    - navigation "Facebook" [ref=e24]:
+      - list [ref=e25]:
+        - listitem [ref=e26]:
+          - link "Home" [ref=e29] [cursor=pointer]:
+            - /url: /
+            - img [ref=e31]
+        - listitem [ref=e33]:
+          - link "Reels" [ref=e36] [cursor=pointer]:
+            - /url: /reel/?s=tab
+            - img [ref=e38]
+        - listitem [ref=e41]:
+          - link "Marketplace" [ref=e44] [cursor=pointer]:
+            - /url: /marketplace/?ref=app_tab
+            - img [ref=e46]
+        - listitem [ref=e48]:
+          - link "Groups" [ref=e51] [cursor=pointer]:
+            - /url: /groups/
+            - img [ref=e53]
+        - listitem [ref=e55]:
+          - link "Gaming" [ref=e58] [cursor=pointer]:
+            - /url: /gaming/play/?store_visit_source=gaming_tab
+            - img [ref=e60]
+    - navigation "Account Controls and Settings" [ref=e64]:
+      - button "Facebook menu" [ref=e68] [cursor=pointer]:
+        - img [ref=e69]
+      - button "Messenger" [ref=e75] [cursor=pointer]:
+        - img [ref=e76]
+      - button "Notifications" [ref=e82] [cursor=pointer]:
+        - img [ref=e83]
+      - button "Your profile" [ref=e87] [cursor=pointer]:
+        - generic [ref=e88]:
+          - img "Your profile" [ref=e89]
+          - img [ref=e96]
+  - generic [ref=e103]:
+    - navigation "temp heading" [ref=e104]:
+      - generic [ref=e105]:
+        - generic [ref=e108]:
+          - heading "Manage Page" [level=1] [ref=e113]
+          - button "Hide menu" [ref=e117] [cursor=pointer]:
+            - img [ref=e118]
+        - generic [ref=e122]:
+          - button "Center for Cooperative Media Verified account" [ref=e127] [cursor=pointer]:
+            - img [ref=e130]
+            - heading "Center for Cooperative Media Verified account" [level=2] [ref=e134]:
+              - generic [ref=e136]: Center for Cooperative Media
+              - img "Verified account" [ref=e139]
+            - img [ref=e143]
+          - separator [ref=e145]
+          - generic [ref=e147]:
+            - button "Professional dashboard" [ref=e151] [cursor=pointer]:
+              - generic [ref=e154]:
+                - generic [ref=e159]: Professional dashboard
+                - img [ref=e163]
+            - button "Insights" [ref=e168] [cursor=pointer]:
+              - generic [ref=e171]:
+                - generic [ref=e176]: Insights
+                - img [ref=e180]
+            - link "Ad Center" [ref=e185] [cursor=pointer]:
+              - /url: /100063509863383/ad_center/?ref_source=www_profile_plus_left_nav_ad_center_button
+              - generic [ref=e193]: Ad Center
+            - link "Create ads" [ref=e197] [cursor=pointer]:
+              - /url: /ad_center/create/consolidatedad/?entry_point=www_pages_product_picker&page_id=147118852118516
+              - generic [ref=e205]: Create ads
+            - button "Boost Instagram post" [ref=e209] [cursor=pointer]:
+              - generic [ref=e212]:
+                - generic [ref=e217]: Boost Instagram post
+                - img [ref=e221]
+            - button "Settings" [ref=e226] [cursor=pointer]:
+              - generic [ref=e229]:
+                - generic [ref=e234]: Settings
+                - img [ref=e238]
+            - generic [ref=e242]:
+              - generic [ref=e247]:
+                - generic [ref=e250]:
+                  - heading "More tools" [level=2] [ref=e252]:
+                    - generic [ref=e254]: More tools
+                  - generic [ref=e259]:
+                    - generic [ref=e260]:
+                      - generic [ref=e261]: 32 action items
+                      - generic [ref=e262]: 20+
+                    - button "Collapse" [ref=e263] [cursor=pointer]:
+                      - img [ref=e264]
+                - generic [ref=e268]: Manage your business across Meta apps.
+              - generic [ref=e271]:
+                - link "Meta Verified" [ref=e275] [cursor=pointer]:
+                  - /url: https://business.facebook.com/latest/settings/mv4b/?nav_ref=mv4b_fb_profile_plus_nav_action_section&entry_point=mv4b_fb_profile_plus_nav_action_section&lp_entry_point=mv4b_fb_profile_plus_nav_action_section
+                  - generic [ref=e283]: Meta Verified
+                - link "Leads Center" [ref=e287] [cursor=pointer]:
+                  - /url: https://www.facebook.com/latest/leads_center?asset_id=147118852118516&nav_ref=manage_page_ap_plus_left_nav_leads_center_button
+                  - generic [ref=e290]:
+                    - generic [ref=e295]: Leads Center
+                    - img [ref=e299]
+                - link "Meta Business Suite notifications" [ref=e304] [cursor=pointer]:
+                  - /url: https://www.facebook.com/latest/?asset_id=147118852118516&nav_ref=manage_page_ap_plus_left_nav_mbs_button
+                  - generic [ref=e307]:
+                    - generic [ref=e313]:
+                      - generic [ref=e315]: Meta Business Suite
+                      - generic [ref=e320]:
+                        - generic [ref=e321]: notifications
+                        - generic [ref=e322]: "32"
+                    - img [ref=e326]
+                - button "Manus AI" [ref=e331] [cursor=pointer]:
+                  - generic [ref=e334]:
+                    - generic [ref=e339]: Manus AI
+                    - img [ref=e343]
+            - generic [ref=e350]:
+              - generic [ref=e355]: Switch into Center for Cooperative Media's Page to take more actions
+              - button "Switch" [ref=e357] [cursor=pointer]:
+                - generic [ref=e360]: Switch
+        - separator [ref=e362]
+        - button "Advertise" [ref=e364] [cursor=pointer]:
+          - generic [ref=e365]:
+            - img [ref=e366]
+            - generic [ref=e370]: Advertise
+    - main "temp heading" [ref=e371]:
+      - main [ref=e375]:
+        - generic [ref=e376]:
+          - link "View profile cover photo" [ref=e387] [cursor=pointer]:
+            - /url: https://www.facebook.com/photo/?fbid=1549178527209128&set=a.778796744247314
+          - generic [ref=e395]:
+            - button "Center for Cooperative Media" [ref=e398] [cursor=pointer]:
+              - img "Center for Cooperative Media" [ref=e400]
+            - generic [ref=e407]:
+              - heading "Center for Cooperative Media Verified account" [level=1] [ref=e412]:
+                - text: Center for Cooperative Media
+                - img "Verified account" [ref=e418]
+              - generic [ref=e422]:
+                - link "1.6K followers" [ref=e423] [cursor=pointer]:
+                  - /url: https://www.facebook.com/centerforcooperativemedia/followers/
+                  - strong [ref=e424]: 1.6K
+                  - text: followers
+                - text: •
+                - link "172 following" [ref=e425] [cursor=pointer]:
+                  - /url: https://www.facebook.com/centerforcooperativemedia/following/
+                  - strong [ref=e426]: "172"
+                  - text: following
+            - generic [ref=e430]:
+              - link "Sign Up" [ref=e433] [cursor=pointer]:
+                - /url: https://l.facebook.com/l.php?u=http%3A%2F%2Fmontclair.us5.list-manage.com%2Fsubscribe%3Fu%3D7f46611cb324e9e193acda7cc%26id%3Ddd61b54487%26fbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExaWJZd3N0SnVlUmlaMndjeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR7KTqEfFRdeKftIvMTeuDm8HZUC_6PkppgnEjRmVqfOo50dNuMXt7ALHpq-Hg_aem_sF7Qi7qzo9PwNtHeW_IkbA&h=AT7A64H1UHrntFhlYcOoJIznknooqWqtvBGM9m46nqPaJrjiF-jepg-6fPXrk76NZfCRwACHCj43FGzYCCrG7tt-7dbkGWw52-tE1d_5NCuwmOyZWZxzrEusC2dHDY4V2DtcJg
+                - generic [ref=e434]:
+                  - img [ref=e435]
+                  - generic [ref=e437]: Sign Up
+              - button "Following" [ref=e441] [cursor=pointer]:
+                - generic [ref=e442]:
+                  - img [ref=e443]
+                  - generic [ref=e445]: Following
+              - button "Message" [ref=e448] [cursor=pointer]:
+                - generic [ref=e449]:
+                  - img [ref=e450]
+                  - generic [ref=e452]: Message
+        - generic [ref=e459]:
+          - tablist [ref=e467]:
+            - generic:
+              - generic:
+                - generic [ref=e469]:
+                  - generic [ref=e470]: More
+                  - img [ref=e472]
+                - tab "Posts" [selected] [ref=e475] [cursor=pointer]:
+                  - generic [ref=e477]: Posts
+                - tab "About" [ref=e479] [cursor=pointer]:
+                  - generic [ref=e481]: About
+                - tab "Mentions" [ref=e483] [cursor=pointer]:
+                  - generic [ref=e485]: Mentions
+                - tab "Reviews" [ref=e487] [cursor=pointer]:
+                  - generic [ref=e489]: Reviews
+                - tab "Reels" [ref=e491] [cursor=pointer]:
+                  - generic [ref=e493]: Reels
+                - tab [disabled] [ref=e495] [cursor=pointer]:
+                  - generic [ref=e497]: Photos
+                - tab "More profile sections" [ref=e499] [cursor=pointer]:
+                  - generic [ref=e500]:
+                    - generic [ref=e501]: More
+                    - img [ref=e503]
+          - button "Profile settings see more options" [ref=e508] [cursor=pointer]:
+            - img [ref=e510]
+        - generic [ref=e514]:
+          - generic [ref=e522]:
+            - generic [ref=e528]: Switch into Center for Cooperative Media's Page to start managing it.
+            - button "Switch Now" [ref=e531] [cursor=pointer]:
+              - generic [ref=e534]: Switch Now
+          - generic [ref=e536]:
+            - generic [ref=e540]:
+              - generic [ref=e544]:
+                - heading "Intro" [level=2] [ref=e553]:
+                  - generic [ref=e555]: Intro
+                - generic [ref=e556]:
+                  - generic [ref=e560]: The mission of the Center for Cooperative Media is to grow and strengthen local journalism and, in do
+                  - list [ref=e563]:
+                    - button "Page · Media/news company" [ref=e571] [cursor=pointer]:
+                      - generic [ref=e572]:
+                        - strong [ref=e573]: Page
+                        - text: · Media/news company
+                    - button "1 Normal Ave, Montclair State University, Montclair, NJ, United States, New Jersey" [ref=e577] [cursor=pointer]:
+                      - generic [ref=e578]: 1 Normal Ave, Montclair State University, Montclair, NJ, United States, New Jersey
+                    - generic [ref=e584]: (973) 655-3879
+                    - generic [ref=e590]: info@centerforcooperativemedia.org
+                    - generic [ref=e594]:
+                      - link "centerforcooperativemedia.org" [ref=e595] [cursor=pointer]:
+                        - /url: https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.centerforcooperativemedia.org%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExaWJZd3N0SnVlUmlaMndjeXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5V7lpOgxwRPcvABuaz33sVTGxbhpk5hBA2AONUWKFkLQYy6T6cAoLE0zojUg_aem_EWT4Cux8OoSfRnS3LDaP2w&h=AT6-LCJD6a61hNsHZH20pbvVtEw5Lklz6ksvBq9p3QA8MNxROnglGX6aTn89OAaHCVrnpKtxyyLNL9Sa03zh0iuzBJXZz9AGgb3Bbo_DnuCHEfOROrFRfPkhD7TmYedlNFFIcw
+                        - generic [ref=e598]: centerforcooperativemedia.org
+                      - link "Promote website" [ref=e1518] [cursor=pointer]:
+                        - /url: /ad_center/create/consolidatedad/?entry_point=www_profile_plus_timeline_intro_section_website&page_id=147118852118516&so=eyJhZHNfbHdpX2dvYWwiOiJHRVRfV0VCU0lURV9WSVNJVE9SUyJ9
+                        - generic [ref=e1521]: Promote website
+                    - button "Closed now" [ref=e605] [cursor=pointer]:
+                      - generic [ref=e606]:
+                        - generic [ref=e607]: Closed now
+                        - img [ref=e609]
+                    - link "100% recommend (8 Reviews) More information about ratings" [ref=e614] [cursor=pointer]:
+                      - /url: https://www.facebook.com/centerforcooperativemedia/reviews
+                      - generic [ref=e617]:
+                        - text: 100% recommend (8 Reviews)
+                        - button "More information about ratings" [ref=e618]:
+                          - img [ref=e619]
+              - generic [ref=e624]:
+                - generic [ref=e631]:
+                  - heading "Photos" [level=2] [ref=e633]:
+                    - link "Photos" [ref=e636] [cursor=pointer]:
+                      - /url: https://www.facebook.com/centerforcooperativemedia/photos
+                  - link "See all photos" [ref=e641] [cursor=pointer]:
+                    - /url: https://www.facebook.com/centerforcooperativemedia/photos
+                    - generic [ref=e642]: See all photos
+                - generic [ref=e646]:
+                  - link [ref=e649] [cursor=pointer]:
+                    - /url: /photo/?fbid=1595425095917804&set=pb.100063509863383.-2207520000
+                  - link [ref=e654] [cursor=pointer]:
+                    - /url: /photo/?fbid=1582799240513723&set=pb.100063509863383.-2207520000
+                  - link [ref=e659] [cursor=pointer]:
+                    - /url: /photo/?fbid=1570470971746550&set=pb.100063509863383.-2207520000
+                  - link [ref=e664] [cursor=pointer]:
+                    - /url: /photo/?fbid=1557803729679941&set=pb.100063509863383.-2207520000
+                  - link [ref=e669] [cursor=pointer]:
+                    - /url: /photo/?fbid=1557500226376958&set=pb.100063509863383.-2207520000
+                  - link [ref=e674] [cursor=pointer]:
+                    - /url: /photo/?fbid=1549178527209128&set=pb.100063509863383.-2207520000
+                  - link [ref=e679] [cursor=pointer]:
+                    - /url: /photo/?fbid=1543910147735966&set=pb.100063509863383.-2207520000
+                  - link [ref=e684] [cursor=pointer]:
+                    - /url: /photo/?fbid=1537548551705459&set=pb.100063509863383.-2207520000
+                  - link [ref=e689] [cursor=pointer]:
+                    - /url: /photo/?fbid=1521421566651491&set=pb.100063509863383.-2207520000
+              - contentinfo "Facebook" [ref=e692]:
+                - list [ref=e694]:
+                  - listitem [ref=e695]:
+                    - link "Privacy" [ref=e696] [cursor=pointer]:
+                      - /url: /privacy/policy/?entry_point=comet_dropdown
+                    - generic [ref=e697]: ·
+                  - listitem [ref=e699]:
+                    - link "Consumer Health Privacy" [ref=e700] [cursor=pointer]:
+                      - /url: /privacy/policies/health/
+                    - generic [ref=e701]: ·
+                  - listitem [ref=e703]:
+                    - link "Terms" [ref=e704] [cursor=pointer]:
+                      - /url: /policies?ref=pf
+                    - generic [ref=e705]: ·
+                  - listitem [ref=e707]:
+                    - link "Advertising" [ref=e708] [cursor=pointer]:
+                      - /url: /business/
+                    - generic [ref=e709]: ·
+                  - listitem [ref=e711]:
+                    - link "Ad Choices" [ref=e712] [cursor=pointer]:
+                      - /url: /help/568137493302217
+                      - text: Ad Choices
+                      - img [ref=e714]
+                    - generic [ref=e717]: ·
+                  - listitem [ref=e719]:
+                    - link "Cookies" [ref=e720] [cursor=pointer]:
+                      - /url: /policies/cookies/
+                    - generic [ref=e721]: ·
+                  - listitem [ref=e723]:
+                    - button "More footer links" [ref=e724] [cursor=pointer]: More
+            - generic [ref=e725]:
+              - generic [ref=e730]:
+                - heading "Featured" [level=2] [ref=e736]:
+                  - generic [ref=e737]: Featured
+                - generic [ref=e741]:
+                  - generic:
+                    - button [disabled]:
+                      - img
+                  - generic [ref=e744]:
+                    - link "Center for Cooperative Media, view story Center for Cooperative Media Verified account p o e d s S t r o n 0 u 7 u g 6 0 f F 5 3 1 a 1 c 3 b 0 3 8 h c h 1 h u 3 3 3 m a i g 1 g 5 i 0 1 r 6 r 7 5 l y 5 e m Shared with Public 🎉 100 days until CJS2026! The 10th annual Collaborative Journalism Summit returns to Philadelphia May 14-15. Join us as we celebrate a decade of building a more collaborative news ecosystem. Visit summit.collaborativejournalism.org to learn more and get tickets TODAY!" [ref=e751] [cursor=pointer]:
+                      - /url: https://www.facebook.com/reel/1649546182699676/
+                      - generic [ref=e752]:
+                        - generic [ref=e753]:
+                          - link "Center for Cooperative Media, view story" [ref=e759]:
+                            - /url: /stories/106989054761423/UzpfSVNDOjk0MTI4NTgxODc3MTM5Mw==/?view_single=false&__tn__=%3C%3C
+                            - img "Center for Cooperative Media, view story" [ref=e761]
+                          - generic [ref=e773]:
+                            - heading "Center for Cooperative Media Verified account" [level=3] [ref=e778]:
+                              - generic [ref=e779]:
+                                - link "Center for Cooperative Media" [ref=e784]:
+                                  - /url: https://www.facebook.com/centerforcooperativemedia?__tn__=-UC
+                                  - generic [ref=e788]: Center for Cooperative Media
+                                - img "Verified account" [ref=e792]
+                            - generic [ref=e797]:
+                              - link "p o e d s S t r o n 0 u 7 u g 6 0 f F 5 3 1 a 1 c 3 b 0 3 8 h c h 1 h u 3 3 3 m a i g 1 g 5 i 0 1 r 6 r 7 5 l y 5 e m" [ref=e801]:
+                                - /url: "?__tn__=%2CO#?feb"
+                                - generic [ref=e804]:
+                                  - generic [ref=e805]: p
+                                  - generic [ref=e806]: o
+                                  - generic [ref=e807]: e
+                                  - generic [ref=e808]: d
+                                  - generic [ref=e809]: s
+                                  - generic [ref=e810]: S
+                                  - generic [ref=e811]: t
+                                  - generic [ref=e812]: r
+                                  - generic [ref=e813]: o
+                                  - generic [ref=e814]: "n"
+                                  - generic [ref=e815]: "0"
+                                  - generic [ref=e816]: u
+                                  - generic [ref=e818]: "7"
+                                  - generic [ref=e819]: u
+                                  - generic [ref=e820]: g
+                                  - generic [ref=e821]: "6"
+                                  - generic [ref=e822]: "0"
+                                  - generic [ref=e823]: f
+                                  - generic [ref=e824]: F
+                                  - generic [ref=e825]: "5"
+                                  - generic [ref=e826]: "3"
+                                  - generic [ref=e827]: "1"
+                                  - generic [ref=e828]: a
+                                  - generic [ref=e829]: "1"
+                                  - generic [ref=e830]: c
+                                  - generic [ref=e831]: "3"
+                                  - generic [ref=e832]: b
+                                  - generic [ref=e833]: "0"
+                                  - generic [ref=e834]: "3"
+                                  - generic [ref=e835]: "8"
+                                  - generic [ref=e836]: h
+                                  - generic [ref=e837]: c
+                                  - generic [ref=e838]: h
+                                  - generic [ref=e839]: "1"
+                                  - generic [ref=e840]: h
+                                  - generic [ref=e841]: u
+                                  - generic [ref=e842]: "3"
+                                  - generic [ref=e843]: "3"
+                                  - generic [ref=e844]: "3"
+                                  - generic [ref=e845]: m
+                                  - generic [ref=e846]: a
+                                  - generic [ref=e847]: i
+                                  - generic [ref=e848]: g
+                                  - generic [ref=e849]: "1"
+                                  - generic [ref=e850]: g
+                                  - generic [ref=e851]: "5"
+                                  - generic [ref=e852]: i
+                                  - generic [ref=e853]: "0"
+                                  - generic [ref=e854]: "1"
+                                  - generic [ref=e855]: r
+                                  - generic [ref=e856]: "6"
+                                  - generic [ref=e857]: r
+                                  - generic [ref=e858]: "7"
+                                  - generic [ref=e859]: "5"
+                                  - generic [ref=e860]: l
+                                  - generic [ref=e861]: "y"
+                                  - generic [ref=e862]: "5"
+                                  - generic [ref=e863]: e
+                                  - generic [ref=e864]: m
+                              - img "Shared with Public" [ref=e868]
+                        - generic [ref=e881]:
+                          - text: 🎉 100 days until CJS2026!
+                          - text: The 10th annual Collaborative Journalism Summit returns to Philadelphia May 14-15.
+                          - text: Join us as we celebrate a decade of building a more collaborative news ecosystem.
+                          - text: Visit summit.collaborativejournalism.org to learn more and get tickets TODAY!
+                    - 'link "Center for Cooperative Media, view story Center for Cooperative Media Verified account is at Temple University . p o e d s S t r o n 0 u 2 7 u g 6 0 f J 5 3 1 r 1 c 3 n 0 3 8 h c h 1 h a 3 3 1 m a i g 1 g 5 i 0 1 u 6 y 7 5 l 5 a m Shared with Public ✨ Join us May 14-15 in Philly for this year''s Collaborative Journalism Summit! It''s going to be an awesome event. This year, we''ll have an awards dinner and celebrate 10 years of collaboration. Also: Do you have a session to pitch? Send it in! More: summit.collaborativejournalism.org" [ref=e894] [cursor=pointer]':
+                      - /url: https://www.facebook.com/reel/850790631347803/
+                      - generic [ref=e895]:
+                        - generic [ref=e896]:
+                          - link "Center for Cooperative Media, view story" [ref=e902]:
+                            - /url: /stories/106989054761423/UzpfSVNDOjk0MTI4NTgxODc3MTM5Mw==/?view_single=false&__tn__=%3C%3C
+                            - img "Center for Cooperative Media, view story" [ref=e904]
+                          - generic [ref=e916]:
+                            - heading "Center for Cooperative Media Verified account is at Temple University ." [level=3] [ref=e921]:
+                              - generic [ref=e923]:
+                                - generic [ref=e927]:
+                                  - link "Center for Cooperative Media" [ref=e930]:
+                                    - /url: https://www.facebook.com/centerforcooperativemedia?__tn__=-]C
+                                  - img "Verified account" [ref=e936]
+                                - text: is at
+                                - link "Temple University" [ref=e945]:
+                                  - /url: https://www.facebook.com/templeu?__tn__=-]C
+                                - text: .
+                            - generic [ref=e948]:
+                              - link "p o e d s S t r o n 0 u 2 7 u g 6 0 f J 5 3 1 r 1 c 3 n 0 3 8 h c h 1 h a 3 3 1 m a i g 1 g 5 i 0 1 u 6 y 7 5 l 5 a m" [ref=e952]:
+                                - /url: "?__tn__=%2CO#?kea"
+                                - generic [ref=e955]:
+                                  - generic [ref=e956]: p
+                                  - generic [ref=e957]: o
+                                  - generic [ref=e958]: e
+                                  - generic [ref=e959]: d
+                                  - generic [ref=e960]: s
+                                  - generic [ref=e961]: S
+                                  - generic [ref=e962]: t
+                                  - generic [ref=e963]: r
+                                  - generic [ref=e964]: o
+                                  - generic [ref=e965]: "n"
+                                  - generic [ref=e966]: "0"
+                                  - generic [ref=e967]: u
+                                  - generic [ref=e968]: "2"
+                                  - generic [ref=e969]: "7"
+                                  - generic [ref=e970]: u
+                                  - generic [ref=e971]: g
+                                  - generic [ref=e972]: "6"
+                                  - generic [ref=e973]: "0"
+                                  - generic [ref=e974]: f
+                                  - generic [ref=e975]: J
+                                  - generic [ref=e976]: "5"
+                                  - generic [ref=e977]: "3"
+                                  - generic [ref=e978]: "1"
+                                  - generic [ref=e979]: r
+                                  - generic [ref=e980]: "1"
+                                  - generic [ref=e981]: c
+                                  - generic [ref=e982]: "3"
+                                  - generic [ref=e983]: "n"
+                                  - generic [ref=e984]: "0"
+                                  - generic [ref=e985]: "3"
+                                  - generic [ref=e986]: "8"
+                                  - generic [ref=e987]: h
+                                  - generic [ref=e988]: c
+                                  - generic [ref=e989]: h
+                                  - generic [ref=e990]: "1"
+                                  - generic [ref=e991]: h
+                                  - generic [ref=e992]: a
+                                  - generic [ref=e993]: "3"
+                                  - generic [ref=e994]: "3"
+                                  - generic [ref=e995]: "1"
+                                  - generic [ref=e996]: m
+                                  - generic [ref=e997]: a
+                                  - generic [ref=e998]: i
+                                  - generic [ref=e999]: g
+                                  - generic [ref=e1000]: "1"
+                                  - generic [ref=e1001]: g
+                                  - generic [ref=e1002]: "5"
+                                  - generic [ref=e1003]: i
+                                  - generic [ref=e1004]: "0"
+                                  - generic [ref=e1005]: "1"
+                                  - generic [ref=e1006]: u
+                                  - generic [ref=e1007]: "6"
+                                  - generic [ref=e1008]: "y"
+                                  - generic [ref=e1009]: "7"
+                                  - generic [ref=e1010]: "5"
+                                  - generic [ref=e1011]: l
+                                  - generic [ref=e1013]: "5"
+                                  - generic [ref=e1014]: a
+                                  - generic [ref=e1015]: m
+                              - img "Shared with Public" [ref=e1019]
+                        - generic [ref=e1032]:
+                          - text: ✨ Join us May 14-15 in Philly for this year's Collaborative Journalism Summit!
+                          - text: It's going to be an awesome event. This year, we'll have an awards dinner and celebrate 10 years of collaboration.
+                          - text: "Also: Do you have a session to pitch? Send it in!"
+                          - text: "More: summit.collaborativejournalism.org"
+                  - button "Next items" [ref=e1043] [cursor=pointer]:
+                    - img [ref=e1044]
+              - generic [ref=e1049]:
+                - heading "Posts" [level=2] [ref=e1053]:
+                  - generic [ref=e1054]: Posts
+                - button "Filters" [ref=e1058] [cursor=pointer]:
+                  - generic [ref=e1059]:
+                    - img [ref=e1060]
+                    - generic [ref=e1063]: Filters
+              - generic [ref=e1490]:
+                - article [ref=e1491]:
+                  - status "Loading..." [ref=e1492]
+                - article [ref=e1504]:
+                  - status "Loading..." [ref=e1505]
+  - button "New message" [ref=e1524] [cursor=pointer]:
+    - img [ref=e1525]

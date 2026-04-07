@@ -1,0 +1,296 @@
+- generic [active] [ref=e1]:
+  - navigation "Skip links":
+    - link "Skip to Content" [ref=e2] [cursor=pointer]:
+      - /url: "#primary"
+    - link "Skip to navigation" [ref=e3] [cursor=pointer]:
+      - /url: "#ut-mobile-nav"
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - generic:
+        - generic:
+          - generic [ref=e7]:
+            - link "welcome to montclair state university" [ref=e8] [cursor=pointer]:
+              - /url: https://montclair.edu
+              - img "welcome to montclair state university" [ref=e10]
+            - link "Center for Cooperative Media" [ref=e12] [cursor=pointer]:
+              - /url: /
+              - generic [ref=e13]: Center for Cooperative Media
+          - text: • • • • •
+          - generic [ref=e15] [cursor=pointer]:
+            - button "" [ref=e17]
+            - text: MENU
+  - generic [ref=e21]:
+    - link "Skip to Content ⇣" [ref=e23] [cursor=pointer]:
+      - /url: "#contentstart"
+    - generic [ref=e25]:
+      - generic:
+        - generic:
+          - generic:
+            - img
+      - heading "Center for Cooperative Media" [level=1] [ref=e327]:
+        - generic [ref=e328]: Center for
+        - text: Cooperative Media
+      - generic [ref=e330]: The mission of the Center for Cooperative Media is to grow and strengthen local journalism and support an informed society in New Jersey and beyond.
+      - link "About the Center" [ref=e332] [cursor=pointer]:
+        - /url: /about/
+  - generic [ref=e34]:
+    - generic [ref=e38]:
+      - heading "The Latest" [level=2] [ref=e42]
+      - heading "Recent posts, stories, and projects from the Center for Cooperative Media." [level=3] [ref=e45]
+    - generic [ref=e46]:
+      - generic [ref=e51]:
+        - link [ref=e52] [cursor=pointer]:
+          - /url: qa-paulina-velasco-on-the-value-of-building-collaborations-between-local-journalists-in-rural-areas
+          - img [ref=e53]
+        - 'heading "Q&A: Paulina Velasco on the value of building collaborations between local journalists in rural areas" [level=3] [ref=e54]':
+          - 'link "Q&A: Paulina Velasco on the value of building collaborations between local journalists in rural areas" [ref=e55] [cursor=pointer]':
+            - /url: qa-paulina-velasco-on-the-value-of-building-collaborations-between-local-journalists-in-rural-areas
+        - text: 03-03-2026
+      - generic [ref=e58]:
+        - banner [ref=e60]:
+          - heading "Previous Posts" [level=2] [ref=e61]
+        - generic [ref=e63]:
+          - generic [ref=e64]:
+            - listitem [ref=e65]:
+              - generic [ref=e66]: 02-20-2026
+              - heading "Announcing the 2026 Excellence in Community Media awardees" [level=3] [ref=e67]:
+                - link "Announcing the 2026 Excellence in Community Media awardees" [ref=e68] [cursor=pointer]:
+                  - /url: announcing-the-2026-excellence-in-community-media-awardees
+            - listitem [ref=e69]:
+              - generic [ref=e70]: 02-17-2026
+              - heading "This small New Jersey newsroom treated its voter guide like a service product" [level=3] [ref=e71]:
+                - link "This small New Jersey newsroom treated its voter guide like a service product" [ref=e72] [cursor=pointer]:
+                  - /url: this-small-new-jersey-newsroom-treated-its-voter-guide-like-a-service-product
+            - listitem [ref=e73]:
+              - generic [ref=e74]: 02-09-2026
+              - heading "Center for Cooperative Media welcomes Noelle Swan as civic science media collaborations manager" [level=3] [ref=e75]:
+                - link "Center for Cooperative Media welcomes Noelle Swan as civic science media collaborations manager" [ref=e76] [cursor=pointer]:
+                  - /url: center-for-cooperative-media-welcomes-noelle-swan-as-civic-science-media-collaborations-manager
+            - listitem [ref=e77]:
+              - generic [ref=e78]: 01-30-2026
+              - heading "Collaborative Journalism Resource Hub announces support for four new collaboratives" [level=3] [ref=e79]:
+                - link "Collaborative Journalism Resource Hub announces support for four new collaboratives" [ref=e80] [cursor=pointer]:
+                  - /url: collaborative-journalism-resource-hub-announces-support-for-four-new-collaboratives
+            - listitem [ref=e81]:
+              - generic [ref=e82]: 01-21-2026
+              - heading "Registration and session pitches are now open for the 2026 Collaborative Journalism Summit" [level=3] [ref=e83]:
+                - link "Registration and session pitches are now open for the 2026 Collaborative Journalism Summit" [ref=e84] [cursor=pointer]:
+                  - /url: registration-and-session-pitches-are-now-open-for-the-2026-collaborative-journalism-summit
+            - listitem [ref=e85]:
+              - generic [ref=e86]: 01-21-2026
+              - 'heading "Q&A: Maria Arce on how Documented collaborates to strengthen journalism for immigrants" [level=3] [ref=e87]':
+                - 'link "Q&A: Maria Arce on how Documented collaborates to strengthen journalism for immigrants" [ref=e88] [cursor=pointer]':
+                  - /url: qa-maria-arce-on-how-documented-collaborates-to-strengthen-journalism-for-immigrants
+            - listitem [ref=e89]:
+              - generic [ref=e90]: 12-18-2025
+              - heading "Here are the top 10 journalism collaborations of 2025" [level=3] [ref=e91]:
+                - link "Here are the top 10 journalism collaborations of 2025" [ref=e92] [cursor=pointer]:
+                  - /url: here-are-the-top-10-journalism-collaborations-of-2025
+            - listitem [ref=e93]:
+              - generic [ref=e94]: 12-04-2025
+              - 'heading "Democracy Day 2025: How journalists respond to democracy under threat" [level=3] [ref=e95]':
+                - 'link "Democracy Day 2025: How journalists respond to democracy under threat" [ref=e96] [cursor=pointer]':
+                  - /url: democracy-day-2025-how-journalists-respond-to-democracy-under-threat
+            - listitem [ref=e97]:
+              - generic [ref=e98]: 12-02-2025
+              - heading "As immigration fears rise, editor Kleibeel Marcano sees vital role for his newspaper Reporte Hispano" [level=3] [ref=e99]:
+                - link "As immigration fears rise, editor Kleibeel Marcano sees vital role for his newspaper Reporte Hispano" [ref=e100] [cursor=pointer]:
+                  - /url: as-immigration-fears-rise-editor-kleibeel-marcano-sees-vital-role-for-his-newspaper-reporte-hispano
+          - link "More posts" [ref=e101] [cursor=pointer]:
+            - /url: https://centerforcooperativemedia.org/archive/page/2/
+    - generic [ref=e109]:
+      - generic [ref=e112]:
+        - link [ref=e115] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/njnewscommons
+        - banner [ref=e118]:
+          - heading "NJ News Commons" [level=2] [ref=e119]
+          - paragraph [ref=e121]: Join our flagship member network of NJ-based news and information providers.
+        - paragraph [ref=e124]:
+          - link "Learn more" [ref=e125] [cursor=pointer]:
+            - /url: /njnewscommons
+      - generic [ref=e128]:
+        - link [ref=e131] [cursor=pointer]:
+          - /url: https://collaborativejournalism.org/
+        - banner [ref=e134]:
+          - heading "Collaborative Journalism" [level=2] [ref=e135]
+          - paragraph [ref=e137]: Resources, research, and information about collaborative journalism.
+        - paragraph [ref=e140]:
+          - link "Learn more" [ref=e141] [cursor=pointer]:
+            - /url: https://collaborativejournalism.org/
+      - generic [ref=e144]:
+        - generic [ref=e145]:
+          - link [ref=e147] [cursor=pointer]:
+            - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+          - link:
+            - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+        - link [ref=e149] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+          - banner [ref=e151]:
+            - heading "Research program" [level=2] [ref=e152]
+            - paragraph [ref=e154]: Read our original research and reports by our research coordinator, Hanna Siemazko.
+        - generic [ref=e155]:
+          - link:
+            - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+          - generic [ref=e156]:
+            - link:
+              - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+            - paragraph [ref=e157]:
+              - link:
+                - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+              - link "Learn more" [ref=e158] [cursor=pointer]:
+                - /url: https://centerforcooperativemedia.org/portfolio-item/research/
+    - generic [ref=e159]:
+      - generic [ref=e162]:
+        - link [ref=e165] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/resources
+        - banner [ref=e168]:
+          - heading "Resources + tools" [level=2] [ref=e169]
+          - paragraph [ref=e171]: We’ve put together a list of useful tools and resources for all your local news needs.
+        - paragraph [ref=e174]:
+          - link "Learn more" [ref=e175] [cursor=pointer]:
+            - /url: /resources
+      - generic [ref=e178]:
+        - link [ref=e181] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/content
+        - banner [ref=e184]:
+          - heading "Newsletters + blogs" [level=2] [ref=e185]
+          - paragraph [ref=e187]: Make sure to subscribe to our daily, weekly, and monthly newsletters.
+        - paragraph [ref=e190]:
+          - link "Learn more" [ref=e191] [cursor=pointer]:
+            - /url: /content
+      - generic [ref=e194]:
+        - link [ref=e197] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/training/
+        - banner [ref=e200]:
+          - heading "Programs + initiatives" [level=2] [ref=e201]
+          - paragraph [ref=e203]: See the list of trainings, workshops, and events we offer our members.
+        - paragraph [ref=e206]:
+          - link "Learn more" [ref=e207] [cursor=pointer]:
+            - /url: /training/
+    - generic [ref=e228]:
+      - heading "👋 Want to speak with someone at the Center directly?" [level=1] [ref=e229]:
+        - link "👋 Want to speak with someone at the Center directly?" [ref=e230] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/about/our-team/
+          - img "👋" [ref=e231]
+          - text: Want to speak with someone at the Center directly?
+      - link:
+        - /url: https://centerforcooperativemedia.org/about/our-team/
+      - heading "📅 Click here to choose a time and book a session!" [level=2] [ref=e232]:
+        - link "📅 Click here to choose a time and book a session!" [ref=e233] [cursor=pointer]:
+          - /url: https://centerforcooperativemedia.org/about/our-team/
+          - img "📅" [ref=e234]
+          - text: Click here to choose a time and book a session!
+  - contentinfo [ref=e242]:
+    - generic [ref=e244]:
+      - list [ref=e246]:
+        - listitem [ref=e247]:
+          - generic [ref=e248]:
+            - list [ref=e249]:
+              - listitem [ref=e250]:
+                - img "map marker" [ref=e251]
+                - 'link "Address: 1 Normal Avenue, Montclair, New Jersey 0 7 0 4 3" [ref=e252] [cursor=pointer]':
+                  - /url: http://www.montclair.edu/about-montclair/directions/
+                  - text: 1 Normal Ave. Montclair, NJ 07043
+              - listitem [ref=e253]:
+                - img "phone marker" [ref=e254]
+                - 'link "Phone number: 9 7 3 6 5 5 4000" [ref=e255] [cursor=pointer]':
+                  - /url: tel:9736554000
+                  - text: 973-655-4000
+              - listitem [ref=e256]:
+                - img "campus marker" [ref=e257]
+                - link "Campus Map" [ref=e258] [cursor=pointer]:
+                  - /url: http://www.montclair.edu/campus-map/
+            - list:
+              - listitem:
+                - link "twitter marker":
+                  - /url: https://twitter.com/montclairstateu
+                  - img "twitter marker" [ref=e259] [cursor=pointer]
+              - listitem:
+                - link "facebook marker":
+                  - /url: https://www.facebook.com/MontclairStateUniversity
+                  - img "facebook marker" [ref=e260] [cursor=pointer]
+              - listitem:
+                - link "youtube marker":
+                  - /url: https://www.youtube.com/montclairstate
+                  - img "youtube marker" [ref=e261] [cursor=pointer]
+      - list [ref=e263]:
+        - listitem [ref=e264]:
+          - generic [ref=e265]: School of Comm. and Media
+          - list [ref=e267]:
+            - listitem [ref=e268]:
+              - link "About Us" [ref=e269] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/about-us/
+            - listitem [ref=e270]:
+              - link "Degrees and Programs" [ref=e271] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/academic-programs/
+            - listitem [ref=e272]:
+              - link "Admission" [ref=e273] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/admission/
+            - listitem [ref=e274]:
+              - link "Center for Cooperative Media" [ref=e275] [cursor=pointer]:
+                - /url: https://centerforcooperativemedia.org/
+            - listitem [ref=e276]:
+              - link "Events" [ref=e277] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/events/
+            - listitem [ref=e278]:
+              - link "Facilities" [ref=e279] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/facilities/
+            - listitem [ref=e280]:
+              - link "Professional Development & Guides" [ref=e281] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/professional-development-and-guides/
+            - listitem [ref=e282]:
+              - link "Public Speaking Resource Center" [ref=e283] [cursor=pointer]:
+                - /url: https://www.montclair.edu/school-of-communication-and-media/public-speaking-resource-center/
+            - listitem [ref=e284]:
+              - link "Alumni" [ref=e285] [cursor=pointer]:
+                - /url: https://www.montclair.edu/arts/alumni/
+      - list [ref=e287]:
+        - listitem [ref=e288]:
+          - generic [ref=e289]: Montclair State U.
+          - list [ref=e291]:
+            - listitem [ref=e292]:
+              - link "About Montclair" [ref=e293] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/
+            - listitem [ref=e294]:
+              - link "Academics" [ref=e295] [cursor=pointer]:
+                - /url: https://www.montclair.edu/academics/
+            - listitem [ref=e296]:
+              - link "Admissions" [ref=e297] [cursor=pointer]:
+                - /url: https://www.montclair.edu/university-admissions/
+            - listitem [ref=e298]:
+              - link "Athletics" [ref=e299] [cursor=pointer]:
+                - /url: https://montclairathletics.com/
+            - listitem [ref=e300]:
+              - link "Campus Life" [ref=e301] [cursor=pointer]:
+                - /url: https://www.montclair.edu/campus-life/
+            - listitem [ref=e302]:
+              - link "Giving" [ref=e303] [cursor=pointer]:
+                - /url: https://www.montclair.edu/giving/
+      - list [ref=e305]:
+        - listitem [ref=e306]:
+          - generic [ref=e307]: MSU Policies
+          - list [ref=e309]:
+            - listitem [ref=e310]:
+              - link "Copyright" [ref=e311] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/copyright-and-disclaimer/
+            - listitem [ref=e312]:
+              - link "Disclaimer" [ref=e313] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/copyright-and-disclaimer/
+            - listitem [ref=e314]:
+              - link "Title IX Information" [ref=e315] [cursor=pointer]:
+                - /url: https://www.montclair.edu/sexual-harassment/sexual-harassment-complaint-procedures-students/
+            - listitem [ref=e316]:
+              - link "Emergency / Plans" [ref=e317] [cursor=pointer]:
+                - /url: https://www.montclair.edu/emergency/
+            - listitem [ref=e318]:
+              - link "Notice of Non-Discrimination" [ref=e319] [cursor=pointer]:
+                - /url: https://www.montclair.edu/about-montclair/notice-of-non-discrimination/
+            - listitem [ref=e320]:
+              - link "Annual Security Report" [ref=e321] [cursor=pointer]:
+                - /url: https://www.montclair.edu/university-police/annual-security-report/
+            - listitem [ref=e322]:
+              - link "Middle States Accreditation" [ref=e323] [cursor=pointer]:
+                - /url: https://www.montclair.edu/middle-states/
+            - listitem [ref=e324]:
+              - link "Website Privacy Notice" [ref=e325] [cursor=pointer]:
+                - /url: https://www.montclair.edu/privacy-notice/
