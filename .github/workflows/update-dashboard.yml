@@ -57,12 +57,25 @@ jobs:
         run: pip install yt-dlp
 
       - name: Check for new videos (metadata only)
-        run: python mamdani-video-analysis/scripts/check-new-videos.py
+        id: check
+        run: |
+          # Snapshot video count before checking
+          BEFORE=$(python -c "import json; print(len(json.load(open('mamdani-video-analysis/metadata.json'))['videos']))")
+          python mamdani-video-analysis/scripts/check-new-videos.py
+          AFTER=$(python -c "import json; print(len(json.load(open('mamdani-video-analysis/metadata.json'))['videos']))")
+          if [ "$BEFORE" != "$AFTER" ]; then
+            echo "new_videos=true" >> "$GITHUB_OUTPUT"
+            echo "Found $(( AFTER - BEFORE )) new video(s)"
+          else
+            echo "new_videos=false" >> "$GITHUB_OUTPUT"
+            echo "No new videos"
+          fi
 
       - name: Rebuild content analysis
         run: python mamdani-video-analysis/scripts/04-build-analysis.py
 
-      - name: Create PR if there are changes
+      - name: Create PR if new videos were found
+        if: steps.check.outputs.new_videos == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
