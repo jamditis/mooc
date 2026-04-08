@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-04-07T00:00:00Z",
+  "checked_at": "2026-04-08T00:00:00Z",
   "platforms_checked": ["youtube", "tiktok"],
   "known_video_count": 76,
   "known_latest_by_platform": {
@@ -15,34 +15,65 @@
       "id": "q3zQK3hNUn0",
       "title": "Mayor-elect Zohran Mamdani Announces Appointment",
       "url": "https://www.youtube.com/watch?v=q3zQK3hNUn0",
-      "estimated_date": "2025-12-22",
-      "note": "Present in channel RSS feed but absent from metadata.json"
+      "estimated_date": "2025-12-22"
     },
     {
       "platform": "youtube",
       "id": "BwwkOgkvpWY",
       "title": "Mayor-elect Zohran Mamdani Announces Two New Appointments",
       "url": "https://www.youtube.com/watch?v=BwwkOgkvpWY",
-      "estimated_date": "2025-12-19",
-      "note": "Present in channel RSS feed but absent from metadata.json"
+      "estimated_date": "2025-12-19"
     },
     {
       "platform": "youtube",
       "id": "C76NdKNOcTA",
       "title": "Zohran Mamdani for NYC is live!",
       "url": "https://www.youtube.com/watch?v=C76NdKNOcTA",
-      "estimated_date": "2025-12-18",
-      "note": "Present in channel RSS feed but absent from metadata.json"
+      "estimated_date": "2025-12-18"
     },
     {
       "platform": "youtube",
       "id": "gs1E-ya_7B4",
       "title": "Zohran Mamdani Appointment Announcement",
       "url": "https://www.youtube.com/watch?v=gs1E-ya_7B4",
-      "estimated_date": "2025-12-17",
-      "note": "Present in channel RSS feed but absent from metadata.json"
+      "estimated_date": "2025-12-17"
+    },
+    {
+      "platform": "tiktok",
+      "id": "7582300484862577950",
+      "title": "Make space in the briefing room.",
+      "url": "https://www.tiktok.com/@zohran_k_mamdani/video/7582300484862577950",
+      "estimated_date": "2025-12-10"
+    },
+    {
+      "platform": "tiktok",
+      "id": "7581960998404230431",
+      "title": "One last time. Transition2025.com",
+      "url": "https://www.tiktok.com/@zohran_k_mamdani/video/7581960998404230431",
+      "estimated_date": "2025-12-09"
+    },
+    {
+      "platform": "tiktok",
+      "id": "7581160636374076702",
+      "title": "Know your rights. Protect your neighbors. New York is — and always will be — a city for all immigrants.",
+      "url": "https://www.tiktok.com/@zohran_k_mamdani/video/7581160636374076702",
+      "estimated_date": "2025-12-07"
+    },
+    {
+      "platform": "tiktok",
+      "id": "7580923952164277535",
+      "title": "Every country playing in NYC next summer already has a community that calls New York home.",
+      "url": "https://www.tiktok.com/@zohran_k_mamdani/video/7580923952164277535",
+      "estimated_date": "2025-12-07"
+    },
+    {
+      "platform": "tiktok",
+      "id": "7580045729591299358",
+      "title": "More than 2,500 Starbucks workers are on strike. They're demanding dignity: fair pay, safe conditions, a contract that respects their labor.",
+      "url": "https://www.tiktok.com/@zohran_k_mamdani/video/7580045729591299358",
+      "estimated_date": "2025-12-04"
     }
   ],
   "status": "new_content",
-  "notes": "YouTube RSS feed (channel ID: UCkIS8hii93hF2q0TQFD-sEQ) returned 15 videos; 4 are absent from metadata.json. All 4 are from December 2025 — they are gaps in the original data collection, not recently posted content. The most recent YouTube upload remains 2026-01-01 (s_hR4A1_sew), which is already in metadata. TikTok was not accessible via direct page fetch (JavaScript-rendered content). Web search found no TikTok video IDs newer than 7610918633673379103 (2026-02-25, already in metadata). News coverage from March 31, 2026 references Mamdani reinstating TikTok for NYC government accounts (@nycmayor), but no new videos were confirmed on his personal account (@zohran_k_mamdani). YouTube RSS method used: https://www.youtube.com/feeds/videos.xml?channel_id=UCkIS8hii93hF2q0TQFD-sEQ"
+  "notes": "9 videos found absent from metadata.json across both platforms. All are historical gaps from Dec 2025 — no content newer than 2026-01-01 (the most recent YouTube upload already in metadata). YouTube: yt-dlp returned 15 videos matching known IDs; RSS feed (channel UCkIS8hii93hF2q0TQFD-sEQ) surfaced 4 appointment announcement videos from Dec 2025 not captured in original scrape. TikTok: yt-dlp playlist failed due to user-ID extraction error; workaround used numeric uploader_id (7182182367388730414) to retrieve 20 videos — 5 are new to metadata, all Dec 2025. TikTok dates estimated from video ID timestamp encoding (id >> 32 = Unix timestamp)."
 }
