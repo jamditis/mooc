@@ -3,11 +3,11 @@
   "total_duration_seconds": 18426.519,
   "total_duration_minutes": 307.1,
   "platforms": [
-    "instagram",
     "youtube",
-    "tiktok",
+    "facebook",
     "twitter",
-    "facebook"
+    "tiktok",
+    "instagram"
   ],
   "platform_count": 5,
   "top_topics": [
